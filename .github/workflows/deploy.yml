@@ -3,7 +3,6 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['web-dist/**', '.github/workflows/deploy.yml']
 permissions:
   contents: read
   pages: write
