@@ -11,8 +11,8 @@ const initialURL=new URL(location.href),view=ref(initialURL.searchParams.get('vi
 const mobilePlayer=ref(false),display=ref('cover'),modal=ref(''),dialog=ref(),modalTrackId=ref(null),formName=ref(''),formError=ref(''),editId=ref(null),draft=ref(''),draftRaw=ref(''),lyricsDoc=ref({}),lyricsLoading=ref(false),lyricError=ref(''),downloaded=ref([]),downloading=ref(new Set()),importFile=ref(),pendingImport=ref(null),installPrompt=ref(null),native=isNative()
 const status=reactive({trackId:null,playing:false,loading:false,time:0,duration:0,error:''}),sleepMinutes=ref(0),online=ref(navigator.onLine),now=ref(Date.now())
 let engine,saveTimer,toastTimer,lyricAbort,persistTick=0,clockTimer
-const autoCaching=new Set()
-async function cachePlayed(id){if(native||autoCaching.has(id)||downloaded.value.includes(id)||!navigator.serviceWorker?.controller)return;const track=trackMap.value[id];if(!track)return;autoCaching.add(id);try{await downloadTrack(track);downloaded.value=await downloadedIds(catalog.value)}catch{autoCaching.delete(id)}}
+const autoCaching=new Set(),autoCacheFailures=new Map()
+async function cachePlayed(id){if(native||Date.now()-(autoCacheFailures.get(id)||0)<60000||autoCaching.has(id)||downloaded.value.includes(id)||!navigator.serviceWorker?.controller)return;const track=trackMap.value[id];if(!track)return;autoCaching.add(id);try{await downloadTrack(track);downloaded.value=await downloadedIds(catalog.value)}catch{autoCaching.delete(id);autoCacheFailures.set(id,Date.now())}}
 const trackMap=computed(()=>Object.fromEntries(catalog.value.map(t=>[t.id,t])))
 const current=computed(()=>trackMap.value[status.trackId]||catalog.value.find(t=>t.number===295)||catalog.value[0])
 const selected=computed(()=>trackMap.value[modalTrackId.value]||current.value)

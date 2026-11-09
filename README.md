@@ -13,7 +13,7 @@ bash scripts/build-android.sh
 ```
 
 - 网页入口 `/player/`，相对路径部署。编译产物 `dist/`，部署仓库中保存为 `web-dist/`。
-- 音频仅使用链接。原 MP3 保留在原仓库的固定提交 `1abd9c7`，新版构建不复制音乐；避免把1.5GB音乐再次装进Pages产物或APK。
+- 音频仅使用链接。优先从同域 `/songs/assets/media/` 读取，固定提交 `1abd9c7` 的 Raw 链接只作备用；新版构建不复制音乐；避免把1.5GB音乐再次装进Pages产物或APK。
 - 浏览器播放自动完整缓存；Service Worker支持Range。安卓ExoPlayer使用512MB LRU缓存，已缓存区间自动复用，更多菜单下载可补齐整曲。
 - 个人歌单、收藏、皮肤、音量、播放进度、歌词偏移与纠错保存在本机；支持JSON导入导出，不包含音乐文件。
 - 原生后台服务持有ExoPlayer，独立于WebView；支持媒体通知、锁屏、媒体键、音频焦点与拔耳机暂停。
