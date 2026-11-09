@@ -32,7 +32,7 @@ public class PlaybackService extends Service {
   player=new ExoPlayer.Builder(this).setMediaSourceFactory(new DefaultMediaSourceFactory(AudioCache.factory(this))).build();
   player.setAudioAttributes(new androidx.media3.common.AudioAttributes.Builder().setUsage(C.USAGE_MEDIA).setContentType(C.AUDIO_CONTENT_TYPE_MUSIC).build(),true);
   player.setHandleAudioBecomingNoisy(true);player.setWakeMode(C.WAKE_MODE_LOCAL);
-  try{android.graphics.BitmapFactory.Options options=new android.graphics.BitmapFactory.Options();options.inSampleSize=4;cover=android.graphics.BitmapFactory.decodeStream(getAssets().open("web/artwork/meadow.png"),null,options);}catch(Exception ignored){}
+  try{android.graphics.BitmapFactory.Options options=new android.graphics.BitmapFactory.Options();options.inSampleSize=4;cover=android.graphics.BitmapFactory.decodeStream(getAssets().open("web/artwork/meadow.webp"),null,options);}catch(Exception ignored){}
   session=new MediaSession(this,"PraisePlayer");session.setCallback(new MediaSession.Callback(){
    @Override public void onPlay(){startForegroundPlayback();player.play();}
    @Override public void onPause(){player.pause();}

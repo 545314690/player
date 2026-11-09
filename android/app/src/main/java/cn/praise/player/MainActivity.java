@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
    @Override public WebResourceResponse shouldInterceptRequest(WebView v,WebResourceRequest r){if(!r.getUrl().toString().startsWith(ORIGIN))return null;
     String path=r.getUrl().getPath();if(path==null||path.equals("/"))path="/index.html";
     if(path.contains(".."))return new WebResourceResponse("text/plain","UTF-8",403,"Forbidden",Map.of(),new ByteArrayInputStream(new byte[0]));
-    try{String mime=path.endsWith(".js")?"application/javascript":path.endsWith(".css")?"text/css":path.endsWith(".json")||path.endsWith(".webmanifest")?"application/json":path.endsWith(".png")?"image/png":path.endsWith(".svg")?"image/svg+xml":"text/html";
+    try{String mime=path.endsWith(".js")?"application/javascript":path.endsWith(".css")?"text/css":path.endsWith(".json")||path.endsWith(".webmanifest")?"application/json":path.endsWith(".webp")?"image/webp":path.endsWith(".png")?"image/png":path.endsWith(".svg")?"image/svg+xml":"text/html";
      Map<String,String> headers=new HashMap<>();headers.put("Access-Control-Allow-Origin",ORIGIN.substring(0,ORIGIN.length()-1));headers.put("Content-Security-Policy","default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self' https:; media-src https: blob:; frame-src 'none'; object-src 'none'");
      return new WebResourceResponse(mime,"UTF-8",200,"OK",headers,getAssets().open("web"+path));
     }catch(IOException e){return new WebResourceResponse("text/plain","UTF-8",404,"Not Found",Map.of(),new ByteArrayInputStream(new byte[0]));}

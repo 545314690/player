@@ -47,7 +47,7 @@ for row in rows:
  if uncertain:issues.append({'id':ident,'song':title,'issue':'疑似识别错误，待逐句复核','lines':uncertain})
  suffix=re.sub(r'^\d+[.\-、_\s]*','',pathlib.Path(name).stem)
  variant=suffix if normalize(suffix)!=normalize(title) else ''
- tracks.append({'id':ident,'number':int(row['number']),'title':title,'variant':variant,'artist':'赞美诗集','letter':row.get('letter',''),'src':'https://zm.ysaw.top/songs/assets/media/'+urllib.parse.quote(name,safe=''),'file':name,'cover':'artwork/meadow.png','texts':canonical,'reviewNeeded':uncertain>0,'available':audio_local.exists()})
+ tracks.append({'id':ident,'number':int(row['number']),'title':title,'variant':variant,'artist':'赞美诗集','letter':row.get('letter',''),'src':'https://zm.ysaw.top/songs/assets/media/'+urllib.parse.quote(name,safe=''),'file':name,'cover':'artwork/meadow.webp','texts':canonical,'reviewNeeded':uncertain>0,'available':audio_local.exists()})
  (ROOT/'static/library'/f'{ident}.json').write_text(json.dumps({'lrc':'\n'.join(fixed),'original':original,'canonical':canonical,'reviewNeeded':uncertain>0},ensure_ascii=False))
 (ROOT/'static/library/catalog.json').write_text(json.dumps(tracks,ensure_ascii=False))
 report={'source':str(SOURCE),'tracks':len(tracks),'numbers':len(set(t['number'] for t in tracks)),'repairs':len(repairs),'reviewNeededTracks':sum(t['reviewNeeded'] for t in tracks),'missingAudio':sum(not t['available'] for t in tracks),'changes':repairs,'issues':issues}

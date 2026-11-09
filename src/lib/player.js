@@ -16,7 +16,7 @@ export function createPlayer(onState, onTrack, onError) {
   const nativeTracks=tracks=>JSON.stringify(tracks.map(({id,title,src,artist})=>({id,title,src,artist})))
   const updateMetadata=track=>{
     if (!('mediaSession' in navigator)) return
-    navigator.mediaSession.metadata=new MediaMetadata({title:track.title,artist:track.artist,album:'赞美诗集',artwork:[{src:new URL(track.cover,document.baseURI).href,sizes:'1254x1254',type:'image/png'}]})
+    navigator.mediaSession.metadata=new MediaMetadata({title:track.title,artist:track.artist,album:'赞美诗集',artwork:[{src:new URL(track.cover,document.baseURI).href,sizes:'768x768',type:'image/webp'}]})
   }
   function clearStall(){clearTimeout(stalledTimer)}
   function failed(){clearStall();emit({playing:false,loading:false,error:'音频加载失败，已尝试主线路和备用线路。请点击重试。'});onError(state.error)}

@@ -3,7 +3,7 @@ import {createHash} from 'node:crypto'
 import {byteRange} from '../src/lib/range.js'
 import {sameAudioFile} from '../src/lib/audio-sources.js'
 const all=await readdir('dist',{recursive:true})
-const paths=all.filter(p=>/\.(?:html|js|css|json|png|svg|webmanifest)$/.test(p)&&p!=='sw.js'&&!p.startsWith('audio/')).map(p=>'./'+p)
+const paths=all.filter(p=>/\.(?:html|js|css|json|png|webp|svg|webmanifest)$/.test(p)&&p!=='sw.js'&&p!=='artwork/meadow.png'&&!p.startsWith('audio/')).map(p=>'./'+p)
 const hash=createHash('sha256');for(const p of paths)hash.update(await readFile('dist/'+p.slice(2)))
 const version=hash.digest('hex').slice(0,12)
 const sw=`const SHELL='praise-shell-${version}', AUDIO='praise-audio-v1';
