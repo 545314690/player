@@ -14,3 +14,6 @@
 .sync-note{font-size:10px;line-height:1.7;color:var(--faint);padding-top:10px;text-align:center;flex-shrink:0}.sync-note button{text-decoration:underline;padding:0 4px;font-size:10px}
 
 .brand small{white-space:nowrap;font-size:9px;letter-spacing:0}.lyrics-scroll{mask-image:linear-gradient(transparent,#000 22px,#000 calc(100% - 22px),transparent)}
+
+.apk-download{border-color:var(--accent);color:var(--accent-ink)}.apk-download:hover{background:var(--accent-soft)}
+@media(max-width:600px){.topbar .install-button{display:none}.apk-download{min-height:34px;padding:6px 10px;font-size:11px}.topbar-actions{gap:6px}.setting-row>span{min-width:0}}
