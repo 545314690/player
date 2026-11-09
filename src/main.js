@@ -1,8 +1,5 @@
-import Vue from 'vue'
+import {createApp} from 'vue'
 import App from './App.vue'
-
-Vue.config.productionTip = false
-
-new Vue({
-  render: h => h(App),
-}).$mount('#app')
+import './style.css'
+createApp(App).mount('#app')
+if ('serviceWorker' in navigator && !window.PraiseAndroid && import.meta.env.PROD) navigator.serviceWorker.register('./sw.js').catch(()=>{})

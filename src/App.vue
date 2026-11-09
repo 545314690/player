@@ -1,203 +1,170 @@
-<template>
-  <div id="app">
-    <div class="container">
-<!--      <svg data-v-2cb57da0="" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 340.000000 250.000000" preserveAspectRatio="xMidYMid meet" color-interpolation-filters="sRGB" style="margin: auto;"><rect data-v-2cb57da0="" x="0" y="0" width="100%" height="100%" fill="#FFC120" fill-opacity="1" class="background"></rect> <rect data-v-2cb57da0="" x="0" y="0" width="100%" height="100%" fill="url(#watermark)" fill-opacity="1" class="watermarklayer"></rect> <g data-v-2cb57da0="" fill="#feffff" class="bordersvg b-d1" transform="translate(90.28999328613281,83.6050033569336)"><polyline stroke="#feffff" stroke-width="3" fill-opacity="0" fill="#FFC120" points="79.71000671386719,20 79.71000671386719,10 0,0 0,82.78999710083008 79.71000671386719,72.78999710083008 79.71000671386719,62.78999710083008"></polyline> <g transform="translate(0,20)"><g><rect data-gra="graph-name-bg" stroke-width="2" class="i-icon-bg" x="0" y="0" width="159.42001342773438" height="42.78999710083008" fill-opacity="0"></rect> &lt;!&ndash;&ndash;&gt; &lt;!&ndash;&ndash;&gt; </g> <g transform="translate(10,3)"><g data-gra="path-name" fill-rule="" class="tp-name"><g transform="scale(1)"><g><path d="M5.4-40.69L47.26-40.69 45.37-25.74 41.6-23.27 44.72-20.73 42.84-8.26Q42.38-6.37 41.08-5.13 39.78-3.9 37.9-3.9L37.9-3.9 2.93-3.9 7.28-38.22 5.4-40.69ZM34.13-34.45L19.18-34.45 18.53-26.39 32.89-26.39 34.13-34.45ZM32.24-20.15L17.29-20.15 16.05-10.14 31.01-10.14 32.24-20.15ZM56.23-40.69L93.02-40.69 92.43-34.45 69.94-34.45 68.7-23.86 89.31-23.86 88.66-17.62 67.47-17.62 65.59-3.9 53.1-3.9 58.11-38.22 56.23-40.69ZM102.38-3.9L102.38-3.9Q101.47-3.9 100.69-4.23 99.91-4.55 99.35-5.13 98.8-5.72 98.61-6.53 98.41-7.35 98.67-8.26L98.67-8.26 103.03-40.69 142.35-40.69 141.7-34.45 114.27-34.45 111.15-10.14 135.46-10.14 138.58-12.61 137.35-3.9 102.38-3.9Z" transform="translate(-2.930000066757202, 40.689998626708984)"></path></g> &lt;!&ndash;&ndash;&gt; &lt;!&ndash;&ndash;&gt; &lt;!&ndash;&ndash;&gt; &lt;!&ndash;&ndash;&gt; &lt;!&ndash;&ndash;&gt; &lt;!&ndash;&ndash;&gt; &lt;!&ndash;&ndash;&gt;</g></g> &lt;!&ndash;&ndash;&gt;</g></g></g><defs v-gra="od"></defs></svg>-->
-      <aplayer
-        autoplay
-        shuffle
-        theme="pic"
-        :controls=true
-        repeat="list"
-        show-lrc
-        listFolded
-        listMaxHeight="300"
-        :muted.sync="muted"
-        :volume.sync="volume"
-        :music='music'
-        :list='list'
-        ref="aplayer"
-      />
-      <div class="mylrc">
-        <span style="float: right;cursor: pointer" @click="showLrc=!showLrc" :title="showLrc?'静止':'滚动'">
-<!--          <svg width="24" height="24" viewBox="0 0 16 16"><path :fill="showLrc?'#ffffff':'#ccc'" fill-rule="evenodd" d="M10 2a2 2 0 1 0-4 0a2 2 0 0 0 4 0Zm1.78 8.841a.75.75 0 0 1-1.06 0l-1.97-1.97v6.379a.75.75 0 0 1-1.5 0V8.871l-1.97 1.97a.75.75 0 1 1-1.06-1.06l3.25-3.25L8 6l.53.53l3.25 3.25a.75.75 0 0 1 0 1.061Z" clip-rule="evenodd"/></svg>-->
-          <svg width="24" height="24" viewBox="0 0 2048 2048"><path :fill="showLrc?'#ffffff':'#ccc'" d="M1024 219L429 813l-90-90l685-686l685 686l-90 90l-595-594zm0 1610l595-594l90 90l-685 686l-685-686l90-90l595 594z"/></svg>
-        </span>
-        <slot name="display" :current-music="currentMusic" :play-stat="playStat">
-          <lyrics :current-music="currentMusic" :play-stat="playStat" v-if="showLrc"/>
-        </slot>
+<script setup>
+import {ref,reactive,computed,watch,onMounted,onBeforeUnmount,nextTick} from 'vue'
+import Icon from './components/Icon.vue'
+import Lyrics from './components/Lyrics.vue'
+import {parseLrc,serializeLrc,activeLine,formatTime} from './lib/lyrics.js'
+import {loadState,saveState,exportBackup,importBackup} from './lib/storage.js'
+import {createPlayer,isNative} from './lib/player.js'
+import {downloadedIds,downloadTrack,removeDownload} from './lib/offline.js'
+const data=reactive(loadState()),catalog=ref([]),loading=ref(true),loadError=ref(''),notice=ref(''),persistenceError=ref('')
+const initialURL=new URL(location.href),view=ref(initialURL.searchParams.get('view')||'library'),query=ref(initialURL.searchParams.get('q')||''),pageSize=ref(30),sort=ref('number'),searchInput=ref()
+const mobilePlayer=ref(false),display=ref('cover'),modal=ref(''),dialog=ref(),modalTrackId=ref(null),formName=ref(''),formError=ref(''),editId=ref(null),draft=ref(''),draftRaw=ref(''),lyricsDoc=ref({}),lyricsLoading=ref(false),lyricError=ref(''),downloaded=ref([]),downloading=ref(new Set()),importFile=ref(),pendingImport=ref(null),installPrompt=ref(null),native=isNative()
+const status=reactive({trackId:null,playing:false,loading:false,time:0,duration:0,error:''}),sleepMinutes=ref(0),online=ref(navigator.onLine),now=ref(Date.now())
+let engine,saveTimer,toastTimer,lyricAbort,persistTick=0,clockTimer
+const autoCaching=new Set()
+async function cachePlayed(id){if(native||autoCaching.has(id)||downloaded.value.includes(id)||!navigator.serviceWorker?.controller)return;const track=trackMap.value[id];if(!track)return;autoCaching.add(id);try{await downloadTrack(track);downloaded.value=await downloadedIds(catalog.value)}catch{autoCaching.delete(id)}}
+const trackMap=computed(()=>Object.fromEntries(catalog.value.map(t=>[t.id,t])))
+const current=computed(()=>trackMap.value[status.trackId]||catalog.value.find(t=>t.number===295)||catalog.value[0])
+const selected=computed(()=>trackMap.value[modalTrackId.value]||current.value)
+const activePlaylist=computed(()=>data.playlists.find(p=>'playlist:'+p.id===view.value))
+const viewTitle=computed(()=>({library:'曲库',favorites:'我的收藏',recent:'最近播放',offline:'离线歌曲',mine:'我的音乐',settings:'设置'}[view.value]||activePlaylist.value?.name||'曲库'))
+const filtered=computed(()=>{
+ let rows=catalog.value
+ if(view.value==='favorites')rows=data.favorites.map(id=>trackMap.value[id]).filter(Boolean)
+ else if(view.value==='recent')rows=data.recent.map(id=>trackMap.value[id]).filter(Boolean)
+ else if(view.value==='offline')rows=rows.filter(t=>downloaded.value.includes(t.id))
+ else if(activePlaylist.value)rows=activePlaylist.value.tracks.map(id=>trackMap.value[id]).filter(Boolean)
+ const q=query.value.trim().toLowerCase()
+ if(q)rows=rows.filter(t=>`${t.number} ${t.title} ${t.variant} ${t.texts.join(' ')}`.toLowerCase().includes(q))
+ if(view.value==='library'||view.value==='favorites')rows=[...rows].sort(sort.value==='title'?(a,b)=>a.title.localeCompare(b.title,'zh-CN'):(a,b)=>a.number-b.number)
+ return rows
+})
+const visible=computed(()=>filtered.value.slice(0,pageSize.value))
+const queue=computed(()=>data.playback.queue.map(id=>trackMap.value[id]).filter(Boolean))
+const nextTrack=computed(()=>{const i=queue.value.findIndex(t=>t.id===current.value?.id);return queue.value.length?queue.value[(i+1)%queue.value.length]:null})
+const offset=computed(()=>data.offsets[current.value?.id]||0)
+const lyricLines=computed(()=>parseLrc(data.corrections[current.value?.id]??lyricsDoc.value.lrc??''))
+const hasCorrection=computed(()=>Object.hasOwn(data.corrections,current.value?.id))
+const currentLine=computed(()=>activeLine(lyricLines.value,status.time,offset.value))
+const previewLines=computed(()=>{if(currentLine.value<0)return current.value?.texts.slice(0,3).map(text=>({text}))||[];const i=Math.max(0,currentLine.value);return lyricLines.value.length?lyricLines.value.slice(i,i+3):current.value?.texts.slice(0,3).map(text=>({text}))||[]})
+const repeatLabel=computed(()=>({list:'列表循环',one:'单曲循环',off:'顺序播放'}[data.settings.repeat]))
+const themes=[{id:'black',name:'静夜黑',hint:'深色 · 柔绿与金色',color:'#b7cdb5'},{id:'green',name:'青绿色',hint:'白底 · 青绿点缀',color:'#12865b'},{id:'pink',name:'玫粉色',hint:'白底 · 玫粉点缀',color:'#c73770'},{id:'white',name:'纯白色',hint:'白底 · 深灰控件',color:'#252b31'}]
+function toast(text){notice.value=text;clearTimeout(toastTimer);toastTimer=setTimeout(()=>notice.value='',3500)}
+function save(){try{saveState(data);persistenceError.value=''}catch{persistenceError.value='本机存储空间不足，修改暂未保存。请导出备份。'}}
+watch(data,()=>{clearTimeout(saveTimer);saveTimer=setTimeout(save,200)},{deep:true})
+watch(()=>data.settings.theme,theme=>{document.documentElement.dataset.theme=theme;if(native)window.PraiseAndroid.setTheme(theme);document.querySelector('meta[name="theme-color"]').content=theme==='black'?'#171b19':'#ffffff'},{immediate:true})
+watch(()=>data.settings.volume,v=>engine?.volume(v))
+watch(()=>[data.settings.repeat,data.settings.shuffle],()=>engine?.mode(data.settings.repeat,data.settings.shuffle))
+watch([view,query,sort],()=>{pageSize.value=30;const url=new URL(location.href);url.searchParams.set('view',view.value);query.value?url.searchParams.set('q',query.value):url.searchParams.delete('q');history.replaceState({},'',url)})
+watch(()=>current.value?.id,async id=>{
+ if(!id)return
+ lyricAbort?.abort();lyricAbort=new AbortController();const controller=lyricAbort
+ lyricsLoading.value=true;lyricError.value='';lyricsDoc.value={}
+ try{const r=await fetch(`./library/${id}.json`,{signal:controller.signal});if(!r.ok)throw Error();const doc=await r.json();if(!controller.signal.aborted){lyricsDoc.value=doc;lyricsLoading.value=false;if(native){try{const remote=await fetch('https://zm.ysaw.top/player/library/'+id+'.json',{signal:controller.signal});if(remote.ok){const published=await remote.json();if(published.revision&&published.lrc!==undefined&&!controller.signal.aborted)lyricsDoc.value=published}}catch{}}}}
+ catch(e){if(e.name!=='AbortError'){lyricError.value='歌词加载失败，可重试或查看完整文本。'}}finally{if(!controller.signal.aborted)lyricsLoading.value=false}
+},{immediate:true})
+function navigate(dest){view.value=dest;query.value='';mobilePlayer.value=false}
+function favorite(id=current.value?.id){if(!id)return;const i=data.favorites.indexOf(id);if(i>=0){data.favorites.splice(i,1);toast('已取消收藏')}else{data.favorites.push(id);toast('已加入收藏')}}
+function play(track,tracks=filtered.value){if(!track)return;const all=tracks.length?tracks:[track];data.playback.queue=all.map(t=>t.id);engine.load(all,track.id);mobilePlayer.value=true}
+function toggle(){if(!status.trackId&&current.value)play(current.value,catalog.value);else engine?.toggle()}
+function toggleMode(){const modes=['list','one','off'];data.settings.repeat=modes[(modes.indexOf(data.settings.repeat)+1)%3];toast(repeatLabel.value)}
+function open(kind,track=null){modalTrackId.value=track?.id||current.value?.id;formError.value='';modal.value=kind;nextTick(()=>{if(!dialog.value.open)dialog.value.showModal()})}
+function close(){modal.value='';dialog.value?.close();formError.value=''}
+function newPlaylist(){formName.value='';editId.value=null;open('playlist-name')}
+function renamePlaylist(){editId.value=activePlaylist.value.id;formName.value=activePlaylist.value.name;open('playlist-name')}
+function savePlaylist(){const name=formName.value.trim();if(!name){formError.value='请输入歌单名称。';return}if(data.playlists.some(p=>p.name===name&&p.id!==editId.value)){formError.value='已有同名歌单，请换一个名称。';return}if(editId.value){data.playlists.find(p=>p.id===editId.value).name=name}else{const id=crypto.randomUUID();data.playlists.push({id,name,tracks:[]});view.value='playlist:'+id}close();toast('歌单已保存到本机')}
+function addToPlaylist(p){const id=selected.value.id;if(!p.tracks.includes(id)){p.tracks.push(id);toast('已加入「'+p.name+'」')}else toast('这首歌已在歌单中');close()}
+function removeFromPlaylist(track){activePlaylist.value.tracks=activePlaylist.value.tracks.filter(id=>id!==track.id);close();toast('已移出歌单，歌曲仍在曲库中')}
+function reorder(id,direction){const list=activePlaylist.value?.tracks;const i=list?.indexOf(id),j=i+direction;if(list&&j>=0&&j<list.length){[list[i],list[j]]=[list[j],list[i]]}}
+function enqueue(track){let ids=[...data.playback.queue];if(!ids.length){play(track,[track]);close();return}ids=ids.filter(id=>id!==track.id);const i=ids.indexOf(current.value.id);ids.splice(i+1,0,track.id);data.playback.queue=ids;engine.replaceQueue(queue.value);close();toast('已设为下一首')}
+function removeQueue(id){if(id===current.value.id){toast('正在播放的歌曲暂不能移出队列');return}data.playback.queue=data.playback.queue.filter(x=>x!==id);engine.replaceQueue(queue.value)}
+async function download(track=selected.value){if(!track||downloading.value.has(track.id))return;downloading.value.add(track.id);close();toast('开始下载「'+track.title+'」');try{await downloadTrack(track);downloaded.value=await downloadedIds(catalog.value);toast('已下载，可离线播放')}catch(e){toast(e.message||'下载失败，请检查网络与存储空间。')}finally{downloading.value.delete(track.id)}}
+async function removeOffline(track){try{await removeDownload(track);downloaded.value=await downloadedIds(catalog.value);close();toast('已移除离线音频，收藏和歌单保留')}catch{toast('移除失败，请重试')}}
+function openEditor(){draftRaw.value=data.corrections[current.value.id]??lyricsDoc.value.lrc??'';draft.value=draftRaw.value;open('lyrics-edit')}
+function saveLyrics(){const lines=parseLrc(draft.value);if(!lines.length){formError.value='请保留 [分:秒.百分秒] 时间标记，至少填写一句同步歌词。';return}data.corrections[current.value.id]=serializeLrc(lines);close();toast('歌词修改已保存到本机')}
+function restoreLyrics(){delete data.corrections[current.value.id];close();toast('已恢复导入的歌词')}
+function setOffset(delta){const id=current.value.id;data.offsets[id]=Math.round(Math.max(-60,Math.min(60,offset.value+delta))*10)/10}
+function sleep(minutes){sleepMinutes.value=minutes;engine.sleep(minutes);close();toast(minutes?'将在 '+minutes+' 分钟后暂停播放':'已取消定时关闭')}
+function exportData(){const text=exportBackup(data);if(native){window.PraiseAndroid.exportBackup(text);return}const url=URL.createObjectURL(new Blob([text],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='赞美诗备份-'+new Date().toISOString().slice(0,10)+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),5000);toast('已导出歌单、收藏与设置')}
+async function prepareImport(event){const f=event.target.files?.[0];if(!f)return;try{if(f.size>5000000)throw Error('备份文件过大。');pendingImport.value=importBackup(await f.text());open('import-confirm')}catch(e){toast(e.message?.startsWith('备份')?e.message:'无法读取备份，请选择本应用导出的 JSON 文件。')}finally{event.target.value=''}}
+function applyImport(){engine.pause();Object.assign(data,pendingImport.value);const restored=queue.value.length?queue.value:catalog.value;engine.load(restored,data.playback.trackId||restored[0]?.id,data.playback.position,false);engine.volume(data.settings.volume);engine.mode(data.settings.repeat,data.settings.shuffle);close();save();toast('备份已导入')}
+async function install(){if(installPrompt.value){await installPrompt.value.prompt();installPrompt.value=null}else open('install')}
+function onInstall(e){e.preventDefault();installPrompt.value=e}
+function onNetwork(){online.value=navigator.onLine}
+function onKey(e){if(e.code!=='Space'||modal.value||/INPUT|TEXTAREA|BUTTON|SELECT/.test(e.target.tagName))return;e.preventDefault();toggle()}
+function onLeave(){data.playback.position=status.time;save()}
+async function loadCatalog(){loading.value=true;loadError.value='';try{const r=await fetch('./library/catalog.json');if(!r.ok)throw Error();catalog.value=await r.json();downloaded.value=await downloadedIds(catalog.value)
+ const valid=new Set(catalog.value.map(t=>t.id));data.playback.queue=data.playback.queue.filter(id=>valid.has(id));if(!data.playback.queue.length)data.playback.queue=catalog.value.map(t=>t.id)
+ const id=valid.has(data.playback.trackId)?data.playback.trackId:catalog.value.find(t=>t.number===295)?.id
+ if(!native||!JSON.parse(window.PraiseAndroid.getState()).trackId)engine.load(queue.value,id,data.playback.position,false)
+}catch{loadError.value='曲库加载失败，请检查网络后重试。'}finally{loading.value=false}}
+onMounted(()=>{engine=createPlayer(s=>{Object.assign(status,s);if(s.playing&&s.trackId){cachePlayed(s.trackId);if(data.recent[0]!==s.trackId)data.recent=[s.trackId,...data.recent.filter(x=>x!==s.trackId)].slice(0,60)}if(!s.playing||Date.now()-persistTick>5000){data.playback.position=s.time;persistTick=Date.now()}},id=>{data.playback.trackId=id},toast);engine.volume(data.settings.volume);engine.mode(data.settings.repeat,data.settings.shuffle);loadCatalog();window.addEventListener('beforeinstallprompt',onInstall);window.addEventListener('online',onNetwork);window.addEventListener('offline',onNetwork);window.addEventListener('keydown',onKey);window.addEventListener('pagehide',onLeave);window.praiseHandleBack=()=>{if(modal.value){close();return true}if(mobilePlayer.value){mobilePlayer.value=false;return true}if(view.value!=='library'){navigate('library');return true}return false};if(native)clockTimer=setInterval(async()=>{downloaded.value=await downloadedIds(catalog.value)},4000)})
+onBeforeUnmount(()=>{engine?.destroy();lyricAbort?.abort();clearTimeout(saveTimer);clearInterval(clockTimer);window.removeEventListener('keydown',onKey);window.removeEventListener('beforeinstallprompt',onInstall);window.removeEventListener('online',onNetwork);window.removeEventListener('offline',onNetwork);window.removeEventListener('pagehide',onLeave)})
+</script>
 
-        <div v-if="!showLrc">
-          <p v-for="(text, index) in texts" :key="index">
-            {{text}}
-          </p>
-        </div>
+<template>
+  <div class="app-shell" :class="{'player-open':mobilePlayer}">
+    <aside class="sidebar">
+      <a class="brand" href="./" @click.prevent="navigate('library')"><span class="brand-icon"><Icon name="AudioLines" :size="23"/></span><span>赞美诗<small>让熟悉的旋律陪伴你</small></span></a>
+      <div class="nav-label">音乐资料库</div>
+      <nav aria-label="主导航"><button v-for="item in [{id:'library',label:'曲库',icon:'Disc3'},{id:'favorites',label:'我的收藏',icon:'Heart'},{id:'recent',label:'最近播放',icon:'History'},{id:'offline',label:'离线歌曲',icon:'Download'}]" :key="item.id" :class="{active:view===item.id}" @click="navigate(item.id)"><Icon :name="item.icon"/><span>{{item.label}}</span><small v-if="item.id==='favorites'&&data.favorites.length">{{data.favorites.length}}</small></button></nav>
+      <div class="nav-label playlist-label">我的歌单<button class="icon-button small" aria-label="新建歌单" title="新建歌单" @click="newPlaylist"><Icon name="Plus" :size="17"/></button></div>
+      <nav aria-label="我的歌单"><button v-for="p in data.playlists" :key="p.id" :class="{active:view==='playlist:'+p.id}" @click="navigate('playlist:'+p.id)"><Icon name="ListMusic" :size="18"/><span>{{p.name}}</span><small>{{p.tracks.length}}</small></button></nav>
+      <p v-if="!data.playlists.length" class="sidebar-hint">把喜欢的诗歌<br>整理成自己的歌单。</p>
+      <div class="sidebar-bottom"><button :class="{active:view==='settings'}" @click="navigate('settings')"><Icon name="Settings2" :size="19"/>外观与设置</button><small><span class="local-dot"></span>个人数据保存在本机</small></div>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar"><span class="mobile-brand"><Icon name="AudioLines" :size="20"/>赞美诗</span><div class="breadcrumb">我的音乐 <Icon name="ChevronRight" :size="14"/> {{viewTitle}}</div><div class="topbar-actions"><span v-if="!online" class="offline-indicator"><Icon name="WifiOff" :size="15"/>离线</span><button v-if="!native" class="quiet-button install-button" @click="install"><Icon name="MonitorDown" :size="16"/>安装应用</button><button class="icon-button mobile-settings" title="设置" aria-label="设置" @click="navigate('settings')"><Icon name="Settings2"/></button></div></header>
+      <div v-if="persistenceError" class="error-banner" role="alert">{{persistenceError}}<button @click="exportData">导出备份</button></div>
+      <div v-if="loading" class="empty"><Icon class="spin" name="LoaderCircle" :size="28"/><p>正在加载曲库…</p></div>
+      <div v-else-if="loadError" class="empty"><Icon name="WifiOff" :size="30"/><p>{{loadError}}</p><button class="primary-button" @click="loadCatalog">重新加载</button></div>
+      <template v-else>
+        <section v-if="view==='settings'" class="settings-page content-padding">
+          <div class="page-heading"><div><span class="eyebrow">留住你的聆听习惯</span><h1>外观与设置</h1></div></div>
+          <section class="settings-section"><h2>播放器皮肤</h2><p>选择喜欢的颜色，切换后自动保存。</p><div class="theme-grid"><button v-for="theme in themes" :key="theme.id" class="theme-tile" :class="[{selected:data.settings.theme===theme.id},theme.id]" :aria-pressed="data.settings.theme===theme.id" @click="data.settings.theme=theme.id"><span class="theme-preview"><span></span><i :style="{background:theme.color}"></i><b :style="{background:theme.color}"></b></span><span class="theme-name">{{theme.name}}<Icon v-if="data.settings.theme===theme.id" name="CircleCheck" :size="17"/></span><small>{{theme.hint}}</small></button></div></section>
+          <section class="settings-section"><h2>歌词与播放</h2><label class="setting-row" for="font-size"><span>歌词字号<small>默认为适中字号</small></span><div class="slider-setting"><input id="font-size" v-model.number="data.settings.fontSize" type="range" min="14" max="24" step="1"><output>{{data.settings.fontSize}} px</output></div></label><label class="setting-row" for="volume"><span>播放音量</span><div class="slider-setting"><input id="volume" v-model.number="data.settings.volume" type="range" min="0" max="1" step="0.05"><output>{{Math.round(data.settings.volume*100)}}%</output></div></label><button class="setting-row" @click="open('sleep')"><span>定时关闭<small>到时暂停音乐</small></span><span>{{sleepMinutes?sleepMinutes+' 分钟':'未开启'}}<Icon name="ChevronRight" :size="17"/></span></button></section>
+          <section class="settings-section"><h2>本地数据</h2><p class="helper-text">播放时自动缓存音乐，下次优先读取本地。安卓安装包不包含音频，首次播放通过链接读取。</p><button class="setting-row" @click="exportData"><span><Icon name="Upload"/>导出备份<small>收藏、歌单、设置和歌词修改</small></span><Icon name="ChevronRight" :size="18"/></button><button class="setting-row" @click="importFile.click()"><span><Icon name="Download"/>导入备份<small>恢复本机数据，或在 PWA 与 APK 之间迁移</small></span><Icon name="ChevronRight" :size="18"/></button><button class="setting-row" @click="navigate('offline')"><span><Icon name="HardDrive"/>离线歌曲</span><span>{{downloaded.length}} 首<Icon name="ChevronRight" :size="17"/></span></button><p class="helper-text">备份不包含音频。PWA 与安卓应用分别保存数据，清除应用数据或卸载前请先导出备份。</p></section>
+          <div class="about"><Icon name="AudioLines" :size="23"/><span>赞美诗<small>本地音乐播放器 · 1.0.0</small></span></div>
+        </section>
+        <section v-else-if="view==='mine'" class="content-padding mine-page"><div class="page-heading"><h1>我的音乐</h1><button class="icon-button" aria-label="打开设置" @click="navigate('settings')"><Icon name="Settings2"/></button></div><div class="mine-shortcuts"><button @click="navigate('favorites')"><Icon name="Heart"/><strong>我的收藏</strong><small>{{data.favorites.length}} 首</small></button><button @click="navigate('recent')"><Icon name="History"/><strong>最近播放</strong><small>{{data.recent.length}} 首</small></button><button @click="navigate('offline')"><Icon name="Download"/><strong>离线歌曲</strong><small>{{downloaded.length}} 首</small></button><button @click="navigate('settings')"><Icon name="Palette"/><strong>外观与设置</strong><small>4 款皮肤</small></button></div><div class="section-heading"><h2>我的歌单</h2><button class="quiet-button" @click="newPlaylist"><Icon name="Plus" :size="17"/>新建歌单</button></div><button v-for="p in data.playlists" :key="p.id" class="playlist-card" @click="navigate('playlist:'+p.id)"><span class="playlist-cover"><Icon name="ListMusic" :size="26"/></span><span><strong>{{p.name}}</strong><small>{{p.tracks.length}} 首 · 保存在本机</small></span><Icon name="ChevronRight" :size="18"/></button><div v-if="!data.playlists.length" class="empty compact"><Icon name="ListMusic" :size="30"/><p>还没有自己的歌单</p><button class="quiet-button" @click="newPlaylist">创建第一张歌单</button></div></section>
+        <section v-else class="library-page content-padding">
+          <div class="page-heading"><div><span class="eyebrow">{{view==='library'?'音乐相伴，心有所安':view==='favorites'?'喜欢的旋律，留在这里':view==='offline'?'播放即缓存，随时聆听':'你的音乐资料库'}}</span><h1>{{viewTitle}}<span class="count">{{filtered.length}} 首</span></h1></div><button v-if="activePlaylist" class="icon-button" title="管理歌单" aria-label="管理歌单" @click="open('playlist-manage')"><Icon name="Ellipsis"/></button></div>
+          <div v-if="view==='library'&&current&&!query" class="continue-card"><img :src="current.cover" alt="晨光中的山间湖泊"/><div class="continue-copy"><span class="eyebrow">{{data.recent.length?'继续聆听':'今日聆听'}}</span><h2>{{current.title}}</h2><p>让熟悉的旋律，陪你慢慢聆听。</p><button class="primary-button" @click="status.trackId?(engine.resume(),mobilePlayer=true):play(current,catalog)"><Icon name="Play" :size="16" fill="currentColor"/>{{status.playing?'正在播放':'继续播放'}}</button></div><span class="banner-note"><Icon name="AudioLines" :size="20"/>赞美诗集</span></div>
+          <div class="list-toolbar"><div class="search-field"><Icon name="Search" :size="18"/><input ref="searchInput" v-model="query" type="search" aria-label="搜索歌曲、编号或歌词" placeholder="搜索歌曲、编号或歌词"><button v-if="query" class="icon-button small" aria-label="清空搜索" @click="query='';searchInput.focus()"><Icon name="X" :size="16"/></button></div><label class="sort-control"><span class="sr-only">歌曲排序</span><select v-model="sort"><option value="number">按编号</option><option value="title">按名称</option></select></label><button class="quiet-button play-all" :disabled="!filtered.length" @click="play(filtered[0],filtered)"><Icon name="Play" :size="15"/>全部播放</button></div>
+          <div class="song-table-header"><span>编号</span><span>歌曲</span><span>歌集</span><span>操作</span></div>
+          <div v-if="!visible.length" class="empty"><Icon :name="query?'SearchX':view==='favorites'?'Heart':'Music2'" :size="34"/><p>{{query?'没有找到匹配的歌曲':view==='favorites'?'还没有收藏的歌曲':view==='offline'?'还没有本地缓存':'这里还没有歌曲'}}</p><small>{{query?'试试歌曲名称、数字编号或一句歌词。':view==='offline'?'播放过的歌曲会自动缓存，也可以从更多菜单提前下载。':'在曲库中收藏歌曲，或加入这个歌单。'}}</small><button v-if="view!=='library'&&!query" class="quiet-button" @click="navigate('library')">去曲库看看</button></div>
+          <div v-else class="song-list" aria-label="歌曲列表"><div v-for="track in visible" :key="track.id" class="song-row" :class="{playing:current?.id===track.id}"><span class="song-number"><Icon v-if="current?.id===track.id&&status.playing" name="AudioLines" :size="16"/><template v-else>{{String(track.number).padStart(3,'0')}}</template></span><button class="song-main" @click="play(track,filtered)"><span>{{track.title}}<Icon v-if="downloaded.includes(track.id)" name="CircleCheck" :size="13" class="download-mark"/></span><small>{{track.variant||'赞美诗集'}}</small></button><span class="song-album">赞美诗集</span><div class="song-actions"><template v-if="activePlaylist"><button class="icon-button small" :disabled="activePlaylist.tracks.indexOf(track.id)===0" aria-label="上移歌曲" title="上移" @click="reorder(track.id,-1)"><Icon name="ArrowUp" :size="16"/></button><button class="icon-button small" :disabled="activePlaylist.tracks.indexOf(track.id)===activePlaylist.tracks.length-1" aria-label="下移歌曲" title="下移" @click="reorder(track.id,1)"><Icon name="ArrowDown" :size="16"/></button></template><button class="icon-button row-heart" :class="{hearted:data.favorites.includes(track.id)}" :aria-label="(data.favorites.includes(track.id)?'取消收藏':'收藏')+track.title" :title="data.favorites.includes(track.id)?'取消收藏':'收藏'" @click="favorite(track.id)"><Icon name="Heart" :size="18" :fill="data.favorites.includes(track.id)?'currentColor':'none'"/></button><button class="icon-button" :aria-label="track.title+'更多操作'" title="更多操作" @click="open('song',track)"><Icon :name="downloading.has(track.id)?'LoaderCircle':'Ellipsis'" :class="{spin:downloading.has(track.id)}" :size="19"/></button></div></div></div>
+          <div class="list-bottom"><span>{{Math.min(pageSize,filtered.length)}} / {{filtered.length}} 首</span><button v-if="pageSize<filtered.length" class="quiet-button" @click="pageSize+=30">加载更多<Icon name="ChevronDown" :size="15"/></button><small v-else-if="filtered.length">已显示全部歌曲</small></div>
+        </section>
+      </template>
+    </main>
+
+    <aside v-if="current" class="now-panel" :class="{expanded:mobilePlayer}">
+      <header class="now-header"><button class="icon-button collapse-player" aria-label="收起播放器" @click="mobilePlayer=false"><Icon name="ChevronDown"/></button><span>正在播放</span><button class="icon-button" aria-label="当前歌曲更多操作" title="更多操作" @click="open('current-more')"><Icon name="Ellipsis"/></button></header>
+      <div class="now-body" :class="{'showing-lyrics':display==='lyrics'}"><div v-if="display==='cover'" class="album-art"><img :src="current.cover" alt="山间湖泊专辑封面"/></div><div class="now-title"><div><h2>{{current.title}}</h2><small>{{current.artist}}<span v-if="current.variant"> · {{current.variant}}</span></small></div><button class="icon-button" :class="{hearted:data.favorites.includes(current.id)}" :aria-label="data.favorites.includes(current.id)?'取消收藏当前歌曲':'收藏当前歌曲'" :title="data.favorites.includes(current.id)?'取消收藏':'收藏'" @click="favorite()"><Icon name="Heart" :size="23" :fill="data.favorites.includes(current.id)?'currentColor':'none'"/></button></div>
+      <div v-if="display==='lyrics'" class="display-tabs"><button @click="display='cover'">封面</button><button class="selected" @click="display='lyrics'">歌词</button></div>
+      <template v-if="display==='lyrics'"><p v-if="lyricsDoc.reviewNeeded" class="sync-note">歌本文本 · 部分时间点待校对<button @click="open('full-text')">完整文本</button></p><div v-if="lyricsLoading" class="lyric-message"><Icon name="LoaderCircle" class="spin"/>正在加载歌词</div><div v-else-if="lyricError" class="lyric-message">{{lyricError}}<button @click="open('full-text')">查看文本</button></div><Lyrics v-else :lines="lyricLines" :time="status.time" :offset="offset" :font-size="data.settings.fontSize" :track-id="current.id" @seek="engine.seek" @edit="openEditor" @calibrate="open('calibrate')" @font="open('font')"/></template>
+      <div v-else class="lyrics-preview"><p v-for="(line,i) in previewLines" :key="i" :class="{active:i===0&&currentLine>=0}" :style="{fontSize:data.settings.fontSize+'px'}">{{line.text}}</p><span v-if="!previewLines.length" class="muted">暂无歌词</span><button class="text-button" @click="display='lyrics'">完整歌词<Icon name="ChevronRight" :size="15"/></button></div>
+      <p v-if="status.error" class="playback-error" role="alert">{{status.error}}<button @click="play(current,queue)">重试</button></p>
+      <div class="now-controls"><div class="progress"><label class="sr-only" for="seek">播放进度</label><input id="seek" type="range" min="0" :max="status.duration||1" step="0.1" :value="status.time" :disabled="!status.duration" :style="{'--progress':(status.duration?status.time/status.duration*100:0)+'%'}" @input="engine.seek(+$event.target.value)"><div><time>{{formatTime(status.time)}}</time><time>{{formatTime(status.duration)}}</time></div></div><div class="transport"><button class="icon-button" :class="{enabled:data.settings.shuffle}" title="随机播放" aria-label="随机播放" :aria-pressed="data.settings.shuffle" @click="data.settings.shuffle=!data.settings.shuffle"><Icon name="Shuffle" :size="19"/></button><button class="icon-button" title="上一首" aria-label="上一首" @click="engine.previous()"><Icon name="SkipBack" :size="24" fill="currentColor"/></button><button class="play-button" :aria-label="status.playing?'暂停':'播放'" :title="status.playing?'暂停':'播放'" @click="toggle"><Icon v-if="status.loading" name="LoaderCircle" class="spin" :size="25"/><Icon v-else :name="status.playing?'Pause':'Play'" :size="25" fill="currentColor"/></button><button class="icon-button" title="下一首" aria-label="下一首" @click="engine.next()"><Icon name="SkipForward" :size="24" fill="currentColor"/></button><button class="icon-button" :class="{enabled:data.settings.repeat!=='off'}" :title="repeatLabel" :aria-label="repeatLabel+'，点击切换'" @click="toggleMode"><Icon :name="data.settings.repeat==='one'?'Repeat1':'Repeat'" :size="20"/></button></div></div>
+      <button class="next-song" @click="open('queue')"><img :src="nextTrack?.cover||current.cover" alt=""/><span><small>接下来</small><strong>{{nextTrack?.title||'播放队列'}}</strong></span><Icon name="ListMusic" :size="19"/><Icon name="ChevronRight" :size="16"/></button></div>
+    </aside>
+
+    <div v-if="current" class="mini-player"><button class="mini-info" @click="mobilePlayer=true"><img :src="current.cover" alt=""/><span><strong>{{current.title}}</strong><small>{{current.artist}}</small></span></button><button class="icon-button" :aria-label="status.playing?'暂停':'播放'" @click="toggle"><Icon :name="status.playing?'Pause':'Play'" :size="22" fill="currentColor"/></button><button class="icon-button" aria-label="播放队列" @click="open('queue')"><Icon name="ListMusic" :size="21"/></button><span class="mini-progress" :style="{width:(status.duration?status.time/status.duration*100:0)+'%'}"></span></div>
+    <nav class="mobile-nav" aria-label="手机导航"><button :class="{active:view==='library'}" @click="navigate('library')"><Icon name="Disc3"/>曲库</button><button :class="{active:view==='favorites'}" @click="navigate('favorites')"><Icon name="Heart"/>收藏</button><button :class="{active:view==='mine'||view==='settings'||activePlaylist}" @click="navigate('mine')"><Icon name="UserRound"/>我的</button></nav>
+    <div v-if="notice" class="toast" role="status"><Icon name="CircleCheck" :size="17"/>{{notice}}</div>
+    <input ref="importFile" type="file" class="sr-only" accept="application/json,.json" aria-label="选择备份文件" @change="prepareImport">
+
+    <dialog ref="dialog" class="app-dialog" :class="{'wide-dialog':modal==='lyrics-edit'}" aria-labelledby="dialog-title" @close="modal=''" @click="e=>{if(e.target===dialog)close()}" @cancel="close">
+      <div class="dialog-heading"><div><h2 id="dialog-title">{{{'remove-download':'移除离线音频','song':selected?.title,'current-more':'更多操作','queue':'播放队列','playlist-name':editId?'重命名歌单':'新建歌单','playlist-manage':'管理歌单','delete-playlist':'删除歌单','add-playlist':'加入歌单','lyrics-edit':'歌词纠错','restore-lyrics':'恢复歌词','calibrate':'歌词校准','font':'歌词字号','sleep':'定时关闭','import-confirm':'导入备份','install':'安装到设备','full-text':'完整歌词'}[modal]||'音乐'}}</h2><small v-if="['lyrics-edit','calibrate','full-text'].includes(modal)">{{current?.title}} · {{current?.variant||'当前版本'}}</small></div><button class="icon-button" aria-label="关闭弹窗" @click="close"><Icon name="X"/></button></div>
+      <div class="dialog-content">
+        <template v-if="modal==='song'||modal==='current-more'"><button class="menu-item" @click="favorite(selected.id);close()"><Icon name="Heart"/>{{data.favorites.includes(selected?.id)?'取消收藏':'收藏歌曲'}}</button><button class="menu-item" @click="modal='add-playlist'"><Icon name="ListPlus"/>加入歌单</button><button class="menu-item" @click="enqueue(selected)"><Icon name="ListStart"/>下一首播放</button><button v-if="!downloaded.includes(selected?.id)" class="menu-item" :disabled="downloading.has(selected?.id)" @click="download()"><Icon name="Download"/>{{downloading.has(selected?.id)?'正在下载…':'下载歌曲'}}</button><button v-else class="menu-item" @click="modal='remove-download'"><Icon name="HardDriveDownload"/>移除离线音频</button><button v-if="activePlaylist" class="menu-item danger" @click="removeFromPlaylist(selected)"><Icon name="ListMinus"/>移出当前歌单</button><template v-if="modal==='current-more'"><div class="menu-divider"></div><button class="menu-item" @click="modal='sleep'"><Icon name="Moon"/>定时关闭</button><button class="menu-item" @click="openEditor"><Icon name="PencilLine"/>歌词纠错</button><button class="menu-item" @click="close();navigate('settings')"><Icon name="Palette"/>切换皮肤</button></template></template>
+        <template v-else-if="modal==='remove-download'"><p>移除「{{selected?.title}}」的离线音频？歌单和收藏会保留。</p><div class="dialog-actions"><button class="quiet-button" @click="close">保留音频</button><button class="primary-button" @click="removeOffline(selected)">移除音频</button></div></template>
+        <template v-else-if="modal==='queue'"><p class="helper-text">{{queue.length}} 首 · {{repeatLabel}}</p><div class="queue-list"><div v-for="(track,i) in queue" :key="track.id" class="queue-row" :class="{active:track.id===current?.id}"><span>{{i+1}}</span><button @click="play(track,queue);close()"><strong>{{track.title}}</strong><small>{{track.variant||'赞美诗集'}}</small></button><button class="icon-button small" :disabled="track.id===current?.id" :aria-label="'从队列移除'+track.title" @click="removeQueue(track.id)"><Icon name="X" :size="16"/></button></div></div></template>
+        <form v-else-if="modal==='playlist-name'" novalidate @submit.prevent="savePlaylist"><label class="field-label" for="playlist-name">歌单名称</label><input id="playlist-name" v-model="formName" class="text-input" maxlength="60" placeholder="例如：安静默想" autofocus :aria-invalid="!!formError" aria-describedby="form-error"><p id="form-error" class="field-error" role="alert">{{formError}}</p><div class="dialog-actions"><button type="button" class="quiet-button" @click="close">取消</button><button class="primary-button" type="submit">保存歌单</button></div></form>
+        <template v-else-if="modal==='playlist-manage'"><button class="menu-item" @click="renamePlaylist"><Icon name="Pencil"/>重命名</button><button class="menu-item danger" @click="modal='delete-playlist'"><Icon name="Trash2"/>删除歌单</button></template>
+        <template v-else-if="modal==='delete-playlist'"><p>删除「{{activePlaylist?.name}}」？歌曲和收藏仍会保留。</p><div class="dialog-actions"><button class="quiet-button" autofocus @click="close">保留歌单</button><button class="danger-button" @click="data.playlists=data.playlists.filter(p=>p.id!==activePlaylist.id);navigate('mine');close();toast('已删除歌单')">删除歌单</button></div></template>
+        <template v-else-if="modal==='add-playlist'"><button v-for="p in data.playlists" :key="p.id" class="menu-item" @click="addToPlaylist(p)"><Icon name="ListMusic"/><span>{{p.name}}</span><small>{{p.tracks.length}} 首</small></button><div v-if="!data.playlists.length" class="empty compact"><p>先创建一张歌单</p><button class="primary-button" @click="newPlaylist">新建歌单</button></div></template>
+        <template v-else-if="modal==='lyrics-edit'"><p class="helper-text">保留时间标记，修改对应歌词。保存仅影响本机，可恢复原稿。</p><label class="field-label" for="lyrics-draft">同步歌词与时间轴</label><textarea id="lyrics-draft" v-model="draft" class="lyrics-editor" style="resize: none" spellcheck="false" :aria-invalid="!!formError" aria-describedby="lyrics-error"></textarea><p id="lyrics-error" class="field-error" role="alert">{{formError}}</p><p v-if="lyricsDoc.reviewNeeded" class="review-note"><Icon name="Info" :size="15"/>这份歌词含疑似识别错误，尚待逐句核对。</p><button class="text-button" @click="engine.seek(Math.max(0,status.time-5));engine.resume()"><Icon name="Play" :size="15"/>回退 5 秒试听</button><div class="dialog-actions"><button v-if="hasCorrection" class="quiet-button" @click="modal='restore-lyrics'">恢复原稿</button><button class="quiet-button" @click="close">放弃修改</button><button class="primary-button" @click="saveLyrics">保存修改</button></div></template>
+        <template v-else-if="modal==='restore-lyrics'"><p>移除本机修改，恢复导入时的歌词？</p><div class="dialog-actions"><button class="quiet-button" autofocus @click="openEditor">保留修改</button><button class="primary-button" @click="restoreLyrics">恢复歌词</button></div></template>
+        <template v-else-if="modal==='full-text'"><div class="full-text"><p v-for="(line,i) in current?.texts" :key="i">{{line}}</p></div></template>
+        <template v-else-if="modal==='calibrate'"><p class="helper-text">如果歌词比歌声先出现，请延后；比歌声晚出现，请提前。</p><div class="offset-controls"><button class="quiet-button" @click="setOffset(-0.5)"><Icon name="Minus" :size="16"/>提前 0.5 秒</button><output>{{offset>0?'+':''}}{{offset.toFixed(1)}} 秒</output><button class="quiet-button" @click="setOffset(0.5)"><Icon name="Plus" :size="16"/>延后 0.5 秒</button></div><p class="helper-text">按当前歌曲版本保存在本机。</p><div class="dialog-actions"><button class="quiet-button" @click="data.offsets[current.id]=0">恢复为零</button><button class="primary-button" @click="close">完成</button></div></template>
+        <template v-else-if="modal==='font'"><label class="field-label" for="font-popup">歌词字号 · {{data.settings.fontSize}} px</label><input id="font-popup" v-model.number="data.settings.fontSize" class="full-range" type="range" min="14" max="24"><p :style="{fontSize:data.settings.fontSize+'px'}">因祂活着，我能面对明天</p><div class="dialog-actions"><button class="quiet-button" @click="data.settings.fontSize=17">恢复默认</button><button class="primary-button" @click="close">完成</button></div></template>
+        <template v-else-if="modal==='sleep'"><button v-for="minutes in [15,30,45,60]" :key="minutes" class="menu-item" @click="sleep(minutes)"><Icon name="Moon"/>{{minutes}} 分钟后暂停</button><button class="menu-item" @click="sleep(0)"><Icon name="XCircle"/>取消定时关闭</button></template>
+        <template v-else-if="modal==='import-confirm'"><p>导入 {{pendingImport?.favorites.length}} 首收藏与 {{pendingImport?.playlists.length}} 张歌单，将替换当前本机设置、歌单和歌词修改。</p><p class="helper-text">建议先导出当前备份。</p><div class="dialog-actions"><button class="quiet-button" @click="exportData">先导出备份</button><button class="quiet-button" @click="close">取消</button><button class="primary-button" @click="applyImport">确认导入</button></div></template>
+        <template v-else-if="modal==='install'"><Icon name="MonitorDown" :size="32"/><p>在浏览器菜单中选择「安装应用」或「添加到主屏幕」。</p><p class="helper-text">需要 HTTPS 或本机地址。安装后可独立打开；缓存完整的歌曲可离线播放。</p></template>
       </div>
-    </div>
+    </dialog>
   </div>
 </template>
-<script>
-  import Aplayer from 'vue-aplayer'
-  import content from "@/assets/content";
-  import Lyrics from '@/components/aplayer-lrc.vue'
-  export default {
-    name: 'App',
-    components: {
-      Aplayer,
-      Lyrics
-    },
-    data () {
-      return {
-        volume: 1,
-        muted: false,
-        music: content[5],
-        list: content,
-        aplayer: {},
-        lyric: null,
-        currentTime: null,
-        showLrc: false
-        // list3: [
-        //   {
-        //     title: '晴天',
-        //     artist: '周杰伦',
-        //     src: 'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_228908&response=res&type=convert_url',
-        //     pic: 'http://img4.kuwo.cn/star/starheads/120/4/80a74b254395e7d786fdc3f68703377_0.jpg',
-        //     lrc: '[00:0.0]\u6674\u5929 - \u5468\u6770\u4f26 (Jay Chou)\r\n[00:7.34]\u8bcd\uff1a\u5468\u6770\u4f26\r\n[00:14.69]\u66f2\uff1a\u5468\u6770\u4f26\r\n[00:22.04]\u7f16\u66f2\uff1a\u5468\u6770\u4f26\r\n[00:29.39]\u6545\u4e8b\u7684\u5c0f\u9ec4\u82b1\r\n[00:32.64]\u4ece\u51fa\u751f\u90a3\u5e74\u5c31\u98d8\u7740\r\n[00:36.19]\u7ae5\u5e74\u7684\u8361\u79cb\u5343\r\n[00:39.93]\u968f\u8bb0\u5fc6\u4e00\u76f4\u6643\u5230\u73b0\u5728\r\n[00:42.99]Re So So Si Do Si La \r\n[00:46.11]So La Si Si Si Si La Si La So \r\n[00:49.79]\u5439\u7740\u524d\u594f\u671b\u7740\u5929\u7a7a\r\n[00:53.35]\u6211\u60f3\u8d77\u82b1\u74e3\u8bd5\u7740\u6389\u843d\r\n[00:56.78]\u4e3a\u4f60\u7fd8\u8bfe\u7684\u90a3\u4e00\u5929\r\n[00:59.03]\u82b1\u843d\u7684\u90a3\u4e00\u5929\r\n[01:01.08]\u6559\u5ba4\u7684\u90a3\u4e00\u95f4\r\n[01:03.68]\u6211\u600e\u4e48\u770b\u4e0d\u89c1\r\n[01:06.7]\u6d88\u5931\u7684\u4e0b\u96e8\u5929\r\n[01:09.52]\u6211\u597d\u60f3\u518d\u6dcb\u4e00\u904d\r\n[01:16.58]\u6ca1\u60f3\u5230\u5931\u53bb\u7684\u52c7\u6c14\u6211\u8fd8\u7559\u7740\r\n[01:26.88]\u597d\u60f3\u518d\u95ee\u4e00\u904d\r\n[01:29.78]\u4f60\u4f1a\u7b49\u5f85\u8fd8\u662f\u79bb\u5f00\r\n[01:41.23]\u522e\u98ce\u8fd9\u5929\u6211\u8bd5\u8fc7\u63e1\u7740\u4f60\u624b\r\n[01:50.7]\u4f46\u504f\u504f\u96e8\u6e10\u6e10\u5927\u5230\u6211\u770b\u4f60\u4e0d\u89c1\r\n[01:64.73]\u8fd8\u8981\u591a\u4e45\u6211\u624d\u80fd\u5728\u4f60\u8eab\u8fb9\r\n[01:75.67]\u7b49\u5230\u653e\u6674\u7684\u90a3\u5929\u4e5f\u8bb8\u6211\u4f1a\u6bd4\u8f83\u597d\u4e00\u70b9\r\n[01:87.93]\u4ece\u524d\u4ece\u524d\u6709\u4e2a\u4eba\u7231\u4f60\u5f88\u4e45\r\n[01:97.5]\u4f46\u504f\u504f\u98ce\u6e10\u6e10\u628a\u8ddd\u79bb\u5439\u5f97\u597d\u8fdc\r\n[02:11.23]\u597d\u4e0d\u5bb9\u6613\u53c8\u80fd\u518d\u591a\u7231\u4e00\u5929\r\n[02:22.25]\u4f46\u6545\u4e8b\u7684\u6700\u540e\u4f60\u597d\u50cf\u8fd8\u662f\u8bf4\u4e86\u62dc\u62dc\r\n[02:58.33]\u4e3a\u4f60\u7fd8\u8bfe\u7684\u90a3\u4e00\u5929\r\n[02:61.25]\u82b1\u843d\u7684\u90a3\u4e00\u5929\r\n[02:64.38]\u6559\u5ba4\u7684\u90a3\u4e00\u95f4\r\n[02:67.18]\u6211\u600e\u4e48\u770b\u4e0d\u89c1\r\n[02:70.08]\u6d88\u5931\u7684\u4e0b\u96e8\u5929\r\n[02:72.9]\u6211\u597d\u60f3\u518d\u6dcb\u4e00\u904d\r\n[02:79.97]\u6ca1\u60f3\u5230\u5931\u53bb\u7684\u52c7\u6c14\u6211\u8fd8\u7559\u7740\r\n[02:90.88]\u597d\u60f3\u518d\u95ee\u4e00\u904d\r\n[02:93.28]\u4f60\u4f1a\u7b49\u5f85\u8fd8\u662f\u79bb\u5f00\r\n[03:04.62]\u522e\u98ce\u8fd9\u5929\u6211\u8bd5\u8fc7\u63e1\u7740\u4f60\u624b\r\n[03:14.08]\u4f46\u504f\u504f\u96e8\u6e10\u6e10\u5927\u5230\u6211\u770b\u4f60\u4e0d\u89c1\r\n[03:28.12]\u8fd8\u8981\u591a\u4e45\u6211\u624d\u80fd\u5728\u4f60\u8eab\u8fb9\r\n[03:39.15]\u7b49\u5230\u653e\u6674\u7684\u90a3\u5929\u4e5f\u8bb8\u6211\u4f1a\u6bd4\u8f83\u597d\u4e00\u70b9\r\n[03:51.52]\u4ece\u524d\u4ece\u524d\u6709\u4e2a\u4eba\u7231\u4f60\u5f88\u4e45\r\n[03:61.72]\u504f\u504f\u98ce\u6e10\u6e10\u628a\u8ddd\u79bb\u5439\u5f97\u597d\u8fdc\r\n[03:74.62]\u597d\u4e0d\u5bb9\u6613\u53c8\u80fd\u518d\u591a\u7231\u4e00\u5929\r\n[03:85.12]\u4f46\u6545\u4e8b\u7684\u6700\u540e\u4f60\u597d\u50cf\u8fd8\u662f\u8bf4\u4e86\u62dc\u62dc\r\n[03:99.37]\u522e\u98ce\u8fd9\u5929\u6211\u8bd5\u8fc7\u63e1\u7740\u4f60\u624b\r\n[04:03.42]\u4f46\u504f\u504f\u96e8\u6e10\u6e10\u5927\u5230\u6211\u770b\u4f60\u4e0d\u89c1\r\n[04:09.07]\u8fd8\u8981\u591a\u4e45\u6211\u624d\u80fd\u591f\u5728\u4f60\u8eab\u8fb9\r\n[04:14.98]\u7b49\u5230\u653e\u6674\u90a3\u5929\u4e5f\u8bb8\u6211\u4f1a\u6bd4\u8f83\u597d\u4e00\u70b9\r\n[04:21.43]\u4ece\u524d\u4ece\u524d\u6709\u4e2a\u4eba\u7231\u4f60\u5f88\u4e45\r\n[04:26.43]\u4f46\u504f\u504f\u96e8\u6e10\u6e10\u628a\u8ddd\u79bb\u5439\u5f97\u597d\u8fdc\r\n[04:32.15]\u597d\u4e0d\u5bb9\u6613\u53c8\u80fd\u518d\u591a\u7231\u4e00\u5929\r\n[04:37.98]\u4f46\u6545\u4e8b\u7684\u6700\u540e\u4f60\u597d\u50cf\u8fd8\u662f\u8bf4\u4e86\u62dc',
-        //   },
-        //   {
-        //     title: '兰亭序',
-        //     artist: '周杰伦',
-        //     src: 'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&response=res&type=convert_url&rid=MUSIC_440616',
-        //     pic: 'http://img4.kuwo.cn/star/starheads/120/4/80a74b254395e7d786fdc3f68703377_0.jpg',
-        //     lrc: '[00:00]\u6682\u65e0\u6b4c\u8bcd'
-        //   },
-        //   {
-        //     title: '告白气球',
-        //     artist: '周杰伦',
-        //     src: 'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_7149583&response=res&type=convert_url',
-        //     pic: 'http://img4.kuwo.cn/star/starheads/120/4/80a74b254395e7d786fdc3f68703377_0.jpg',
-        //     lrc: '[00:0.73]\u544a\u767d\u6c14\u7403 - \u5468\u6770\u4f26\n[00:3.17]\u8bcd\uff1a\u65b9\u6587\u5c71\n[00:5.03]\u66f2\uff1a\u5468\u6770\u4f26\n[00:23.56]\u585e\u7eb3\u6cb3\u7554  \u5de6\u5cb8\u7684\u5496\u5561\n[00:26.28]\u6211\u624b\u4e00\u676f  \u54c1\u5c1d\u4f60\u7684\u7f8e\n[00:29.27]\u7559\u4e0b\u5507\u5370\u7684\u5634\n[00:34.08]\u82b1\u5e97\u73ab\u7470  \u540d\u5b57\u5199\u9519\u8c01\n[00:36.8]\u544a\u767d\u6c14\u7403  \u98ce\u5439\u5230\u5bf9\u8857\n[00:39.86]\u5fae\u7b11\u5728\u5929\u4e0a\u98de\n[00:44.03]\u4f60\u8bf4\u4f60\u6709\u70b9\u96be\u8ffd\n[00:46.66]\u60f3\u8ba9\u6211\u77e5\u96be\u800c\u9000\n[00:49.32]\u793c\u7269\u4e0d\u9700\u6311\u6700\u8d35\n[00:51.53]\u53ea\u8981\u9999\u69ad\u7684\u843d\u53f6\n[00:54.48]\u5594\uff5e\u8425\u9020\u6d6a\u6f2b\u7684\u7ea6\u4f1a\n[00:56.81]\u4e0d\u5bb3\u6015\u641e\u7838\u4e00\u5207\n[00:59.56]\u62e5\u6709\u4f60\u5c31\u62e5\u6709  \u5168\u4e16\u754c\n[01:08.23]\u4eb2\u7231\u7684  \u7231\u4e0a\u4f60  \u4ece\u90a3\u5929\u8d77\n[01:18.82]\u751c\u871c\u7684\u5f88\u8f7b\u6613\n[01:26.02]\u4eb2\u7231\u7684  \u522b\u4efb\u6027  \u4f60\u7684\u773c\u775b\n[01:36.67]\u5728\u8bf4\u6211\u613f\u610f\n[01:81.3]\u585e\u7eb3\u6cb3\u7554  \u5de6\u5cb8\u7684\u5496\u5561\n[01:85.72]\u6211\u624b\u4e00\u676f  \u54c1\u5c1d\u4f60\u7684\u7f8e\n[01:91.35]\u7559\u4e0b\u5507\u5370\u7684\u5634\n[01:99.05]\u82b1\u5e97\u73ab\u7470  \u540d\u5b57\u5199\u9519\u8c01\n[02:03.35]\u544a\u767d\u6c14\u7403  \u98ce\u5439\u5230\u5bf9\u8857\n[02:08.68]\u5fae\u7b11\u5728\u5929\u4e0a\u98de\n[02:15.57]\u4f60\u8bf4\u4f60\u6709\u70b9\u96be\u8ffd\n[02:19.53]\u60f3\u8ba9\u6211\u77e5\u96be\u800c\u9000\n[02:23.88]\u793c\u7269\u4e0d\u9700\u6311\u6700\u8d35\n[02:28.12]\u53ea\u8981\u9999\u69ad\u7684\u843d\u53f6\n[02:32.68]\u5594\uff5e\u8425\u9020\u6d6a\u6f2b\u7684\u7ea6\u4f1a\n[02:36.92]\u4e0d\u5bb3\u6015\u641e\u7838\u4e00\u5207\n[02:41.53]\u62e5\u6709\u4f60\u5c31\u62e5\u6709  \u5168\u4e16\u754c\n[02:50.4]\u4eb2\u7231\u7684  \u7231\u4e0a\u4f60  \u4ece\u90a3\u5929\u8d77\n[02:61.22]\u751c\u871c\u7684\u5f88\u8f7b\u6613\n[02:68.22]\u4eb2\u7231\u7684  \u522b\u4efb\u6027  \u4f60\u7684\u773c\u775b\n[02:78.9]\u5728\u8bf4\u6211\u613f\u610f\n[02:86.02]\u4eb2\u7231\u7684  \u7231\u4e0a\u4f60  \u604b\u7231\u65e5\u8bb0\n[02:96.87]\u98d8\u9999\u6c34\u7684\u56de\u5fc6\n[03:03.82]\u4e00\u6574\u74f6  \u7684\u68a6\u5883  \u5168\u90fd\u6709\u4f60\n[03:14.73]\u6405\u62cc\u5728\u4e00\u8d77\n[03:21.42]\u4eb2\u7231\u7684\u522b\u4efb\u6027  \u4f60\u7684\u773c\u775b\n[03:35.28]\u5728\u8bf4\u6211\u613f\u610f\n',
-        //   },
-        //   {
-        //     title: '夜曲',
-        //     artist: '周杰伦',
-        //     src: 'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&response=res&type=convert_url&rid=MUSIC_118980',
-        //     pic: 'http://img4.kuwo.cn/star/starheads/120/4/80a74b254395e7d786fdc3f68703377_0.jpg',
-        //     lrc: '[00:00]\u6682\u65e0\u6b4c\u8bcd',
-        //   },
-        // ],
-      }
-    },
-    computed: {
-      texts () {
-        if(!this.aplayer.currentMusic){
-          return ''
-        }
-        return this.aplayer.currentMusic.texts
-      },
-      currentMusic(){
-        return this.aplayer.currentMusic
-      },
-      playStat(){
-        return this.aplayer.playStat
-      }
-    },
-    mounted() {
-      this.aplayer = this.$refs.aplayer
-      console.log(this.aplayer)
-      // this.aplayer.$refs.audio.addEventListener('timeupdate', this.onAudioTimeUpdate)
-    },
-    watch:{
-      currentMusic(val){
-        console.log(val)
-      }
-    },
-    methods:{
-      onAudioTimeUpdate(){
-        // console.log(e)
-      }
-    }
-  }
-</script>
-<style>
-  html, body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-
-  body {
-    font-family: Source Sans Pro, 'PingFang SC', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    background: linear-gradient(135deg, rgb(65, 184, 131), rgb(74, 156, 238));
-    color: #fff;
-    overflow-y: auto;
-  }
-
-  #app {
-    text-align: center;
-  }
-
-  .container {
-    max-width: 32rem;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 50px;
-    padding: 0 15px;
-  }
-
-  .aplayer{
-      opacity: 0.5;
-      /*max-width: 600px;*/
-      /*margin: 0 auto;*/
-  }
-  h1 {
-    font-size: 48px;
-    margin: 30px 0 10px;
-  }
-
-  h3 {
-    font-size: 24px;
-  }
-
-  input {
-    background-color: transparent;
-    outline: none;
-    border: none;
-    color: inherit;
-    font-size: inherit;
-    text-align: center;
-    border-bottom: 1px solid rgba(255, 255, 255, .5);
-  }
-
-  a {
-    color: #35495e;
-    text-decoration: none;
-  }
-
-  p {
-    font-size: 18px;
-    padding: 0;
-    margin: 5px;
-  }
-
-  .mylrc{
-    padding: 10px;
-    margin: 30px 0px;
-  }
-  .current-line-0 {
-    color: #FAFA17;
-  }
-  .current-line-1 {
-    color: #ff1493;
-    font-size: 30px;
-
-  }
-  .current-line-2 {
-    color: #adff2f;font-size: 30px;
-  }
-  .current-line-3 {
-    color: #c617e8;font-size: 30px;
-  }
-
-</style>
