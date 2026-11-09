@@ -5,7 +5,7 @@ const uniqueIds = value => Array.isArray(value) ? [...new Set(value.filter(x=>ty
 export function validateState(input) {
   if (!input || typeof input!=='object' || input.version!==1) throw new Error('备份格式不正确，请选择本应用导出的 JSON 文件。')
   const d=defaults(), s=input.settings||{}
-  d.settings={theme:themes.includes(s.theme)?s.theme:'black',fontSize:Math.min(24,Math.max(14,Number(s.fontSize)||17)),volume:Math.min(1,Math.max(0,Number.isFinite(s.volume)?s.volume:.8)),repeat:['list','one','off'].includes(s.repeat)?s.repeat:'list',shuffle:s.shuffle===true}
+  d.settings={theme:themes.includes(s.theme)?s.theme:'black',fontSize:Math.min(24,Math.max(14,Number(s.fontSize)||17)),volume:Math.min(1,Math.max(0,Number.isFinite(s.volume)?s.volume:.8)),repeat:s.repeat==='one'?'one':'list',shuffle:s.repeat!=='one'&&s.shuffle===true}
   d.favorites=uniqueIds(input.favorites); d.recent=uniqueIds(input.recent).slice(0,60)
   d.playlists=(Array.isArray(input.playlists)?input.playlists:[]).filter(p=>p&&typeof p.id==='string'&&typeof p.name==='string').slice(0,200).map(p=>({id:p.id,name:p.name.slice(0,60),tracks:uniqueIds(p.tracks)}))
   d.corrections=Object.fromEntries(Object.entries(input.corrections||{}).filter(([k,v])=>/^s[a-f0-9]{12}$/.test(k)&&typeof v==='string'&&v.length<100000))

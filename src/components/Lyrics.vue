@@ -13,7 +13,7 @@ function center(instant=false){if(!follow.value)return; const el=lineEls.get(ind
 function resume(){follow.value=true;nextTick(()=>center())}
 watch(index,()=>nextTick(()=>center()))
 watch(()=>[props.lines,props.fontSize,props.trackId],async()=>{await nextTick();center(true)},{deep:true})
-watch(()=>props.trackId,()=>{follow.value=true;lineEls.clear()})
+watch(()=>props.trackId,()=>{follow.value=true;lineEls.clear();nextTick(()=>{if(viewport.value)viewport.value.scrollTop=0;center(true)})})
 onMounted(()=>{observer=new ResizeObserver(()=>center(true));observer.observe(viewport.value)})
 onBeforeUnmount(()=>observer?.disconnect())
 </script>

@@ -19,3 +19,5 @@
 @media(max-width:600px){.topbar .install-button{display:none}.apk-download{min-height:34px;padding:6px 10px;font-size:11px}.topbar-actions{gap:6px}.setting-row>span{min-width:0}}
 
 .app-mark{display:block;width:31px;height:31px;flex-shrink:0}.brand-icon .app-mark{width:37px;height:37px}.mobile-brand .app-mark{width:29px;height:29px}.about .app-mark{width:30px;height:30px}
+
+.mode-button{width:44px;min-height:46px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;border-radius:8px;color:var(--accent-ink);flex-shrink:0;background:var(--accent-soft)}.mode-button span{font-size:10px;line-height:1.2}.mode-button:hover{filter:brightness(.96)}

@@ -9,6 +9,7 @@ import androidx.media3.common.*;
 import androidx.media3.common.util.UnstableApi;
 import androidx.media3.exoplayer.ExoPlayer;
 import androidx.media3.exoplayer.source.DefaultMediaSourceFactory;
+import androidx.media3.exoplayer.source.ShuffleOrder;
 import org.json.*;
 import java.util.*;
 @UnstableApi
@@ -20,6 +21,7 @@ public class PlaybackService extends Service {
  private JSONArray queue=new JSONArray();
  private final Handler handler=new Handler(Looper.getMainLooper());
  private Runnable sleep;
+ private long sleepUntil=0;
  private boolean foreground=false;
  private String error="";
  private android.graphics.Bitmap cover;
@@ -58,21 +60,23 @@ public class PlaybackService extends Service {
  }
  private void startForegroundPlayback(){startForeground(NOTIFICATION,notification());foreground=true;}
  private void updateNotification(){if(foreground)getSystemService(NotificationManager.class).notify(NOTIFICATION,notification());}
- private void publishState(){if(player==null)return;try{JSONObject t=track();long duration=Math.max(0,player.getDuration()==C.TIME_UNSET?0:player.getDuration());long position=Math.max(0,player.getCurrentPosition());JSONObject s=new JSONObject();s.put("trackId",t==null?JSONObject.NULL:t.optString("id"));s.put("time",position/1000.0);s.put("duration",duration/1000.0);s.put("playing",player.isPlaying());s.put("loading",player.getPlaybackState()==Player.STATE_BUFFERING);s.put("error",error);snapshot=s.toString();
+ private void publishState(){if(player==null)return;try{JSONObject t=track();long duration=Math.max(0,player.getDuration()==C.TIME_UNSET?0:player.getDuration());long position=Math.max(0,player.getCurrentPosition());JSONObject s=new JSONObject();s.put("trackId",t==null?JSONObject.NULL:t.optString("id"));s.put("time",position/1000.0);s.put("duration",duration/1000.0);s.put("playing",player.isPlaying());s.put("loading",player.getPlaybackState()==Player.STATE_BUFFERING);s.put("error",error);s.put("sleepUntil",sleepUntil);
+  Timeline timeline=player.getCurrentTimeline();JSONArray order=new JSONArray();int n=timeline.getFirstWindowIndex(player.getShuffleModeEnabled());for(int count=0;n!=C.INDEX_UNSET&&count<queue.length();count++){JSONObject item=queue.optJSONObject(n);if(item!=null)order.put(item.optString("id"));n=timeline.getNextWindowIndex(n,Player.REPEAT_MODE_OFF,player.getShuffleModeEnabled());}s.put("orderIds",order);
+  int next=player.getRepeatMode()==Player.REPEAT_MODE_ONE?player.getCurrentMediaItemIndex():player.getNextMediaItemIndex();JSONObject upcoming=queue.optJSONObject(next);s.put("nextTrackId",upcoming==null?JSONObject.NULL:upcoming.optString("id"));s.put("mode",player.getRepeatMode()==Player.REPEAT_MODE_ONE?"one":player.getShuffleModeEnabled()?"shuffle":"list");snapshot=s.toString();
   long actions=PlaybackState.ACTION_PLAY|PlaybackState.ACTION_PAUSE|PlaybackState.ACTION_PLAY_PAUSE|PlaybackState.ACTION_SEEK_TO|PlaybackState.ACTION_SKIP_TO_NEXT|PlaybackState.ACTION_SKIP_TO_PREVIOUS|PlaybackState.ACTION_STOP;
   int state=player.isPlaying()?PlaybackState.STATE_PLAYING:player.getPlaybackState()==Player.STATE_BUFFERING?PlaybackState.STATE_BUFFERING:PlaybackState.STATE_PAUSED;
   session.setPlaybackState(new PlaybackState.Builder().setActions(actions).setState(state,position,player.isPlaying()?1f:0f).build());
   if(t!=null&&!(t.optString("id")+duration).equals(lastMetadata)){lastMetadata=t.optString("id")+duration;session.setMetadata(new MediaMetadata.Builder().putString(MediaMetadata.METADATA_KEY_TITLE,t.optString("title")).putString(MediaMetadata.METADATA_KEY_ARTIST,"赞美诗集").putString(MediaMetadata.METADATA_KEY_ALBUM,"赞美诗集").putLong(MediaMetadata.METADATA_KEY_DURATION,duration).putBitmap(MediaMetadata.METADATA_KEY_ALBUM_ART,cover).build());}
  }catch(Exception ignored){}}
  public void load(String raw,int index,double position,boolean autoplay){try{queue=new JSONArray(raw);ArrayList<MediaItem> items=new ArrayList<>();for(int i=0;i<queue.length();i++){JSONObject t=queue.getJSONObject(i);items.add(new MediaItem.Builder().setMediaId(t.getString("id")).setUri(t.getString("src")).setCustomCacheKey(t.getString("id")).build());}error="";player.setMediaItems(items,Math.min(index,Math.max(0,items.size()-1)),(long)(position*1000));player.prepare();if(autoplay){startForegroundPlayback();player.play();}publishState();}catch(Exception e){error="播放队列读取失败。";publishState();}}
- public void updateQueue(String raw,int index){boolean playing=player.isPlaying();double position=player.getCurrentPosition()/1000.0;load(raw,index,position,playing);}
+ public void updateQueue(String raw,int index,String nextId){boolean playing=player.isPlaying();double position=player.getCurrentPosition()/1000.0;load(raw,index,position,playing);if(player.getShuffleModeEnabled()&&nextId!=null&&!nextId.isEmpty()){ArrayList<Integer> rest=new ArrayList<>();int pin=-1;for(int i=0;i<queue.length();i++){if(queue.optJSONObject(i).optString("id").equals(nextId))pin=i;else if(i!=index)rest.add(i);}if(pin>=0&&pin!=index){Collections.shuffle(rest);int[] order=new int[queue.length()];order[0]=index;order[1]=pin;for(int i=0;i<rest.size();i++)order[i+2]=rest.get(i);player.setShuffleOrder(new ShuffleOrder.DefaultShuffleOrder(order,System.nanoTime()));}}publishState();}
  public void next(){error="";if(player.hasNextMediaItem())player.seekToNextMediaItem();else if(player.getMediaItemCount()>0)player.seekTo(0,0);player.prepare();startForegroundPlayback();player.play();}
  public void previous(){error="";if(player.getCurrentPosition()>3000)player.seekTo(0);else if(player.hasPreviousMediaItem())player.seekToPreviousMediaItem();else if(player.getMediaItemCount()>0)player.seekTo(player.getMediaItemCount()-1,0);startForegroundPlayback();player.play();}
  public void setMode(String repeat,boolean shuffle){player.setRepeatMode(repeat.equals("one")?Player.REPEAT_MODE_ONE:repeat.equals("off")?Player.REPEAT_MODE_OFF:Player.REPEAT_MODE_ALL);player.setShuffleModeEnabled(shuffle);}
- public void sleep(double minutes){if(sleep!=null)handler.removeCallbacks(sleep);if(minutes>0){sleep=()->player.pause();handler.postDelayed(sleep,(long)(minutes*60000));}}
+ public void sleep(double minutes){if(sleep!=null)handler.removeCallbacks(sleep);sleepUntil=minutes>0?System.currentTimeMillis()+(long)(minutes*60000):0;if(minutes>0){sleep=()->{sleepUntil=0;player.pause();publishState();};handler.postDelayed(sleep,(long)(minutes*60000));}}
  @Override public int onStartCommand(Intent i,int flags,int startId){if(i==null)return START_NOT_STICKY;String command=i.getAction();if(command==null)command="sync";
   switch(command){case "load":if(i.getBooleanExtra("autoplay",true))startForegroundPlayback();load(i.getStringExtra("queue"),i.getIntExtra("index",0),i.getDoubleExtra("position",0),i.getBooleanExtra("autoplay",true));break;
-   case "queue":updateQueue(i.getStringExtra("queue"),i.getIntExtra("index",0));break;
+   case "queue":updateQueue(i.getStringExtra("queue"),i.getIntExtra("index",0),i.getStringExtra("nextId"));break;
    case "play":error="";startForegroundPlayback();if(player.getPlaybackState()==Player.STATE_IDLE)player.prepare();player.play();break;
    case "pause":player.pause();break;case "seek":player.seekTo((long)(i.getDoubleExtra("position",0)*1000));break;
    case "next":next();break;case "previous":previous();break;
@@ -82,5 +86,6 @@ public class PlaybackService extends Service {
   }publishState();return START_NOT_STICKY;
  }
  @Override public void onDestroy(){handler.removeCallbacksAndMessages(null);if(player!=null)player.release();if(session!=null)session.release();snapshot="{}";instance=null;super.onDestroy();}
+ @Override protected void dump(java.io.FileDescriptor fd,java.io.PrintWriter writer,String[] args){writer.println(snapshot);}
  @Override public IBinder onBind(Intent i){return null;}
 }

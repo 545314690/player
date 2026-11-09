@@ -1,0 +1,33 @@
+{
+  "device": "API 34 arm64 emulator, 1536 MB, muted",
+  "checks": [
+    {
+      "mode": "shuffle",
+      "next": "s0e0b487b6cfb"
+    },
+    {
+      "mode": "one",
+      "current": "s0e0b487b6cfb",
+      "time": 4.15
+    },
+    {
+      "manualSkipInSingle": true
+    },
+    {
+      "mode": "list",
+      "next": "se8ead3e4172d"
+    },
+    {
+      "backgroundProgress": true
+    },
+    {
+      "mediaSessionPauseResume": true
+    }
+  ],
+  "version": "1.0.4",
+  "sha256": "8b7deef676c7a8de8d6325fdaec2a613755b43687ff1028091d585e34e90862c",
+  "size": 1763247,
+  "limitations": [
+    "模拟器无声音，验证解码/进度/媒体会话，不代表真机音质或厂商后台策略"
+  ]
+}

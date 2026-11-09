@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
  private class Bridge {
   @JavascriptInterface public String getState(){return PlaybackService.snapshot;}
   @JavascriptInterface public void loadQueue(String queue,int index,double position,boolean play){send(intent("load").putExtra("queue",queue).putExtra("index",index).putExtra("position",position).putExtra("autoplay",play),play);}
-  @JavascriptInterface public void updateQueue(String queue,int index){send(intent("queue").putExtra("queue",queue).putExtra("index",index),false);}
+  @JavascriptInterface public void updateQueue(String queue,int index,String nextId){send(intent("queue").putExtra("queue",queue).putExtra("index",index).putExtra("nextId",nextId),false);}
   @JavascriptInterface public void play(){send(intent("play"),true);}
   @JavascriptInterface public void pause(){send(intent("pause"),false);}
   @JavascriptInterface public void next(){send(intent("next"),true);}

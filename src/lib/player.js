@@ -9,14 +9,30 @@ export function nextIndex(queue, index, direction, repeat, shuffle, ended = fals
 }
 export function createPlayer(onState, onTrack, onError) {
   let queue=[], index=0, repeat='list', shuffle=false, sleepTimer, nativeTimer, pendingPosition=0, loading=false
+  let order=[], cursor=0
   let audio, candidates=[], sourceIndex=0, shouldPlay=false, generation=0, stalledTimer
-  const state={playing:false,loading:false,time:0,duration:0,trackId:null,error:''}
+  const state={playing:false,loading:false,time:0,duration:0,trackId:null,nextTrackId:null,orderIds:[],mode:'list',sleepUntil:0,error:''}
   const emit=patch=>{Object.assign(state,patch);onState({...state})}
   const native=()=>window.PraiseAndroid
   const nativeTracks=tracks=>JSON.stringify(tracks.map(({id,title,src,artist})=>({id,title,src,artist})))
   const updateMetadata=track=>{
     if (!('mediaSession' in navigator)) return
     navigator.mediaSession.metadata=new MediaMetadata({title:track.title,artist:track.artist,album:'赞美诗集',artwork:[{src:new URL(track.cover,document.baseURI).href,sizes:'768x768',type:'image/webp'}]})
+  }
+  function rebuildOrder(pinId=null){
+    order=queue.map((_,i)=>i)
+    if(shuffle){
+      const rest=order.filter(i=>i!==index)
+      for(let i=rest.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[rest[i],rest[j]]=[rest[j],rest[i]]}
+      order=[index,...rest]
+    }
+    cursor=Math.max(0,order.indexOf(index))
+    const pin=queue.findIndex(t=>t.id===pinId)
+    if(pin>=0&&pin!==index){order=order.filter(i=>i!==pin);cursor=order.indexOf(index);order.splice(cursor+1,0,pin)}
+  }
+  function orderState(){
+    const upcoming=repeat==='one'?index:order[nextIndex(order,cursor,1,repeat,false,true)]
+    return {mode:repeat==='one'?'one':shuffle?'shuffle':'list',orderIds:order.map(i=>queue[i]?.id).filter(Boolean),nextTrackId:queue[upcoming]?.id||null}
   }
   function clearStall(){clearTimeout(stalledTimer)}
   function failed(){clearStall();emit({playing:false,loading:false,error:'音频加载失败，已尝试主线路和备用线路。请点击重试。'});onError(state.error)}
@@ -39,13 +55,13 @@ export function createPlayer(onState, onTrack, onError) {
   function webLoad(position=0,play=true) {
     const track=queue[index];if(!track)return
     clearStall();candidates=audioSources(track);sourceIndex=0
-    emit({trackId:track.id,time:position,duration:0,loading:play,error:''});onTrack(track.id);updateMetadata(track)
+    emit({trackId:track.id,time:position,duration:0,loading:play,error:''});onTrack(track.id);updateMetadata(track);emit(orderState())
     loadSource(position,play)
   }
   function step(direction=1,ended=false) {
-    const next=nextIndex(queue,index,direction,repeat,shuffle,ended)
+    const next=nextIndex(order,cursor,direction,repeat,false,ended)
     if(next<0){audio?.pause();emit({playing:false});return}
-    index=next;webLoad()
+    cursor=next;index=order[cursor];webLoad()
   }
   if (!isNative()) {
     audio=new Audio();audio.preload='metadata';audio.crossOrigin='anonymous'
@@ -74,8 +90,8 @@ export function createPlayer(onState, onTrack, onError) {
   }
   const api={
     get state(){return state},
-    load(tracks,id,position=0,autoplay=true){queue=tracks;index=Math.max(0,tracks.findIndex(t=>t.id===id))
-      if(isNative()){native().loadQueue(nativeTracks(tracks),index,position,autoplay);onTrack(tracks[index]?.id);emit({trackId:tracks[index]?.id,time:position,error:'',loading:autoplay})}else webLoad(position,autoplay)
+    load(tracks,id,position=0,autoplay=true){if(!tracks.length){api.pause();return}queue=tracks;index=Math.max(0,tracks.findIndex(t=>t.id===id));rebuildOrder()
+      if(isNative()){native().loadQueue(nativeTracks(tracks),index,position,autoplay);onTrack(tracks[index]?.id);emit({trackId:tracks[index]?.id,time:position,error:'',loading:autoplay,nextTrackId:null,orderIds:[]})}else webLoad(position,autoplay)
     },
     resume(){if(isNative())native().play();else if(audio.src){shouldPlay=true;if(audio.error||state.error){sourceIndex=0;loadSource(state.time,true)}else{armStall();audio.play().catch(()=>{clearStall();onError('请再次点击播放，或检查音频网络。')})}}},
     pause(){shouldPlay=false;clearStall();if(isNative())native().pause();else audio.pause()},
@@ -84,9 +100,9 @@ export function createPlayer(onState, onTrack, onError) {
     next(){if(isNative())native().next();else step()},
     previous(){if(state.time>3){api.seek(0);return}if(isNative())native().previous();else step(-1)},
     volume(value){if(isNative())native().setVolume(value);else audio.volume=value},
-    mode(r,s){repeat=r;shuffle=s;if(isNative())native().setMode(r,s)},
-    sleep(minutes){clearTimeout(sleepTimer);if(isNative())native().setSleep(minutes);else if(minutes>0)sleepTimer=setTimeout(api.pause,minutes*60000)},
-    replaceQueue(tracks){const id=state.trackId;queue=tracks;index=Math.max(0,queue.findIndex(t=>t.id===id));if(isNative())native().updateQueue(nativeTracks(tracks),index)},
+    mode(r,s){const changed=shuffle!==s;repeat=r;shuffle=s;if(isNative())native().setMode(r,s);else{if(changed)rebuildOrder();emit(orderState())}},
+    sleep(minutes){clearTimeout(sleepTimer);const sleepUntil=minutes>0?Date.now()+minutes*60000:0;emit({sleepUntil});if(isNative())native().setSleep(minutes);else if(minutes>0)sleepTimer=setTimeout(()=>{api.pause();emit({sleepUntil:0})},minutes*60000)},
+    replaceQueue(tracks,pinId=null){const id=state.trackId;queue=tracks;index=Math.max(0,queue.findIndex(t=>t.id===id));rebuildOrder(pinId);if(isNative())native().updateQueue(nativeTracks(tracks),index,pinId||'');else emit(orderState())},
     destroy(){clearStall();generation++;clearInterval(nativeTimer);clearTimeout(sleepTimer);if(audio){audio.pause();audio.src=''}}
   }
   return api

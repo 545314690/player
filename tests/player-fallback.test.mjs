@@ -26,3 +26,16 @@ test('Retry after every source failed reloads the audio instead of calling play 
  const mode={failAll:true},env=setup(mode);let engine
  try{engine=createPlayer(()=>{},()=>{},()=>{});engine.load([track],track.id,0,true);await settle();await settle();assert.ok(engine.state.error);assert.equal(engine.state.playing,false);const attempts=env.audio.attempts.length;mode.failAll=false;mode.allowPrimary=true;engine.resume();await settle();assert.ok(env.audio.attempts.length>attempts);assert.match(env.audio.src,/zm\.ysaw\.top/);assert.equal(engine.state.playing,true);assert.equal(engine.state.error,'')}finally{engine?.destroy();env.restore()}
 })
+
+test('Playback engine cycles all tracks, repeats one only on end, and manual skips advance',async()=>{
+ const env=setup({allowPrimary:true});let engine
+ const tracks=Array.from({length:4},(_,i)=>({...track,id:'track'+i}))
+ try{engine=createPlayer(()=>{},()=>{},()=>{});engine.load(tracks,'track0');await settle();
+ for(let i=1;i<=4;i++){env.audio.dispatchEvent(new Event('ended'));await settle();assert.equal(engine.state.trackId,'track'+(i%4))}
+ engine.mode('one',false);assert.equal(engine.state.nextTrackId,'track0');env.audio.dispatchEvent(new Event('ended'));await settle();assert.equal(engine.state.trackId,'track0');engine.next();await settle();assert.equal(engine.state.trackId,'track1');engine.previous();await settle();assert.equal(engine.state.trackId,'track0');
+ engine.mode('list',true);const order=[...engine.state.orderIds];assert.equal(new Set(order).size,4);
+ for(let i=1;i<4;i++){assert.equal(engine.state.nextTrackId,order[i]);env.audio.dispatchEvent(new Event('ended'));await settle();assert.equal(engine.state.trackId,order[i])}
+ engine.previous();await settle();assert.equal(engine.state.trackId,order[2]);engine.next();await settle();assert.equal(engine.state.trackId,order[3]);engine.next();await settle();assert.equal(engine.state.trackId,order[0]);
+ engine.replaceQueue(tracks,'track3');assert.equal(engine.state.nextTrackId,'track3');engine.next();await settle();assert.equal(engine.state.trackId,'track3');
+ }finally{engine?.destroy();env.restore()}
+})
