@@ -35,3 +35,5 @@ npm run prepare:pages
 Android需要Java17、SDK34、Gradle8.2.1；可通过环境变量PRAISE_GRADLE覆盖本机Gradle路径。产物为debug签名，适合直接安装验收；上架前另行配置正式签名。
 
 发布前运行 `npm run prepare:pages`：确认新APK存在后同步产物，只保留当前版本安装包并清理旧构建输出。桌面启动图标使用彩色adaptive icon，通知栏使用单色状态图标；封面运行时使用768px WebP，原PNG只留作网页旧版本兼容，不进入APK或PWA预缓存。Android debug/release均启用R8与资源裁剪，并保留JS桥接方法。
+
+图标使用「光与歌页」。修改 `design/icon.json` 后运行 `npm run icons`，同步生成PWA和安卓原生资源，避免不同端图形漂移。

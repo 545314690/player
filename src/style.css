@@ -17,3 +17,5 @@
 
 .apk-download{border-color:var(--accent);color:var(--accent-ink)}.apk-download:hover{background:var(--accent-soft)}
 @media(max-width:600px){.topbar .install-button{display:none}.apk-download{min-height:34px;padding:6px 10px;font-size:11px}.topbar-actions{gap:6px}.setting-row>span{min-width:0}}
+
+.app-mark{display:block;width:31px;height:31px;flex-shrink:0}.brand-icon .app-mark{width:37px;height:37px}.mobile-brand .app-mark{width:29px;height:29px}.about .app-mark{width:30px;height:30px}

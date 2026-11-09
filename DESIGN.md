@@ -64,7 +64,7 @@ components:
 
 ## Shapes
 
-封面10px圆角、控件7px、面板12px。播放按钮54px圆形。图标使用Lucide单线条，1.7px描边。
+封面10px圆角、控件7px、面板12px。播放按钮54px圆形。操作图标使用Lucide单线条，1.7px描边。应用标志采用用户选定的「光与歌页」：左页柔绿、右页暖白、金色向上光线，深色背景。design/icon.json是标志形状与颜色的唯一来源，scripts/generate-icons.mjs生成网页SVG、PWA PNG、自适应启动前景和通知单色版。
 
 ## Components
 
