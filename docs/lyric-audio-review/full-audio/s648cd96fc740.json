@@ -1,0 +1,2861 @@
+{
+  "id": "s648cd96fc740",
+  "file": "052全新的你.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "cb2fd8d8eb8b14759f07fd62b0d3956c4105ddbd1d8e69e82a23fcac9b935b58",
+  "fullDuration": 338.050612,
+  "lines": [
+    {
+      "time": 0.28,
+      "end": 1.78,
+      "text": "作词 :孙子孙子孙",
+      "words": [
+        {
+          "time": 0.28,
+          "end": 0.58,
+          "text": "作",
+          "probability": 0.2128
+        },
+        {
+          "time": 0.28,
+          "end": 0.58,
+          "text": "词",
+          "probability": 0.7001
+        },
+        {
+          "time": 0.28,
+          "end": 0.58,
+          "text": " :",
+          "probability": 0.4497
+        },
+        {
+          "time": 1.08,
+          "end": 1.38,
+          "text": "孙",
+          "probability": 0.0382
+        },
+        {
+          "time": 1.08,
+          "end": 1.38,
+          "text": "子",
+          "probability": 0.0516
+        },
+        {
+          "time": 1.48,
+          "end": 1.78,
+          "text": "孙",
+          "probability": 0.0898
+        },
+        {
+          "time": 1.48,
+          "end": 1.78,
+          "text": "子",
+          "probability": 0.9947
+        },
+        {
+          "time": 1.48,
+          "end": 1.78,
+          "text": "孙",
+          "probability": 0.3932
+        }
+      ]
+    },
+    {
+      "time": 3.18,
+      "end": 8.4,
+      "text": "子孙子作词 :孙子孙子孙子作词 :",
+      "words": [
+        {
+          "time": 3.18,
+          "end": 3.48,
+          "text": "子",
+          "probability": 0.9967
+        },
+        {
+          "time": 3.58,
+          "end": 3.88,
+          "text": "孙",
+          "probability": 0.705
+        },
+        {
+          "time": 3.58,
+          "end": 3.88,
+          "text": "子",
+          "probability": 0.9972
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "作",
+          "probability": 0.626
+        },
+        {
+          "time": 4.08,
+          "end": 4.38,
+          "text": "词",
+          "probability": 0.7287
+        },
+        {
+          "time": 4.32,
+          "end": 4.62,
+          "text": " :",
+          "probability": 0.8582
+        },
+        {
+          "time": 5.34,
+          "end": 5.64,
+          "text": "孙",
+          "probability": 0.9579
+        },
+        {
+          "time": 5.54,
+          "end": 5.84,
+          "text": "子",
+          "probability": 0.9971
+        },
+        {
+          "time": 5.64,
+          "end": 5.94,
+          "text": "孙",
+          "probability": 0.9822
+        },
+        {
+          "time": 5.68,
+          "end": 5.98,
+          "text": "子",
+          "probability": 0.9981
+        },
+        {
+          "time": 7.16,
+          "end": 7.46,
+          "text": "孙",
+          "probability": 0.9809
+        },
+        {
+          "time": 7.48,
+          "end": 7.78,
+          "text": "子",
+          "probability": 0.9981
+        },
+        {
+          "time": 7.48,
+          "end": 7.78,
+          "text": "作",
+          "probability": 0.4378
+        },
+        {
+          "time": 8.1,
+          "end": 8.4,
+          "text": "词",
+          "probability": 0.7884
+        },
+        {
+          "time": 8.1,
+          "end": 8.4,
+          "text": " :",
+          "probability": 0.9235
+        }
+      ]
+    },
+    {
+      "time": 9.86,
+      "end": 11.74,
+      "text": "孙子孙子孙子",
+      "words": [
+        {
+          "time": 9.86,
+          "end": 10.16,
+          "text": "孙",
+          "probability": 0.9834
+        },
+        {
+          "time": 9.86,
+          "end": 10.16,
+          "text": "子",
+          "probability": 0.9976
+        },
+        {
+          "time": 9.86,
+          "end": 10.16,
+          "text": "孙",
+          "probability": 0.9908
+        },
+        {
+          "time": 10.28,
+          "end": 10.58,
+          "text": "子",
+          "probability": 0.9981
+        },
+        {
+          "time": 11.42,
+          "end": 11.72,
+          "text": "孙",
+          "probability": 0.9888
+        },
+        {
+          "time": 11.44,
+          "end": 11.74,
+          "text": "子",
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "time": 13.8,
+      "end": 19.64,
+      "text": "孙子你说阴天代表你的心情雨天更是",
+      "words": [
+        {
+          "time": 13.8,
+          "end": 14.1,
+          "text": "孙",
+          "probability": 0.9896
+        },
+        {
+          "time": 13.8,
+          "end": 14.1,
+          "text": "子",
+          "probability": 0.9979
+        },
+        {
+          "time": 13.86,
+          "end": 14.16,
+          "text": "你说",
+          "probability": 0.8841
+        },
+        {
+          "time": 14.26,
+          "end": 14.66,
+          "text": "阴",
+          "probability": 0.4715
+        },
+        {
+          "time": 14.8,
+          "end": 15.1,
+          "text": "天",
+          "probability": 0.9966
+        },
+        {
+          "time": 15.5,
+          "end": 15.8,
+          "text": "代",
+          "probability": 0.5248
+        },
+        {
+          "time": 15.86,
+          "end": 16.16,
+          "text": "表",
+          "probability": 0.9998
+        },
+        {
+          "time": 16.32,
+          "end": 16.62,
+          "text": "你的",
+          "probability": 0.9947
+        },
+        {
+          "time": 16.68,
+          "end": 16.98,
+          "text": "心",
+          "probability": 0.9968
+        },
+        {
+          "time": 17.18,
+          "end": 17.48,
+          "text": "情",
+          "probability": 0.99
+        },
+        {
+          "time": 18.48,
+          "end": 18.78,
+          "text": "雨",
+          "probability": 0.9163
+        },
+        {
+          "time": 18.74,
+          "end": 19.04,
+          "text": "天",
+          "probability": 0.9986
+        },
+        {
+          "time": 19.0,
+          "end": 19.3,
+          "text": "更",
+          "probability": 0.9821
+        },
+        {
+          "time": 19.38,
+          "end": 19.68,
+          "text": "是",
+          "probability": 0.9946
+        }
+      ]
+    },
+    {
+      "time": 19.64,
+      "end": 22.08,
+      "text": "你对生命的反应",
+      "words": [
+        {
+          "time": 19.64,
+          "end": 19.94,
+          "text": "你",
+          "probability": 0.9958
+        },
+        {
+          "time": 19.86,
+          "end": 20.16,
+          "text": "对",
+          "probability": 0.9975
+        },
+        {
+          "time": 20.22,
+          "end": 20.52,
+          "text": "生",
+          "probability": 0.9978
+        },
+        {
+          "time": 20.66,
+          "end": 20.96,
+          "text": "命",
+          "probability": 0.9983
+        },
+        {
+          "time": 21.06,
+          "end": 21.36,
+          "text": "的",
+          "probability": 0.9986
+        },
+        {
+          "time": 21.36,
+          "end": 21.66,
+          "text": "反",
+          "probability": 0.9868
+        },
+        {
+          "time": 21.78,
+          "end": 22.08,
+          "text": "应",
+          "probability": 0.9774
+        }
+      ]
+    },
+    {
+      "time": 23.38,
+      "end": 29.12,
+      "text": "你说每天生活一样平静对于未来",
+      "words": [
+        {
+          "time": 23.38,
+          "end": 23.68,
+          "text": "你说",
+          "probability": 0.987
+        },
+        {
+          "time": 23.78,
+          "end": 24.08,
+          "text": "每",
+          "probability": 0.9971
+        },
+        {
+          "time": 24.06,
+          "end": 24.36,
+          "text": "天",
+          "probability": 0.9996
+        },
+        {
+          "time": 24.56,
+          "end": 24.86,
+          "text": "生活",
+          "probability": 0.9991
+        },
+        {
+          "time": 25.36,
+          "end": 25.66,
+          "text": "一",
+          "probability": 0.9892
+        },
+        {
+          "time": 25.88,
+          "end": 26.18,
+          "text": "样",
+          "probability": 0.9934
+        },
+        {
+          "time": 26.16,
+          "end": 26.46,
+          "text": "平",
+          "probability": 0.9555
+        },
+        {
+          "time": 26.5,
+          "end": 26.96,
+          "text": "静",
+          "probability": 0.9918
+        },
+        {
+          "time": 27.98,
+          "end": 28.28,
+          "text": "对",
+          "probability": 0.8669
+        },
+        {
+          "time": 28.26,
+          "end": 28.56,
+          "text": "于",
+          "probability": 0.9957
+        },
+        {
+          "time": 28.52,
+          "end": 28.82,
+          "text": "未",
+          "probability": 0.9988
+        },
+        {
+          "time": 28.82,
+          "end": 29.12,
+          "text": "来",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 29.34,
+      "end": 31.28,
+      "text": "没有一点信息",
+      "words": [
+        {
+          "time": 29.34,
+          "end": 29.64,
+          "text": "没有",
+          "probability": 0.9795
+        },
+        {
+          "time": 30.12,
+          "end": 30.42,
+          "text": "一点",
+          "probability": 0.9942
+        },
+        {
+          "time": 30.58,
+          "end": 30.88,
+          "text": "信",
+          "probability": 0.8439
+        },
+        {
+          "time": 30.98,
+          "end": 31.28,
+          "text": "息",
+          "probability": 0.8861
+        }
+      ]
+    },
+    {
+      "time": 32.58,
+      "end": 38.32,
+      "text": "亲爱朋友你是否曾经曾经观",
+      "words": [
+        {
+          "time": 32.58,
+          "end": 32.88,
+          "text": "亲",
+          "probability": 0.9352
+        },
+        {
+          "time": 32.92,
+          "end": 33.22,
+          "text": "爱",
+          "probability": 0.9996
+        },
+        {
+          "time": 33.52,
+          "end": 33.82,
+          "text": "朋友",
+          "probability": 0.9937
+        },
+        {
+          "time": 34.7,
+          "end": 35.0,
+          "text": "你是",
+          "probability": 0.3862
+        },
+        {
+          "time": 35.16,
+          "end": 35.46,
+          "text": "否",
+          "probability": 0.9992
+        },
+        {
+          "time": 35.56,
+          "end": 35.86,
+          "text": "曾",
+          "probability": 0.9986
+        },
+        {
+          "time": 36.28,
+          "end": 36.58,
+          "text": "经",
+          "probability": 0.9915
+        },
+        {
+          "time": 37.36,
+          "end": 37.66,
+          "text": "曾",
+          "probability": 0.9986
+        },
+        {
+          "time": 37.72,
+          "end": 38.02,
+          "text": "经",
+          "probability": 0.9967
+        },
+        {
+          "time": 38.02,
+          "end": 38.32,
+          "text": "观",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 38.6,
+      "end": 44.16,
+      "text": "看满天的信息期待有人能够",
+      "words": [
+        {
+          "time": 38.6,
+          "end": 38.9,
+          "text": "看",
+          "probability": 0.9983
+        },
+        {
+          "time": 39.14,
+          "end": 39.56,
+          "text": "满",
+          "probability": 0.506
+        },
+        {
+          "time": 39.64,
+          "end": 39.94,
+          "text": "天",
+          "probability": 0.9827
+        },
+        {
+          "time": 40.06,
+          "end": 40.36,
+          "text": "的",
+          "probability": 0.9982
+        },
+        {
+          "time": 40.34,
+          "end": 40.64,
+          "text": "信",
+          "probability": 0.9624
+        },
+        {
+          "time": 40.74,
+          "end": 41.04,
+          "text": "息",
+          "probability": 0.9936
+        },
+        {
+          "time": 42.14,
+          "end": 42.44,
+          "text": "期",
+          "probability": 0.9948
+        },
+        {
+          "time": 42.46,
+          "end": 42.76,
+          "text": "待",
+          "probability": 0.9991
+        },
+        {
+          "time": 42.92,
+          "end": 43.22,
+          "text": "有人",
+          "probability": 0.9854
+        },
+        {
+          "time": 43.28,
+          "end": 43.58,
+          "text": "能",
+          "probability": 0.9995
+        },
+        {
+          "time": 43.58,
+          "end": 44.16,
+          "text": "够",
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "time": 44.24,
+      "end": 49.94,
+      "text": "了解你心能够爱你使你力量更",
+      "words": [
+        {
+          "time": 44.24,
+          "end": 44.54,
+          "text": "了",
+          "probability": 0.9952
+        },
+        {
+          "time": 44.82,
+          "end": 45.12,
+          "text": "解",
+          "probability": 0.9806
+        },
+        {
+          "time": 45.12,
+          "end": 45.42,
+          "text": "你",
+          "probability": 0.8198
+        },
+        {
+          "time": 45.48,
+          "end": 45.78,
+          "text": "心",
+          "probability": 0.9064
+        },
+        {
+          "time": 46.84,
+          "end": 47.14,
+          "text": "能",
+          "probability": 0.9959
+        },
+        {
+          "time": 47.08,
+          "end": 47.46,
+          "text": "够",
+          "probability": 0.9981
+        },
+        {
+          "time": 47.44,
+          "end": 47.74,
+          "text": "爱",
+          "probability": 0.9982
+        },
+        {
+          "time": 47.74,
+          "end": 48.04,
+          "text": "你",
+          "probability": 0.5285
+        },
+        {
+          "time": 48.04,
+          "end": 48.34,
+          "text": "使",
+          "probability": 0.5989
+        },
+        {
+          "time": 48.38,
+          "end": 48.68,
+          "text": "你",
+          "probability": 0.5314
+        },
+        {
+          "time": 48.76,
+          "end": 49.06,
+          "text": "力",
+          "probability": 0.9895
+        },
+        {
+          "time": 49.26,
+          "end": 49.56,
+          "text": "量",
+          "probability": 0.9992
+        },
+        {
+          "time": 49.64,
+          "end": 49.94,
+          "text": "更",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 50.3,
+      "end": 50.6,
+      "text": "新",
+      "words": [
+        {
+          "time": 50.3,
+          "end": 50.6,
+          "text": "新",
+          "probability": 0.9224
+        }
+      ]
+    },
+    {
+      "time": 53.46,
+      "end": 59.14,
+      "text": "耶稣能够将一切都",
+      "words": [
+        {
+          "time": 53.46,
+          "end": 53.76,
+          "text": "耶",
+          "probability": 0.9192
+        },
+        {
+          "time": 53.78,
+          "end": 54.2,
+          "text": "稣",
+          "probability": 0.9224
+        },
+        {
+          "time": 54.28,
+          "end": 54.58,
+          "text": "能",
+          "probability": 0.9535
+        },
+        {
+          "time": 54.68,
+          "end": 55.92,
+          "text": "够",
+          "probability": 0.9596
+        },
+        {
+          "time": 56.6,
+          "end": 56.9,
+          "text": "将",
+          "probability": 0.6445
+        },
+        {
+          "time": 57.38,
+          "end": 57.68,
+          "text": "一",
+          "probability": 0.9978
+        },
+        {
+          "time": 57.96,
+          "end": 58.26,
+          "text": "切",
+          "probability": 0.9997
+        },
+        {
+          "time": 58.84,
+          "end": 59.14,
+          "text": "都",
+          "probability": 0.9961
+        }
+      ]
+    },
+    {
+      "time": 59.5,
+      "end": 60.62,
+      "text": "更新",
+      "words": [
+        {
+          "time": 59.5,
+          "end": 59.8,
+          "text": "更",
+          "probability": 0.9958
+        },
+        {
+          "time": 60.32,
+          "end": 60.62,
+          "text": "新",
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "time": 62.82,
+      "end": 67.64,
+      "text": "耶稣能够体会你的",
+      "words": [
+        {
+          "time": 62.82,
+          "end": 63.12,
+          "text": "耶",
+          "probability": 0.9917
+        },
+        {
+          "time": 63.14,
+          "end": 63.6,
+          "text": "稣",
+          "probability": 0.9957
+        },
+        {
+          "time": 63.62,
+          "end": 63.92,
+          "text": "能",
+          "probability": 0.9992
+        },
+        {
+          "time": 64.0,
+          "end": 65.32,
+          "text": "够",
+          "probability": 0.9976
+        },
+        {
+          "time": 65.82,
+          "end": 66.12,
+          "text": "体",
+          "probability": 0.9703
+        },
+        {
+          "time": 66.42,
+          "end": 66.72,
+          "text": "会",
+          "probability": 0.995
+        },
+        {
+          "time": 67.34,
+          "end": 67.64,
+          "text": "你的",
+          "probability": 0.767
+        }
+      ]
+    },
+    {
+      "time": 68.9,
+      "end": 70.04,
+      "text": "心情",
+      "words": [
+        {
+          "time": 68.9,
+          "end": 69.2,
+          "text": "心",
+          "probability": 0.9929
+        },
+        {
+          "time": 69.74,
+          "end": 70.04,
+          "text": "情",
+          "probability": 0.9803
+        }
+      ]
+    },
+    {
+      "time": 72.34,
+      "end": 78.62,
+      "text": "耶稣能够改变你的曾",
+      "words": [
+        {
+          "time": 72.34,
+          "end": 72.64,
+          "text": "耶",
+          "probability": 0.9733
+        },
+        {
+          "time": 72.68,
+          "end": 73.12,
+          "text": "稣",
+          "probability": 0.9962
+        },
+        {
+          "time": 73.12,
+          "end": 73.42,
+          "text": "能",
+          "probability": 0.9994
+        },
+        {
+          "time": 73.56,
+          "end": 74.66,
+          "text": "够",
+          "probability": 0.9986
+        },
+        {
+          "time": 75.38,
+          "end": 75.68,
+          "text": "改",
+          "probability": 0.9982
+        },
+        {
+          "time": 75.9,
+          "end": 76.64,
+          "text": "变",
+          "probability": 0.9806
+        },
+        {
+          "time": 76.86,
+          "end": 77.16,
+          "text": "你的",
+          "probability": 0.9847
+        },
+        {
+          "time": 78.32,
+          "end": 78.62,
+          "text": "曾",
+          "probability": 0.9869
+        }
+      ]
+    },
+    {
+      "time": 79.18,
+      "end": 79.48,
+      "text": "经",
+      "words": [
+        {
+          "time": 79.18,
+          "end": 79.48,
+          "text": "经",
+          "probability": 0.9782
+        }
+      ]
+    },
+    {
+      "time": 81.76,
+      "end": 87.54,
+      "text": "耶稣爱你耶稣疼你耶稣能",
+      "words": [
+        {
+          "time": 81.76,
+          "end": 82.06,
+          "text": "耶",
+          "probability": 0.9388
+        },
+        {
+          "time": 82.08,
+          "end": 82.5,
+          "text": "稣",
+          "probability": 0.5743
+        },
+        {
+          "time": 82.62,
+          "end": 82.92,
+          "text": "爱",
+          "probability": 0.6505
+        },
+        {
+          "time": 83.14,
+          "end": 83.44,
+          "text": "你",
+          "probability": 0.9676
+        },
+        {
+          "time": 84.1,
+          "end": 84.4,
+          "text": "耶",
+          "probability": 0.9922
+        },
+        {
+          "time": 84.44,
+          "end": 84.82,
+          "text": "稣",
+          "probability": 0.9947
+        },
+        {
+          "time": 84.8,
+          "end": 85.24,
+          "text": "疼",
+          "probability": 0.9796
+        },
+        {
+          "time": 85.48,
+          "end": 85.78,
+          "text": "你",
+          "probability": 0.9843
+        },
+        {
+          "time": 86.46,
+          "end": 86.76,
+          "text": "耶",
+          "probability": 0.9815
+        },
+        {
+          "time": 86.78,
+          "end": 87.22,
+          "text": "稣",
+          "probability": 0.9991
+        },
+        {
+          "time": 87.24,
+          "end": 87.54,
+          "text": "能",
+          "probability": 0.9886
+        }
+      ]
+    },
+    {
+      "time": 87.92,
+      "end": 88.22,
+      "text": "造",
+      "words": [
+        {
+          "time": 87.92,
+          "end": 88.22,
+          "text": "造",
+          "probability": 0.7797
+        }
+      ]
+    },
+    {
+      "time": 90.78,
+      "end": 92.8,
+      "text": "一个全新的你",
+      "words": [
+        {
+          "time": 90.78,
+          "end": 91.08,
+          "text": "一个",
+          "probability": 0.5317
+        },
+        {
+          "time": 91.2,
+          "end": 91.5,
+          "text": "全",
+          "probability": 0.9739
+        },
+        {
+          "time": 91.62,
+          "end": 91.92,
+          "text": "新",
+          "probability": 0.8002
+        },
+        {
+          "time": 92.14,
+          "end": 92.44,
+          "text": "的",
+          "probability": 0.999
+        },
+        {
+          "time": 92.5,
+          "end": 92.8,
+          "text": "你",
+          "probability": 0.9501
+        }
+      ]
+    },
+    {
+      "time": 111.04,
+      "end": 116.7,
+      "text": "你说阴天代表你的心情雨天更是",
+      "words": [
+        {
+          "time": 111.04,
+          "end": 111.34,
+          "text": "你说",
+          "probability": 0.5259
+        },
+        {
+          "time": 111.36,
+          "end": 111.82,
+          "text": "阴",
+          "probability": 0.5205
+        },
+        {
+          "time": 111.88,
+          "end": 112.18,
+          "text": "天",
+          "probability": 0.9984
+        },
+        {
+          "time": 112.56,
+          "end": 112.86,
+          "text": "代",
+          "probability": 0.6921
+        },
+        {
+          "time": 112.94,
+          "end": 113.24,
+          "text": "表",
+          "probability": 0.9997
+        },
+        {
+          "time": 113.38,
+          "end": 113.68,
+          "text": "你的",
+          "probability": 0.9899
+        },
+        {
+          "time": 113.8,
+          "end": 114.1,
+          "text": "心",
+          "probability": 0.963
+        },
+        {
+          "time": 114.28,
+          "end": 114.58,
+          "text": "情",
+          "probability": 0.9163
+        },
+        {
+          "time": 115.54,
+          "end": 115.84,
+          "text": "雨",
+          "probability": 0.978
+        },
+        {
+          "time": 115.84,
+          "end": 116.14,
+          "text": "天",
+          "probability": 0.9917
+        },
+        {
+          "time": 116.1,
+          "end": 116.4,
+          "text": "更",
+          "probability": 0.9462
+        },
+        {
+          "time": 116.42,
+          "end": 116.72,
+          "text": "是",
+          "probability": 0.9926
+        }
+      ]
+    },
+    {
+      "time": 116.7,
+      "end": 119.14,
+      "text": "你对生命的反应",
+      "words": [
+        {
+          "time": 116.7,
+          "end": 117.0,
+          "text": "你",
+          "probability": 0.9851
+        },
+        {
+          "time": 116.94,
+          "end": 117.24,
+          "text": "对",
+          "probability": 0.9927
+        },
+        {
+          "time": 117.28,
+          "end": 117.58,
+          "text": "生",
+          "probability": 0.9974
+        },
+        {
+          "time": 117.7,
+          "end": 118.0,
+          "text": "命",
+          "probability": 0.9997
+        },
+        {
+          "time": 118.1,
+          "end": 118.4,
+          "text": "的",
+          "probability": 0.996
+        },
+        {
+          "time": 118.42,
+          "end": 118.72,
+          "text": "反",
+          "probability": 0.9608
+        },
+        {
+          "time": 118.84,
+          "end": 119.14,
+          "text": "应",
+          "probability": 0.9601
+        }
+      ]
+    },
+    {
+      "time": 120.44,
+      "end": 126.16,
+      "text": "你说每天生活一样平静对于未来",
+      "words": [
+        {
+          "time": 120.44,
+          "end": 120.74,
+          "text": "你说",
+          "probability": 0.995
+        },
+        {
+          "time": 120.78,
+          "end": 121.08,
+          "text": "每",
+          "probability": 0.9961
+        },
+        {
+          "time": 121.12,
+          "end": 121.42,
+          "text": "天",
+          "probability": 0.994
+        },
+        {
+          "time": 121.68,
+          "end": 121.98,
+          "text": "生活",
+          "probability": 0.9952
+        },
+        {
+          "time": 122.84,
+          "end": 123.14,
+          "text": "一样",
+          "probability": 0.9401
+        },
+        {
+          "time": 123.34,
+          "end": 123.64,
+          "text": "平",
+          "probability": 0.99
+        },
+        {
+          "time": 123.68,
+          "end": 124.24,
+          "text": "静",
+          "probability": 0.9855
+        },
+        {
+          "time": 124.96,
+          "end": 125.26,
+          "text": "对",
+          "probability": 0.9986
+        },
+        {
+          "time": 125.28,
+          "end": 125.58,
+          "text": "于",
+          "probability": 0.996
+        },
+        {
+          "time": 125.52,
+          "end": 125.82,
+          "text": "未",
+          "probability": 0.9991
+        },
+        {
+          "time": 125.86,
+          "end": 126.16,
+          "text": "来",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 126.32,
+      "end": 128.36,
+      "text": "没有一点信心",
+      "words": [
+        {
+          "time": 126.32,
+          "end": 126.62,
+          "text": "没有",
+          "probability": 0.9878
+        },
+        {
+          "time": 127.14,
+          "end": 127.44,
+          "text": "一点",
+          "probability": 0.9945
+        },
+        {
+          "time": 127.64,
+          "end": 127.94,
+          "text": "信",
+          "probability": 0.4881
+        },
+        {
+          "time": 128.06,
+          "end": 128.36,
+          "text": "心",
+          "probability": 0.8307
+        }
+      ]
+    },
+    {
+      "time": 129.64,
+      "end": 135.36,
+      "text": "亲爱朋友你是否曾经曾经观",
+      "words": [
+        {
+          "time": 129.64,
+          "end": 129.94,
+          "text": "亲",
+          "probability": 0.9751
+        },
+        {
+          "time": 129.98,
+          "end": 130.28,
+          "text": "爱",
+          "probability": 0.9977
+        },
+        {
+          "time": 130.7,
+          "end": 131.0,
+          "text": "朋友",
+          "probability": 0.9954
+        },
+        {
+          "time": 131.74,
+          "end": 132.04,
+          "text": "你是",
+          "probability": 0.5092
+        },
+        {
+          "time": 132.24,
+          "end": 132.54,
+          "text": "否",
+          "probability": 0.9997
+        },
+        {
+          "time": 132.62,
+          "end": 132.92,
+          "text": "曾",
+          "probability": 0.9989
+        },
+        {
+          "time": 133.22,
+          "end": 133.52,
+          "text": "经",
+          "probability": 0.9697
+        },
+        {
+          "time": 134.4,
+          "end": 134.7,
+          "text": "曾",
+          "probability": 0.9954
+        },
+        {
+          "time": 134.74,
+          "end": 135.04,
+          "text": "经",
+          "probability": 0.9977
+        },
+        {
+          "time": 135.06,
+          "end": 135.36,
+          "text": "观",
+          "probability": 0.9909
+        }
+      ]
+    },
+    {
+      "time": 135.66,
+      "end": 141.54,
+      "text": "看满天的星星期待有人能够了",
+      "words": [
+        {
+          "time": 135.66,
+          "end": 135.96,
+          "text": "看",
+          "probability": 0.9988
+        },
+        {
+          "time": 136.26,
+          "end": 136.56,
+          "text": "满",
+          "probability": 0.5754
+        },
+        {
+          "time": 136.72,
+          "end": 137.02,
+          "text": "天",
+          "probability": 0.9993
+        },
+        {
+          "time": 137.06,
+          "end": 137.36,
+          "text": "的",
+          "probability": 0.9989
+        },
+        {
+          "time": 137.34,
+          "end": 137.64,
+          "text": "星",
+          "probability": 0.4916
+        },
+        {
+          "time": 137.74,
+          "end": 138.04,
+          "text": "星",
+          "probability": 0.7213
+        },
+        {
+          "time": 139.14,
+          "end": 139.44,
+          "text": "期",
+          "probability": 0.9628
+        },
+        {
+          "time": 139.46,
+          "end": 139.76,
+          "text": "待",
+          "probability": 0.9988
+        },
+        {
+          "time": 140.0,
+          "end": 140.3,
+          "text": "有人",
+          "probability": 0.9879
+        },
+        {
+          "time": 140.36,
+          "end": 140.66,
+          "text": "能",
+          "probability": 0.9984
+        },
+        {
+          "time": 140.6,
+          "end": 141.1,
+          "text": "够",
+          "probability": 0.8999
+        },
+        {
+          "time": 141.24,
+          "end": 141.54,
+          "text": "了",
+          "probability": 0.9843
+        }
+      ]
+    },
+    {
+      "time": 141.84,
+      "end": 147.82,
+      "text": "解理性能够爱祢使祢力量更新",
+      "words": [
+        {
+          "time": 141.84,
+          "end": 142.14,
+          "text": "解",
+          "probability": 0.9845
+        },
+        {
+          "time": 142.1,
+          "end": 142.4,
+          "text": "理",
+          "probability": 0.9499
+        },
+        {
+          "time": 142.52,
+          "end": 142.82,
+          "text": "性",
+          "probability": 0.9346
+        },
+        {
+          "time": 143.84,
+          "end": 144.14,
+          "text": "能",
+          "probability": 0.9983
+        },
+        {
+          "time": 144.1,
+          "end": 144.48,
+          "text": "够",
+          "probability": 0.9855
+        },
+        {
+          "time": 144.5,
+          "end": 144.8,
+          "text": "爱",
+          "probability": 0.991
+        },
+        {
+          "time": 144.74,
+          "end": 145.06,
+          "text": "祢",
+          "probability": 0.4541
+        },
+        {
+          "time": 145.08,
+          "end": 145.38,
+          "text": "使",
+          "probability": 0.6186
+        },
+        {
+          "time": 145.32,
+          "end": 145.68,
+          "text": "祢",
+          "probability": 0.8667
+        },
+        {
+          "time": 145.76,
+          "end": 146.06,
+          "text": "力",
+          "probability": 0.9887
+        },
+        {
+          "time": 146.28,
+          "end": 146.58,
+          "text": "量",
+          "probability": 0.9988
+        },
+        {
+          "time": 146.68,
+          "end": 146.98,
+          "text": "更",
+          "probability": 0.9988
+        },
+        {
+          "time": 147.52,
+          "end": 147.82,
+          "text": "新",
+          "probability": 0.9879
+        }
+      ]
+    },
+    {
+      "time": 150.44,
+      "end": 156.22,
+      "text": "耶稣能够将一切都",
+      "words": [
+        {
+          "time": 150.44,
+          "end": 150.74,
+          "text": "耶",
+          "probability": 0.9805
+        },
+        {
+          "time": 150.7,
+          "end": 151.2,
+          "text": "稣",
+          "probability": 0.9879
+        },
+        {
+          "time": 151.28,
+          "end": 151.58,
+          "text": "能",
+          "probability": 0.9882
+        },
+        {
+          "time": 151.66,
+          "end": 153.06,
+          "text": "够",
+          "probability": 0.9982
+        },
+        {
+          "time": 153.6,
+          "end": 153.9,
+          "text": "将",
+          "probability": 0.8051
+        },
+        {
+          "time": 154.24,
+          "end": 154.54,
+          "text": "一",
+          "probability": 0.9781
+        },
+        {
+          "time": 154.98,
+          "end": 155.28,
+          "text": "切",
+          "probability": 0.9996
+        },
+        {
+          "time": 155.92,
+          "end": 156.22,
+          "text": "都",
+          "probability": 0.9916
+        }
+      ]
+    },
+    {
+      "time": 156.48,
+      "end": 157.68,
+      "text": "更新",
+      "words": [
+        {
+          "time": 156.48,
+          "end": 156.78,
+          "text": "更",
+          "probability": 0.9932
+        },
+        {
+          "time": 157.38,
+          "end": 157.68,
+          "text": "新",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 159.92,
+      "end": 166.12,
+      "text": "耶稣能够体会你的心",
+      "words": [
+        {
+          "time": 159.92,
+          "end": 160.22,
+          "text": "耶",
+          "probability": 0.9622
+        },
+        {
+          "time": 160.2,
+          "end": 160.6,
+          "text": "稣",
+          "probability": 0.9197
+        },
+        {
+          "time": 160.66,
+          "end": 160.96,
+          "text": "能",
+          "probability": 0.9466
+        },
+        {
+          "time": 161.08,
+          "end": 162.4,
+          "text": "够",
+          "probability": 0.9608
+        },
+        {
+          "time": 162.82,
+          "end": 163.12,
+          "text": "体",
+          "probability": 0.7108
+        },
+        {
+          "time": 163.68,
+          "end": 163.98,
+          "text": "会",
+          "probability": 0.963
+        },
+        {
+          "time": 164.7,
+          "end": 165.0,
+          "text": "你的",
+          "probability": 0.8125
+        },
+        {
+          "time": 165.82,
+          "end": 166.12,
+          "text": "心",
+          "probability": 0.9699
+        }
+      ]
+    },
+    {
+      "time": 166.78,
+      "end": 167.08,
+      "text": "情",
+      "words": [
+        {
+          "time": 166.78,
+          "end": 167.08,
+          "text": "情",
+          "probability": 0.8624
+        }
+      ]
+    },
+    {
+      "time": 169.38,
+      "end": 175.58,
+      "text": "耶稣能够改变你的曾",
+      "words": [
+        {
+          "time": 169.38,
+          "end": 169.68,
+          "text": "耶",
+          "probability": 0.9869
+        },
+        {
+          "time": 169.66,
+          "end": 170.08,
+          "text": "稣",
+          "probability": 0.996
+        },
+        {
+          "time": 170.1,
+          "end": 170.4,
+          "text": "能",
+          "probability": 0.9994
+        },
+        {
+          "time": 170.54,
+          "end": 172.2,
+          "text": "够",
+          "probability": 0.9987
+        },
+        {
+          "time": 172.36,
+          "end": 172.66,
+          "text": "改",
+          "probability": 0.8136
+        },
+        {
+          "time": 172.86,
+          "end": 173.64,
+          "text": "变",
+          "probability": 0.9941
+        },
+        {
+          "time": 173.92,
+          "end": 174.22,
+          "text": "你的",
+          "probability": 0.9509
+        },
+        {
+          "time": 175.28,
+          "end": 175.58,
+          "text": "曾",
+          "probability": 0.669
+        }
+      ]
+    },
+    {
+      "time": 176.24,
+      "end": 176.54,
+      "text": "经",
+      "words": [
+        {
+          "time": 176.24,
+          "end": 176.54,
+          "text": "经",
+          "probability": 0.9915
+        }
+      ]
+    },
+    {
+      "time": 178.82,
+      "end": 184.66,
+      "text": "耶稣爱你耶稣疼你耶稣能",
+      "words": [
+        {
+          "time": 178.82,
+          "end": 179.12,
+          "text": "耶",
+          "probability": 0.8597
+        },
+        {
+          "time": 179.1,
+          "end": 179.52,
+          "text": "稣",
+          "probability": 0.9964
+        },
+        {
+          "time": 179.6,
+          "end": 179.9,
+          "text": "爱",
+          "probability": 0.9915
+        },
+        {
+          "time": 180.08,
+          "end": 180.38,
+          "text": "你",
+          "probability": 0.9717
+        },
+        {
+          "time": 181.16,
+          "end": 181.46,
+          "text": "耶",
+          "probability": 0.9904
+        },
+        {
+          "time": 181.52,
+          "end": 181.9,
+          "text": "稣",
+          "probability": 0.9935
+        },
+        {
+          "time": 181.92,
+          "end": 182.36,
+          "text": "疼",
+          "probability": 0.9691
+        },
+        {
+          "time": 182.56,
+          "end": 182.86,
+          "text": "你",
+          "probability": 0.9831
+        },
+        {
+          "time": 183.52,
+          "end": 183.82,
+          "text": "耶",
+          "probability": 0.9668
+        },
+        {
+          "time": 183.82,
+          "end": 184.24,
+          "text": "稣",
+          "probability": 0.9685
+        },
+        {
+          "time": 184.36,
+          "end": 184.66,
+          "text": "能",
+          "probability": 0.9767
+        }
+      ]
+    },
+    {
+      "time": 184.86,
+      "end": 185.16,
+      "text": "造",
+      "words": [
+        {
+          "time": 184.86,
+          "end": 185.16,
+          "text": "造",
+          "probability": 0.8212
+        }
+      ]
+    },
+    {
+      "time": 187.78,
+      "end": 189.9,
+      "text": "一个全新的你",
+      "words": [
+        {
+          "time": 187.78,
+          "end": 188.08,
+          "text": "一个",
+          "probability": 0.5079
+        },
+        {
+          "time": 188.28,
+          "end": 188.58,
+          "text": "全",
+          "probability": 0.9876
+        },
+        {
+          "time": 188.66,
+          "end": 188.96,
+          "text": "新",
+          "probability": 0.9414
+        },
+        {
+          "time": 189.14,
+          "end": 189.44,
+          "text": "的",
+          "probability": 0.9956
+        },
+        {
+          "time": 189.6,
+          "end": 189.9,
+          "text": "你",
+          "probability": 0.3954
+        }
+      ]
+    },
+    {
+      "time": 193.02,
+      "end": 198.82,
+      "text": "耶稣能够将一切都",
+      "words": [
+        {
+          "time": 193.02,
+          "end": 193.32,
+          "text": "耶",
+          "probability": 0.996
+        },
+        {
+          "time": 193.34,
+          "end": 193.74,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 193.8,
+          "end": 194.1,
+          "text": "能",
+          "probability": 0.9998
+        },
+        {
+          "time": 194.26,
+          "end": 195.56,
+          "text": "够",
+          "probability": 0.9755
+        },
+        {
+          "time": 196.12,
+          "end": 196.42,
+          "text": "将",
+          "probability": 0.8879
+        },
+        {
+          "time": 196.64,
+          "end": 196.94,
+          "text": "一",
+          "probability": 0.8747
+        },
+        {
+          "time": 197.54,
+          "end": 197.84,
+          "text": "切",
+          "probability": 0.9971
+        },
+        {
+          "time": 198.52,
+          "end": 198.82,
+          "text": "都",
+          "probability": 0.9541
+        }
+      ]
+    },
+    {
+      "time": 199.0,
+      "end": 200.16,
+      "text": "更新",
+      "words": [
+        {
+          "time": 199.0,
+          "end": 199.3,
+          "text": "更",
+          "probability": 0.715
+        },
+        {
+          "time": 199.86,
+          "end": 200.16,
+          "text": "新",
+          "probability": 0.9885
+        }
+      ]
+    },
+    {
+      "time": 202.48,
+      "end": 208.7,
+      "text": "耶稣能够体会你的心",
+      "words": [
+        {
+          "time": 202.48,
+          "end": 202.78,
+          "text": "耶",
+          "probability": 0.9872
+        },
+        {
+          "time": 202.82,
+          "end": 203.2,
+          "text": "稣",
+          "probability": 0.9994
+        },
+        {
+          "time": 203.26,
+          "end": 203.56,
+          "text": "能",
+          "probability": 0.9999
+        },
+        {
+          "time": 203.74,
+          "end": 205.42,
+          "text": "够",
+          "probability": 0.998
+        },
+        {
+          "time": 205.48,
+          "end": 205.78,
+          "text": "体",
+          "probability": 0.5208
+        },
+        {
+          "time": 206.36,
+          "end": 206.66,
+          "text": "会",
+          "probability": 0.9843
+        },
+        {
+          "time": 207.6,
+          "end": 207.9,
+          "text": "你的",
+          "probability": 0.9875
+        },
+        {
+          "time": 208.4,
+          "end": 208.7,
+          "text": "心",
+          "probability": 0.9955
+        }
+      ]
+    },
+    {
+      "time": 209.3,
+      "end": 209.6,
+      "text": "情",
+      "words": [
+        {
+          "time": 209.3,
+          "end": 209.6,
+          "text": "情",
+          "probability": 0.8788
+        }
+      ]
+    },
+    {
+      "time": 211.9,
+      "end": 218.14,
+      "text": "耶稣能够改变你的曾",
+      "words": [
+        {
+          "time": 211.9,
+          "end": 212.2,
+          "text": "耶",
+          "probability": 0.8709
+        },
+        {
+          "time": 212.22,
+          "end": 212.62,
+          "text": "稣",
+          "probability": 0.9403
+        },
+        {
+          "time": 212.66,
+          "end": 212.96,
+          "text": "能",
+          "probability": 0.9109
+        },
+        {
+          "time": 213.24,
+          "end": 214.34,
+          "text": "够",
+          "probability": 0.9499
+        },
+        {
+          "time": 214.94,
+          "end": 215.24,
+          "text": "改",
+          "probability": 0.8001
+        },
+        {
+          "time": 215.48,
+          "end": 216.22,
+          "text": "变",
+          "probability": 0.9905
+        },
+        {
+          "time": 216.5,
+          "end": 216.8,
+          "text": "你的",
+          "probability": 0.7269
+        },
+        {
+          "time": 217.84,
+          "end": 218.14,
+          "text": "曾",
+          "probability": 0.8113
+        }
+      ]
+    },
+    {
+      "time": 218.84,
+      "end": 219.14,
+      "text": "经",
+      "words": [
+        {
+          "time": 218.84,
+          "end": 219.14,
+          "text": "经",
+          "probability": 0.9884
+        }
+      ]
+    },
+    {
+      "time": 221.42,
+      "end": 227.2,
+      "text": "耶稣爱你耶稣吞地耶稣能",
+      "words": [
+        {
+          "time": 221.42,
+          "end": 221.72,
+          "text": "耶",
+          "probability": 0.9893
+        },
+        {
+          "time": 221.7,
+          "end": 222.12,
+          "text": "稣",
+          "probability": 0.9966
+        },
+        {
+          "time": 222.22,
+          "end": 222.52,
+          "text": "爱",
+          "probability": 0.9965
+        },
+        {
+          "time": 222.74,
+          "end": 223.04,
+          "text": "你",
+          "probability": 0.9764
+        },
+        {
+          "time": 223.76,
+          "end": 224.06,
+          "text": "耶",
+          "probability": 0.9897
+        },
+        {
+          "time": 224.1,
+          "end": 224.5,
+          "text": "稣",
+          "probability": 0.9976
+        },
+        {
+          "time": 224.52,
+          "end": 224.94,
+          "text": "吞",
+          "probability": 0.1827
+        },
+        {
+          "time": 225.04,
+          "end": 225.34,
+          "text": "地",
+          "probability": 0.1559
+        },
+        {
+          "time": 226.1,
+          "end": 226.4,
+          "text": "耶",
+          "probability": 0.9824
+        },
+        {
+          "time": 226.42,
+          "end": 226.84,
+          "text": "稣",
+          "probability": 0.9994
+        },
+        {
+          "time": 226.9,
+          "end": 227.2,
+          "text": "能",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 227.46,
+      "end": 227.76,
+      "text": "造",
+      "words": [
+        {
+          "time": 227.46,
+          "end": 227.76,
+          "text": "造",
+          "probability": 0.9536
+        }
+      ]
+    },
+    {
+      "time": 230.38,
+      "end": 232.36,
+      "text": "一个全新的你",
+      "words": [
+        {
+          "time": 230.38,
+          "end": 230.68,
+          "text": "一个",
+          "probability": 0.8399
+        },
+        {
+          "time": 230.84,
+          "end": 231.14,
+          "text": "全",
+          "probability": 0.9965
+        },
+        {
+          "time": 231.24,
+          "end": 231.54,
+          "text": "新",
+          "probability": 0.9477
+        },
+        {
+          "time": 231.66,
+          "end": 231.96,
+          "text": "的",
+          "probability": 0.9969
+        },
+        {
+          "time": 232.06,
+          "end": 232.36,
+          "text": "你",
+          "probability": 0.439
+        }
+      ]
+    },
+    {
+      "time": 235.68,
+      "end": 241.42,
+      "text": "耶稣能够将一切都",
+      "words": [
+        {
+          "time": 235.68,
+          "end": 235.98,
+          "text": "耶",
+          "probability": 0.9515
+        },
+        {
+          "time": 236.0,
+          "end": 236.4,
+          "text": "稣",
+          "probability": 0.8569
+        },
+        {
+          "time": 236.48,
+          "end": 236.78,
+          "text": "能",
+          "probability": 0.9815
+        },
+        {
+          "time": 236.92,
+          "end": 238.2,
+          "text": "够",
+          "probability": 0.9877
+        },
+        {
+          "time": 238.76,
+          "end": 239.06,
+          "text": "将",
+          "probability": 0.699
+        },
+        {
+          "time": 239.4,
+          "end": 239.7,
+          "text": "一",
+          "probability": 0.9594
+        },
+        {
+          "time": 240.42,
+          "end": 240.72,
+          "text": "切",
+          "probability": 0.9996
+        },
+        {
+          "time": 241.12,
+          "end": 241.42,
+          "text": "都",
+          "probability": 0.955
+        }
+      ]
+    },
+    {
+      "time": 241.6,
+      "end": 242.74,
+      "text": "担心",
+      "words": [
+        {
+          "time": 241.6,
+          "end": 242.22,
+          "text": "担",
+          "probability": 0.1411
+        },
+        {
+          "time": 242.44,
+          "end": 242.74,
+          "text": "心",
+          "probability": 0.9557
+        }
+      ]
+    },
+    {
+      "time": 245.12,
+      "end": 251.36,
+      "text": "耶稣能够体会你的心",
+      "words": [
+        {
+          "time": 245.12,
+          "end": 245.42,
+          "text": "耶",
+          "probability": 0.9743
+        },
+        {
+          "time": 245.42,
+          "end": 245.82,
+          "text": "稣",
+          "probability": 0.9984
+        },
+        {
+          "time": 245.84,
+          "end": 246.14,
+          "text": "能",
+          "probability": 0.9995
+        },
+        {
+          "time": 246.32,
+          "end": 247.98,
+          "text": "够",
+          "probability": 0.9998
+        },
+        {
+          "time": 248.08,
+          "end": 248.38,
+          "text": "体",
+          "probability": 0.2626
+        },
+        {
+          "time": 248.8,
+          "end": 249.1,
+          "text": "会",
+          "probability": 0.9641
+        },
+        {
+          "time": 249.96,
+          "end": 250.26,
+          "text": "你的",
+          "probability": 0.9551
+        },
+        {
+          "time": 251.06,
+          "end": 251.36,
+          "text": "心",
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "time": 252.0,
+      "end": 252.3,
+      "text": "情",
+      "words": [
+        {
+          "time": 252.0,
+          "end": 252.3,
+          "text": "情",
+          "probability": 0.6585
+        }
+      ]
+    },
+    {
+      "time": 254.62,
+      "end": 260.82,
+      "text": "耶稣能够改变你的场",
+      "words": [
+        {
+          "time": 254.62,
+          "end": 254.92,
+          "text": "耶",
+          "probability": 0.6359
+        },
+        {
+          "time": 254.9,
+          "end": 255.28,
+          "text": "稣",
+          "probability": 0.8655
+        },
+        {
+          "time": 255.32,
+          "end": 255.62,
+          "text": "能",
+          "probability": 0.5902
+        },
+        {
+          "time": 255.78,
+          "end": 257.06,
+          "text": "够",
+          "probability": 0.7828
+        },
+        {
+          "time": 257.58,
+          "end": 257.88,
+          "text": "改",
+          "probability": 0.5169
+        },
+        {
+          "time": 258.1,
+          "end": 258.9,
+          "text": "变",
+          "probability": 0.9641
+        },
+        {
+          "time": 259.12,
+          "end": 259.42,
+          "text": "你的",
+          "probability": 0.7048
+        },
+        {
+          "time": 260.52,
+          "end": 260.82,
+          "text": "场",
+          "probability": 0.1256
+        }
+      ]
+    },
+    {
+      "time": 261.4,
+      "end": 261.7,
+      "text": "景",
+      "words": [
+        {
+          "time": 261.4,
+          "end": 261.7,
+          "text": "景",
+          "probability": 0.5924
+        }
+      ]
+    },
+    {
+      "time": 263.98,
+      "end": 269.5,
+      "text": "耶稣爱你耶稣疼你耶稣",
+      "words": [
+        {
+          "time": 263.98,
+          "end": 264.28,
+          "text": "耶",
+          "probability": 0.9883
+        },
+        {
+          "time": 264.28,
+          "end": 264.74,
+          "text": "稣",
+          "probability": 0.9926
+        },
+        {
+          "time": 264.82,
+          "end": 265.12,
+          "text": "爱",
+          "probability": 0.9968
+        },
+        {
+          "time": 265.3,
+          "end": 265.6,
+          "text": "你",
+          "probability": 0.9165
+        },
+        {
+          "time": 266.38,
+          "end": 266.68,
+          "text": "耶",
+          "probability": 0.998
+        },
+        {
+          "time": 266.7,
+          "end": 267.1,
+          "text": "稣",
+          "probability": 0.9965
+        },
+        {
+          "time": 267.12,
+          "end": 267.54,
+          "text": "疼",
+          "probability": 0.5344
+        },
+        {
+          "time": 267.74,
+          "end": 268.04,
+          "text": "你",
+          "probability": 0.8982
+        },
+        {
+          "time": 268.74,
+          "end": 269.04,
+          "text": "耶",
+          "probability": 0.991
+        },
+        {
+          "time": 269.06,
+          "end": 269.5,
+          "text": "稣",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 269.58,
+      "end": 270.68,
+      "text": "能造",
+      "words": [
+        {
+          "time": 269.58,
+          "end": 269.88,
+          "text": "能",
+          "probability": 0.9978
+        },
+        {
+          "time": 270.38,
+          "end": 270.68,
+          "text": "造",
+          "probability": 0.122
+        }
+      ]
+    },
+    {
+      "time": 272.26,
+      "end": 275.26,
+      "text": "赢了全心的你",
+      "words": [
+        {
+          "time": 272.26,
+          "end": 272.92,
+          "text": "赢",
+          "probability": 0.831
+        },
+        {
+          "time": 273.2,
+          "end": 273.5,
+          "text": "了",
+          "probability": 0.926
+        },
+        {
+          "time": 273.5,
+          "end": 273.8,
+          "text": "全",
+          "probability": 0.96
+        },
+        {
+          "time": 273.96,
+          "end": 274.26,
+          "text": "心",
+          "probability": 0.6185
+        },
+        {
+          "time": 274.4,
+          "end": 274.7,
+          "text": "的",
+          "probability": 0.9873
+        },
+        {
+          "time": 274.96,
+          "end": 275.26,
+          "text": "你",
+          "probability": 0.6727
+        }
+      ]
+    },
+    {
+      "time": 278.24,
+      "end": 283.78,
+      "text": "耶稣爱你耶稣的你耶稣的",
+      "words": [
+        {
+          "time": 278.24,
+          "end": 278.54,
+          "text": "耶",
+          "probability": 0.9647
+        },
+        {
+          "time": 278.58,
+          "end": 278.98,
+          "text": "稣",
+          "probability": 0.7695
+        },
+        {
+          "time": 279.1,
+          "end": 279.4,
+          "text": "爱",
+          "probability": 0.9842
+        },
+        {
+          "time": 279.56,
+          "end": 279.86,
+          "text": "你",
+          "probability": 0.8709
+        },
+        {
+          "time": 280.6,
+          "end": 280.9,
+          "text": "耶",
+          "probability": 0.9874
+        },
+        {
+          "time": 280.88,
+          "end": 281.28,
+          "text": "稣",
+          "probability": 0.9929
+        },
+        {
+          "time": 281.36,
+          "end": 281.66,
+          "text": "的",
+          "probability": 0.3367
+        },
+        {
+          "time": 281.72,
+          "end": 282.02,
+          "text": "你",
+          "probability": 0.871
+        },
+        {
+          "time": 282.88,
+          "end": 283.18,
+          "text": "耶",
+          "probability": 0.9921
+        },
+        {
+          "time": 283.22,
+          "end": 283.58,
+          "text": "稣",
+          "probability": 0.9969
+        },
+        {
+          "time": 283.64,
+          "end": 283.94,
+          "text": "的",
+          "probability": 0.7719
+        }
+      ]
+    },
+    {
+      "time": 283.78,
+      "end": 284.08,
+      "text": "你",
+      "words": [
+        {
+          "time": 283.78,
+          "end": 284.08,
+          "text": "你",
+          "probability": 0.5684
+        }
+      ]
+    },
+    {
+      "time": 287.32,
+      "end": 289.38,
+      "text": "一个全新的你",
+      "words": [
+        {
+          "time": 287.32,
+          "end": 287.62,
+          "text": "一个",
+          "probability": 0.4362
+        },
+        {
+          "time": 287.72,
+          "end": 288.02,
+          "text": "全",
+          "probability": 0.8654
+        },
+        {
+          "time": 288.12,
+          "end": 288.42,
+          "text": "新",
+          "probability": 0.6352
+        },
+        {
+          "time": 288.58,
+          "end": 288.88,
+          "text": "的",
+          "probability": 0.9979
+        },
+        {
+          "time": 289.08,
+          "end": 289.38,
+          "text": "你",
+          "probability": 0.9801
+        }
+      ]
+    },
+    {
+      "time": 292.02,
+      "end": 294.24,
+      "text": "一个全新的你",
+      "words": [
+        {
+          "time": 292.02,
+          "end": 292.32,
+          "text": "一个",
+          "probability": 0.9293
+        },
+        {
+          "time": 292.48,
+          "end": 292.78,
+          "text": "全",
+          "probability": 0.9972
+        },
+        {
+          "time": 292.82,
+          "end": 293.12,
+          "text": "新",
+          "probability": 0.9999
+        },
+        {
+          "time": 293.26,
+          "end": 293.56,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 293.94,
+          "end": 294.24,
+          "text": "你",
+          "probability": 0.9985
+        }
+      ]
+    },
+    {
+      "time": 296.74,
+      "end": 299.22,
+      "text": "一个全新的你",
+      "words": [
+        {
+          "time": 296.74,
+          "end": 297.04,
+          "text": "一个",
+          "probability": 0.8908
+        },
+        {
+          "time": 297.28,
+          "end": 297.58,
+          "text": "全",
+          "probability": 0.9986
+        },
+        {
+          "time": 297.7,
+          "end": 298.0,
+          "text": "新",
+          "probability": 1.0
+        },
+        {
+          "time": 298.3,
+          "end": 298.6,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 298.92,
+          "end": 299.22,
+          "text": "你",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 335.66,
+      "end": 335.96,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "优",
+          "probability": 0.2648
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "优",
+          "probability": 0.9906
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "独",
+          "probability": 0.9942
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "播",
+          "probability": 0.9845
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "剧",
+          "probability": 0.9881
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "场",
+          "probability": 0.99
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "——",
+          "probability": 0.9941
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "Yo",
+          "probability": 0.9892
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "Yo",
+          "probability": 0.9922
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": " Television",
+          "probability": 0.9888
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": " Series",
+          "probability": 0.9892
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": " Exc",
+          "probability": 0.9889
+        },
+        {
+          "time": 335.66,
+          "end": 335.96,
+          "text": "lusive",
+          "probability": 0.9905
+        }
+      ]
+    },
+    {
+      "time": 337.84,
+      "end": 338.18,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 337.84,
+          "end": 338.18,
+          "text": "优",
+          "probability": 0.0464
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "优",
+          "probability": 0.9904
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "独",
+          "probability": 0.991
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "播",
+          "probability": 0.9867
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "剧",
+          "probability": 0.9888
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "场",
+          "probability": 0.9873
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "——",
+          "probability": 0.9944
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "Yo",
+          "probability": 0.9912
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "Yo",
+          "probability": 0.9931
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": " Television",
+          "probability": 0.9833
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": " Series",
+          "probability": 0.9898
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": " Exc",
+          "probability": 0.9929
+        },
+        {
+          "time": 337.88,
+          "end": 338.18,
+          "text": "lusive",
+          "probability": 0.9924
+        }
+      ]
+    }
+  ]
+}

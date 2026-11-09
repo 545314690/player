@@ -1,0 +1,177 @@
+{
+  "id": "sc0df76f25ff3",
+  "file": "140众山怎样围绕耶路撒冷.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "8389",
+    "url": "https://www.izanmei.cc/song/8389.html",
+    "audio": "https://play.izanm.org/song/p/8389.mp3",
+    "offset": 0.053318,
+    "scale": 1.000000663,
+    "residual": 0.000659,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 13.847,
+        "sourceStart": 13.9,
+        "offset": 0.0535,
+        "coefficient": 0.884641
+      },
+      {
+        "localStart": 34.617,
+        "sourceStart": 34.671,
+        "offset": 0.0535,
+        "coefficient": 0.902453
+      },
+      {
+        "localStart": 55.388,
+        "sourceStart": 55.441,
+        "offset": 0.0535,
+        "coefficient": 0.879164
+      },
+      {
+        "localStart": 76.159,
+        "sourceStart": 76.212,
+        "offset": 0.0535,
+        "coefficient": 0.888106
+      },
+      {
+        "localStart": 96.929,
+        "sourceStart": 96.983,
+        "offset": 0.0535,
+        "coefficient": 0.883787
+      },
+      {
+        "localStart": 117.7,
+        "sourceStart": 117.753,
+        "offset": 0.0535,
+        "coefficient": 0.870219
+      },
+      {
+        "localStart": 138.47,
+        "sourceStart": 138.524,
+        "offset": 0.0535,
+        "coefficient": 0.875504
+      },
+      {
+        "localStart": 155.779,
+        "sourceStart": 155.832,
+        "offset": 0.0535,
+        "coefficient": 0.827984
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "51109",
+      "offset": 0.4315,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.831536,
+      "windows": [
+        {
+          "localStart": 13.847,
+          "sourceStart": 15.677,
+          "offset": 1.83,
+          "coefficient": 0.048188
+        },
+        {
+          "localStart": 34.617,
+          "sourceStart": 35.928,
+          "offset": 1.31,
+          "coefficient": 0.049062
+        },
+        {
+          "localStart": 55.388,
+          "sourceStart": 55.77,
+          "offset": 0.3815,
+          "coefficient": 0.043446
+        },
+        {
+          "localStart": 76.159,
+          "sourceStart": 78.189,
+          "offset": 2.03,
+          "coefficient": 0.072069
+        },
+        {
+          "localStart": 96.929,
+          "sourceStart": 97.167,
+          "offset": 0.238,
+          "coefficient": 0.064958
+        },
+        {
+          "localStart": 117.7,
+          "sourceStart": 118.34,
+          "offset": 0.6405,
+          "coefficient": 0.081364
+        },
+        {
+          "localStart": 138.47,
+          "sourceStart": 137.486,
+          "offset": -0.9845,
+          "coefficient": 0.06757
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "8389",
+      "offset": 0.053318,
+      "scale": 1.000000663,
+      "residual": 0.000659,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 13.847,
+          "sourceStart": 13.9,
+          "offset": 0.0535,
+          "coefficient": 0.884641
+        },
+        {
+          "localStart": 34.617,
+          "sourceStart": 34.671,
+          "offset": 0.0535,
+          "coefficient": 0.902453
+        },
+        {
+          "localStart": 55.388,
+          "sourceStart": 55.441,
+          "offset": 0.0535,
+          "coefficient": 0.879164
+        },
+        {
+          "localStart": 76.159,
+          "sourceStart": 76.212,
+          "offset": 0.0535,
+          "coefficient": 0.888106
+        },
+        {
+          "localStart": 96.929,
+          "sourceStart": 96.983,
+          "offset": 0.0535,
+          "coefficient": 0.883787
+        },
+        {
+          "localStart": 117.7,
+          "sourceStart": 117.753,
+          "offset": 0.0535,
+          "coefficient": 0.870219
+        },
+        {
+          "localStart": 138.47,
+          "sourceStart": 138.524,
+          "offset": 0.0535,
+          "coefficient": 0.875504
+        },
+        {
+          "localStart": 155.779,
+          "sourceStart": 155.832,
+          "offset": 0.0535,
+          "coefficient": 0.827984
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

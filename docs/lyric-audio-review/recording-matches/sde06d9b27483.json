@@ -1,0 +1,98 @@
+{
+  "id": "sde06d9b27483",
+  "file": "009不知道前方的路还有多远.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "22503",
+      "offset": -0.1595,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.99871,
+      "windows": [
+        {
+          "localStart": 9.889,
+          "sourceStart": 9.762,
+          "offset": -0.1265,
+          "coefficient": 0.344526
+        },
+        {
+          "localStart": 24.722,
+          "sourceStart": 24.576,
+          "offset": -0.1455,
+          "coefficient": 0.578347
+        },
+        {
+          "localStart": 39.556,
+          "sourceStart": 39.406,
+          "offset": -0.1495,
+          "coefficient": 0.586947
+        },
+        {
+          "localStart": 54.389,
+          "sourceStart": 54.236,
+          "offset": -0.1535,
+          "coefficient": 0.481001
+        },
+        {
+          "localStart": 69.222,
+          "sourceStart": 69.064,
+          "offset": -0.1575,
+          "coefficient": 0.606889
+        },
+        {
+          "localStart": 84.055,
+          "sourceStart": 83.894,
+          "offset": -0.162,
+          "coefficient": 0.501782
+        },
+        {
+          "localStart": 98.889,
+          "sourceStart": 98.723,
+          "offset": -0.166,
+          "coefficient": 0.644692
+        },
+        {
+          "localStart": 111.25,
+          "sourceStart": 111.081,
+          "offset": -0.1695,
+          "coefficient": 0.668992
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "6445",
+      "error": "Command '['curl', '--connect-timeout', '5', '--max-time', '20', '-fsSL', 'https://play.izanm.org/song/p/6445.mp3', '-o',"
+    },
+    {
+      "source": "24828",
+      "offset": -47.446,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.388419,
+      "windows": [
+        {
+          "localStart": 54.389,
+          "sourceStart": 8.361,
+          "offset": -46.0275,
+          "coefficient": 0.051059
+        },
+        {
+          "localStart": 69.222,
+          "sourceStart": 23.757,
+          "offset": -45.465,
+          "coefficient": 0.063629
+        },
+        {
+          "localStart": 84.055,
+          "sourceStart": 35.644,
+          "offset": -48.4115,
+          "coefficient": 0.044339
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

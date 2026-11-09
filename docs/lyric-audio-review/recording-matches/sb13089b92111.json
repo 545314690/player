@@ -1,0 +1,112 @@
+{
+  "id": "sb13089b92111",
+  "file": "021.当圣灵在我的心.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "8747",
+      "offset": -21.427,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.661825,
+      "windows": [
+        {
+          "localStart": 22.293,
+          "sourceStart": 0.399,
+          "offset": -21.894,
+          "coefficient": 0.081724
+        },
+        {
+          "localStart": 35.669,
+          "sourceStart": 13.945,
+          "offset": -21.723,
+          "coefficient": 0.063573
+        },
+        {
+          "localStart": 49.044,
+          "sourceStart": 26.035,
+          "offset": -23.009,
+          "coefficient": 0.045577
+        },
+        {
+          "localStart": 62.42,
+          "sourceStart": 39.86,
+          "offset": -22.56,
+          "coefficient": 0.047379
+        },
+        {
+          "localStart": 75.796,
+          "sourceStart": 56.116,
+          "offset": -19.6795,
+          "coefficient": 0.064919
+        },
+        {
+          "localStart": 89.171,
+          "sourceStart": 65.914,
+          "offset": -23.2575,
+          "coefficient": 0.037237
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "8746",
+      "offset": 56.1255,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 8.917,
+          "sourceStart": 65.139,
+          "offset": 56.222,
+          "coefficient": 0.038071
+        },
+        {
+          "localStart": 22.293,
+          "sourceStart": 78.849,
+          "offset": 56.5565,
+          "coefficient": 0.040228
+        },
+        {
+          "localStart": 35.669,
+          "sourceStart": 92.059,
+          "offset": 56.391,
+          "coefficient": 0.027969
+        },
+        {
+          "localStart": 49.044,
+          "sourceStart": 105.252,
+          "offset": 56.2085,
+          "coefficient": 0.027185
+        },
+        {
+          "localStart": 62.42,
+          "sourceStart": 119.474,
+          "offset": 57.0535,
+          "coefficient": 0.031105
+        },
+        {
+          "localStart": 75.796,
+          "sourceStart": 132.516,
+          "offset": 56.72,
+          "coefficient": 0.048638
+        },
+        {
+          "localStart": 89.171,
+          "sourceStart": 146.87,
+          "offset": 57.699,
+          "coefficient": 0.048212
+        },
+        {
+          "localStart": 100.318,
+          "sourceStart": 156.002,
+          "offset": 55.684,
+          "coefficient": 0.054075
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

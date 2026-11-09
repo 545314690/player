@@ -1,0 +1,168 @@
+{
+  "id": "s0640a3b91393",
+  "file": "097兴起为耶稣_合唱.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "27919",
+      "offset": 80.1735,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 7.189,
+          "sourceStart": 85.908,
+          "offset": 78.7195,
+          "coefficient": 0.044018
+        },
+        {
+          "localStart": 17.972,
+          "sourceStart": 96.381,
+          "offset": 78.409,
+          "coefficient": 0.042032
+        },
+        {
+          "localStart": 28.756,
+          "sourceStart": 108.064,
+          "offset": 79.309,
+          "coefficient": 0.079548
+        },
+        {
+          "localStart": 39.539,
+          "sourceStart": 118.328,
+          "offset": 78.7885,
+          "coefficient": 0.057889
+        },
+        {
+          "localStart": 50.322,
+          "sourceStart": 130.75,
+          "offset": 80.428,
+          "coefficient": 0.076082
+        },
+        {
+          "localStart": 61.105,
+          "sourceStart": 139.381,
+          "offset": 78.276,
+          "coefficient": 0.048394
+        },
+        {
+          "localStart": 71.889,
+          "sourceStart": 151.142,
+          "offset": 79.253,
+          "coefficient": 0.053184
+        },
+        {
+          "localStart": 80.875,
+          "sourceStart": 161.343,
+          "offset": 80.468,
+          "coefficient": 0.062989
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "9552",
+      "offset": 9.252,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.717387,
+      "windows": [
+        {
+          "localStart": 7.189,
+          "sourceStart": 14.524,
+          "offset": 7.3355,
+          "coefficient": 0.032161
+        },
+        {
+          "localStart": 17.972,
+          "sourceStart": 25.59,
+          "offset": 7.6185,
+          "coefficient": 0.038809
+        },
+        {
+          "localStart": 28.756,
+          "sourceStart": 37.056,
+          "offset": 8.3005,
+          "coefficient": 0.036746
+        },
+        {
+          "localStart": 39.539,
+          "sourceStart": 50.581,
+          "offset": 11.042,
+          "coefficient": 0.029897
+        },
+        {
+          "localStart": 50.322,
+          "sourceStart": 58.622,
+          "offset": 8.3,
+          "coefficient": 0.053436
+        },
+        {
+          "localStart": 61.105,
+          "sourceStart": 68.441,
+          "offset": 7.335,
+          "coefficient": 0.022293
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "10994",
+      "offset": -13.353,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.851405,
+      "windows": [
+        {
+          "localStart": 17.972,
+          "sourceStart": 5.796,
+          "offset": -12.176,
+          "coefficient": 0.051195
+        },
+        {
+          "localStart": 28.756,
+          "sourceStart": 14.368,
+          "offset": -14.387,
+          "coefficient": 0.053135
+        },
+        {
+          "localStart": 39.539,
+          "sourceStart": 25.53,
+          "offset": -14.0085,
+          "coefficient": 0.110516
+        },
+        {
+          "localStart": 50.322,
+          "sourceStart": 38.944,
+          "offset": -11.3775,
+          "coefficient": 0.08447
+        },
+        {
+          "localStart": 61.105,
+          "sourceStart": 46.297,
+          "offset": -14.808,
+          "coefficient": 0.046526
+        },
+        {
+          "localStart": 71.889,
+          "sourceStart": 57.343,
+          "offset": -14.5465,
+          "coefficient": 0.067533
+        },
+        {
+          "localStart": 80.875,
+          "sourceStart": 68.808,
+          "offset": -12.0675,
+          "coefficient": 0.048767
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "20333",
+      "error": "Command '['curl', '--connect-timeout', '5', '--max-time', '20', '-fsSL', 'https://play.izanm.org/song/p/20333.mp3', '-o'"
+    }
+  ]
+}

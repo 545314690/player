@@ -1,0 +1,118 @@
+{
+  "id": "s69e262b453cc",
+  "file": "013彩虹下的约定1.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "10244",
+      "offset": 36.515,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.8465,
+      "windows": [
+        {
+          "localStart": 21.713,
+          "sourceStart": 58.889,
+          "offset": 37.1755,
+          "coefficient": 0.056102
+        },
+        {
+          "localStart": 54.282,
+          "sourceStart": 92.541,
+          "offset": 38.2585,
+          "coefficient": 0.042552
+        },
+        {
+          "localStart": 86.852,
+          "sourceStart": 122.406,
+          "offset": 35.5535,
+          "coefficient": 0.052131
+        },
+        {
+          "localStart": 119.421,
+          "sourceStart": 155.57,
+          "offset": 36.148,
+          "coefficient": 0.088965
+        },
+        {
+          "localStart": 151.992,
+          "sourceStart": 190.497,
+          "offset": 38.5055,
+          "coefficient": 0.051127
+        },
+        {
+          "localStart": 184.561,
+          "sourceStart": 221.005,
+          "offset": 36.444,
+          "coefficient": 0.051339
+        },
+        {
+          "localStart": 217.131,
+          "sourceStart": 254.584,
+          "offset": 37.4535,
+          "coefficient": 0.069153
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "21888",
+      "offset": 1.3095,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 21.713,
+          "sourceStart": 24.884,
+          "offset": 3.171,
+          "coefficient": 0.031059
+        },
+        {
+          "localStart": 54.282,
+          "sourceStart": 54.828,
+          "offset": 0.5455,
+          "coefficient": 0.059032
+        },
+        {
+          "localStart": 86.852,
+          "sourceStart": 89.921,
+          "offset": 3.0695,
+          "coefficient": 0.053384
+        },
+        {
+          "localStart": 119.421,
+          "sourceStart": 121.769,
+          "offset": 2.347,
+          "coefficient": 0.030943
+        },
+        {
+          "localStart": 151.992,
+          "sourceStart": 151.343,
+          "offset": -0.649,
+          "coefficient": 0.044287
+        },
+        {
+          "localStart": 184.561,
+          "sourceStart": 183.879,
+          "offset": -0.6825,
+          "coefficient": 0.048991
+        },
+        {
+          "localStart": 217.131,
+          "sourceStart": 220.434,
+          "offset": 3.303,
+          "coefficient": 0.04513
+        },
+        {
+          "localStart": 244.272,
+          "sourceStart": 244.612,
+          "offset": 0.34,
+          "coefficient": 0.088517
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

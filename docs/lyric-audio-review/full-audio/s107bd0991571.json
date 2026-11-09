@@ -1,0 +1,1507 @@
+{
+  "id": "s107bd0991571",
+  "file": "079我有平安如江河_二个.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "ff8bed10d02899d495904213bc6cc391cd14b492a339cd851c3dbbdc6d1cba25",
+  "fullDuration": 98.957875,
+  "lines": [
+    {
+      "time": 10.08,
+      "end": 11.1,
+      "text": "我用平",
+      "words": [
+        {
+          "time": 10.08,
+          "end": 10.38,
+          "text": "我",
+          "probability": 0.2534
+        },
+        {
+          "time": 10.52,
+          "end": 10.82,
+          "text": "用",
+          "probability": 0.4224
+        },
+        {
+          "time": 10.8,
+          "end": 11.1,
+          "text": "平",
+          "probability": 0.9246
+        }
+      ]
+    },
+    {
+      "time": 25.72,
+      "end": 26.78,
+      "text": "安如江河",
+      "words": [
+        {
+          "time": 25.72,
+          "end": 26.02,
+          "text": "安",
+          "probability": 0.9961
+        },
+        {
+          "time": 25.98,
+          "end": 26.28,
+          "text": "如",
+          "probability": 0.1545
+        },
+        {
+          "time": 26.2,
+          "end": 26.5,
+          "text": "江",
+          "probability": 0.9721
+        },
+        {
+          "time": 26.44,
+          "end": 26.78,
+          "text": "河",
+          "probability": 0.8879
+        }
+      ]
+    },
+    {
+      "time": 29.88,
+      "end": 35.6,
+      "text": "我用隐瞒如隐瞒 我有隐瞒 我有隐瞒",
+      "words": [
+        {
+          "time": 29.88,
+          "end": 30.18,
+          "text": "我",
+          "probability": 0.0964
+        },
+        {
+          "time": 30.06,
+          "end": 30.36,
+          "text": "用",
+          "probability": 0.2895
+        },
+        {
+          "time": 30.06,
+          "end": 30.42,
+          "text": "隐",
+          "probability": 0.0874
+        },
+        {
+          "time": 30.42,
+          "end": 30.86,
+          "text": "瞒",
+          "probability": 0.4432
+        },
+        {
+          "time": 30.84,
+          "end": 31.14,
+          "text": "如",
+          "probability": 0.5109
+        },
+        {
+          "time": 31.02,
+          "end": 31.4,
+          "text": "隐",
+          "probability": 0.0998
+        },
+        {
+          "time": 31.32,
+          "end": 31.68,
+          "text": "瞒",
+          "probability": 0.8473
+        },
+        {
+          "time": 31.64,
+          "end": 31.94,
+          "text": " 我",
+          "probability": 0.6245
+        },
+        {
+          "time": 31.96,
+          "end": 32.26,
+          "text": "有",
+          "probability": 0.5603
+        },
+        {
+          "time": 32.26,
+          "end": 32.7,
+          "text": "隐",
+          "probability": 0.7724
+        },
+        {
+          "time": 32.84,
+          "end": 33.24,
+          "text": "瞒",
+          "probability": 0.9985
+        },
+        {
+          "time": 34.06,
+          "end": 34.36,
+          "text": " 我",
+          "probability": 0.4113
+        },
+        {
+          "time": 34.36,
+          "end": 34.66,
+          "text": "有",
+          "probability": 0.9639
+        },
+        {
+          "time": 34.66,
+          "end": 34.98,
+          "text": "隐",
+          "probability": 0.9883
+        },
+        {
+          "time": 35.2,
+          "end": 35.6,
+          "text": "瞒",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 36.56,
+      "end": 41.84,
+      "text": "我有隐瞒 我有隐瞒 我有隐",
+      "words": [
+        {
+          "time": 36.56,
+          "end": 36.86,
+          "text": " 我",
+          "probability": 0.636
+        },
+        {
+          "time": 36.56,
+          "end": 36.86,
+          "text": "有",
+          "probability": 0.9873
+        },
+        {
+          "time": 37.02,
+          "end": 37.4,
+          "text": "隐",
+          "probability": 0.9942
+        },
+        {
+          "time": 38.12,
+          "end": 38.84,
+          "text": "瞒",
+          "probability": 0.9997
+        },
+        {
+          "time": 39.02,
+          "end": 39.32,
+          "text": " 我",
+          "probability": 0.7325
+        },
+        {
+          "time": 39.16,
+          "end": 39.46,
+          "text": "有",
+          "probability": 0.9934
+        },
+        {
+          "time": 39.4,
+          "end": 39.82,
+          "text": "隐",
+          "probability": 0.9949
+        },
+        {
+          "time": 39.98,
+          "end": 40.36,
+          "text": "瞒",
+          "probability": 0.9998
+        },
+        {
+          "time": 41.18,
+          "end": 41.48,
+          "text": " 我",
+          "probability": 0.8053
+        },
+        {
+          "time": 41.46,
+          "end": 41.76,
+          "text": "有",
+          "probability": 0.9961
+        },
+        {
+          "time": 41.84,
+          "end": 42.14,
+          "text": "隐",
+          "probability": 0.9954
+        }
+      ]
+    },
+    {
+      "time": 41.84,
+      "end": 47.68,
+      "text": "瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒 我有隐瞒",
+      "words": [
+        {
+          "time": 41.84,
+          "end": 42.14,
+          "text": "瞒",
+          "probability": 0.9998
+        },
+        {
+          "time": 41.84,
+          "end": 42.14,
+          "text": " 我",
+          "probability": 0.8596
+        },
+        {
+          "time": 41.84,
+          "end": 42.14,
+          "text": "有",
+          "probability": 0.9972
+        },
+        {
+          "time": 41.84,
+          "end": 42.26,
+          "text": "隐",
+          "probability": 0.9954
+        },
+        {
+          "time": 42.44,
+          "end": 42.78,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 42.74,
+          "end": 43.04,
+          "text": " 我",
+          "probability": 0.8962
+        },
+        {
+          "time": 42.8,
+          "end": 43.1,
+          "text": "有",
+          "probability": 0.9974
+        },
+        {
+          "time": 42.96,
+          "end": 43.36,
+          "text": "隐",
+          "probability": 0.9959
+        },
+        {
+          "time": 43.32,
+          "end": 43.64,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 43.62,
+          "end": 43.92,
+          "text": " 我",
+          "probability": 0.9158
+        },
+        {
+          "time": 43.94,
+          "end": 44.24,
+          "text": "有",
+          "probability": 0.9975
+        },
+        {
+          "time": 44.22,
+          "end": 44.62,
+          "text": "隐",
+          "probability": 0.9968
+        },
+        {
+          "time": 44.74,
+          "end": 45.2,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 45.04,
+          "end": 45.34,
+          "text": " 我",
+          "probability": 0.9284
+        },
+        {
+          "time": 45.36,
+          "end": 45.66,
+          "text": "有",
+          "probability": 0.9974
+        },
+        {
+          "time": 45.36,
+          "end": 45.74,
+          "text": "隐",
+          "probability": 0.9972
+        },
+        {
+          "time": 45.64,
+          "end": 46.0,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 45.92,
+          "end": 46.22,
+          "text": " 我",
+          "probability": 0.9304
+        },
+        {
+          "time": 45.94,
+          "end": 46.24,
+          "text": "有",
+          "probability": 0.9972
+        },
+        {
+          "time": 45.94,
+          "end": 46.24,
+          "text": "隐",
+          "probability": 0.9977
+        },
+        {
+          "time": 45.94,
+          "end": 46.24,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 45.94,
+          "end": 46.24,
+          "text": " 我",
+          "probability": 0.9333
+        },
+        {
+          "time": 45.98,
+          "end": 46.28,
+          "text": "有",
+          "probability": 0.9968
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": "隐",
+          "probability": 0.998
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": " 我",
+          "probability": 0.9272
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": "有",
+          "probability": 0.9966
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": "隐",
+          "probability": 0.9981
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": " 我",
+          "probability": 0.9278
+        },
+        {
+          "time": 46.0,
+          "end": 46.3,
+          "text": "有",
+          "probability": 0.9963
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9983
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9252
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.9961
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9981
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9254
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.996
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9983
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9291
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.9956
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9984
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9299
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.9955
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9985
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9318
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.9952
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9983
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9346
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.995
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9981
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9367
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.9947
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.9982
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9392
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.9945
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "隐",
+          "probability": 0.998
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": " 我",
+          "probability": 0.9408
+        },
+        {
+          "time": 46.16,
+          "end": 46.46,
+          "text": "有",
+          "probability": 0.9942
+        },
+        {
+          "time": 46.26,
+          "end": 46.58,
+          "text": "隐",
+          "probability": 0.9979
+        },
+        {
+          "time": 46.28,
+          "end": 46.58,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.28,
+          "end": 46.58,
+          "text": " 我",
+          "probability": 0.9414
+        },
+        {
+          "time": 46.36,
+          "end": 46.66,
+          "text": "有",
+          "probability": 0.994
+        },
+        {
+          "time": 46.5,
+          "end": 46.8,
+          "text": "隐",
+          "probability": 0.9976
+        },
+        {
+          "time": 46.5,
+          "end": 46.8,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.5,
+          "end": 46.8,
+          "text": " 我",
+          "probability": 0.9436
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": "有",
+          "probability": 0.9936
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": "隐",
+          "probability": 0.9974
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": " 我",
+          "probability": 0.9435
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": "有",
+          "probability": 0.9933
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": "隐",
+          "probability": 0.9974
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.52,
+          "end": 46.82,
+          "text": " 我",
+          "probability": 0.9448
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "有",
+          "probability": 0.9928
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "隐",
+          "probability": 0.9971
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": " 我",
+          "probability": 0.9458
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "有",
+          "probability": 0.9923
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "隐",
+          "probability": 0.9967
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": " 我",
+          "probability": 0.9456
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "有",
+          "probability": 0.9922
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "隐",
+          "probability": 0.9966
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": "瞒",
+          "probability": 0.9998
+        },
+        {
+          "time": 46.54,
+          "end": 46.84,
+          "text": " 我",
+          "probability": 0.9472
+        },
+        {
+          "time": 46.64,
+          "end": 46.94,
+          "text": "有",
+          "probability": 0.9918
+        },
+        {
+          "time": 46.64,
+          "end": 46.96,
+          "text": "隐",
+          "probability": 0.9957
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": "瞒",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": " 我",
+          "probability": 0.9464
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": "有",
+          "probability": 0.9914
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": "隐",
+          "probability": 0.9955
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": "瞒",
+          "probability": 0.9998
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": " 我",
+          "probability": 0.9472
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": "有",
+          "probability": 0.9908
+        },
+        {
+          "time": 46.72,
+          "end": 47.02,
+          "text": "隐",
+          "probability": 0.9948
+        },
+        {
+          "time": 47.38,
+          "end": 47.68,
+          "text": "瞒",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 48.6,
+      "end": 50.32,
+      "text": "我有隐瞒 我",
+      "words": [
+        {
+          "time": 48.6,
+          "end": 48.9,
+          "text": " 我",
+          "probability": 0.9461
+        },
+        {
+          "time": 49.34,
+          "end": 49.64,
+          "text": "有",
+          "probability": 0.9908
+        },
+        {
+          "time": 49.36,
+          "end": 49.76,
+          "text": "隐",
+          "probability": 0.9943
+        },
+        {
+          "time": 49.46,
+          "end": 50.1,
+          "text": "瞒",
+          "probability": 0.9998
+        },
+        {
+          "time": 50.02,
+          "end": 50.32,
+          "text": " 我",
+          "probability": 0.9454
+        }
+      ]
+    },
+    {
+      "time": 55.78,
+      "end": 56.38,
+      "text": "有隐瞒",
+      "words": [
+        {
+          "time": 55.78,
+          "end": 56.08,
+          "text": "有",
+          "probability": 0.99
+        },
+        {
+          "time": 55.78,
+          "end": 56.24,
+          "text": "隐",
+          "probability": 0.9934
+        },
+        {
+          "time": 56.08,
+          "end": 56.38,
+          "text": "瞒",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 57.94,
+      "end": 63.82,
+      "text": "我有隐瞒 我有我有平安如江河我有平",
+      "words": [
+        {
+          "time": 57.94,
+          "end": 58.24,
+          "text": " 我",
+          "probability": 0.9454
+        },
+        {
+          "time": 58.3,
+          "end": 58.6,
+          "text": "有",
+          "probability": 0.9894
+        },
+        {
+          "time": 58.72,
+          "end": 59.04,
+          "text": "隐",
+          "probability": 0.9925
+        },
+        {
+          "time": 59.26,
+          "end": 59.6,
+          "text": "瞒",
+          "probability": 0.9998
+        },
+        {
+          "time": 59.48,
+          "end": 59.78,
+          "text": " 我",
+          "probability": 0.9468
+        },
+        {
+          "time": 59.6,
+          "end": 59.9,
+          "text": "有",
+          "probability": 0.9891
+        },
+        {
+          "time": 60.54,
+          "end": 60.84,
+          "text": "我有",
+          "probability": 0.6618
+        },
+        {
+          "time": 61.08,
+          "end": 61.38,
+          "text": "平",
+          "probability": 0.918
+        },
+        {
+          "time": 61.64,
+          "end": 61.94,
+          "text": "安",
+          "probability": 0.9925
+        },
+        {
+          "time": 61.98,
+          "end": 62.28,
+          "text": "如",
+          "probability": 0.4669
+        },
+        {
+          "time": 62.2,
+          "end": 62.5,
+          "text": "江",
+          "probability": 0.9928
+        },
+        {
+          "time": 62.5,
+          "end": 62.86,
+          "text": "河",
+          "probability": 0.9503
+        },
+        {
+          "time": 63.04,
+          "end": 63.34,
+          "text": "我有",
+          "probability": 0.937
+        },
+        {
+          "time": 63.52,
+          "end": 63.82,
+          "text": "平",
+          "probability": 0.9967
+        }
+      ]
+    },
+    {
+      "time": 64.12,
+      "end": 66.24,
+      "text": "安如江河在我心",
+      "words": [
+        {
+          "time": 64.12,
+          "end": 64.42,
+          "text": "安",
+          "probability": 0.9992
+        },
+        {
+          "time": 64.4,
+          "end": 64.7,
+          "text": "如",
+          "probability": 0.9875
+        },
+        {
+          "time": 64.64,
+          "end": 64.94,
+          "text": "江",
+          "probability": 0.8065
+        },
+        {
+          "time": 64.88,
+          "end": 65.24,
+          "text": "河",
+          "probability": 0.9989
+        },
+        {
+          "time": 65.22,
+          "end": 65.52,
+          "text": "在",
+          "probability": 0.769
+        },
+        {
+          "time": 65.52,
+          "end": 65.82,
+          "text": "我",
+          "probability": 0.9
+        },
+        {
+          "time": 65.94,
+          "end": 66.24,
+          "text": "心",
+          "probability": 0.933
+        }
+      ]
+    },
+    {
+      "time": 67.88,
+      "end": 74.02,
+      "text": "我有平安如江河我有平安如江河我有平安",
+      "words": [
+        {
+          "time": 67.88,
+          "end": 68.18,
+          "text": "我有",
+          "probability": 0.9565
+        },
+        {
+          "time": 68.3,
+          "end": 68.6,
+          "text": "平",
+          "probability": 0.9879
+        },
+        {
+          "time": 68.92,
+          "end": 69.22,
+          "text": "安",
+          "probability": 0.9998
+        },
+        {
+          "time": 69.26,
+          "end": 69.56,
+          "text": "如",
+          "probability": 0.9674
+        },
+        {
+          "time": 69.44,
+          "end": 69.74,
+          "text": "江",
+          "probability": 0.9995
+        },
+        {
+          "time": 69.7,
+          "end": 70.06,
+          "text": "河",
+          "probability": 0.9991
+        },
+        {
+          "time": 70.3,
+          "end": 70.6,
+          "text": "我有",
+          "probability": 0.9939
+        },
+        {
+          "time": 70.7,
+          "end": 71.0,
+          "text": "平",
+          "probability": 0.9997
+        },
+        {
+          "time": 71.28,
+          "end": 71.58,
+          "text": "安",
+          "probability": 0.9998
+        },
+        {
+          "time": 71.58,
+          "end": 71.88,
+          "text": "如",
+          "probability": 0.994
+        },
+        {
+          "time": 71.8,
+          "end": 72.1,
+          "text": "江",
+          "probability": 0.9999
+        },
+        {
+          "time": 72.1,
+          "end": 72.46,
+          "text": "河",
+          "probability": 0.9998
+        },
+        {
+          "time": 72.62,
+          "end": 72.92,
+          "text": "我有",
+          "probability": 0.9883
+        },
+        {
+          "time": 73.06,
+          "end": 73.36,
+          "text": "平",
+          "probability": 0.9996
+        },
+        {
+          "time": 73.72,
+          "end": 74.02,
+          "text": "安",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 74.08,
+      "end": 76.1,
+      "text": "如江河又在我心",
+      "words": [
+        {
+          "time": 74.08,
+          "end": 74.38,
+          "text": "如",
+          "probability": 0.9843
+        },
+        {
+          "time": 74.28,
+          "end": 74.58,
+          "text": "江",
+          "probability": 0.9993
+        },
+        {
+          "time": 74.56,
+          "end": 74.88,
+          "text": "河",
+          "probability": 0.9999
+        },
+        {
+          "time": 74.8,
+          "end": 75.1,
+          "text": "又",
+          "probability": 0.4626
+        },
+        {
+          "time": 74.96,
+          "end": 75.26,
+          "text": "在",
+          "probability": 0.9827
+        },
+        {
+          "time": 75.18,
+          "end": 75.48,
+          "text": "我",
+          "probability": 0.9996
+        },
+        {
+          "time": 75.8,
+          "end": 76.1,
+          "text": "心",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 77.62,
+      "end": 83.64,
+      "text": "我有喜乐如全员我有喜乐如全员我有喜乐",
+      "words": [
+        {
+          "time": 77.62,
+          "end": 77.92,
+          "text": "我有",
+          "probability": 0.8931
+        },
+        {
+          "time": 78.02,
+          "end": 78.32,
+          "text": "喜",
+          "probability": 0.8812
+        },
+        {
+          "time": 78.6,
+          "end": 78.9,
+          "text": "乐",
+          "probability": 0.9166
+        },
+        {
+          "time": 78.94,
+          "end": 79.24,
+          "text": "如",
+          "probability": 0.8774
+        },
+        {
+          "time": 79.2,
+          "end": 79.5,
+          "text": "全",
+          "probability": 0.2268
+        },
+        {
+          "time": 79.42,
+          "end": 79.78,
+          "text": "员",
+          "probability": 0.1014
+        },
+        {
+          "time": 79.96,
+          "end": 80.26,
+          "text": "我有",
+          "probability": 0.9339
+        },
+        {
+          "time": 80.44,
+          "end": 80.74,
+          "text": "喜",
+          "probability": 0.9988
+        },
+        {
+          "time": 81.04,
+          "end": 81.34,
+          "text": "乐",
+          "probability": 0.9977
+        },
+        {
+          "time": 81.32,
+          "end": 81.62,
+          "text": "如",
+          "probability": 0.9935
+        },
+        {
+          "time": 81.56,
+          "end": 81.86,
+          "text": "全",
+          "probability": 0.9953
+        },
+        {
+          "time": 81.78,
+          "end": 82.16,
+          "text": "员",
+          "probability": 0.9505
+        },
+        {
+          "time": 82.14,
+          "end": 82.44,
+          "text": "我有",
+          "probability": 0.947
+        },
+        {
+          "time": 82.8,
+          "end": 83.1,
+          "text": "喜",
+          "probability": 0.9995
+        },
+        {
+          "time": 83.34,
+          "end": 83.64,
+          "text": "乐",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 83.7,
+      "end": 85.6,
+      "text": "如全员在我心",
+      "words": [
+        {
+          "time": 83.7,
+          "end": 84.0,
+          "text": "如",
+          "probability": 0.9797
+        },
+        {
+          "time": 84.0,
+          "end": 84.3,
+          "text": "全",
+          "probability": 0.9996
+        },
+        {
+          "time": 84.2,
+          "end": 84.56,
+          "text": "员",
+          "probability": 0.998
+        },
+        {
+          "time": 84.58,
+          "end": 84.88,
+          "text": "在",
+          "probability": 0.9925
+        },
+        {
+          "time": 84.82,
+          "end": 85.12,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 85.3,
+          "end": 85.6,
+          "text": "心",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 87.16,
+      "end": 92.74,
+      "text": "我有喜乐如全员我要洗那如全愿我要洗",
+      "words": [
+        {
+          "time": 87.16,
+          "end": 87.46,
+          "text": "我有",
+          "probability": 0.7193
+        },
+        {
+          "time": 87.62,
+          "end": 87.92,
+          "text": "喜",
+          "probability": 0.9998
+        },
+        {
+          "time": 88.24,
+          "end": 88.54,
+          "text": "乐",
+          "probability": 0.9991
+        },
+        {
+          "time": 88.54,
+          "end": 88.84,
+          "text": "如",
+          "probability": 0.9589
+        },
+        {
+          "time": 88.82,
+          "end": 89.12,
+          "text": "全",
+          "probability": 0.9985
+        },
+        {
+          "time": 89.08,
+          "end": 89.38,
+          "text": "员",
+          "probability": 0.9993
+        },
+        {
+          "time": 89.58,
+          "end": 89.88,
+          "text": "我要",
+          "probability": 0.8628
+        },
+        {
+          "time": 90.06,
+          "end": 90.36,
+          "text": "洗",
+          "probability": 0.1633
+        },
+        {
+          "time": 90.66,
+          "end": 90.96,
+          "text": "那",
+          "probability": 0.4622
+        },
+        {
+          "time": 90.92,
+          "end": 91.22,
+          "text": "如",
+          "probability": 0.4321
+        },
+        {
+          "time": 91.16,
+          "end": 91.46,
+          "text": "全",
+          "probability": 0.4099
+        },
+        {
+          "time": 91.38,
+          "end": 91.78,
+          "text": "愿",
+          "probability": 0.2021
+        },
+        {
+          "time": 91.86,
+          "end": 92.16,
+          "text": "我要",
+          "probability": 0.9693
+        },
+        {
+          "time": 92.44,
+          "end": 92.74,
+          "text": "洗",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 93.02,
+      "end": 95.28,
+      "text": "那如全愿又在我心",
+      "words": [
+        {
+          "time": 93.02,
+          "end": 93.32,
+          "text": "那",
+          "probability": 0.9924
+        },
+        {
+          "time": 93.32,
+          "end": 93.62,
+          "text": "如",
+          "probability": 0.9968
+        },
+        {
+          "time": 93.62,
+          "end": 93.92,
+          "text": "全",
+          "probability": 0.9992
+        },
+        {
+          "time": 93.86,
+          "end": 94.22,
+          "text": "愿",
+          "probability": 0.9996
+        },
+        {
+          "time": 94.12,
+          "end": 94.42,
+          "text": "又",
+          "probability": 0.3521
+        },
+        {
+          "time": 94.28,
+          "end": 94.58,
+          "text": "在",
+          "probability": 0.7194
+        },
+        {
+          "time": 94.5,
+          "end": 94.8,
+          "text": "我",
+          "probability": 0.9688
+        },
+        {
+          "time": 94.98,
+          "end": 95.28,
+          "text": "心",
+          "probability": 0.9898
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "sd74046ae2ca1",
+  "file": "171-.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "3654",
+    "url": "https://www.izanmei.cc/song/3654.html",
+    "audio": "https://play.izanm.org/song/p/3654.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 16.064,
+        "sourceStart": 16.064,
+        "offset": 0.0,
+        "coefficient": 0.994468
+      },
+      {
+        "localStart": 40.16,
+        "sourceStart": 40.16,
+        "offset": 0.0,
+        "coefficient": 0.990352
+      },
+      {
+        "localStart": 64.257,
+        "sourceStart": 64.257,
+        "offset": 0.0,
+        "coefficient": 0.989925
+      },
+      {
+        "localStart": 88.353,
+        "sourceStart": 88.353,
+        "offset": 0.0,
+        "coefficient": 0.991145
+      },
+      {
+        "localStart": 112.45,
+        "sourceStart": 112.45,
+        "offset": 0.0,
+        "coefficient": 0.991405
+      },
+      {
+        "localStart": 136.546,
+        "sourceStart": 136.546,
+        "offset": 0.0,
+        "coefficient": 0.991339
+      },
+      {
+        "localStart": 160.643,
+        "sourceStart": 160.643,
+        "offset": 0.0,
+        "coefficient": 0.989333
+      },
+      {
+        "localStart": 180.723,
+        "sourceStart": 180.723,
+        "offset": 0.0,
+        "coefficient": 0.991153
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "47350",
+      "offset": -24.208,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.879444,
+      "windows": [
+        {
+          "localStart": 40.16,
+          "sourceStart": 14.358,
+          "offset": -25.802,
+          "coefficient": 0.068098
+        },
+        {
+          "localStart": 64.257,
+          "sourceStart": 42.008,
+          "offset": -22.249,
+          "coefficient": 0.081273
+        },
+        {
+          "localStart": 88.353,
+          "sourceStart": 64.002,
+          "offset": -24.351,
+          "coefficient": 0.117983
+        },
+        {
+          "localStart": 112.45,
+          "sourceStart": 87.266,
+          "offset": -25.184,
+          "coefficient": 0.055021
+        },
+        {
+          "localStart": 136.546,
+          "sourceStart": 110.903,
+          "offset": -25.6425,
+          "coefficient": 0.050056
+        },
+        {
+          "localStart": 160.643,
+          "sourceStart": 138.302,
+          "offset": -22.341,
+          "coefficient": 0.070749
+        },
+        {
+          "localStart": 180.723,
+          "sourceStart": 155.593,
+          "offset": -25.1305,
+          "coefficient": 0.062963
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "3654",
+      "offset": -0.0,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 16.064,
+          "sourceStart": 16.064,
+          "offset": 0.0,
+          "coefficient": 0.994468
+        },
+        {
+          "localStart": 40.16,
+          "sourceStart": 40.16,
+          "offset": 0.0,
+          "coefficient": 0.990352
+        },
+        {
+          "localStart": 64.257,
+          "sourceStart": 64.257,
+          "offset": 0.0,
+          "coefficient": 0.989925
+        },
+        {
+          "localStart": 88.353,
+          "sourceStart": 88.353,
+          "offset": 0.0,
+          "coefficient": 0.991145
+        },
+        {
+          "localStart": 112.45,
+          "sourceStart": 112.45,
+          "offset": 0.0,
+          "coefficient": 0.991405
+        },
+        {
+          "localStart": 136.546,
+          "sourceStart": 136.546,
+          "offset": 0.0,
+          "coefficient": 0.991339
+        },
+        {
+          "localStart": 160.643,
+          "sourceStart": 160.643,
+          "offset": 0.0,
+          "coefficient": 0.989333
+        },
+        {
+          "localStart": 180.723,
+          "sourceStart": 180.723,
+          "offset": 0.0,
+          "coefficient": 0.991153
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

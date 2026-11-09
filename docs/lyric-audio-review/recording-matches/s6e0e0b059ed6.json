@@ -1,0 +1,125 @@
+{
+  "id": "s6e0e0b059ed6",
+  "file": "200看见神的爱.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "6644",
+    "url": "https://www.izanmei.cc/song/6644.html",
+    "audio": "https://play.izanm.org/song/p/6644.mp3",
+    "offset": 0.037694,
+    "scale": 0.999998041,
+    "residual": 0.000618,
+    "coverage": 0.999482,
+    "windows": [
+      {
+        "localStart": 15.965,
+        "sourceStart": 16.003,
+        "offset": 0.0375,
+        "coefficient": 0.979272
+      },
+      {
+        "localStart": 39.913,
+        "sourceStart": 39.95,
+        "offset": 0.0375,
+        "coefficient": 0.973714
+      },
+      {
+        "localStart": 63.86,
+        "sourceStart": 63.898,
+        "offset": 0.0375,
+        "coefficient": 0.970007
+      },
+      {
+        "localStart": 87.808,
+        "sourceStart": 87.845,
+        "offset": 0.0375,
+        "coefficient": 0.975269
+      },
+      {
+        "localStart": 111.755,
+        "sourceStart": 111.793,
+        "offset": 0.0375,
+        "coefficient": 0.971864
+      },
+      {
+        "localStart": 135.703,
+        "sourceStart": 135.74,
+        "offset": 0.0375,
+        "coefficient": 0.961669
+      },
+      {
+        "localStart": 159.65,
+        "sourceStart": 159.688,
+        "offset": 0.0375,
+        "coefficient": 0.955645
+      },
+      {
+        "localStart": 179.607,
+        "sourceStart": 179.644,
+        "offset": 0.0375,
+        "coefficient": 0.959758
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "6644",
+      "offset": 0.037694,
+      "scale": 0.999998041,
+      "residual": 0.000618,
+      "coverage": 0.999482,
+      "windows": [
+        {
+          "localStart": 15.965,
+          "sourceStart": 16.003,
+          "offset": 0.0375,
+          "coefficient": 0.979272
+        },
+        {
+          "localStart": 39.913,
+          "sourceStart": 39.95,
+          "offset": 0.0375,
+          "coefficient": 0.973714
+        },
+        {
+          "localStart": 63.86,
+          "sourceStart": 63.898,
+          "offset": 0.0375,
+          "coefficient": 0.970007
+        },
+        {
+          "localStart": 87.808,
+          "sourceStart": 87.845,
+          "offset": 0.0375,
+          "coefficient": 0.975269
+        },
+        {
+          "localStart": 111.755,
+          "sourceStart": 111.793,
+          "offset": 0.0375,
+          "coefficient": 0.971864
+        },
+        {
+          "localStart": 135.703,
+          "sourceStart": 135.74,
+          "offset": 0.0375,
+          "coefficient": 0.961669
+        },
+        {
+          "localStart": 159.65,
+          "sourceStart": 159.688,
+          "offset": 0.0375,
+          "coefficient": 0.955645
+        },
+        {
+          "localStart": 179.607,
+          "sourceStart": 179.644,
+          "offset": 0.0375,
+          "coefficient": 0.959758
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

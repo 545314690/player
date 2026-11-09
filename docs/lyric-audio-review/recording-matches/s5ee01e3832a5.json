@@ -1,0 +1,140 @@
+{
+  "id": "s5ee01e3832a5",
+  "file": "005宝贵十架韩文.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "42249",
+      "offset": -68.5345,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.615507,
+      "windows": [
+        {
+          "localStart": 93.573,
+          "sourceStart": 26.091,
+          "offset": -67.482,
+          "coefficient": 0.077021
+        },
+        {
+          "localStart": 128.663,
+          "sourceStart": 61.897,
+          "offset": -66.766,
+          "coefficient": 0.07968
+        },
+        {
+          "localStart": 163.752,
+          "sourceStart": 95.917,
+          "offset": -67.8355,
+          "coefficient": 0.090802
+        },
+        {
+          "localStart": 198.843,
+          "sourceStart": 129.297,
+          "offset": -69.5455,
+          "coefficient": 0.055824
+        },
+        {
+          "localStart": 233.933,
+          "sourceStart": 164.052,
+          "offset": -69.8805,
+          "coefficient": 0.076822
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "34272",
+      "offset": -2.7265,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.841519,
+      "windows": [
+        {
+          "localStart": 23.393,
+          "sourceStart": 22.493,
+          "offset": -0.9,
+          "coefficient": 0.044199
+        },
+        {
+          "localStart": 58.483,
+          "sourceStart": 56.182,
+          "offset": -2.3005,
+          "coefficient": 0.047458
+        },
+        {
+          "localStart": 93.573,
+          "sourceStart": 90.652,
+          "offset": -2.921,
+          "coefficient": 0.053
+        },
+        {
+          "localStart": 128.663,
+          "sourceStart": 125.771,
+          "offset": -2.892,
+          "coefficient": 0.102984
+        },
+        {
+          "localStart": 163.752,
+          "sourceStart": 162.937,
+          "offset": -0.8155,
+          "coefficient": 0.07774
+        },
+        {
+          "localStart": 198.843,
+          "sourceStart": 195.27,
+          "offset": -3.572,
+          "coefficient": 0.125721
+        },
+        {
+          "localStart": 233.933,
+          "sourceStart": 229.921,
+          "offset": -4.0115,
+          "coefficient": 0.121493
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "38101",
+      "offset": -123.8195,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.576564,
+      "windows": [
+        {
+          "localStart": 128.663,
+          "sourceStart": 6.058,
+          "offset": -122.605,
+          "coefficient": 0.032171
+        },
+        {
+          "localStart": 163.752,
+          "sourceStart": 39.198,
+          "offset": -124.5545,
+          "coefficient": 0.029594
+        },
+        {
+          "localStart": 198.843,
+          "sourceStart": 73.998,
+          "offset": -124.845,
+          "coefficient": 0.029246
+        },
+        {
+          "localStart": 233.933,
+          "sourceStart": 109.168,
+          "offset": -124.764,
+          "coefficient": 0.036479
+        },
+        {
+          "localStart": 263.174,
+          "sourceStart": 140.254,
+          "offset": -122.9205,
+          "coefficient": 0.0843
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

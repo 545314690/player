@@ -1,0 +1,263 @@
+{
+  "id": "s013560414df4",
+  "file": "295因祂活着(3段).mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "40503",
+    "url": "https://www.izanmei.cc/song/40503.html",
+    "audio": "https://play.izanm.org/song/p/40503.mp3",
+    "offset": 0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 19.963,
+        "sourceStart": 19.963,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 49.91,
+        "sourceStart": 49.91,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 79.855,
+        "sourceStart": 79.855,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 109.801,
+        "sourceStart": 109.801,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 139.746,
+        "sourceStart": 139.746,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 169.692,
+        "sourceStart": 169.692,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 199.638,
+        "sourceStart": 199.638,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 224.593,
+        "sourceStart": 224.593,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "32754",
+      "offset": -97.4485,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.526841,
+      "windows": [
+        {
+          "localStart": 109.801,
+          "sourceStart": 14.235,
+          "offset": -95.566,
+          "coefficient": 0.024787
+        },
+        {
+          "localStart": 139.746,
+          "sourceStart": 42.447,
+          "offset": -97.299,
+          "coefficient": 0.044163
+        },
+        {
+          "localStart": 169.692,
+          "sourceStart": 70.37,
+          "offset": -99.3225,
+          "coefficient": 0.029294
+        },
+        {
+          "localStart": 199.638,
+          "sourceStart": 103.763,
+          "offset": -95.8755,
+          "coefficient": 0.075846
+        },
+        {
+          "localStart": 224.593,
+          "sourceStart": 125.265,
+          "offset": -99.328,
+          "coefficient": 0.030608
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "31773",
+      "offset": -103.134,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.586717,
+      "windows": [
+        {
+          "localStart": 109.801,
+          "sourceStart": 6.301,
+          "offset": -103.4995,
+          "coefficient": 0.094756
+        },
+        {
+          "localStart": 139.746,
+          "sourceStart": 34.882,
+          "offset": -104.865,
+          "coefficient": 0.109859
+        },
+        {
+          "localStart": 169.692,
+          "sourceStart": 66.849,
+          "offset": -102.8435,
+          "coefficient": 0.099216
+        },
+        {
+          "localStart": 199.638,
+          "sourceStart": 97.124,
+          "offset": -102.5145,
+          "coefficient": 0.075155
+        },
+        {
+          "localStart": 224.593,
+          "sourceStart": 120.245,
+          "offset": -104.348,
+          "coefficient": 0.050454
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "40504",
+      "offset": 0.0,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 19.963,
+          "sourceStart": 19.963,
+          "offset": 0.0,
+          "coefficient": 0.419456
+        },
+        {
+          "localStart": 49.91,
+          "sourceStart": 49.91,
+          "offset": 0.0,
+          "coefficient": 0.340253
+        },
+        {
+          "localStart": 79.855,
+          "sourceStart": 79.855,
+          "offset": 0.0,
+          "coefficient": 0.44398
+        },
+        {
+          "localStart": 109.801,
+          "sourceStart": 109.801,
+          "offset": 0.0,
+          "coefficient": 0.431874
+        },
+        {
+          "localStart": 139.746,
+          "sourceStart": 139.746,
+          "offset": 0.0,
+          "coefficient": 0.43417
+        },
+        {
+          "localStart": 169.692,
+          "sourceStart": 169.692,
+          "offset": 0.0,
+          "coefficient": 0.367768
+        },
+        {
+          "localStart": 199.638,
+          "sourceStart": 199.638,
+          "offset": 0.0,
+          "coefficient": 0.258277
+        },
+        {
+          "localStart": 224.593,
+          "sourceStart": 224.593,
+          "offset": 0.0,
+          "coefficient": 0.253766
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "40503",
+      "offset": 0.0,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 19.963,
+          "sourceStart": 19.963,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 49.91,
+          "sourceStart": 49.91,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 79.855,
+          "sourceStart": 79.855,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 109.801,
+          "sourceStart": 109.801,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 139.746,
+          "sourceStart": 139.746,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 169.692,
+          "sourceStart": 169.692,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 199.638,
+          "sourceStart": 199.638,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 224.593,
+          "sourceStart": 224.593,
+          "offset": 0.0,
+          "coefficient": 1.0
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

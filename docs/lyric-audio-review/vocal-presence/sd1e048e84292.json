@@ -1,0 +1,213 @@
+{
+  "id": "sd1e048e84292",
+  "file": "042十字架_女声_美声.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 38.62,
+      "tags": {
+        "Singing": 0.4523,
+        "Choir": 0.13282,
+        "Speech": 0.02256,
+        "Piano": 0.00442,
+        "Electric piano": 0.00055,
+        "Music": 0.86516,
+        "Musical instrument": 0.05546
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.86516
+        },
+        {
+          "label": "Singing",
+          "score": 0.4523
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.20907
+        },
+        {
+          "label": "Opera",
+          "score": 0.19374
+        },
+        {
+          "label": "A capella",
+          "score": 0.14952
+        }
+      ]
+    },
+    {
+      "time": 83.68,
+      "tags": {
+        "Singing": 0.46186,
+        "Choir": 0.15439,
+        "Speech": 0.01422,
+        "Piano": 0.00186,
+        "Electric piano": 0.00027,
+        "Music": 0.88409,
+        "Musical instrument": 0.03457
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.88409
+        },
+        {
+          "label": "Singing",
+          "score": 0.46186
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.20405
+        },
+        {
+          "label": "Opera",
+          "score": 0.15645
+        },
+        {
+          "label": "Choir",
+          "score": 0.15439
+        }
+      ]
+    },
+    {
+      "time": 128.73,
+      "tags": {
+        "Singing": 0.43157,
+        "Choir": 0.0332,
+        "Speech": 0.02208,
+        "Piano": 0.00781,
+        "Electric piano": 0.00031,
+        "Music": 0.90932,
+        "Musical instrument": 0.09838
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.90932
+        },
+        {
+          "label": "Opera",
+          "score": 0.60154
+        },
+        {
+          "label": "Singing",
+          "score": 0.43157
+        },
+        {
+          "label": "Classical music",
+          "score": 0.15823
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.09838
+        }
+      ]
+    },
+    {
+      "time": 173.79,
+      "tags": {
+        "Singing": 0.43918,
+        "Choir": 0.09707,
+        "Speech": 0.02289,
+        "Piano": 0.00284,
+        "Electric piano": 0.00053,
+        "Music": 0.84207,
+        "Musical instrument": 0.04153
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.84207
+        },
+        {
+          "label": "Opera",
+          "score": 0.50216
+        },
+        {
+          "label": "Singing",
+          "score": 0.43918
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.11612
+        },
+        {
+          "label": "Choir",
+          "score": 0.09707
+        }
+      ]
+    },
+    {
+      "time": 218.85,
+      "tags": {
+        "Singing": 0.41865,
+        "Choir": 0.20236,
+        "Speech": 0.026,
+        "Piano": 0.00748,
+        "Electric piano": 0.00069,
+        "Music": 0.86751,
+        "Musical instrument": 0.06609
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.86751
+        },
+        {
+          "label": "Opera",
+          "score": 0.55269
+        },
+        {
+          "label": "Singing",
+          "score": 0.41865
+        },
+        {
+          "label": "Choir",
+          "score": 0.20236
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.13481
+        }
+      ]
+    },
+    {
+      "time": 263.9,
+      "tags": {
+        "Singing": 0.45643,
+        "Choir": 0.14041,
+        "Speech": 0.01723,
+        "Piano": 0.00542,
+        "Electric piano": 0.00045,
+        "Music": 0.87651,
+        "Musical instrument": 0.0434
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.87651
+        },
+        {
+          "label": "Singing",
+          "score": 0.45643
+        },
+        {
+          "label": "Opera",
+          "score": 0.29875
+        },
+        {
+          "label": "Choir",
+          "score": 0.14041
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.13637
+        }
+      ]
+    }
+  ]
+}

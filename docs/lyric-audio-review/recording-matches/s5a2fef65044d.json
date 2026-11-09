@@ -1,0 +1,416 @@
+{
+  "id": "s5a2fef65044d",
+  "file": "101耶和华是爱.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "15080",
+      "offset": -3.1405,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.993609,
+      "windows": [
+        {
+          "localStart": 39.311,
+          "sourceStart": 37.443,
+          "offset": -1.868,
+          "coefficient": 0.212461
+        },
+        {
+          "localStart": 98.278,
+          "sourceStart": 96.165,
+          "offset": -2.1135,
+          "coefficient": 0.259428
+        },
+        {
+          "localStart": 157.244,
+          "sourceStart": 155.069,
+          "offset": -2.176,
+          "coefficient": 0.127371
+        },
+        {
+          "localStart": 216.212,
+          "sourceStart": 213.169,
+          "offset": -3.0425,
+          "coefficient": 0.101647
+        },
+        {
+          "localStart": 275.178,
+          "sourceStart": 272.399,
+          "offset": -2.78,
+          "coefficient": 0.155991
+        },
+        {
+          "localStart": 334.146,
+          "sourceStart": 331.851,
+          "offset": -2.295,
+          "coefficient": 0.215503
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 389.851,
+          "offset": -3.2605,
+          "coefficient": 0.144148
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 438.852,
+          "offset": -3.399,
+          "coefficient": 0.133109
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "15092",
+      "offset": -2.544,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.994823,
+      "windows": [
+        {
+          "localStart": 39.311,
+          "sourceStart": 38.107,
+          "offset": -1.204,
+          "coefficient": 0.141514
+        },
+        {
+          "localStart": 98.278,
+          "sourceStart": 96.847,
+          "offset": -1.431,
+          "coefficient": 0.082689
+        },
+        {
+          "localStart": 157.244,
+          "sourceStart": 155.74,
+          "offset": -1.504,
+          "coefficient": 0.126278
+        },
+        {
+          "localStart": 216.212,
+          "sourceStart": 214.454,
+          "offset": -1.7575,
+          "coefficient": 0.111699
+        },
+        {
+          "localStart": 275.178,
+          "sourceStart": 273.099,
+          "offset": -2.08,
+          "coefficient": 0.171989
+        },
+        {
+          "localStart": 334.146,
+          "sourceStart": 332.538,
+          "offset": -1.607,
+          "coefficient": 0.218832
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 390.461,
+          "offset": -2.6515,
+          "coefficient": 0.115662
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 439.437,
+          "offset": -2.814,
+          "coefficient": 0.150444
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "913",
+      "offset": -2.074,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.993406,
+      "windows": [
+        {
+          "localStart": 39.311,
+          "sourceStart": 38.13,
+          "offset": -1.181,
+          "coefficient": 0.22689
+        },
+        {
+          "localStart": 98.278,
+          "sourceStart": 96.903,
+          "offset": -1.3745,
+          "coefficient": 0.234768
+        },
+        {
+          "localStart": 157.244,
+          "sourceStart": 155.475,
+          "offset": -1.77,
+          "coefficient": 0.127961
+        },
+        {
+          "localStart": 216.212,
+          "sourceStart": 214.54,
+          "offset": -1.672,
+          "coefficient": 0.096461
+        },
+        {
+          "localStart": 275.178,
+          "sourceStart": 273.104,
+          "offset": -2.0745,
+          "coefficient": 0.178689
+        },
+        {
+          "localStart": 334.146,
+          "sourceStart": 332.573,
+          "offset": -1.5725,
+          "coefficient": 0.204573
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 390.543,
+          "offset": -2.5685,
+          "coefficient": 0.13629
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 439.565,
+          "offset": -2.6865,
+          "coefficient": 0.141196
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "15093",
+      "offset": -178.0325,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.637696,
+      "windows": [
+        {
+          "localStart": 216.212,
+          "sourceStart": 36.346,
+          "offset": -179.8655,
+          "coefficient": 0.016024
+        },
+        {
+          "localStart": 275.178,
+          "sourceStart": 98.619,
+          "offset": -176.5595,
+          "coefficient": 0.052534
+        },
+        {
+          "localStart": 334.146,
+          "sourceStart": 156.73,
+          "offset": -177.4155,
+          "coefficient": 0.205116
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 213.82,
+          "offset": -179.292,
+          "coefficient": 0.05712
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 262.942,
+          "offset": -179.3085,
+          "coefficient": 0.068739
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "40378",
+      "error": "Command '['curl', '--connect-timeout', '5', '--max-time', '20', '-fsSL', 'https://play.izanm.org/song/p/40378.mp3', '-o'"
+    },
+    {
+      "source": "40320",
+      "offset": -146.5675,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.701729,
+      "windows": [
+        {
+          "localStart": 157.244,
+          "sourceStart": 11.387,
+          "offset": -145.857,
+          "coefficient": 0.080765
+        },
+        {
+          "localStart": 216.212,
+          "sourceStart": 71.341,
+          "offset": -144.87,
+          "coefficient": 0.027832
+        },
+        {
+          "localStart": 275.178,
+          "sourceStart": 128.192,
+          "offset": -146.9865,
+          "coefficient": 0.052604
+        },
+        {
+          "localStart": 334.146,
+          "sourceStart": 186.617,
+          "offset": -147.529,
+          "coefficient": 0.070239
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 244.582,
+          "offset": -148.5305,
+          "coefficient": 0.041399
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 293.781,
+          "offset": -148.4705,
+          "coefficient": 0.048719
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "50026",
+      "error": "Command '['curl', '--connect-timeout', '5', '--max-time', '20', '-fsSL', 'https://play.izanm.org/song/p/50026.mp3', '-o'"
+    },
+    {
+      "source": "21690",
+      "offset": -59.496,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.511121,
+      "windows": [
+        {
+          "localStart": 98.278,
+          "sourceStart": 40.102,
+          "offset": -58.176,
+          "coefficient": 0.036427
+        },
+        {
+          "localStart": 157.244,
+          "sourceStart": 99.694,
+          "offset": -57.551,
+          "coefficient": 0.037091
+        },
+        {
+          "localStart": 216.212,
+          "sourceStart": 155.018,
+          "offset": -61.193,
+          "coefficient": 0.047033
+        },
+        {
+          "localStart": 275.178,
+          "sourceStart": 213.893,
+          "offset": -61.2855,
+          "coefficient": 0.044857
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "27043",
+      "offset": -257.125,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.400616,
+      "windows": [
+        {
+          "localStart": 275.178,
+          "sourceStart": 16.142,
+          "offset": -259.0365,
+          "coefficient": 0.061514
+        },
+        {
+          "localStart": 334.146,
+          "sourceStart": 77.828,
+          "offset": -256.318,
+          "coefficient": 0.074416
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 136.735,
+          "offset": -256.377,
+          "coefficient": 0.032069
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 183.713,
+          "offset": -258.538,
+          "coefficient": 0.041447
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "11232",
+      "offset": -312.595,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.363856,
+      "windows": [
+        {
+          "localStart": 334.146,
+          "sourceStart": 20.006,
+          "offset": -314.1395,
+          "coefficient": 0.104017
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 82.315,
+          "offset": -310.797,
+          "coefficient": 0.057524
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 129.128,
+          "offset": -313.123,
+          "coefficient": 0.06344
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "910",
+      "offset": -178.0325,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.637696,
+      "windows": [
+        {
+          "localStart": 216.212,
+          "sourceStart": 36.346,
+          "offset": -179.8655,
+          "coefficient": 0.016015
+        },
+        {
+          "localStart": 275.178,
+          "sourceStart": 98.619,
+          "offset": -176.5595,
+          "coefficient": 0.052528
+        },
+        {
+          "localStart": 334.146,
+          "sourceStart": 156.73,
+          "offset": -177.4155,
+          "coefficient": 0.205205
+        },
+        {
+          "localStart": 393.112,
+          "sourceStart": 213.82,
+          "offset": -179.292,
+          "coefficient": 0.05695
+        },
+        {
+          "localStart": 442.251,
+          "sourceStart": 262.942,
+          "offset": -179.3085,
+          "coefficient": 0.069319
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "15081",
+      "error": "Command '['curl', '--connect-timeout', '5', '--max-time', '20', '-fsSL', 'https://play.izanm.org/song/p/15081.mp3', '-o'"
+    }
+  ]
+}

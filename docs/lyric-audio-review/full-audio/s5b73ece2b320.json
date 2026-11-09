@@ -1,0 +1,471 @@
+{
+  "id": "s5b73ece2b320",
+  "file": "073-我.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "a64cc6a4e1c451eaaed55213e9afeb6a6af72f38a3c2464a4acdec767d0f8476",
+  "fullDuration": 327.975375,
+  "lines": [
+    {
+      "time": 29.84,
+      "end": 30.14,
+      "text": "作词 :李宗盛",
+      "words": [
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "作",
+          "probability": 0.0681
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "词",
+          "probability": 0.4854
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": " :",
+          "probability": 0.617
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "李",
+          "probability": 0.0946
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "宗",
+          "probability": 0.4815
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "盛",
+          "probability": 0.8706
+        }
+      ]
+    },
+    {
+      "time": 31.88,
+      "end": 32.24,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 31.88,
+          "end": 32.18,
+          "text": "Z",
+          "probability": 0.2563
+        },
+        {
+          "time": 31.9,
+          "end": 32.2,
+          "text": "ither",
+          "probability": 0.996
+        },
+        {
+          "time": 31.92,
+          "end": 32.22,
+          "text": " Har",
+          "probability": 0.9944
+        },
+        {
+          "time": 31.94,
+          "end": 32.24,
+          "text": "p",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 70.56,
+      "end": 71.04,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 70.56,
+          "end": 70.86,
+          "text": "Z",
+          "probability": 0.7716
+        },
+        {
+          "time": 70.58,
+          "end": 70.88,
+          "text": "ither",
+          "probability": 0.9964
+        },
+        {
+          "time": 70.72,
+          "end": 71.02,
+          "text": " Har",
+          "probability": 0.9972
+        },
+        {
+          "time": 70.74,
+          "end": 71.04,
+          "text": "p",
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "time": 97.84,
+      "end": 98.2,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 97.84,
+          "end": 98.14,
+          "text": "Z",
+          "probability": 0.3952
+        },
+        {
+          "time": 97.86,
+          "end": 98.16,
+          "text": "ither",
+          "probability": 0.9962
+        },
+        {
+          "time": 97.88,
+          "end": 98.18,
+          "text": " Har",
+          "probability": 0.9968
+        },
+        {
+          "time": 97.9,
+          "end": 98.2,
+          "text": "p",
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "time": 128.0,
+      "end": 128.4,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 128.0,
+          "end": 128.3,
+          "text": "Z",
+          "probability": 0.5612
+        },
+        {
+          "time": 128.02,
+          "end": 128.32,
+          "text": "ither",
+          "probability": 0.9967
+        },
+        {
+          "time": 128.08,
+          "end": 128.38,
+          "text": " Har",
+          "probability": 0.9968
+        },
+        {
+          "time": 128.1,
+          "end": 128.4,
+          "text": "p",
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "time": 157.5,
+      "end": 157.9,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 157.5,
+          "end": 157.8,
+          "text": "Z",
+          "probability": 0.4776
+        },
+        {
+          "time": 157.52,
+          "end": 157.82,
+          "text": "ither",
+          "probability": 0.9944
+        },
+        {
+          "time": 157.58,
+          "end": 157.88,
+          "text": " Har",
+          "probability": 0.9965
+        },
+        {
+          "time": 157.6,
+          "end": 157.9,
+          "text": "p",
+          "probability": 0.9966
+        }
+      ]
+    },
+    {
+      "time": 186.48,
+      "end": 187.46,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 186.48,
+          "end": 186.78,
+          "text": "Z",
+          "probability": 0.4864
+        },
+        {
+          "time": 186.5,
+          "end": 186.8,
+          "text": "ither",
+          "probability": 0.9943
+        },
+        {
+          "time": 187.14,
+          "end": 187.44,
+          "text": " Har",
+          "probability": 0.9958
+        },
+        {
+          "time": 187.16,
+          "end": 187.46,
+          "text": "p",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 219.18,
+      "end": 219.54,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 219.18,
+          "end": 219.48,
+          "text": "Z",
+          "probability": 0.3411
+        },
+        {
+          "time": 219.2,
+          "end": 219.5,
+          "text": "ither",
+          "probability": 0.9943
+        },
+        {
+          "time": 219.22,
+          "end": 219.52,
+          "text": " Har",
+          "probability": 0.9957
+        },
+        {
+          "time": 219.24,
+          "end": 219.54,
+          "text": "p",
+          "probability": 0.9962
+        }
+      ]
+    },
+    {
+      "time": 269.84,
+      "end": 270.14,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "优",
+          "probability": 0.3714
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "优",
+          "probability": 0.9983
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "独",
+          "probability": 0.9972
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "播",
+          "probability": 0.9959
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "剧",
+          "probability": 0.9966
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "场",
+          "probability": 0.9981
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "——",
+          "probability": 0.9977
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "Yo",
+          "probability": 0.9967
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "Yo",
+          "probability": 0.9971
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": " Television",
+          "probability": 0.9965
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": " Series",
+          "probability": 0.9971
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": " Exc",
+          "probability": 0.9961
+        },
+        {
+          "time": 269.84,
+          "end": 270.14,
+          "text": "lusive",
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "time": 299.84,
+      "end": 300.14,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "优",
+          "probability": 0.1903
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "优",
+          "probability": 0.9981
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "独",
+          "probability": 0.9979
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "播",
+          "probability": 0.9958
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "剧",
+          "probability": 0.997
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "场",
+          "probability": 0.998
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "——",
+          "probability": 0.9974
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "Yo",
+          "probability": 0.9964
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "Yo",
+          "probability": 0.9972
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": " Television",
+          "probability": 0.9975
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": " Series",
+          "probability": 0.9974
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": " Exc",
+          "probability": 0.9964
+        },
+        {
+          "time": 299.84,
+          "end": 300.14,
+          "text": "lusive",
+          "probability": 0.9966
+        }
+      ]
+    },
+    {
+      "time": 302.6,
+      "end": 302.96,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 302.6,
+          "end": 302.9,
+          "text": "Z",
+          "probability": 0.4746
+        },
+        {
+          "time": 302.62,
+          "end": 302.92,
+          "text": "ither",
+          "probability": 0.9946
+        },
+        {
+          "time": 302.64,
+          "end": 302.94,
+          "text": " Har",
+          "probability": 0.9949
+        },
+        {
+          "time": 302.66,
+          "end": 302.96,
+          "text": "p",
+          "probability": 0.9985
+        }
+      ]
+    }
+  ]
+}

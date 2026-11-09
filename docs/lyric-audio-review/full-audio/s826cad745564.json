@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "6638",
+  "waveform": {
+    "source": "6638",
+    "url": "https://www.izanmei.cc/song/6638.html",
+    "audio": "https://play.izanm.org/song/p/6638.mp3",
+    "offset": 0.037,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 0.999681,
+    "windows": [
+      {
+        "localStart": 19.284,
+        "sourceStart": 19.321,
+        "offset": 0.0375,
+        "coefficient": 0.972526
+      },
+      {
+        "localStart": 48.209,
+        "sourceStart": 48.246,
+        "offset": 0.0375,
+        "coefficient": 0.959298
+      },
+      {
+        "localStart": 77.135,
+        "sourceStart": 77.172,
+        "offset": 0.0375,
+        "coefficient": 0.971828
+      },
+      {
+        "localStart": 106.06,
+        "sourceStart": 106.097,
+        "offset": 0.0375,
+        "coefficient": 0.949563
+      },
+      {
+        "localStart": 134.986,
+        "sourceStart": 135.023,
+        "offset": 0.0375,
+        "coefficient": 0.961336
+      },
+      {
+        "localStart": 163.911,
+        "sourceStart": 163.948,
+        "offset": 0.0375,
+        "coefficient": 0.957735
+      },
+      {
+        "localStart": 192.837,
+        "sourceStart": 192.874,
+        "offset": 0.0375,
+        "coefficient": 0.951919
+      },
+      {
+        "localStart": 216.941,
+        "sourceStart": 216.978,
+        "offset": 0.0375,
+        "coefficient": 0.947155
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "s826cad745564",
+  "file": "199奇妙神迹.mp3",
+  "fullDuration": 241.057959,
+  "recordingHash": "dbc2db126e58d621cdad3b01b0e97d082667cd9ee1c45e14b00123b800d67df3",
+  "lines": []
+}

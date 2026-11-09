@@ -1,0 +1,2146 @@
+{
+  "id": "sf7b7d98efa7c",
+  "file": "070天堂在我心.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "5af5c61b468798ac6843db8b7ec9a5eb408bcbc8a50ecf8df4e1bb351d2ade10",
+  "fullDuration": 212.894375,
+  "lines": [
+    {
+      "time": 2.74,
+      "end": 3.92,
+      "text": "作词 :李宗盛作曲 :李宗",
+      "words": [
+        {
+          "time": 2.74,
+          "end": 3.04,
+          "text": "作",
+          "probability": 0.1149
+        },
+        {
+          "time": 3.02,
+          "end": 3.32,
+          "text": "词",
+          "probability": 0.6275
+        },
+        {
+          "time": 3.02,
+          "end": 3.32,
+          "text": " :",
+          "probability": 0.6221
+        },
+        {
+          "time": 3.04,
+          "end": 3.34,
+          "text": "李",
+          "probability": 0.0402
+        },
+        {
+          "time": 3.04,
+          "end": 3.34,
+          "text": "宗",
+          "probability": 0.289
+        },
+        {
+          "time": 3.04,
+          "end": 3.4,
+          "text": "盛",
+          "probability": 0.7246
+        },
+        {
+          "time": 3.62,
+          "end": 3.92,
+          "text": "作",
+          "probability": 0.54
+        },
+        {
+          "time": 3.62,
+          "end": 3.92,
+          "text": "曲",
+          "probability": 0.6448
+        },
+        {
+          "time": 3.62,
+          "end": 3.92,
+          "text": " :",
+          "probability": 0.9029
+        },
+        {
+          "time": 3.62,
+          "end": 3.92,
+          "text": "李",
+          "probability": 0.54
+        },
+        {
+          "time": 3.62,
+          "end": 3.92,
+          "text": "宗",
+          "probability": 0.9905
+        }
+      ]
+    },
+    {
+      "time": 10.8,
+      "end": 12.32,
+      "text": "盛作曲 :李宗",
+      "words": [
+        {
+          "time": 10.8,
+          "end": 11.1,
+          "text": "盛",
+          "probability": 0.9983
+        },
+        {
+          "time": 10.82,
+          "end": 11.12,
+          "text": "作",
+          "probability": 0.3772
+        },
+        {
+          "time": 10.82,
+          "end": 11.12,
+          "text": "曲",
+          "probability": 0.6053
+        },
+        {
+          "time": 10.82,
+          "end": 11.12,
+          "text": " :",
+          "probability": 0.9545
+        },
+        {
+          "time": 12.02,
+          "end": 12.32,
+          "text": "李",
+          "probability": 0.8079
+        },
+        {
+          "time": 12.02,
+          "end": 12.32,
+          "text": "宗",
+          "probability": 0.9923
+        }
+      ]
+    },
+    {
+      "time": 15.76,
+      "end": 16.06,
+      "text": "盛",
+      "words": [
+        {
+          "time": 15.76,
+          "end": 16.06,
+          "text": "盛",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 17.28,
+      "end": 23.16,
+      "text": "这一说是水夜酒的花泪不能绽放一起",
+      "words": [
+        {
+          "time": 17.28,
+          "end": 17.58,
+          "text": "这",
+          "probability": 0.6395
+        },
+        {
+          "time": 17.52,
+          "end": 17.82,
+          "text": "一",
+          "probability": 0.9584
+        },
+        {
+          "time": 17.84,
+          "end": 18.14,
+          "text": "说",
+          "probability": 0.6771
+        },
+        {
+          "time": 19.16,
+          "end": 19.46,
+          "text": "是",
+          "probability": 0.294
+        },
+        {
+          "time": 19.44,
+          "end": 19.74,
+          "text": "水",
+          "probability": 0.7109
+        },
+        {
+          "time": 19.72,
+          "end": 20.02,
+          "text": "夜",
+          "probability": 0.276
+        },
+        {
+          "time": 20.06,
+          "end": 20.36,
+          "text": "酒",
+          "probability": 0.5607
+        },
+        {
+          "time": 20.4,
+          "end": 20.7,
+          "text": "的",
+          "probability": 0.7765
+        },
+        {
+          "time": 20.7,
+          "end": 21.0,
+          "text": "花",
+          "probability": 0.9595
+        },
+        {
+          "time": 20.92,
+          "end": 21.36,
+          "text": "泪",
+          "probability": 0.3865
+        },
+        {
+          "time": 21.84,
+          "end": 22.14,
+          "text": "不能",
+          "probability": 0.9873
+        },
+        {
+          "time": 22.06,
+          "end": 22.42,
+          "text": "绽",
+          "probability": 0.836
+        },
+        {
+          "time": 22.36,
+          "end": 22.66,
+          "text": "放",
+          "probability": 0.9961
+        },
+        {
+          "time": 22.86,
+          "end": 23.16,
+          "text": "一起",
+          "probability": 0.5631
+        }
+      ]
+    },
+    {
+      "time": 23.38,
+      "end": 29.16,
+      "text": "冰痕谁说寒冬之后滴答滴",
+      "words": [
+        {
+          "time": 23.38,
+          "end": 23.82,
+          "text": "冰",
+          "probability": 0.5999
+        },
+        {
+          "time": 23.86,
+          "end": 24.36,
+          "text": "痕",
+          "probability": 0.1628
+        },
+        {
+          "time": 25.08,
+          "end": 25.38,
+          "text": "谁",
+          "probability": 0.4196
+        },
+        {
+          "time": 25.62,
+          "end": 25.92,
+          "text": "说",
+          "probability": 0.8918
+        },
+        {
+          "time": 26.92,
+          "end": 27.26,
+          "text": "寒",
+          "probability": 0.912
+        },
+        {
+          "time": 27.16,
+          "end": 27.54,
+          "text": "冬",
+          "probability": 0.9891
+        },
+        {
+          "time": 27.52,
+          "end": 27.82,
+          "text": "之",
+          "probability": 0.9767
+        },
+        {
+          "time": 27.9,
+          "end": 28.2,
+          "text": "后",
+          "probability": 0.9889
+        },
+        {
+          "time": 28.18,
+          "end": 28.52,
+          "text": "滴",
+          "probability": 0.6183
+        },
+        {
+          "time": 28.48,
+          "end": 28.78,
+          "text": "答",
+          "probability": 0.819
+        },
+        {
+          "time": 28.7,
+          "end": 29.16,
+          "text": "滴",
+          "probability": 0.9462
+        }
+      ]
+    },
+    {
+      "time": 29.64,
+      "end": 35.24,
+      "text": "不能展现一片清脆谁说曾经",
+      "words": [
+        {
+          "time": 29.64,
+          "end": 29.94,
+          "text": "不能",
+          "probability": 0.9807
+        },
+        {
+          "time": 29.9,
+          "end": 30.2,
+          "text": "展",
+          "probability": 0.5006
+        },
+        {
+          "time": 30.18,
+          "end": 30.48,
+          "text": "现",
+          "probability": 0.9597
+        },
+        {
+          "time": 30.44,
+          "end": 30.74,
+          "text": "一",
+          "probability": 0.998
+        },
+        {
+          "time": 30.78,
+          "end": 31.08,
+          "text": "片",
+          "probability": 0.9981
+        },
+        {
+          "time": 31.24,
+          "end": 31.54,
+          "text": "清",
+          "probability": 0.8357
+        },
+        {
+          "time": 31.64,
+          "end": 32.38,
+          "text": "脆",
+          "probability": 0.9422
+        },
+        {
+          "time": 32.84,
+          "end": 33.14,
+          "text": "谁",
+          "probability": 0.9064
+        },
+        {
+          "time": 33.36,
+          "end": 33.66,
+          "text": "说",
+          "probability": 0.7502
+        },
+        {
+          "time": 34.76,
+          "end": 35.06,
+          "text": "曾",
+          "probability": 0.6583
+        },
+        {
+          "time": 35.02,
+          "end": 35.32,
+          "text": "经",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 35.24,
+      "end": 41.08,
+      "text": "受伤的翅膀不能再度自由地飞我要",
+      "words": [
+        {
+          "time": 35.24,
+          "end": 35.54,
+          "text": "受",
+          "probability": 0.7505
+        },
+        {
+          "time": 35.52,
+          "end": 35.96,
+          "text": "伤",
+          "probability": 0.9985
+        },
+        {
+          "time": 36.0,
+          "end": 36.3,
+          "text": "的",
+          "probability": 0.9986
+        },
+        {
+          "time": 36.22,
+          "end": 36.58,
+          "text": "翅",
+          "probability": 0.994
+        },
+        {
+          "time": 36.5,
+          "end": 36.92,
+          "text": "膀",
+          "probability": 0.9985
+        },
+        {
+          "time": 37.44,
+          "end": 37.74,
+          "text": "不能",
+          "probability": 0.996
+        },
+        {
+          "time": 37.72,
+          "end": 38.02,
+          "text": "再",
+          "probability": 0.9738
+        },
+        {
+          "time": 37.94,
+          "end": 38.24,
+          "text": "度",
+          "probability": 0.9678
+        },
+        {
+          "time": 38.56,
+          "end": 38.86,
+          "text": "自由",
+          "probability": 0.9965
+        },
+        {
+          "time": 39.0,
+          "end": 39.3,
+          "text": "地",
+          "probability": 0.7029
+        },
+        {
+          "time": 39.42,
+          "end": 40.06,
+          "text": "飞",
+          "probability": 0.8738
+        },
+        {
+          "time": 40.78,
+          "end": 41.08,
+          "text": "我要",
+          "probability": 0.962
+        }
+      ]
+    },
+    {
+      "time": 41.08,
+      "end": 47.06,
+      "text": "抬起头张开双背拥抱身所思的世界",
+      "words": [
+        {
+          "time": 41.08,
+          "end": 41.5,
+          "text": "抬",
+          "probability": 0.9954
+        },
+        {
+          "time": 41.54,
+          "end": 41.84,
+          "text": "起",
+          "probability": 0.9985
+        },
+        {
+          "time": 42.12,
+          "end": 42.42,
+          "text": "头",
+          "probability": 0.9957
+        },
+        {
+          "time": 43.0,
+          "end": 43.3,
+          "text": "张",
+          "probability": 0.5155
+        },
+        {
+          "time": 43.26,
+          "end": 43.56,
+          "text": "开",
+          "probability": 0.9991
+        },
+        {
+          "time": 43.46,
+          "end": 43.84,
+          "text": "双",
+          "probability": 0.9929
+        },
+        {
+          "time": 44.1,
+          "end": 44.4,
+          "text": "背",
+          "probability": 0.6358
+        },
+        {
+          "time": 44.96,
+          "end": 45.3,
+          "text": "拥",
+          "probability": 0.8987
+        },
+        {
+          "time": 45.22,
+          "end": 45.52,
+          "text": "抱",
+          "probability": 0.9964
+        },
+        {
+          "time": 45.46,
+          "end": 45.76,
+          "text": "身",
+          "probability": 0.4422
+        },
+        {
+          "time": 45.7,
+          "end": 46.0,
+          "text": "所",
+          "probability": 0.2494
+        },
+        {
+          "time": 45.96,
+          "end": 46.26,
+          "text": "思",
+          "probability": 0.209
+        },
+        {
+          "time": 46.18,
+          "end": 46.48,
+          "text": "的",
+          "probability": 0.9898
+        },
+        {
+          "time": 46.76,
+          "end": 47.06,
+          "text": "世界",
+          "probability": 0.963
+        }
+      ]
+    },
+    {
+      "time": 50.54,
+      "end": 56.34,
+      "text": "I want to be free自由地飞在爱中我只怕",
+      "words": [
+        {
+          "time": 50.54,
+          "end": 50.84,
+          "text": "I",
+          "probability": 0.987
+        },
+        {
+          "time": 50.88,
+          "end": 51.18,
+          "text": " want",
+          "probability": 0.9945
+        },
+        {
+          "time": 51.08,
+          "end": 51.38,
+          "text": " to",
+          "probability": 0.9933
+        },
+        {
+          "time": 51.28,
+          "end": 51.58,
+          "text": " be",
+          "probability": 0.9994
+        },
+        {
+          "time": 51.72,
+          "end": 52.02,
+          "text": " free",
+          "probability": 0.9998
+        },
+        {
+          "time": 52.7,
+          "end": 53.0,
+          "text": "自由",
+          "probability": 0.4935
+        },
+        {
+          "time": 53.26,
+          "end": 53.56,
+          "text": "地",
+          "probability": 0.9919
+        },
+        {
+          "time": 53.56,
+          "end": 54.2,
+          "text": "飞",
+          "probability": 0.9881
+        },
+        {
+          "time": 54.52,
+          "end": 54.82,
+          "text": "在",
+          "probability": 0.9978
+        },
+        {
+          "time": 54.76,
+          "end": 55.06,
+          "text": "爱",
+          "probability": 0.9743
+        },
+        {
+          "time": 55.0,
+          "end": 55.3,
+          "text": "中",
+          "probability": 0.9988
+        },
+        {
+          "time": 55.24,
+          "end": 55.54,
+          "text": "我",
+          "probability": 0.9724
+        },
+        {
+          "time": 55.56,
+          "end": 55.86,
+          "text": "只",
+          "probability": 0.9366
+        },
+        {
+          "time": 56.04,
+          "end": 56.34,
+          "text": "怕",
+          "probability": 0.9949
+        }
+      ]
+    },
+    {
+      "time": 56.46,
+      "end": 62.84,
+      "text": "在爱中伤悲I want to be free 不再的美Because",
+      "words": [
+        {
+          "time": 56.46,
+          "end": 56.76,
+          "text": "在",
+          "probability": 0.9702
+        },
+        {
+          "time": 56.7,
+          "end": 57.0,
+          "text": "爱",
+          "probability": 0.9993
+        },
+        {
+          "time": 56.98,
+          "end": 57.28,
+          "text": "中",
+          "probability": 0.9992
+        },
+        {
+          "time": 57.32,
+          "end": 57.84,
+          "text": "伤",
+          "probability": 0.4839
+        },
+        {
+          "time": 57.86,
+          "end": 58.24,
+          "text": "悲",
+          "probability": 0.9091
+        },
+        {
+          "time": 58.4,
+          "end": 58.7,
+          "text": "I",
+          "probability": 0.9535
+        },
+        {
+          "time": 58.7,
+          "end": 59.0,
+          "text": " want",
+          "probability": 0.9968
+        },
+        {
+          "time": 58.9,
+          "end": 59.2,
+          "text": " to",
+          "probability": 0.9876
+        },
+        {
+          "time": 59.14,
+          "end": 59.44,
+          "text": " be",
+          "probability": 0.9975
+        },
+        {
+          "time": 59.54,
+          "end": 59.84,
+          "text": " free",
+          "probability": 0.9992
+        },
+        {
+          "time": 60.22,
+          "end": 60.52,
+          "text": " 不",
+          "probability": 0.4506
+        },
+        {
+          "time": 60.8,
+          "end": 61.1,
+          "text": "再",
+          "probability": 0.9631
+        },
+        {
+          "time": 61.08,
+          "end": 61.38,
+          "text": "的",
+          "probability": 0.285
+        },
+        {
+          "time": 61.52,
+          "end": 61.82,
+          "text": "美",
+          "probability": 0.4935
+        },
+        {
+          "time": 62.54,
+          "end": 62.84,
+          "text": "Because",
+          "probability": 0.9332
+        }
+      ]
+    },
+    {
+      "time": 62.88,
+      "end": 69.7,
+      "text": "I believe that heaven is here我有天躺在我的",
+      "words": [
+        {
+          "time": 62.88,
+          "end": 63.18,
+          "text": " I",
+          "probability": 0.9997
+        },
+        {
+          "time": 63.54,
+          "end": 63.84,
+          "text": " believe",
+          "probability": 0.9992
+        },
+        {
+          "time": 64.28,
+          "end": 64.58,
+          "text": " that",
+          "probability": 0.6351
+        },
+        {
+          "time": 64.7,
+          "end": 65.0,
+          "text": " heaven",
+          "probability": 0.9713
+        },
+        {
+          "time": 65.02,
+          "end": 65.32,
+          "text": " is",
+          "probability": 0.9999
+        },
+        {
+          "time": 65.68,
+          "end": 65.98,
+          "text": " here",
+          "probability": 0.9995
+        },
+        {
+          "time": 66.5,
+          "end": 66.8,
+          "text": "我有",
+          "probability": 0.6813
+        },
+        {
+          "time": 66.92,
+          "end": 67.22,
+          "text": "天",
+          "probability": 0.9508
+        },
+        {
+          "time": 67.28,
+          "end": 67.68,
+          "text": "躺",
+          "probability": 0.5075
+        },
+        {
+          "time": 68.08,
+          "end": 68.38,
+          "text": "在",
+          "probability": 0.9997
+        },
+        {
+          "time": 69.4,
+          "end": 69.7,
+          "text": "我的",
+          "probability": 0.9565
+        }
+      ]
+    },
+    {
+      "time": 70.48,
+      "end": 70.78,
+      "text": "心",
+      "words": [
+        {
+          "time": 70.48,
+          "end": 70.78,
+          "text": "心",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 87.46,
+      "end": 93.28,
+      "text": "谁说深水已久的花泪不能绽放一起",
+      "words": [
+        {
+          "time": 87.46,
+          "end": 87.76,
+          "text": "谁",
+          "probability": 0.9802
+        },
+        {
+          "time": 88.14,
+          "end": 88.44,
+          "text": "说",
+          "probability": 0.9989
+        },
+        {
+          "time": 89.28,
+          "end": 89.58,
+          "text": "深",
+          "probability": 0.5482
+        },
+        {
+          "time": 89.56,
+          "end": 89.86,
+          "text": "水",
+          "probability": 0.7839
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "已",
+          "probability": 0.5377
+        },
+        {
+          "time": 90.18,
+          "end": 90.48,
+          "text": "久",
+          "probability": 0.9467
+        },
+        {
+          "time": 90.5,
+          "end": 90.8,
+          "text": "的",
+          "probability": 0.9902
+        },
+        {
+          "time": 90.82,
+          "end": 91.12,
+          "text": "花",
+          "probability": 0.9666
+        },
+        {
+          "time": 91.02,
+          "end": 91.44,
+          "text": "泪",
+          "probability": 0.641
+        },
+        {
+          "time": 91.94,
+          "end": 92.24,
+          "text": "不能",
+          "probability": 0.9889
+        },
+        {
+          "time": 92.16,
+          "end": 92.52,
+          "text": "绽",
+          "probability": 0.9865
+        },
+        {
+          "time": 92.48,
+          "end": 92.78,
+          "text": "放",
+          "probability": 0.9982
+        },
+        {
+          "time": 92.98,
+          "end": 93.28,
+          "text": "一起",
+          "probability": 0.4147
+        }
+      ]
+    },
+    {
+      "time": 93.46,
+      "end": 99.2,
+      "text": "缤纷谁说寒冬之后的大地",
+      "words": [
+        {
+          "time": 93.46,
+          "end": 93.92,
+          "text": "缤",
+          "probability": 0.5102
+        },
+        {
+          "time": 93.94,
+          "end": 94.34,
+          "text": "纷",
+          "probability": 0.7981
+        },
+        {
+          "time": 95.18,
+          "end": 95.48,
+          "text": "谁",
+          "probability": 0.9994
+        },
+        {
+          "time": 95.7,
+          "end": 96.0,
+          "text": "说",
+          "probability": 0.9998
+        },
+        {
+          "time": 97.04,
+          "end": 97.36,
+          "text": "寒",
+          "probability": 0.7967
+        },
+        {
+          "time": 97.26,
+          "end": 97.62,
+          "text": "冬",
+          "probability": 0.9809
+        },
+        {
+          "time": 97.56,
+          "end": 97.86,
+          "text": "之",
+          "probability": 0.9943
+        },
+        {
+          "time": 97.96,
+          "end": 98.26,
+          "text": "后",
+          "probability": 0.9998
+        },
+        {
+          "time": 98.3,
+          "end": 98.6,
+          "text": "的",
+          "probability": 0.9987
+        },
+        {
+          "time": 98.56,
+          "end": 98.86,
+          "text": "大",
+          "probability": 0.9493
+        },
+        {
+          "time": 98.9,
+          "end": 99.2,
+          "text": "地",
+          "probability": 0.8994
+        }
+      ]
+    },
+    {
+      "time": 99.76,
+      "end": 105.32,
+      "text": "不能展现一片清脆谁说曾经",
+      "words": [
+        {
+          "time": 99.76,
+          "end": 100.06,
+          "text": "不能",
+          "probability": 0.999
+        },
+        {
+          "time": 100.0,
+          "end": 100.3,
+          "text": "展",
+          "probability": 0.3085
+        },
+        {
+          "time": 100.28,
+          "end": 100.58,
+          "text": "现",
+          "probability": 0.9825
+        },
+        {
+          "time": 100.54,
+          "end": 100.84,
+          "text": "一",
+          "probability": 0.9998
+        },
+        {
+          "time": 100.88,
+          "end": 101.18,
+          "text": "片",
+          "probability": 0.9981
+        },
+        {
+          "time": 101.34,
+          "end": 101.64,
+          "text": "清",
+          "probability": 0.6117
+        },
+        {
+          "time": 101.68,
+          "end": 102.16,
+          "text": "脆",
+          "probability": 0.9147
+        },
+        {
+          "time": 103.0,
+          "end": 103.3,
+          "text": "谁",
+          "probability": 0.9998
+        },
+        {
+          "time": 103.52,
+          "end": 103.82,
+          "text": "说",
+          "probability": 0.9997
+        },
+        {
+          "time": 104.84,
+          "end": 105.14,
+          "text": "曾",
+          "probability": 0.9998
+        },
+        {
+          "time": 105.1,
+          "end": 105.4,
+          "text": "经",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 105.32,
+      "end": 111.22,
+      "text": "受伤的翅膀不能再度自由地飞我要",
+      "words": [
+        {
+          "time": 105.32,
+          "end": 105.62,
+          "text": "受",
+          "probability": 0.511
+        },
+        {
+          "time": 105.6,
+          "end": 106.02,
+          "text": "伤",
+          "probability": 0.9993
+        },
+        {
+          "time": 106.1,
+          "end": 106.4,
+          "text": "的",
+          "probability": 0.992
+        },
+        {
+          "time": 106.3,
+          "end": 106.66,
+          "text": "翅",
+          "probability": 0.992
+        },
+        {
+          "time": 106.56,
+          "end": 107.0,
+          "text": "膀",
+          "probability": 0.9947
+        },
+        {
+          "time": 107.5,
+          "end": 107.8,
+          "text": "不能",
+          "probability": 0.9985
+        },
+        {
+          "time": 107.78,
+          "end": 108.08,
+          "text": "再",
+          "probability": 0.9933
+        },
+        {
+          "time": 108.02,
+          "end": 108.32,
+          "text": "度",
+          "probability": 0.9636
+        },
+        {
+          "time": 108.6,
+          "end": 108.9,
+          "text": "自由",
+          "probability": 0.967
+        },
+        {
+          "time": 109.1,
+          "end": 109.4,
+          "text": "地",
+          "probability": 0.5704
+        },
+        {
+          "time": 109.48,
+          "end": 110.14,
+          "text": "飞",
+          "probability": 0.6953
+        },
+        {
+          "time": 110.94,
+          "end": 111.24,
+          "text": "我要",
+          "probability": 0.9779
+        }
+      ]
+    },
+    {
+      "time": 111.22,
+      "end": 117.22,
+      "text": "抬起头张开双背拥抱是所思的世界",
+      "words": [
+        {
+          "time": 111.22,
+          "end": 111.64,
+          "text": "抬",
+          "probability": 0.696
+        },
+        {
+          "time": 111.72,
+          "end": 112.02,
+          "text": "起",
+          "probability": 0.9947
+        },
+        {
+          "time": 112.2,
+          "end": 112.5,
+          "text": "头",
+          "probability": 0.9849
+        },
+        {
+          "time": 113.14,
+          "end": 113.44,
+          "text": "张",
+          "probability": 0.8071
+        },
+        {
+          "time": 113.4,
+          "end": 113.7,
+          "text": "开",
+          "probability": 0.9974
+        },
+        {
+          "time": 113.6,
+          "end": 113.98,
+          "text": "双",
+          "probability": 0.9227
+        },
+        {
+          "time": 114.0,
+          "end": 114.3,
+          "text": "背",
+          "probability": 0.5768
+        },
+        {
+          "time": 115.08,
+          "end": 115.4,
+          "text": "拥",
+          "probability": 0.9486
+        },
+        {
+          "time": 115.32,
+          "end": 115.62,
+          "text": "抱",
+          "probability": 0.9989
+        },
+        {
+          "time": 115.6,
+          "end": 115.9,
+          "text": "是",
+          "probability": 0.4035
+        },
+        {
+          "time": 115.82,
+          "end": 116.12,
+          "text": "所",
+          "probability": 0.568
+        },
+        {
+          "time": 116.08,
+          "end": 116.38,
+          "text": "思",
+          "probability": 0.4337
+        },
+        {
+          "time": 116.28,
+          "end": 116.58,
+          "text": "的",
+          "probability": 0.8722
+        },
+        {
+          "time": 116.92,
+          "end": 117.22,
+          "text": "世界",
+          "probability": 0.9343
+        }
+      ]
+    },
+    {
+      "time": 120.6,
+      "end": 126.54,
+      "text": "I want to be free自由的费在爱中我惧怕",
+      "words": [
+        {
+          "time": 120.6,
+          "end": 120.9,
+          "text": "I",
+          "probability": 0.9633
+        },
+        {
+          "time": 120.96,
+          "end": 121.26,
+          "text": " want",
+          "probability": 0.9977
+        },
+        {
+          "time": 121.18,
+          "end": 121.48,
+          "text": " to",
+          "probability": 0.9663
+        },
+        {
+          "time": 121.4,
+          "end": 121.7,
+          "text": " be",
+          "probability": 0.9994
+        },
+        {
+          "time": 121.86,
+          "end": 122.16,
+          "text": " free",
+          "probability": 0.9967
+        },
+        {
+          "time": 122.98,
+          "end": 123.28,
+          "text": "自由",
+          "probability": 0.9919
+        },
+        {
+          "time": 123.4,
+          "end": 123.7,
+          "text": "的",
+          "probability": 0.8707
+        },
+        {
+          "time": 123.78,
+          "end": 124.18,
+          "text": "费",
+          "probability": 0.2041
+        },
+        {
+          "time": 124.7,
+          "end": 125.0,
+          "text": "在",
+          "probability": 0.9962
+        },
+        {
+          "time": 124.92,
+          "end": 125.22,
+          "text": "爱",
+          "probability": 0.9899
+        },
+        {
+          "time": 125.16,
+          "end": 125.46,
+          "text": "中",
+          "probability": 0.9971
+        },
+        {
+          "time": 125.46,
+          "end": 125.76,
+          "text": "我",
+          "probability": 0.8963
+        },
+        {
+          "time": 125.62,
+          "end": 126.0,
+          "text": "惧",
+          "probability": 0.5985
+        },
+        {
+          "time": 126.24,
+          "end": 126.54,
+          "text": "怕",
+          "probability": 0.7223
+        }
+      ]
+    },
+    {
+      "time": 126.64,
+      "end": 132.16,
+      "text": "在爱中我伤悲I want to be free不再流泪",
+      "words": [
+        {
+          "time": 126.64,
+          "end": 126.94,
+          "text": "在",
+          "probability": 0.9996
+        },
+        {
+          "time": 126.86,
+          "end": 127.16,
+          "text": "爱",
+          "probability": 0.9995
+        },
+        {
+          "time": 127.14,
+          "end": 127.44,
+          "text": "中",
+          "probability": 0.9999
+        },
+        {
+          "time": 127.4,
+          "end": 127.7,
+          "text": "我",
+          "probability": 0.8158
+        },
+        {
+          "time": 127.6,
+          "end": 128.02,
+          "text": "伤",
+          "probability": 0.979
+        },
+        {
+          "time": 128.04,
+          "end": 128.4,
+          "text": "悲",
+          "probability": 0.9582
+        },
+        {
+          "time": 128.6,
+          "end": 128.9,
+          "text": "I",
+          "probability": 0.999
+        },
+        {
+          "time": 128.86,
+          "end": 129.16,
+          "text": " want",
+          "probability": 0.9999
+        },
+        {
+          "time": 129.08,
+          "end": 129.38,
+          "text": " to",
+          "probability": 0.9994
+        },
+        {
+          "time": 129.28,
+          "end": 129.58,
+          "text": " be",
+          "probability": 0.9956
+        },
+        {
+          "time": 129.8,
+          "end": 130.1,
+          "text": " free",
+          "probability": 0.9998
+        },
+        {
+          "time": 130.36,
+          "end": 130.66,
+          "text": "不",
+          "probability": 0.9949
+        },
+        {
+          "time": 130.88,
+          "end": 131.18,
+          "text": "再",
+          "probability": 0.9983
+        },
+        {
+          "time": 131.24,
+          "end": 131.54,
+          "text": "流",
+          "probability": 0.9943
+        },
+        {
+          "time": 131.54,
+          "end": 132.16,
+          "text": "泪",
+          "probability": 0.9921
+        }
+      ]
+    },
+    {
+      "time": 132.68,
+      "end": 138.38,
+      "text": "Because I believeI have anything我永远躺在",
+      "words": [
+        {
+          "time": 132.68,
+          "end": 132.98,
+          "text": "Because",
+          "probability": 0.7832
+        },
+        {
+          "time": 132.98,
+          "end": 133.28,
+          "text": " I",
+          "probability": 0.9935
+        },
+        {
+          "time": 133.52,
+          "end": 133.82,
+          "text": " believe",
+          "probability": 0.761
+        },
+        {
+          "time": 134.4,
+          "end": 134.7,
+          "text": "I",
+          "probability": 0.4137
+        },
+        {
+          "time": 134.78,
+          "end": 135.08,
+          "text": " have",
+          "probability": 0.516
+        },
+        {
+          "time": 135.16,
+          "end": 135.46,
+          "text": " anything",
+          "probability": 0.7819
+        },
+        {
+          "time": 136.38,
+          "end": 136.68,
+          "text": "我",
+          "probability": 0.4914
+        },
+        {
+          "time": 136.66,
+          "end": 136.96,
+          "text": "永",
+          "probability": 0.5862
+        },
+        {
+          "time": 136.9,
+          "end": 137.2,
+          "text": "远",
+          "probability": 0.8251
+        },
+        {
+          "time": 137.36,
+          "end": 137.74,
+          "text": "躺",
+          "probability": 0.5439
+        },
+        {
+          "time": 138.08,
+          "end": 138.38,
+          "text": "在",
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "time": 139.36,
+      "end": 140.82,
+      "text": "我的心",
+      "words": [
+        {
+          "time": 139.36,
+          "end": 139.66,
+          "text": "我的",
+          "probability": 0.9068
+        },
+        {
+          "time": 140.52,
+          "end": 140.82,
+          "text": "心",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 143.94,
+      "end": 149.9,
+      "text": "I want to be free自由天飞在爱中无趣吧",
+      "words": [
+        {
+          "time": 143.94,
+          "end": 144.24,
+          "text": "I",
+          "probability": 0.8441
+        },
+        {
+          "time": 144.34,
+          "end": 144.64,
+          "text": " want",
+          "probability": 0.9958
+        },
+        {
+          "time": 144.54,
+          "end": 144.84,
+          "text": " to",
+          "probability": 0.9874
+        },
+        {
+          "time": 144.76,
+          "end": 145.06,
+          "text": " be",
+          "probability": 0.9993
+        },
+        {
+          "time": 145.22,
+          "end": 145.52,
+          "text": " free",
+          "probability": 0.9978
+        },
+        {
+          "time": 146.4,
+          "end": 146.7,
+          "text": "自由",
+          "probability": 0.9945
+        },
+        {
+          "time": 146.76,
+          "end": 147.06,
+          "text": "天",
+          "probability": 0.4272
+        },
+        {
+          "time": 147.06,
+          "end": 147.68,
+          "text": "飞",
+          "probability": 0.6635
+        },
+        {
+          "time": 148.06,
+          "end": 148.36,
+          "text": "在",
+          "probability": 0.9615
+        },
+        {
+          "time": 148.32,
+          "end": 148.62,
+          "text": "爱",
+          "probability": 0.7762
+        },
+        {
+          "time": 148.54,
+          "end": 148.84,
+          "text": "中",
+          "probability": 0.9532
+        },
+        {
+          "time": 148.78,
+          "end": 149.08,
+          "text": "无",
+          "probability": 0.4306
+        },
+        {
+          "time": 149.1,
+          "end": 149.4,
+          "text": "趣",
+          "probability": 0.1993
+        },
+        {
+          "time": 149.6,
+          "end": 149.9,
+          "text": "吧",
+          "probability": 0.3784
+        }
+      ]
+    },
+    {
+      "time": 150.0,
+      "end": 156.34,
+      "text": "在爱中不伤悲I want to be free不再留美Because",
+      "words": [
+        {
+          "time": 150.0,
+          "end": 150.3,
+          "text": "在",
+          "probability": 0.999
+        },
+        {
+          "time": 150.24,
+          "end": 150.54,
+          "text": "爱",
+          "probability": 0.9993
+        },
+        {
+          "time": 150.5,
+          "end": 150.8,
+          "text": "中",
+          "probability": 0.9943
+        },
+        {
+          "time": 150.78,
+          "end": 151.08,
+          "text": "不",
+          "probability": 0.8884
+        },
+        {
+          "time": 150.98,
+          "end": 151.4,
+          "text": "伤",
+          "probability": 0.3671
+        },
+        {
+          "time": 151.42,
+          "end": 151.84,
+          "text": "悲",
+          "probability": 0.4852
+        },
+        {
+          "time": 151.96,
+          "end": 152.26,
+          "text": "I",
+          "probability": 0.9985
+        },
+        {
+          "time": 152.24,
+          "end": 152.54,
+          "text": " want",
+          "probability": 0.9999
+        },
+        {
+          "time": 152.44,
+          "end": 152.74,
+          "text": " to",
+          "probability": 0.9994
+        },
+        {
+          "time": 152.66,
+          "end": 152.96,
+          "text": " be",
+          "probability": 0.9999
+        },
+        {
+          "time": 153.2,
+          "end": 153.5,
+          "text": " free",
+          "probability": 0.9998
+        },
+        {
+          "time": 153.74,
+          "end": 154.04,
+          "text": "不",
+          "probability": 0.9895
+        },
+        {
+          "time": 154.3,
+          "end": 154.6,
+          "text": "再",
+          "probability": 0.9738
+        },
+        {
+          "time": 154.6,
+          "end": 154.9,
+          "text": "留",
+          "probability": 0.1725
+        },
+        {
+          "time": 155.16,
+          "end": 155.46,
+          "text": "美",
+          "probability": 0.2062
+        },
+        {
+          "time": 156.04,
+          "end": 156.34,
+          "text": "Because",
+          "probability": 0.8258
+        }
+      ]
+    },
+    {
+      "time": 156.34,
+      "end": 163.06,
+      "text": "I believeThat heaven is here我有天堂在我的",
+      "words": [
+        {
+          "time": 156.34,
+          "end": 156.64,
+          "text": " I",
+          "probability": 0.9998
+        },
+        {
+          "time": 157.0,
+          "end": 157.3,
+          "text": " believe",
+          "probability": 0.998
+        },
+        {
+          "time": 157.8,
+          "end": 158.1,
+          "text": "That",
+          "probability": 0.5527
+        },
+        {
+          "time": 158.22,
+          "end": 158.52,
+          "text": " heaven",
+          "probability": 0.9912
+        },
+        {
+          "time": 158.52,
+          "end": 158.82,
+          "text": " is",
+          "probability": 0.9996
+        },
+        {
+          "time": 159.12,
+          "end": 159.42,
+          "text": " here",
+          "probability": 0.998
+        },
+        {
+          "time": 160.02,
+          "end": 160.32,
+          "text": "我有",
+          "probability": 0.8038
+        },
+        {
+          "time": 160.44,
+          "end": 160.74,
+          "text": "天",
+          "probability": 0.9857
+        },
+        {
+          "time": 160.82,
+          "end": 161.42,
+          "text": "堂",
+          "probability": 0.8127
+        },
+        {
+          "time": 161.54,
+          "end": 161.84,
+          "text": "在",
+          "probability": 0.5175
+        },
+        {
+          "time": 162.76,
+          "end": 163.06,
+          "text": "我的",
+          "probability": 0.953
+        }
+      ]
+    },
+    {
+      "time": 163.96,
+      "end": 164.26,
+      "text": "心",
+      "words": [
+        {
+          "time": 163.96,
+          "end": 164.26,
+          "text": "心",
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "time": 167.34,
+      "end": 173.28,
+      "text": "I want to be free自由天飞在爱中无惧怕",
+      "words": [
+        {
+          "time": 167.34,
+          "end": 167.64,
+          "text": "I",
+          "probability": 0.9968
+        },
+        {
+          "time": 167.76,
+          "end": 168.06,
+          "text": " want",
+          "probability": 0.9999
+        },
+        {
+          "time": 167.96,
+          "end": 168.26,
+          "text": " to",
+          "probability": 0.9961
+        },
+        {
+          "time": 168.16,
+          "end": 168.46,
+          "text": " be",
+          "probability": 0.9996
+        },
+        {
+          "time": 168.66,
+          "end": 168.96,
+          "text": " free",
+          "probability": 0.9997
+        },
+        {
+          "time": 169.58,
+          "end": 169.88,
+          "text": "自由",
+          "probability": 0.9731
+        },
+        {
+          "time": 170.14,
+          "end": 170.44,
+          "text": "天",
+          "probability": 0.8729
+        },
+        {
+          "time": 170.44,
+          "end": 170.96,
+          "text": "飞",
+          "probability": 0.9999
+        },
+        {
+          "time": 171.42,
+          "end": 171.72,
+          "text": "在",
+          "probability": 0.9565
+        },
+        {
+          "time": 171.64,
+          "end": 171.94,
+          "text": "爱",
+          "probability": 0.9652
+        },
+        {
+          "time": 171.9,
+          "end": 172.2,
+          "text": "中",
+          "probability": 0.9979
+        },
+        {
+          "time": 172.1,
+          "end": 172.4,
+          "text": "无",
+          "probability": 0.9149
+        },
+        {
+          "time": 172.36,
+          "end": 172.76,
+          "text": "惧",
+          "probability": 0.7854
+        },
+        {
+          "time": 172.98,
+          "end": 173.28,
+          "text": "怕",
+          "probability": 0.5726
+        }
+      ]
+    },
+    {
+      "time": 173.36,
+      "end": 179.06,
+      "text": "在爱中无伤悲I want to be free不再留陪",
+      "words": [
+        {
+          "time": 173.36,
+          "end": 173.66,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 173.6,
+          "end": 173.9,
+          "text": "爱",
+          "probability": 0.9995
+        },
+        {
+          "time": 173.86,
+          "end": 174.16,
+          "text": "中",
+          "probability": 0.9999
+        },
+        {
+          "time": 174.14,
+          "end": 174.44,
+          "text": "无",
+          "probability": 0.9903
+        },
+        {
+          "time": 174.32,
+          "end": 174.74,
+          "text": "伤",
+          "probability": 0.992
+        },
+        {
+          "time": 174.76,
+          "end": 175.18,
+          "text": "悲",
+          "probability": 0.973
+        },
+        {
+          "time": 175.3,
+          "end": 175.6,
+          "text": "I",
+          "probability": 0.8803
+        },
+        {
+          "time": 175.56,
+          "end": 175.86,
+          "text": " want",
+          "probability": 0.6328
+        },
+        {
+          "time": 175.78,
+          "end": 176.08,
+          "text": " to",
+          "probability": 0.7862
+        },
+        {
+          "time": 175.98,
+          "end": 176.28,
+          "text": " be",
+          "probability": 0.968
+        },
+        {
+          "time": 176.38,
+          "end": 176.68,
+          "text": " free",
+          "probability": 0.9955
+        },
+        {
+          "time": 177.1,
+          "end": 177.4,
+          "text": "不",
+          "probability": 0.9359
+        },
+        {
+          "time": 177.6,
+          "end": 177.9,
+          "text": "再",
+          "probability": 0.9102
+        },
+        {
+          "time": 177.96,
+          "end": 178.26,
+          "text": "留",
+          "probability": 0.9241
+        },
+        {
+          "time": 178.24,
+          "end": 179.06,
+          "text": "陪",
+          "probability": 0.4317
+        }
+      ]
+    },
+    {
+      "time": 179.36,
+      "end": 185.22,
+      "text": "Because I believeThat heaven is here我有天旁在",
+      "words": [
+        {
+          "time": 179.36,
+          "end": 179.66,
+          "text": "Because",
+          "probability": 0.9094
+        },
+        {
+          "time": 179.7,
+          "end": 180.0,
+          "text": " I",
+          "probability": 0.9979
+        },
+        {
+          "time": 180.28,
+          "end": 180.58,
+          "text": " believe",
+          "probability": 0.9881
+        },
+        {
+          "time": 181.12,
+          "end": 181.42,
+          "text": "That",
+          "probability": 0.5478
+        },
+        {
+          "time": 181.6,
+          "end": 181.9,
+          "text": " heaven",
+          "probability": 0.9784
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": " is",
+          "probability": 0.9998
+        },
+        {
+          "time": 182.44,
+          "end": 182.74,
+          "text": " here",
+          "probability": 0.9974
+        },
+        {
+          "time": 183.38,
+          "end": 183.68,
+          "text": "我有",
+          "probability": 0.7975
+        },
+        {
+          "time": 183.8,
+          "end": 184.1,
+          "text": "天",
+          "probability": 0.9411
+        },
+        {
+          "time": 184.18,
+          "end": 184.74,
+          "text": "旁",
+          "probability": 0.211
+        },
+        {
+          "time": 184.92,
+          "end": 185.22,
+          "text": "在",
+          "probability": 0.8618
+        }
+      ]
+    },
+    {
+      "time": 186.18,
+      "end": 187.66,
+      "text": "我的心",
+      "words": [
+        {
+          "time": 186.18,
+          "end": 186.48,
+          "text": "我的",
+          "probability": 0.7283
+        },
+        {
+          "time": 187.36,
+          "end": 187.66,
+          "text": "心",
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "time": 209.68,
+      "end": 209.98,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "优",
+          "probability": 0.3997
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "优",
+          "probability": 0.9982
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "独",
+          "probability": 0.9948
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "播",
+          "probability": 0.9963
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "剧",
+          "probability": 0.9963
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "场",
+          "probability": 0.9979
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "——",
+          "probability": 0.9982
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "Yo",
+          "probability": 0.9976
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "Yo",
+          "probability": 0.9979
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": " Television",
+          "probability": 0.9948
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": " Series",
+          "probability": 0.9983
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": " Exc",
+          "probability": 0.9969
+        },
+        {
+          "time": 209.68,
+          "end": 209.98,
+          "text": "lusive",
+          "probability": 0.9976
+        }
+      ]
+    }
+  ]
+}

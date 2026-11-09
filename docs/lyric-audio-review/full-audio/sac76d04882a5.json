@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "14767",
+  "waveform": {
+    "source": "14767",
+    "url": "https://www.izanmei.cc/song/14767.html",
+    "audio": "https://play.izanm.org/song/p/14767.mp3",
+    "offset": -0.058174,
+    "scale": 1.000000334,
+    "residual": 0.000869,
+    "coverage": 0.999713,
+    "windows": [
+      {
+        "localStart": 23.44,
+        "sourceStart": 23.382,
+        "offset": -0.058,
+        "coefficient": 0.980395
+      },
+      {
+        "localStart": 58.6,
+        "sourceStart": 58.542,
+        "offset": -0.058,
+        "coefficient": 0.981445
+      },
+      {
+        "localStart": 93.761,
+        "sourceStart": 93.703,
+        "offset": -0.058,
+        "coefficient": 0.97766
+      },
+      {
+        "localStart": 128.922,
+        "sourceStart": 128.863,
+        "offset": -0.058,
+        "coefficient": 0.983508
+      },
+      {
+        "localStart": 164.082,
+        "sourceStart": 164.024,
+        "offset": -0.058,
+        "coefficient": 0.983259
+      },
+      {
+        "localStart": 199.243,
+        "sourceStart": 199.185,
+        "offset": -0.058,
+        "coefficient": 0.981476
+      },
+      {
+        "localStart": 234.403,
+        "sourceStart": 234.345,
+        "offset": -0.058,
+        "coefficient": 0.974669
+      },
+      {
+        "localStart": 263.704,
+        "sourceStart": 263.646,
+        "offset": -0.058,
+        "coefficient": 0.979833
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.98438,
+  "id": "sac76d04882a5",
+  "file": "127主啊我赞美你.mp3",
+  "fullDuration": 293.004,
+  "recordingHash": "daa4e508031822ab3c16c7e935daf469655cc8ba0c1131b3dc659adc5074b10e",
+  "lines": []
+}

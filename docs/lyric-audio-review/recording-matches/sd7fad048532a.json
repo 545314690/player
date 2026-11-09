@@ -1,0 +1,183 @@
+{
+  "id": "sd7fad048532a",
+  "file": "057人的生命只有一次.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "4047",
+    "url": "https://www.izanmei.cc/song/4047.html",
+    "audio": "https://play.izanm.org/song/p/4047.mp3",
+    "offset": -0.009348,
+    "scale": 0.999996549,
+    "residual": 0.000607,
+    "coverage": 0.99996,
+    "windows": [
+      {
+        "localStart": 18.714,
+        "sourceStart": 18.704,
+        "offset": -0.0095,
+        "coefficient": 0.987923
+      },
+      {
+        "localStart": 46.785,
+        "sourceStart": 46.776,
+        "offset": -0.0095,
+        "coefficient": 0.976867
+      },
+      {
+        "localStart": 74.856,
+        "sourceStart": 74.847,
+        "offset": -0.0095,
+        "coefficient": 0.975166
+      },
+      {
+        "localStart": 102.928,
+        "sourceStart": 102.918,
+        "offset": -0.0095,
+        "coefficient": 0.982879
+      },
+      {
+        "localStart": 131.0,
+        "sourceStart": 130.99,
+        "offset": -0.0095,
+        "coefficient": 0.985517
+      },
+      {
+        "localStart": 159.071,
+        "sourceStart": 159.061,
+        "offset": -0.0095,
+        "coefficient": 0.974974
+      },
+      {
+        "localStart": 187.142,
+        "sourceStart": 187.132,
+        "offset": -0.0095,
+        "coefficient": 0.981179
+      },
+      {
+        "localStart": 210.535,
+        "sourceStart": 210.525,
+        "offset": -0.0095,
+        "coefficient": 0.976958
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "22021",
+      "offset": 0.1475,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 18.714,
+          "sourceStart": 18.857,
+          "offset": 0.143,
+          "coefficient": 0.670973
+        },
+        {
+          "localStart": 46.785,
+          "sourceStart": 46.935,
+          "offset": 0.1495,
+          "coefficient": 0.455692
+        },
+        {
+          "localStart": 74.856,
+          "sourceStart": 75.012,
+          "offset": 0.1555,
+          "coefficient": 0.538718
+        },
+        {
+          "localStart": 102.928,
+          "sourceStart": 103.09,
+          "offset": 0.1615,
+          "coefficient": 0.692861
+        },
+        {
+          "localStart": 131.0,
+          "sourceStart": 131.167,
+          "offset": 0.1675,
+          "coefficient": 0.647544
+        },
+        {
+          "localStart": 159.071,
+          "sourceStart": 159.244,
+          "offset": 0.1735,
+          "coefficient": 0.577719
+        },
+        {
+          "localStart": 187.142,
+          "sourceStart": 187.322,
+          "offset": 0.18,
+          "coefficient": 0.660269
+        },
+        {
+          "localStart": 210.535,
+          "sourceStart": 210.72,
+          "offset": 0.185,
+          "coefficient": 0.542803
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "4047",
+      "offset": -0.009348,
+      "scale": 0.999996549,
+      "residual": 0.000607,
+      "coverage": 0.99996,
+      "windows": [
+        {
+          "localStart": 18.714,
+          "sourceStart": 18.704,
+          "offset": -0.0095,
+          "coefficient": 0.987923
+        },
+        {
+          "localStart": 46.785,
+          "sourceStart": 46.776,
+          "offset": -0.0095,
+          "coefficient": 0.976867
+        },
+        {
+          "localStart": 74.856,
+          "sourceStart": 74.847,
+          "offset": -0.0095,
+          "coefficient": 0.975166
+        },
+        {
+          "localStart": 102.928,
+          "sourceStart": 102.918,
+          "offset": -0.0095,
+          "coefficient": 0.982879
+        },
+        {
+          "localStart": 131.0,
+          "sourceStart": 130.99,
+          "offset": -0.0095,
+          "coefficient": 0.985517
+        },
+        {
+          "localStart": 159.071,
+          "sourceStart": 159.061,
+          "offset": -0.0095,
+          "coefficient": 0.974974
+        },
+        {
+          "localStart": 187.142,
+          "sourceStart": 187.132,
+          "offset": -0.0095,
+          "coefficient": 0.981179
+        },
+        {
+          "localStart": 210.535,
+          "sourceStart": 210.525,
+          "offset": -0.0095,
+          "coefficient": 0.976958
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

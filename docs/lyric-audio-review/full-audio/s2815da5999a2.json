@@ -1,0 +1,1385 @@
+{
+  "id": "s2815da5999a2",
+  "file": "055-英.mp3",
+  "language": "en",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "89d6b513052c989d6bec343dc6955b6e2cf48290c4dbc3b094e89efb12321832",
+  "fullDuration": 235.128163,
+  "lines": [
+    {
+      "time": 3.7,
+      "end": 4.0,
+      "text": "Amazing",
+      "words": [
+        {
+          "time": 3.7,
+          "end": 4.0,
+          "text": " Amazing",
+          "probability": 0.9767
+        }
+      ]
+    },
+    {
+      "time": 5.5,
+      "end": 8.46,
+      "text": "grace, how sweet",
+      "words": [
+        {
+          "time": 5.5,
+          "end": 5.8,
+          "text": " grace",
+          "probability": 0.5208
+        },
+        {
+          "time": 6.6,
+          "end": 6.9,
+          "text": ",",
+          "probability": 0.9506
+        },
+        {
+          "time": 7.3,
+          "end": 7.6,
+          "text": " how",
+          "probability": 0.9943
+        },
+        {
+          "time": 8.16,
+          "end": 8.46,
+          "text": " sweet",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 9.76,
+      "end": 14.34,
+      "text": "the sound that saved",
+      "words": [
+        {
+          "time": 9.76,
+          "end": 10.06,
+          "text": " the",
+          "probability": 0.9997
+        },
+        {
+          "time": 11.26,
+          "end": 11.56,
+          "text": " sound",
+          "probability": 0.9999
+        },
+        {
+          "time": 12.68,
+          "end": 12.98,
+          "text": " that",
+          "probability": 0.5417
+        },
+        {
+          "time": 14.04,
+          "end": 14.34,
+          "text": " saved",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 15.84,
+      "end": 17.68,
+      "text": "a wretch",
+      "words": [
+        {
+          "time": 15.84,
+          "end": 16.14,
+          "text": " a",
+          "probability": 0.9991
+        },
+        {
+          "time": 16.26,
+          "end": 16.56,
+          "text": " w",
+          "probability": 0.9961
+        },
+        {
+          "time": 17.38,
+          "end": 17.68,
+          "text": "retch",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 19.04,
+      "end": 20.2,
+      "text": "like me.",
+      "words": [
+        {
+          "time": 19.04,
+          "end": 19.34,
+          "text": " like",
+          "probability": 0.9883
+        },
+        {
+          "time": 19.9,
+          "end": 20.2,
+          "text": " me",
+          "probability": 0.9989
+        },
+        {
+          "time": 19.9,
+          "end": 20.2,
+          "text": ".",
+          "probability": 0.9379
+        }
+      ]
+    },
+    {
+      "time": 24.14,
+      "end": 24.44,
+      "text": "I",
+      "words": [
+        {
+          "time": 24.14,
+          "end": 24.44,
+          "text": " I",
+          "probability": 0.9866
+        }
+      ]
+    },
+    {
+      "time": 25.9,
+      "end": 30.76,
+      "text": "once was lost, but now",
+      "words": [
+        {
+          "time": 25.9,
+          "end": 26.2,
+          "text": " once",
+          "probability": 0.9953
+        },
+        {
+          "time": 26.98,
+          "end": 27.28,
+          "text": " was",
+          "probability": 0.9971
+        },
+        {
+          "time": 28.0,
+          "end": 28.3,
+          "text": " lost",
+          "probability": 0.9992
+        },
+        {
+          "time": 28.84,
+          "end": 29.14,
+          "text": ",",
+          "probability": 0.6798
+        },
+        {
+          "time": 29.48,
+          "end": 29.78,
+          "text": " but",
+          "probability": 0.9685
+        },
+        {
+          "time": 30.46,
+          "end": 30.76,
+          "text": " now",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 32.06,
+      "end": 37.8,
+      "text": "I'm found. Was blind,",
+      "words": [
+        {
+          "time": 32.06,
+          "end": 32.36,
+          "text": " I",
+          "probability": 0.9986
+        },
+        {
+          "time": 32.3,
+          "end": 32.6,
+          "text": "'m",
+          "probability": 0.996
+        },
+        {
+          "time": 33.7,
+          "end": 34.0,
+          "text": " found",
+          "probability": 0.9999
+        },
+        {
+          "time": 34.06,
+          "end": 34.36,
+          "text": ".",
+          "probability": 0.3763
+        },
+        {
+          "time": 35.3,
+          "end": 35.6,
+          "text": " Was",
+          "probability": 0.9203
+        },
+        {
+          "time": 36.22,
+          "end": 36.52,
+          "text": " blind",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.5,
+          "end": 37.8,
+          "text": ",",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 38.16,
+      "end": 39.6,
+      "text": "but now",
+      "words": [
+        {
+          "time": 38.16,
+          "end": 38.46,
+          "text": " but",
+          "probability": 0.9999
+        },
+        {
+          "time": 39.3,
+          "end": 39.6,
+          "text": " now",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 41.4,
+      "end": 42.56,
+      "text": "I see",
+      "words": [
+        {
+          "time": 41.4,
+          "end": 41.7,
+          "text": " I",
+          "probability": 1.0
+        },
+        {
+          "time": 42.26,
+          "end": 42.56,
+          "text": " see",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 43.96,
+      "end": 44.26,
+      "text": ".",
+      "words": [
+        {
+          "time": 43.96,
+          "end": 44.26,
+          "text": ".",
+          "probability": 0.9906
+        }
+      ]
+    },
+    {
+      "time": 45.88,
+      "end": 48.1,
+      "text": "'Twas grace",
+      "words": [
+        {
+          "time": 45.88,
+          "end": 46.18,
+          "text": " '",
+          "probability": 0.3955
+        },
+        {
+          "time": 45.88,
+          "end": 46.18,
+          "text": "T",
+          "probability": 0.5661
+        },
+        {
+          "time": 46.82,
+          "end": 47.12,
+          "text": "was",
+          "probability": 0.9903
+        },
+        {
+          "time": 47.8,
+          "end": 48.1,
+          "text": " grace",
+          "probability": 0.9585
+        }
+      ]
+    },
+    {
+      "time": 49.42,
+      "end": 51.98,
+      "text": "that taught my",
+      "words": [
+        {
+          "time": 49.42,
+          "end": 49.72,
+          "text": " that",
+          "probability": 0.9876
+        },
+        {
+          "time": 50.3,
+          "end": 50.6,
+          "text": " taught",
+          "probability": 0.9526
+        },
+        {
+          "time": 51.68,
+          "end": 51.98,
+          "text": " my",
+          "probability": 0.9045
+        }
+      ]
+    },
+    {
+      "time": 53.74,
+      "end": 60.48,
+      "text": "heart to fear, and grace my",
+      "words": [
+        {
+          "time": 53.74,
+          "end": 54.04,
+          "text": " heart",
+          "probability": 0.997
+        },
+        {
+          "time": 54.52,
+          "end": 54.82,
+          "text": " to",
+          "probability": 0.9842
+        },
+        {
+          "time": 55.94,
+          "end": 56.24,
+          "text": " fear",
+          "probability": 0.9979
+        },
+        {
+          "time": 56.14,
+          "end": 56.44,
+          "text": ",",
+          "probability": 0.5096
+        },
+        {
+          "time": 57.46,
+          "end": 57.76,
+          "text": " and",
+          "probability": 0.4929
+        },
+        {
+          "time": 58.8,
+          "end": 59.1,
+          "text": " grace",
+          "probability": 0.9929
+        },
+        {
+          "time": 60.18,
+          "end": 60.48,
+          "text": " my",
+          "probability": 0.986
+        }
+      ]
+    },
+    {
+      "time": 61.66,
+      "end": 61.96,
+      "text": "fears",
+      "words": [
+        {
+          "time": 61.66,
+          "end": 61.96,
+          "text": " fears",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 63.26,
+      "end": 64.66,
+      "text": "relieved.",
+      "words": [
+        {
+          "time": 63.26,
+          "end": 63.56,
+          "text": " relieved",
+          "probability": 0.967
+        },
+        {
+          "time": 64.36,
+          "end": 64.66,
+          "text": ".",
+          "probability": 0.4868
+        }
+      ]
+    },
+    {
+      "time": 68.18,
+      "end": 68.48,
+      "text": "How",
+      "words": [
+        {
+          "time": 68.18,
+          "end": 68.48,
+          "text": " How",
+          "probability": 0.5824
+        }
+      ]
+    },
+    {
+      "time": 70.36,
+      "end": 70.66,
+      "text": "precious",
+      "words": [
+        {
+          "time": 70.36,
+          "end": 70.66,
+          "text": " precious",
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "time": 72.08,
+      "end": 72.38,
+      "text": "did",
+      "words": [
+        {
+          "time": 72.08,
+          "end": 72.38,
+          "text": " did",
+          "probability": 0.9971
+        }
+      ]
+    },
+    {
+      "time": 73.74,
+      "end": 74.04,
+      "text": "that",
+      "words": [
+        {
+          "time": 73.74,
+          "end": 74.04,
+          "text": " that",
+          "probability": 0.9705
+        }
+      ]
+    },
+    {
+      "time": 75.34,
+      "end": 75.64,
+      "text": "grace",
+      "words": [
+        {
+          "time": 75.34,
+          "end": 75.64,
+          "text": " grace",
+          "probability": 0.9959
+        }
+      ]
+    },
+    {
+      "time": 77.58,
+      "end": 79.08,
+      "text": "appear, the",
+      "words": [
+        {
+          "time": 77.58,
+          "end": 77.88,
+          "text": " appear",
+          "probability": 0.9976
+        },
+        {
+          "time": 77.9,
+          "end": 78.2,
+          "text": ",",
+          "probability": 0.3356
+        },
+        {
+          "time": 78.78,
+          "end": 79.08,
+          "text": " the",
+          "probability": 0.5329
+        }
+      ]
+    },
+    {
+      "time": 80.28,
+      "end": 80.58,
+      "text": "hour",
+      "words": [
+        {
+          "time": 80.28,
+          "end": 80.58,
+          "text": " hour",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 82.08,
+      "end": 82.38,
+      "text": "I",
+      "words": [
+        {
+          "time": 82.08,
+          "end": 82.38,
+          "text": " I",
+          "probability": 0.9925
+        }
+      ]
+    },
+    {
+      "time": 83.92,
+      "end": 85.54,
+      "text": "first believed.",
+      "words": [
+        {
+          "time": 83.92,
+          "end": 84.22,
+          "text": " first",
+          "probability": 0.995
+        },
+        {
+          "time": 85.24,
+          "end": 85.54,
+          "text": " believed",
+          "probability": 0.9975
+        },
+        {
+          "time": 85.24,
+          "end": 85.54,
+          "text": ".",
+          "probability": 0.923
+        }
+      ]
+    },
+    {
+      "time": 89.64,
+      "end": 89.94,
+      "text": "Through",
+      "words": [
+        {
+          "time": 89.64,
+          "end": 89.94,
+          "text": " Through",
+          "probability": 0.8951
+        }
+      ]
+    },
+    {
+      "time": 92.02,
+      "end": 92.32,
+      "text": "many",
+      "words": [
+        {
+          "time": 92.02,
+          "end": 92.32,
+          "text": " many",
+          "probability": 0.9959
+        }
+      ]
+    },
+    {
+      "time": 94.6,
+      "end": 100.26,
+      "text": "dangers, toils and snares We",
+      "words": [
+        {
+          "time": 94.6,
+          "end": 94.9,
+          "text": " dangers",
+          "probability": 0.9985
+        },
+        {
+          "time": 95.3,
+          "end": 95.6,
+          "text": ",",
+          "probability": 0.7974
+        },
+        {
+          "time": 95.6,
+          "end": 95.9,
+          "text": " to",
+          "probability": 0.9203
+        },
+        {
+          "time": 96.88,
+          "end": 97.18,
+          "text": "ils",
+          "probability": 0.9996
+        },
+        {
+          "time": 97.54,
+          "end": 97.84,
+          "text": " and",
+          "probability": 0.834
+        },
+        {
+          "time": 98.08,
+          "end": 98.38,
+          "text": " sna",
+          "probability": 0.9994
+        },
+        {
+          "time": 98.96,
+          "end": 99.26,
+          "text": "res",
+          "probability": 0.9998
+        },
+        {
+          "time": 99.96,
+          "end": 100.26,
+          "text": " We",
+          "probability": 0.9484
+        }
+      ]
+    },
+    {
+      "time": 101.6,
+      "end": 101.9,
+      "text": "have",
+      "words": [
+        {
+          "time": 101.6,
+          "end": 101.9,
+          "text": " have",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 103.82,
+      "end": 104.12,
+      "text": "already",
+      "words": [
+        {
+          "time": 103.82,
+          "end": 104.12,
+          "text": " already",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 106.66,
+      "end": 106.96,
+      "text": "come",
+      "words": [
+        {
+          "time": 106.66,
+          "end": 106.96,
+          "text": " come",
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "time": 110.2,
+      "end": 111.38,
+      "text": "T'was",
+      "words": [
+        {
+          "time": 110.2,
+          "end": 110.5,
+          "text": " T",
+          "probability": 0.6241
+        },
+        {
+          "time": 110.28,
+          "end": 110.58,
+          "text": "'",
+          "probability": 0.9971
+        },
+        {
+          "time": 111.08,
+          "end": 111.38,
+          "text": "was",
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "time": 112.72,
+      "end": 114.76,
+      "text": "grace that brought",
+      "words": [
+        {
+          "time": 112.72,
+          "end": 113.02,
+          "text": " grace",
+          "probability": 0.9887
+        },
+        {
+          "time": 113.6,
+          "end": 113.9,
+          "text": " that",
+          "probability": 0.9981
+        },
+        {
+          "time": 114.46,
+          "end": 114.76,
+          "text": " brought",
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "time": 116.04,
+      "end": 116.34,
+      "text": "us",
+      "words": [
+        {
+          "time": 116.04,
+          "end": 116.34,
+          "text": " us",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 118.18,
+      "end": 122.16,
+      "text": "safe thus far, and",
+      "words": [
+        {
+          "time": 118.18,
+          "end": 118.48,
+          "text": " safe",
+          "probability": 0.9937
+        },
+        {
+          "time": 119.0,
+          "end": 119.3,
+          "text": " thus",
+          "probability": 0.9989
+        },
+        {
+          "time": 120.48,
+          "end": 120.78,
+          "text": " far",
+          "probability": 0.9998
+        },
+        {
+          "time": 120.7,
+          "end": 121.0,
+          "text": ",",
+          "probability": 0.5526
+        },
+        {
+          "time": 121.86,
+          "end": 122.16,
+          "text": " and",
+          "probability": 0.7167
+        }
+      ]
+    },
+    {
+      "time": 123.48,
+      "end": 125.54,
+      "text": "grace will lead",
+      "words": [
+        {
+          "time": 123.48,
+          "end": 123.78,
+          "text": " grace",
+          "probability": 0.9822
+        },
+        {
+          "time": 124.44,
+          "end": 124.74,
+          "text": " will",
+          "probability": 0.9983
+        },
+        {
+          "time": 125.24,
+          "end": 125.54,
+          "text": " lead",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 127.44,
+      "end": 129.16,
+      "text": "us home.",
+      "words": [
+        {
+          "time": 127.44,
+          "end": 127.74,
+          "text": " us",
+          "probability": 0.9999
+        },
+        {
+          "time": 128.86,
+          "end": 129.16,
+          "text": " home",
+          "probability": 0.9508
+        },
+        {
+          "time": 128.86,
+          "end": 129.16,
+          "text": ".",
+          "probability": 0.9846
+        }
+      ]
+    },
+    {
+      "time": 132.6,
+      "end": 135.22,
+      "text": "When we've been",
+      "words": [
+        {
+          "time": 132.6,
+          "end": 132.9,
+          "text": " When",
+          "probability": 0.9443
+        },
+        {
+          "time": 133.34,
+          "end": 133.64,
+          "text": " we",
+          "probability": 0.9991
+        },
+        {
+          "time": 134.44,
+          "end": 134.74,
+          "text": "'ve",
+          "probability": 0.8682
+        },
+        {
+          "time": 134.92,
+          "end": 135.22,
+          "text": " been",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 136.66,
+      "end": 138.1,
+      "text": "there ten",
+      "words": [
+        {
+          "time": 136.66,
+          "end": 136.96,
+          "text": " there",
+          "probability": 0.9977
+        },
+        {
+          "time": 137.8,
+          "end": 138.1,
+          "text": " ten",
+          "probability": 0.7112
+        }
+      ]
+    },
+    {
+      "time": 139.88,
+      "end": 140.18,
+      "text": "thousand",
+      "words": [
+        {
+          "time": 139.88,
+          "end": 140.18,
+          "text": " thousand",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 141.78,
+      "end": 143.5,
+      "text": "years, bright",
+      "words": [
+        {
+          "time": 141.78,
+          "end": 142.08,
+          "text": " years",
+          "probability": 0.9992
+        },
+        {
+          "time": 142.3,
+          "end": 142.6,
+          "text": ",",
+          "probability": 0.7073
+        },
+        {
+          "time": 143.2,
+          "end": 143.5,
+          "text": " bright",
+          "probability": 0.8799
+        }
+      ]
+    },
+    {
+      "time": 145.34,
+      "end": 145.64,
+      "text": "shining",
+      "words": [
+        {
+          "time": 145.34,
+          "end": 145.64,
+          "text": " shining",
+          "probability": 0.9323
+        }
+      ]
+    },
+    {
+      "time": 147.48,
+      "end": 151.28,
+      "text": "as the sun,",
+      "words": [
+        {
+          "time": 147.48,
+          "end": 147.78,
+          "text": " as",
+          "probability": 0.9886
+        },
+        {
+          "time": 148.58,
+          "end": 148.88,
+          "text": " the",
+          "probability": 0.9956
+        },
+        {
+          "time": 149.58,
+          "end": 149.88,
+          "text": " sun",
+          "probability": 0.9984
+        },
+        {
+          "time": 150.98,
+          "end": 151.28,
+          "text": ",",
+          "probability": 0.6665
+        }
+      ]
+    },
+    {
+      "time": 153.8,
+      "end": 155.28,
+      "text": "We've no",
+      "words": [
+        {
+          "time": 153.8,
+          "end": 154.1,
+          "text": " We",
+          "probability": 0.836
+        },
+        {
+          "time": 154.28,
+          "end": 154.58,
+          "text": "'ve",
+          "probability": 0.8003
+        },
+        {
+          "time": 154.98,
+          "end": 155.28,
+          "text": " no",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 156.78,
+      "end": 160.42,
+      "text": "less days to sing",
+      "words": [
+        {
+          "time": 156.78,
+          "end": 157.08,
+          "text": " less",
+          "probability": 0.9977
+        },
+        {
+          "time": 157.98,
+          "end": 158.28,
+          "text": " days",
+          "probability": 0.9539
+        },
+        {
+          "time": 159.08,
+          "end": 159.38,
+          "text": " to",
+          "probability": 0.9352
+        },
+        {
+          "time": 160.12,
+          "end": 160.42,
+          "text": " sing",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 161.86,
+      "end": 165.72,
+      "text": "God's praise Than when",
+      "words": [
+        {
+          "time": 161.86,
+          "end": 162.16,
+          "text": " God",
+          "probability": 0.9989
+        },
+        {
+          "time": 162.1,
+          "end": 162.4,
+          "text": "'s",
+          "probability": 1.0
+        },
+        {
+          "time": 163.08,
+          "end": 163.38,
+          "text": " praise",
+          "probability": 0.9965
+        },
+        {
+          "time": 164.44,
+          "end": 164.74,
+          "text": " Than",
+          "probability": 0.8622
+        },
+        {
+          "time": 165.42,
+          "end": 165.72,
+          "text": " when",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 167.28,
+      "end": 169.42,
+      "text": "we'd first",
+      "words": [
+        {
+          "time": 167.28,
+          "end": 167.58,
+          "text": " we",
+          "probability": 0.9996
+        },
+        {
+          "time": 167.88,
+          "end": 168.18,
+          "text": "'d",
+          "probability": 0.9641
+        },
+        {
+          "time": 169.12,
+          "end": 169.42,
+          "text": " first",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 170.74,
+      "end": 171.04,
+      "text": "begun",
+      "words": [
+        {
+          "time": 170.74,
+          "end": 171.04,
+          "text": " begun",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 177.64,
+      "end": 177.94,
+      "text": "Amazing",
+      "words": [
+        {
+          "time": 177.64,
+          "end": 177.94,
+          "text": " Amazing",
+          "probability": 0.9453
+        }
+      ]
+    },
+    {
+      "time": 180.08,
+      "end": 183.34,
+      "text": "grace, how sweet",
+      "words": [
+        {
+          "time": 180.08,
+          "end": 180.38,
+          "text": " grace",
+          "probability": 0.9492
+        },
+        {
+          "time": 181.14,
+          "end": 181.44,
+          "text": ",",
+          "probability": 0.5672
+        },
+        {
+          "time": 181.9,
+          "end": 182.2,
+          "text": " how",
+          "probability": 0.9884
+        },
+        {
+          "time": 183.04,
+          "end": 183.34,
+          "text": " sweet",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 184.74,
+      "end": 185.04,
+      "text": "the",
+      "words": [
+        {
+          "time": 184.74,
+          "end": 185.04,
+          "text": " the",
+          "probability": 0.9855
+        }
+      ]
+    },
+    {
+      "time": 186.24,
+      "end": 186.54,
+      "text": "sound",
+      "words": [
+        {
+          "time": 186.24,
+          "end": 186.54,
+          "text": " sound",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 187.86,
+      "end": 189.58,
+      "text": "That saved",
+      "words": [
+        {
+          "time": 187.86,
+          "end": 188.16,
+          "text": " That",
+          "probability": 0.886
+        },
+        {
+          "time": 189.28,
+          "end": 189.58,
+          "text": " saved",
+          "probability": 0.8839
+        }
+      ]
+    },
+    {
+      "time": 191.1,
+      "end": 195.08,
+      "text": "a wretch like me",
+      "words": [
+        {
+          "time": 191.1,
+          "end": 191.4,
+          "text": " a",
+          "probability": 0.9989
+        },
+        {
+          "time": 191.52,
+          "end": 191.82,
+          "text": " w",
+          "probability": 0.9986
+        },
+        {
+          "time": 192.14,
+          "end": 192.44,
+          "text": "retch",
+          "probability": 0.9997
+        },
+        {
+          "time": 193.6,
+          "end": 193.9,
+          "text": " like",
+          "probability": 0.999
+        },
+        {
+          "time": 194.78,
+          "end": 195.08,
+          "text": " me",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 199.74,
+      "end": 200.04,
+      "text": "I",
+      "words": [
+        {
+          "time": 199.74,
+          "end": 200.04,
+          "text": " I",
+          "probability": 0.9288
+        }
+      ]
+    },
+    {
+      "time": 201.7,
+      "end": 206.66,
+      "text": "once was lost, but now",
+      "words": [
+        {
+          "time": 201.7,
+          "end": 202.0,
+          "text": " once",
+          "probability": 0.9862
+        },
+        {
+          "time": 202.78,
+          "end": 203.08,
+          "text": " was",
+          "probability": 0.9915
+        },
+        {
+          "time": 204.2,
+          "end": 204.5,
+          "text": " lost",
+          "probability": 0.9983
+        },
+        {
+          "time": 204.48,
+          "end": 204.78,
+          "text": ",",
+          "probability": 0.4611
+        },
+        {
+          "time": 205.5,
+          "end": 205.8,
+          "text": " but",
+          "probability": 0.9541
+        },
+        {
+          "time": 206.36,
+          "end": 206.66,
+          "text": " now",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 208.42,
+      "end": 208.98,
+      "text": "I'm",
+      "words": [
+        {
+          "time": 208.42,
+          "end": 208.72,
+          "text": " I",
+          "probability": 0.9915
+        },
+        {
+          "time": 208.68,
+          "end": 208.98,
+          "text": "'m",
+          "probability": 0.9874
+        }
+      ]
+    },
+    {
+      "time": 210.24,
+      "end": 210.54,
+      "text": "found",
+      "words": [
+        {
+          "time": 210.24,
+          "end": 210.54,
+          "text": " found",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 211.92,
+      "end": 216.22,
+      "text": "Was blind, but now",
+      "words": [
+        {
+          "time": 211.92,
+          "end": 212.22,
+          "text": " Was",
+          "probability": 0.9283
+        },
+        {
+          "time": 212.78,
+          "end": 213.08,
+          "text": " blind",
+          "probability": 0.9992
+        },
+        {
+          "time": 214.12,
+          "end": 214.42,
+          "text": ",",
+          "probability": 0.9992
+        },
+        {
+          "time": 214.68,
+          "end": 214.98,
+          "text": " but",
+          "probability": 0.9994
+        },
+        {
+          "time": 215.92,
+          "end": 216.22,
+          "text": " now",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 218.64,
+      "end": 219.66,
+      "text": "I see",
+      "words": [
+        {
+          "time": 218.64,
+          "end": 218.94,
+          "text": " I",
+          "probability": 0.9985
+        },
+        {
+          "time": 219.36,
+          "end": 219.66,
+          "text": " see",
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "time": 225.68,
+      "end": 225.98,
+      "text": "you",
+      "words": [
+        {
+          "time": 225.68,
+          "end": 225.98,
+          "text": " you",
+          "probability": 0.1717
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "id": "s6270136633aa",
+  "file": "007别怕路艰难发哥.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "ec85a885e32627f4a030eb536ac911769f4ae44d9bfc8890f6886d5df77814b7",
+  "fullDuration": 114.198167,
+  "lines": [
+    {
+      "time": 7.5,
+      "end": 13.5,
+      "text": "别怕路艰难别怕路遥远",
+      "words": [
+        {
+          "time": 7.5,
+          "end": 7.8,
+          "text": "别",
+          "probability": 0.5671
+        },
+        {
+          "time": 7.9,
+          "end": 8.2,
+          "text": "怕",
+          "probability": 0.9892
+        },
+        {
+          "time": 8.36,
+          "end": 8.66,
+          "text": "路",
+          "probability": 0.9952
+        },
+        {
+          "time": 9.34,
+          "end": 9.78,
+          "text": "艰",
+          "probability": 0.478
+        },
+        {
+          "time": 9.88,
+          "end": 10.18,
+          "text": "难",
+          "probability": 0.9945
+        },
+        {
+          "time": 10.66,
+          "end": 10.96,
+          "text": "别",
+          "probability": 0.9991
+        },
+        {
+          "time": 11.08,
+          "end": 11.38,
+          "text": "怕",
+          "probability": 0.9999
+        },
+        {
+          "time": 11.64,
+          "end": 11.94,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 12.56,
+          "end": 12.98,
+          "text": "遥",
+          "probability": 0.9939
+        },
+        {
+          "time": 12.96,
+          "end": 13.5,
+          "text": "远",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 14.06,
+      "end": 14.36,
+      "text": "已经",
+      "words": [
+        {
+          "time": 14.06,
+          "end": 14.36,
+          "text": "已经",
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "time": 15.6,
+      "end": 18.16,
+      "text": "没有几个明天",
+      "words": [
+        {
+          "time": 15.6,
+          "end": 15.9,
+          "text": "没有",
+          "probability": 0.9995
+        },
+        {
+          "time": 16.16,
+          "end": 16.66,
+          "text": "几",
+          "probability": 0.9607
+        },
+        {
+          "time": 17.02,
+          "end": 17.32,
+          "text": "个",
+          "probability": 0.9993
+        },
+        {
+          "time": 17.32,
+          "end": 17.62,
+          "text": "明",
+          "probability": 0.6303
+        },
+        {
+          "time": 17.86,
+          "end": 18.16,
+          "text": "天",
+          "probability": 0.9426
+        }
+      ]
+    },
+    {
+      "time": 20.44,
+      "end": 26.1,
+      "text": "世界将承受几大地灾难",
+      "words": [
+        {
+          "time": 20.44,
+          "end": 20.74,
+          "text": "世界",
+          "probability": 0.9896
+        },
+        {
+          "time": 21.32,
+          "end": 21.62,
+          "text": "将",
+          "probability": 0.8973
+        },
+        {
+          "time": 22.04,
+          "end": 22.46,
+          "text": "承",
+          "probability": 0.8586
+        },
+        {
+          "time": 22.74,
+          "end": 23.04,
+          "text": "受",
+          "probability": 0.9217
+        },
+        {
+          "time": 23.28,
+          "end": 23.72,
+          "text": "几",
+          "probability": 0.823
+        },
+        {
+          "time": 23.84,
+          "end": 24.14,
+          "text": "大",
+          "probability": 0.7519
+        },
+        {
+          "time": 24.32,
+          "end": 24.62,
+          "text": "地",
+          "probability": 0.8534
+        },
+        {
+          "time": 25.26,
+          "end": 25.72,
+          "text": "灾",
+          "probability": 0.9312
+        },
+        {
+          "time": 25.8,
+          "end": 26.1,
+          "text": "难",
+          "probability": 0.9939
+        }
+      ]
+    },
+    {
+      "time": 26.9,
+      "end": 33.26,
+      "text": "我们有诸朝夕相伴寂",
+      "words": [
+        {
+          "time": 26.9,
+          "end": 27.2,
+          "text": "我们",
+          "probability": 0.9726
+        },
+        {
+          "time": 27.54,
+          "end": 27.84,
+          "text": "有",
+          "probability": 0.5353
+        },
+        {
+          "time": 28.48,
+          "end": 28.9,
+          "text": "诸",
+          "probability": 0.2153
+        },
+        {
+          "time": 28.9,
+          "end": 29.2,
+          "text": "朝",
+          "probability": 0.8391
+        },
+        {
+          "time": 29.28,
+          "end": 29.68,
+          "text": "夕",
+          "probability": 0.9642
+        },
+        {
+          "time": 29.94,
+          "end": 30.24,
+          "text": "相",
+          "probability": 0.9962
+        },
+        {
+          "time": 30.52,
+          "end": 31.4,
+          "text": "伴",
+          "probability": 0.994
+        },
+        {
+          "time": 31.16,
+          "end": 33.34,
+          "text": "寂",
+          "probability": 0.314
+        }
+      ]
+    },
+    {
+      "time": 33.26,
+      "end": 39.02,
+      "text": "静诸诗连楚楚过埋怨",
+      "words": [
+        {
+          "time": 33.26,
+          "end": 33.7,
+          "text": "静",
+          "probability": 0.7674
+        },
+        {
+          "time": 33.66,
+          "end": 34.16,
+          "text": "诸",
+          "probability": 0.502
+        },
+        {
+          "time": 34.84,
+          "end": 35.24,
+          "text": "诗",
+          "probability": 0.7899
+        },
+        {
+          "time": 35.28,
+          "end": 35.8,
+          "text": "连",
+          "probability": 0.6993
+        },
+        {
+          "time": 36.18,
+          "end": 36.48,
+          "text": "楚",
+          "probability": 0.3563
+        },
+        {
+          "time": 36.62,
+          "end": 36.92,
+          "text": "楚",
+          "probability": 0.8877
+        },
+        {
+          "time": 37.52,
+          "end": 37.82,
+          "text": "过",
+          "probability": 0.6203
+        },
+        {
+          "time": 38.06,
+          "end": 38.5,
+          "text": "埋",
+          "probability": 0.4239
+        },
+        {
+          "time": 38.48,
+          "end": 39.02,
+          "text": "怨",
+          "probability": 0.8463
+        }
+      ]
+    },
+    {
+      "time": 39.36,
+      "end": 46.1,
+      "text": "和尝情书并肩奈谁寒舍",
+      "words": [
+        {
+          "time": 39.36,
+          "end": 39.66,
+          "text": "和",
+          "probability": 0.3363
+        },
+        {
+          "time": 39.66,
+          "end": 40.1,
+          "text": "尝",
+          "probability": 0.4655
+        },
+        {
+          "time": 40.32,
+          "end": 40.62,
+          "text": "情",
+          "probability": 0.8182
+        },
+        {
+          "time": 41.24,
+          "end": 41.68,
+          "text": "书",
+          "probability": 0.8083
+        },
+        {
+          "time": 41.64,
+          "end": 42.1,
+          "text": "并",
+          "probability": 0.968
+        },
+        {
+          "time": 42.04,
+          "end": 42.46,
+          "text": "肩",
+          "probability": 0.9631
+        },
+        {
+          "time": 42.5,
+          "end": 42.88,
+          "text": "奈",
+          "probability": 0.3435
+        },
+        {
+          "time": 42.9,
+          "end": 43.2,
+          "text": "谁",
+          "probability": 0.2372
+        },
+        {
+          "time": 43.32,
+          "end": 44.54,
+          "text": "寒",
+          "probability": 0.2882
+        },
+        {
+          "time": 45.66,
+          "end": 46.1,
+          "text": "舍",
+          "probability": 0.5073
+        }
+      ]
+    },
+    {
+      "time": 46.18,
+      "end": 52.72,
+      "text": "生枉死离合悲欢我们",
+      "words": [
+        {
+          "time": 46.18,
+          "end": 46.48,
+          "text": "生",
+          "probability": 0.3974
+        },
+        {
+          "time": 46.52,
+          "end": 47.42,
+          "text": "枉",
+          "probability": 0.3326
+        },
+        {
+          "time": 48.16,
+          "end": 48.46,
+          "text": "死",
+          "probability": 0.4919
+        },
+        {
+          "time": 48.9,
+          "end": 49.32,
+          "text": "离",
+          "probability": 0.6177
+        },
+        {
+          "time": 49.38,
+          "end": 49.68,
+          "text": "合",
+          "probability": 0.6089
+        },
+        {
+          "time": 49.72,
+          "end": 50.46,
+          "text": "悲",
+          "probability": 0.9266
+        },
+        {
+          "time": 51.32,
+          "end": 51.62,
+          "text": "欢",
+          "probability": 0.97
+        },
+        {
+          "time": 52.42,
+          "end": 52.72,
+          "text": "我们",
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "time": 52.88,
+      "end": 56.5,
+      "text": "却是围围见竹面",
+      "words": [
+        {
+          "time": 52.88,
+          "end": 53.6,
+          "text": "却",
+          "probability": 0.9898
+        },
+        {
+          "time": 54.14,
+          "end": 54.44,
+          "text": "是",
+          "probability": 0.9662
+        },
+        {
+          "time": 54.46,
+          "end": 54.86,
+          "text": "围",
+          "probability": 0.511
+        },
+        {
+          "time": 54.9,
+          "end": 55.28,
+          "text": "围",
+          "probability": 0.2929
+        },
+        {
+          "time": 55.4,
+          "end": 55.7,
+          "text": "见",
+          "probability": 0.76
+        },
+        {
+          "time": 55.66,
+          "end": 56.1,
+          "text": "竹",
+          "probability": 0.4303
+        },
+        {
+          "time": 56.2,
+          "end": 56.5,
+          "text": "面",
+          "probability": 0.6133
+        }
+      ]
+    },
+    {
+      "time": 58.64,
+      "end": 64.16,
+      "text": "别怕路艰难别怕路遥",
+      "words": [
+        {
+          "time": 58.64,
+          "end": 58.94,
+          "text": "别",
+          "probability": 0.997
+        },
+        {
+          "time": 59.02,
+          "end": 59.32,
+          "text": "怕",
+          "probability": 0.9898
+        },
+        {
+          "time": 59.56,
+          "end": 59.86,
+          "text": "路",
+          "probability": 0.9945
+        },
+        {
+          "time": 60.5,
+          "end": 60.92,
+          "text": "艰",
+          "probability": 0.7268
+        },
+        {
+          "time": 61.02,
+          "end": 61.32,
+          "text": "难",
+          "probability": 0.9925
+        },
+        {
+          "time": 61.84,
+          "end": 62.14,
+          "text": "别",
+          "probability": 0.9992
+        },
+        {
+          "time": 62.28,
+          "end": 62.58,
+          "text": "怕",
+          "probability": 0.9998
+        },
+        {
+          "time": 63.04,
+          "end": 63.34,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 63.76,
+          "end": 64.16,
+          "text": "遥",
+          "probability": 0.9849
+        }
+      ]
+    },
+    {
+      "time": 64.2,
+      "end": 65.62,
+      "text": "远已经",
+      "words": [
+        {
+          "time": 64.2,
+          "end": 64.66,
+          "text": "远",
+          "probability": 0.9994
+        },
+        {
+          "time": 65.32,
+          "end": 65.62,
+          "text": "已经",
+          "probability": 0.9806
+        }
+      ]
+    },
+    {
+      "time": 66.9,
+      "end": 69.62,
+      "text": "没有几个明天",
+      "words": [
+        {
+          "time": 66.9,
+          "end": 67.2,
+          "text": "没有",
+          "probability": 0.9992
+        },
+        {
+          "time": 67.46,
+          "end": 67.96,
+          "text": "几",
+          "probability": 0.9857
+        },
+        {
+          "time": 68.34,
+          "end": 68.64,
+          "text": "个",
+          "probability": 0.9985
+        },
+        {
+          "time": 68.64,
+          "end": 68.94,
+          "text": "明",
+          "probability": 0.9736
+        },
+        {
+          "time": 69.32,
+          "end": 69.62,
+          "text": "天",
+          "probability": 0.9949
+        }
+      ]
+    },
+    {
+      "time": 71.86,
+      "end": 77.52,
+      "text": "世界将承受几大地灾难",
+      "words": [
+        {
+          "time": 71.86,
+          "end": 72.16,
+          "text": "世界",
+          "probability": 0.9824
+        },
+        {
+          "time": 72.7,
+          "end": 73.0,
+          "text": "将",
+          "probability": 0.9641
+        },
+        {
+          "time": 73.44,
+          "end": 73.88,
+          "text": "承",
+          "probability": 0.809
+        },
+        {
+          "time": 74.14,
+          "end": 74.44,
+          "text": "受",
+          "probability": 0.9328
+        },
+        {
+          "time": 74.72,
+          "end": 75.18,
+          "text": "几",
+          "probability": 0.6775
+        },
+        {
+          "time": 75.26,
+          "end": 75.56,
+          "text": "大",
+          "probability": 0.761
+        },
+        {
+          "time": 75.76,
+          "end": 76.06,
+          "text": "地",
+          "probability": 0.8592
+        },
+        {
+          "time": 76.7,
+          "end": 77.18,
+          "text": "灾",
+          "probability": 0.9105
+        },
+        {
+          "time": 77.22,
+          "end": 77.52,
+          "text": "难",
+          "probability": 0.9944
+        }
+      ]
+    },
+    {
+      "time": 78.28,
+      "end": 84.74,
+      "text": "我们有主朝夕相伴寂",
+      "words": [
+        {
+          "time": 78.28,
+          "end": 78.58,
+          "text": "我们",
+          "probability": 0.8482
+        },
+        {
+          "time": 78.98,
+          "end": 79.28,
+          "text": "有",
+          "probability": 0.5376
+        },
+        {
+          "time": 80.02,
+          "end": 80.32,
+          "text": "主",
+          "probability": 0.2566
+        },
+        {
+          "time": 80.38,
+          "end": 80.68,
+          "text": "朝",
+          "probability": 0.9044
+        },
+        {
+          "time": 80.76,
+          "end": 81.18,
+          "text": "夕",
+          "probability": 0.9779
+        },
+        {
+          "time": 81.52,
+          "end": 81.82,
+          "text": "相",
+          "probability": 0.996
+        },
+        {
+          "time": 82.04,
+          "end": 82.94,
+          "text": "伴",
+          "probability": 0.9808
+        },
+        {
+          "time": 82.64,
+          "end": 84.84,
+          "text": "寂",
+          "probability": 0.3279
+        }
+      ]
+    },
+    {
+      "time": 84.74,
+      "end": 90.64,
+      "text": "静主失恋主出国埋怨",
+      "words": [
+        {
+          "time": 84.74,
+          "end": 85.22,
+          "text": "静",
+          "probability": 0.8271
+        },
+        {
+          "time": 85.4,
+          "end": 85.7,
+          "text": "主",
+          "probability": 0.4424
+        },
+        {
+          "time": 86.42,
+          "end": 86.72,
+          "text": "失",
+          "probability": 0.5489
+        },
+        {
+          "time": 86.82,
+          "end": 87.3,
+          "text": "恋",
+          "probability": 0.9386
+        },
+        {
+          "time": 87.74,
+          "end": 88.04,
+          "text": "主",
+          "probability": 0.7538
+        },
+        {
+          "time": 88.1,
+          "end": 88.4,
+          "text": "出",
+          "probability": 0.8204
+        },
+        {
+          "time": 88.72,
+          "end": 89.02,
+          "text": "国",
+          "probability": 0.9042
+        },
+        {
+          "time": 89.68,
+          "end": 90.08,
+          "text": "埋",
+          "probability": 0.5094
+        },
+        {
+          "time": 90.1,
+          "end": 90.64,
+          "text": "怨",
+          "probability": 0.8071
+        }
+      ]
+    },
+    {
+      "time": 91.04,
+      "end": 95.88,
+      "text": "何尝情书并肩难谁憾",
+      "words": [
+        {
+          "time": 91.04,
+          "end": 91.34,
+          "text": "何",
+          "probability": 0.6612
+        },
+        {
+          "time": 91.32,
+          "end": 91.8,
+          "text": "尝",
+          "probability": 0.4277
+        },
+        {
+          "time": 92.12,
+          "end": 92.42,
+          "text": "情",
+          "probability": 0.8225
+        },
+        {
+          "time": 92.94,
+          "end": 93.36,
+          "text": "书",
+          "probability": 0.3542
+        },
+        {
+          "time": 93.34,
+          "end": 93.8,
+          "text": "并",
+          "probability": 0.9461
+        },
+        {
+          "time": 93.76,
+          "end": 94.2,
+          "text": "肩",
+          "probability": 0.9485
+        },
+        {
+          "time": 94.24,
+          "end": 94.54,
+          "text": "难",
+          "probability": 0.5438
+        },
+        {
+          "time": 94.6,
+          "end": 94.9,
+          "text": "谁",
+          "probability": 0.3374
+        },
+        {
+          "time": 95.02,
+          "end": 95.88,
+          "text": "憾",
+          "probability": 0.2157
+        }
+      ]
+    },
+    {
+      "time": 97.38,
+      "end": 103.52,
+      "text": "舍森王思离合悲欢",
+      "words": [
+        {
+          "time": 97.38,
+          "end": 97.86,
+          "text": "舍",
+          "probability": 0.788
+        },
+        {
+          "time": 97.82,
+          "end": 98.3,
+          "text": "森",
+          "probability": 0.2546
+        },
+        {
+          "time": 98.48,
+          "end": 98.78,
+          "text": "王",
+          "probability": 0.2324
+        },
+        {
+          "time": 99.94,
+          "end": 100.24,
+          "text": "思",
+          "probability": 0.3741
+        },
+        {
+          "time": 100.74,
+          "end": 101.14,
+          "text": "离",
+          "probability": 0.2281
+        },
+        {
+          "time": 101.26,
+          "end": 101.56,
+          "text": "合",
+          "probability": 0.3555
+        },
+        {
+          "time": 101.6,
+          "end": 102.34,
+          "text": "悲",
+          "probability": 0.9668
+        },
+        {
+          "time": 103.22,
+          "end": 103.52,
+          "text": "欢",
+          "probability": 0.9473
+        }
+      ]
+    },
+    {
+      "time": 104.4,
+      "end": 108.58,
+      "text": "我们却是围围见竹面",
+      "words": [
+        {
+          "time": 104.4,
+          "end": 104.7,
+          "text": "我们",
+          "probability": 0.9958
+        },
+        {
+          "time": 104.82,
+          "end": 105.66,
+          "text": "却",
+          "probability": 0.9937
+        },
+        {
+          "time": 106.14,
+          "end": 106.44,
+          "text": "是",
+          "probability": 0.8726
+        },
+        {
+          "time": 106.52,
+          "end": 106.92,
+          "text": "围",
+          "probability": 0.8125
+        },
+        {
+          "time": 106.94,
+          "end": 107.34,
+          "text": "围",
+          "probability": 0.2203
+        },
+        {
+          "time": 107.42,
+          "end": 107.72,
+          "text": "见",
+          "probability": 0.729
+        },
+        {
+          "time": 107.72,
+          "end": 108.18,
+          "text": "竹",
+          "probability": 0.2718
+        },
+        {
+          "time": 108.28,
+          "end": 108.58,
+          "text": "面",
+          "probability": 0.7352
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "s3a44741c473e",
+  "file": "90无声的赞美_女声.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "22181",
+      "offset": -1.6225,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.995155,
+      "windows": [
+        {
+          "localStart": 26.79,
+          "sourceStart": 24.59,
+          "offset": -2.1995,
+          "coefficient": 0.260324
+        },
+        {
+          "localStart": 66.974,
+          "sourceStart": 65.011,
+          "offset": -1.963,
+          "coefficient": 0.178035
+        },
+        {
+          "localStart": 107.159,
+          "sourceStart": 105.347,
+          "offset": -1.812,
+          "coefficient": 0.15426
+        },
+        {
+          "localStart": 147.344,
+          "sourceStart": 145.583,
+          "offset": -1.761,
+          "coefficient": 0.267392
+        },
+        {
+          "localStart": 187.528,
+          "sourceStart": 185.941,
+          "offset": -1.587,
+          "coefficient": 0.19157
+        },
+        {
+          "localStart": 227.713,
+          "sourceStart": 226.233,
+          "offset": -1.479,
+          "coefficient": 0.213907
+        },
+        {
+          "localStart": 267.897,
+          "sourceStart": 266.658,
+          "offset": -1.2395,
+          "coefficient": 0.123126
+        },
+        {
+          "localStart": 301.385,
+          "sourceStart": 300.139,
+          "offset": -1.246,
+          "coefficient": 0.182415
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "31770",
+      "offset": -37.3415,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.529045,
+      "windows": [
+        {
+          "localStart": 66.974,
+          "sourceStart": 31.297,
+          "offset": -35.677,
+          "coefficient": 0.053747
+        },
+        {
+          "localStart": 107.159,
+          "sourceStart": 68.55,
+          "offset": -38.609,
+          "coefficient": 0.047825
+        },
+        {
+          "localStart": 147.344,
+          "sourceStart": 111.885,
+          "offset": -35.459,
+          "coefficient": 0.054153
+        },
+        {
+          "localStart": 187.528,
+          "sourceStart": 150.554,
+          "offset": -36.9745,
+          "coefficient": 0.14539
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "43264",
+      "offset": -144.103,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.244788,
+      "windows": [
+        {
+          "localStart": 147.344,
+          "sourceStart": 3.602,
+          "offset": -143.7415,
+          "coefficient": 0.065211
+        },
+        {
+          "localStart": 187.528,
+          "sourceStart": 42.666,
+          "offset": -144.862,
+          "coefficient": 0.07319
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

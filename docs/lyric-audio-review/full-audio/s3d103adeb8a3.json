@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "28607",
+  "waveform": {
+    "source": "28607",
+    "url": "https://www.izanmei.cc/song/28607.html",
+    "audio": "https://play.izanm.org/song/p/28607.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 15.04,
+        "sourceStart": 15.04,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 37.6,
+        "sourceStart": 37.6,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 60.161,
+        "sourceStart": 60.161,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 82.722,
+        "sourceStart": 82.722,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 105.281,
+        "sourceStart": 105.281,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 127.842,
+        "sourceStart": 127.842,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 150.403,
+        "sourceStart": 150.403,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 169.203,
+        "sourceStart": 169.203,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.97235,
+  "id": "s3d103adeb8a3",
+  "file": "047.每一天所度过的每一刻.mp3",
+  "fullDuration": 188.003063,
+  "recordingHash": "f79ebf0b8c917a56dde7e6d96d02359d7eb4dc9b60ba358c007a62ef9a147af2",
+  "lines": []
+}

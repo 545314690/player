@@ -1,0 +1,125 @@
+{
+  "id": "s0441e91ec568",
+  "file": "255-弟兄和睦同居.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "28232",
+    "url": "https://www.izanmei.cc/song/28232.html",
+    "audio": "https://play.izanm.org/song/p/28232.mp3",
+    "offset": -0.020375,
+    "scale": 1.000004997,
+    "residual": 0.000469,
+    "coverage": 0.999473,
+    "windows": [
+      {
+        "localStart": 24.148,
+        "sourceStart": 24.128,
+        "offset": -0.0195,
+        "coefficient": 0.994185
+      },
+      {
+        "localStart": 60.369,
+        "sourceStart": 60.349,
+        "offset": -0.0195,
+        "coefficient": 0.991976
+      },
+      {
+        "localStart": 96.591,
+        "sourceStart": 96.571,
+        "offset": -0.0195,
+        "coefficient": 0.987805
+      },
+      {
+        "localStart": 132.812,
+        "sourceStart": 132.792,
+        "offset": -0.0195,
+        "coefficient": 0.990616
+      },
+      {
+        "localStart": 169.034,
+        "sourceStart": 169.014,
+        "offset": -0.0195,
+        "coefficient": 0.988353
+      },
+      {
+        "localStart": 205.255,
+        "sourceStart": 205.236,
+        "offset": -0.0195,
+        "coefficient": 0.988611
+      },
+      {
+        "localStart": 241.476,
+        "sourceStart": 241.457,
+        "offset": -0.0195,
+        "coefficient": 0.990437
+      },
+      {
+        "localStart": 271.661,
+        "sourceStart": 271.642,
+        "offset": -0.0195,
+        "coefficient": 0.991621
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "28232",
+      "offset": -0.020375,
+      "scale": 1.000004997,
+      "residual": 0.000469,
+      "coverage": 0.999473,
+      "windows": [
+        {
+          "localStart": 24.148,
+          "sourceStart": 24.128,
+          "offset": -0.0195,
+          "coefficient": 0.994185
+        },
+        {
+          "localStart": 60.369,
+          "sourceStart": 60.349,
+          "offset": -0.0195,
+          "coefficient": 0.991976
+        },
+        {
+          "localStart": 96.591,
+          "sourceStart": 96.571,
+          "offset": -0.0195,
+          "coefficient": 0.987805
+        },
+        {
+          "localStart": 132.812,
+          "sourceStart": 132.792,
+          "offset": -0.0195,
+          "coefficient": 0.990616
+        },
+        {
+          "localStart": 169.034,
+          "sourceStart": 169.014,
+          "offset": -0.0195,
+          "coefficient": 0.988353
+        },
+        {
+          "localStart": 205.255,
+          "sourceStart": 205.236,
+          "offset": -0.0195,
+          "coefficient": 0.988611
+        },
+        {
+          "localStart": 241.476,
+          "sourceStart": 241.457,
+          "offset": -0.0195,
+          "coefficient": 0.990437
+        },
+        {
+          "localStart": 271.661,
+          "sourceStart": 271.642,
+          "offset": -0.0195,
+          "coefficient": 0.991621
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

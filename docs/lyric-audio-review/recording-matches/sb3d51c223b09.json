@@ -1,0 +1,60 @@
+{
+  "id": "sb3d51c223b09",
+  "file": "228.我敬拜你全能真神.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "53218",
+      "offset": -45.725,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.801496,
+      "windows": [
+        {
+          "localStart": 46.069,
+          "sourceStart": 2.296,
+          "offset": -43.7735,
+          "coefficient": 0.015276
+        },
+        {
+          "localStart": 73.711,
+          "sourceStart": 29.976,
+          "offset": -43.7355,
+          "coefficient": 0.054944
+        },
+        {
+          "localStart": 101.353,
+          "sourceStart": 56.651,
+          "offset": -44.7015,
+          "coefficient": 0.040432
+        },
+        {
+          "localStart": 128.994,
+          "sourceStart": 83.019,
+          "offset": -45.975,
+          "coefficient": 0.040648
+        },
+        {
+          "localStart": 156.637,
+          "sourceStart": 111.254,
+          "offset": -45.383,
+          "coefficient": 0.052276
+        },
+        {
+          "localStart": 184.278,
+          "sourceStart": 139.825,
+          "offset": -44.4535,
+          "coefficient": 0.056867
+        },
+        {
+          "localStart": 207.313,
+          "sourceStart": 163.509,
+          "offset": -43.804,
+          "coefficient": 0.034233
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

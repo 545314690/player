@@ -1,0 +1,146 @@
+{
+  "id": "s2d102a958bb2",
+  "file": "314耶和华以勒我的主.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "46259",
+      "offset": 0.2305,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 13.798,
+          "sourceStart": 14.028,
+          "offset": 0.2305,
+          "coefficient": 0.803314
+        },
+        {
+          "localStart": 34.495,
+          "sourceStart": 34.726,
+          "offset": 0.2305,
+          "coefficient": 0.760562
+        },
+        {
+          "localStart": 55.193,
+          "sourceStart": 55.423,
+          "offset": 0.2305,
+          "coefficient": 0.852304
+        },
+        {
+          "localStart": 75.89,
+          "sourceStart": 76.121,
+          "offset": 0.2305,
+          "coefficient": 0.793191
+        },
+        {
+          "localStart": 96.588,
+          "sourceStart": 96.818,
+          "offset": 0.2305,
+          "coefficient": 0.751036
+        },
+        {
+          "localStart": 117.285,
+          "sourceStart": 117.516,
+          "offset": 0.2305,
+          "coefficient": 0.686139
+        },
+        {
+          "localStart": 137.982,
+          "sourceStart": 138.213,
+          "offset": 0.2305,
+          "coefficient": 0.779529
+        },
+        {
+          "localStart": 155.23,
+          "sourceStart": 155.46,
+          "offset": 0.2305,
+          "coefficient": 0.767793
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "32255",
+      "offset": -121.6225,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.294852,
+      "windows": [
+        {
+          "localStart": 137.982,
+          "sourceStart": 15.735,
+          "offset": -122.247,
+          "coefficient": 0.050169
+        },
+        {
+          "localStart": 155.23,
+          "sourceStart": 32.837,
+          "offset": -122.3935,
+          "coefficient": 0.058764
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "47480",
+      "offset": 0.2305,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 13.798,
+          "sourceStart": 14.028,
+          "offset": 0.2305,
+          "coefficient": 0.781107
+        },
+        {
+          "localStart": 34.495,
+          "sourceStart": 34.727,
+          "offset": 0.231,
+          "coefficient": 0.57392
+        },
+        {
+          "localStart": 55.193,
+          "sourceStart": 55.423,
+          "offset": 0.2305,
+          "coefficient": 0.633694
+        },
+        {
+          "localStart": 75.89,
+          "sourceStart": 76.121,
+          "offset": 0.2305,
+          "coefficient": 0.789857
+        },
+        {
+          "localStart": 96.588,
+          "sourceStart": 96.819,
+          "offset": 0.231,
+          "coefficient": 0.560023
+        },
+        {
+          "localStart": 117.285,
+          "sourceStart": 117.516,
+          "offset": 0.231,
+          "coefficient": 0.555069
+        },
+        {
+          "localStart": 137.982,
+          "sourceStart": 138.213,
+          "offset": 0.2305,
+          "coefficient": 0.621132
+        },
+        {
+          "localStart": 155.23,
+          "sourceStart": 155.46,
+          "offset": 0.2305,
+          "coefficient": 0.579576
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

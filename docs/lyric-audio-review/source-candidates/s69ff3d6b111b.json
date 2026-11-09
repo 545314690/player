@@ -1,0 +1,30 @@
+{
+  "id": "s69ff3d6b111b",
+  "file": "201-这里有荣耀.mp3",
+  "query": "这里有荣耀",
+  "metadata": {
+    "id": "s69ff3d6b111b",
+    "file": "201-这里有荣耀.mp3",
+    "title": "",
+    "artist": "",
+    "album": ""
+  },
+  "candidates": [
+    {
+      "id": "23647",
+      "title": "这里有荣耀",
+      "artist": "赞美之泉",
+      "album": "这里有荣耀",
+      "songbookOverlap": 1.0
+    },
+    {
+      "id": "32320",
+      "title": "这里有荣耀",
+      "artist": "丰盛敬拜团",
+      "album": "生命的渴望",
+      "songbookOverlap": 0.9796
+    }
+  ],
+  "totalCandidates": 2,
+  "expanded": true
+}

@@ -1,0 +1,1301 @@
+{
+  "id": "s7678fd48ac7f",
+  "file": "109-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "d3d64af219355fcce08d5b954bd45a7d7406047f268f44e78422cd1d2f960565",
+  "fullDuration": 157.38775,
+  "lines": [
+    {
+      "time": 10.0,
+      "end": 15.76,
+      "text": "耶稣基督说了一句话清水",
+      "words": [
+        {
+          "time": 10.0,
+          "end": 10.3,
+          "text": "耶",
+          "probability": 0.7259
+        },
+        {
+          "time": 10.42,
+          "end": 10.92,
+          "text": "稣",
+          "probability": 0.9929
+        },
+        {
+          "time": 11.12,
+          "end": 11.42,
+          "text": "基",
+          "probability": 0.8164
+        },
+        {
+          "time": 11.7,
+          "end": 12.14,
+          "text": "督",
+          "probability": 0.9948
+        },
+        {
+          "time": 12.2,
+          "end": 12.5,
+          "text": "说",
+          "probability": 0.3694
+        },
+        {
+          "time": 12.48,
+          "end": 12.78,
+          "text": "了",
+          "probability": 0.9993
+        },
+        {
+          "time": 12.84,
+          "end": 13.14,
+          "text": "一",
+          "probability": 0.9996
+        },
+        {
+          "time": 13.1,
+          "end": 13.4,
+          "text": "句",
+          "probability": 0.9998
+        },
+        {
+          "time": 13.72,
+          "end": 14.02,
+          "text": "话",
+          "probability": 0.9977
+        },
+        {
+          "time": 14.78,
+          "end": 15.08,
+          "text": "清",
+          "probability": 0.8578
+        },
+        {
+          "time": 15.46,
+          "end": 15.76,
+          "text": "水",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 15.86,
+      "end": 21.74,
+      "text": "变成了葡萄酒耶稣基督",
+      "words": [
+        {
+          "time": 15.86,
+          "end": 16.48,
+          "text": "变",
+          "probability": 0.665
+        },
+        {
+          "time": 16.44,
+          "end": 16.74,
+          "text": "成",
+          "probability": 0.9978
+        },
+        {
+          "time": 16.84,
+          "end": 17.14,
+          "text": "了",
+          "probability": 0.9999
+        },
+        {
+          "time": 17.04,
+          "end": 17.6,
+          "text": "葡",
+          "probability": 0.9927
+        },
+        {
+          "time": 17.6,
+          "end": 18.22,
+          "text": "萄",
+          "probability": 0.9962
+        },
+        {
+          "time": 18.32,
+          "end": 18.62,
+          "text": "酒",
+          "probability": 0.999
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "耶",
+          "probability": 0.9575
+        },
+        {
+          "time": 20.04,
+          "end": 20.6,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 20.76,
+          "end": 21.06,
+          "text": "基",
+          "probability": 0.9999
+        },
+        {
+          "time": 21.34,
+          "end": 21.74,
+          "text": "督",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 21.86,
+      "end": 27.82,
+      "text": "说了一句话清水变成了葡萄",
+      "words": [
+        {
+          "time": 21.86,
+          "end": 22.16,
+          "text": "说",
+          "probability": 0.9999
+        },
+        {
+          "time": 22.12,
+          "end": 22.42,
+          "text": "了",
+          "probability": 1.0
+        },
+        {
+          "time": 22.5,
+          "end": 22.8,
+          "text": "一",
+          "probability": 1.0
+        },
+        {
+          "time": 22.72,
+          "end": 23.02,
+          "text": "句",
+          "probability": 1.0
+        },
+        {
+          "time": 23.44,
+          "end": 23.74,
+          "text": "话",
+          "probability": 0.9997
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "清",
+          "probability": 0.9995
+        },
+        {
+          "time": 25.02,
+          "end": 25.32,
+          "text": "水",
+          "probability": 1.0
+        },
+        {
+          "time": 25.54,
+          "end": 26.06,
+          "text": "变",
+          "probability": 1.0
+        },
+        {
+          "time": 26.12,
+          "end": 26.42,
+          "text": "成",
+          "probability": 1.0
+        },
+        {
+          "time": 26.42,
+          "end": 26.72,
+          "text": "了",
+          "probability": 1.0
+        },
+        {
+          "time": 26.74,
+          "end": 27.22,
+          "text": "葡",
+          "probability": 1.0
+        },
+        {
+          "time": 27.36,
+          "end": 27.82,
+          "text": "萄",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 28.0,
+      "end": 33.82,
+      "text": "酒主耶稣主耶稣请你也",
+      "words": [
+        {
+          "time": 28.0,
+          "end": 28.3,
+          "text": "酒",
+          "probability": 1.0
+        },
+        {
+          "time": 29.32,
+          "end": 29.62,
+          "text": "主",
+          "probability": 0.94
+        },
+        {
+          "time": 29.98,
+          "end": 30.28,
+          "text": "耶",
+          "probability": 0.9993
+        },
+        {
+          "time": 30.36,
+          "end": 30.86,
+          "text": "稣",
+          "probability": 0.9953
+        },
+        {
+          "time": 31.32,
+          "end": 31.62,
+          "text": "主",
+          "probability": 0.9952
+        },
+        {
+          "time": 31.64,
+          "end": 31.94,
+          "text": "耶",
+          "probability": 0.9999
+        },
+        {
+          "time": 31.9,
+          "end": 32.36,
+          "text": "稣",
+          "probability": 0.9997
+        },
+        {
+          "time": 32.9,
+          "end": 33.2,
+          "text": "请",
+          "probability": 0.9972
+        },
+        {
+          "time": 33.2,
+          "end": 33.5,
+          "text": "你",
+          "probability": 0.8342
+        },
+        {
+          "time": 33.52,
+          "end": 33.82,
+          "text": "也",
+          "probability": 0.9159
+        }
+      ]
+    },
+    {
+      "time": 33.84,
+      "end": 39.74,
+      "text": "来对我说一声改变我改",
+      "words": [
+        {
+          "time": 33.84,
+          "end": 34.14,
+          "text": "来",
+          "probability": 0.998
+        },
+        {
+          "time": 34.18,
+          "end": 34.48,
+          "text": "对",
+          "probability": 0.9928
+        },
+        {
+          "time": 34.82,
+          "end": 35.12,
+          "text": "我",
+          "probability": 0.9994
+        },
+        {
+          "time": 35.42,
+          "end": 35.72,
+          "text": "说",
+          "probability": 0.9931
+        },
+        {
+          "time": 35.9,
+          "end": 36.2,
+          "text": "一",
+          "probability": 0.9986
+        },
+        {
+          "time": 36.42,
+          "end": 36.72,
+          "text": "声",
+          "probability": 0.9673
+        },
+        {
+          "time": 37.5,
+          "end": 37.8,
+          "text": "改",
+          "probability": 0.9746
+        },
+        {
+          "time": 37.9,
+          "end": 38.4,
+          "text": "变",
+          "probability": 0.9976
+        },
+        {
+          "time": 38.84,
+          "end": 39.14,
+          "text": "我",
+          "probability": 0.9993
+        },
+        {
+          "time": 39.48,
+          "end": 39.78,
+          "text": "改",
+          "probability": 0.9901
+        }
+      ]
+    },
+    {
+      "time": 39.74,
+      "end": 44.24,
+      "text": "变我成为一个心脏敏人",
+      "words": [
+        {
+          "time": 39.74,
+          "end": 40.06,
+          "text": "变",
+          "probability": 1.0
+        },
+        {
+          "time": 40.3,
+          "end": 40.6,
+          "text": "我",
+          "probability": 0.9999
+        },
+        {
+          "time": 40.98,
+          "end": 41.28,
+          "text": "成",
+          "probability": 0.9992
+        },
+        {
+          "time": 41.36,
+          "end": 41.66,
+          "text": "为",
+          "probability": 0.9931
+        },
+        {
+          "time": 41.9,
+          "end": 42.2,
+          "text": "一个",
+          "probability": 0.9945
+        },
+        {
+          "time": 42.46,
+          "end": 42.76,
+          "text": "心",
+          "probability": 0.9185
+        },
+        {
+          "time": 42.84,
+          "end": 43.24,
+          "text": "脏",
+          "probability": 0.4758
+        },
+        {
+          "time": 43.2,
+          "end": 43.5,
+          "text": "敏",
+          "probability": 0.4022
+        },
+        {
+          "time": 43.94,
+          "end": 44.24,
+          "text": "人",
+          "probability": 0.9789
+        }
+      ]
+    },
+    {
+      "time": 46.06,
+      "end": 51.62,
+      "text": "耶稣基督说了一句话把体脉",
+      "words": [
+        {
+          "time": 46.06,
+          "end": 46.36,
+          "text": "耶",
+          "probability": 0.9996
+        },
+        {
+          "time": 46.42,
+          "end": 46.92,
+          "text": "稣",
+          "probability": 0.9998
+        },
+        {
+          "time": 47.18,
+          "end": 47.48,
+          "text": "基",
+          "probability": 0.8984
+        },
+        {
+          "time": 47.7,
+          "end": 48.12,
+          "text": "督",
+          "probability": 0.9972
+        },
+        {
+          "time": 48.26,
+          "end": 48.56,
+          "text": "说",
+          "probability": 0.9885
+        },
+        {
+          "time": 48.54,
+          "end": 48.84,
+          "text": "了",
+          "probability": 0.9997
+        },
+        {
+          "time": 48.92,
+          "end": 49.22,
+          "text": "一",
+          "probability": 0.9999
+        },
+        {
+          "time": 49.14,
+          "end": 49.44,
+          "text": "句",
+          "probability": 0.9998
+        },
+        {
+          "time": 49.76,
+          "end": 50.06,
+          "text": "话",
+          "probability": 0.9986
+        },
+        {
+          "time": 50.72,
+          "end": 51.02,
+          "text": "把",
+          "probability": 0.8578
+        },
+        {
+          "time": 51.02,
+          "end": 51.32,
+          "text": "体",
+          "probability": 0.7731
+        },
+        {
+          "time": 51.26,
+          "end": 51.62,
+          "text": "脉",
+          "probability": 0.9217
+        }
+      ]
+    },
+    {
+      "time": 51.64,
+      "end": 57.16,
+      "text": "的眼球就睁开了耶稣基",
+      "words": [
+        {
+          "time": 51.64,
+          "end": 51.94,
+          "text": "的",
+          "probability": 0.8938
+        },
+        {
+          "time": 52.04,
+          "end": 52.34,
+          "text": "眼",
+          "probability": 0.788
+        },
+        {
+          "time": 52.56,
+          "end": 52.86,
+          "text": "球",
+          "probability": 0.4516
+        },
+        {
+          "time": 52.84,
+          "end": 53.14,
+          "text": "就",
+          "probability": 0.9812
+        },
+        {
+          "time": 53.14,
+          "end": 53.64,
+          "text": "睁",
+          "probability": 0.5238
+        },
+        {
+          "time": 53.78,
+          "end": 54.08,
+          "text": "开",
+          "probability": 0.9871
+        },
+        {
+          "time": 54.48,
+          "end": 54.78,
+          "text": "了",
+          "probability": 0.9996
+        },
+        {
+          "time": 55.7,
+          "end": 56.0,
+          "text": "耶",
+          "probability": 0.9889
+        },
+        {
+          "time": 56.1,
+          "end": 56.56,
+          "text": "稣",
+          "probability": 0.9966
+        },
+        {
+          "time": 56.86,
+          "end": 57.16,
+          "text": "基",
+          "probability": 0.9199
+        }
+      ]
+    },
+    {
+      "time": 57.36,
+      "end": 63.24,
+      "text": "督说了一句话把地美的眼睛就疼",
+      "words": [
+        {
+          "time": 57.36,
+          "end": 57.78,
+          "text": "督",
+          "probability": 0.9982
+        },
+        {
+          "time": 57.9,
+          "end": 58.2,
+          "text": "说",
+          "probability": 0.9794
+        },
+        {
+          "time": 58.2,
+          "end": 58.5,
+          "text": "了",
+          "probability": 0.9886
+        },
+        {
+          "time": 58.5,
+          "end": 58.8,
+          "text": "一",
+          "probability": 0.9968
+        },
+        {
+          "time": 58.74,
+          "end": 59.04,
+          "text": "句",
+          "probability": 0.9997
+        },
+        {
+          "time": 59.44,
+          "end": 59.74,
+          "text": "话",
+          "probability": 0.9988
+        },
+        {
+          "time": 60.4,
+          "end": 60.7,
+          "text": "把",
+          "probability": 0.4199
+        },
+        {
+          "time": 60.6,
+          "end": 60.9,
+          "text": "地",
+          "probability": 0.5559
+        },
+        {
+          "time": 60.94,
+          "end": 61.24,
+          "text": "美",
+          "probability": 0.0797
+        },
+        {
+          "time": 61.2,
+          "end": 61.5,
+          "text": "的",
+          "probability": 0.9632
+        },
+        {
+          "time": 61.7,
+          "end": 62.0,
+          "text": "眼",
+          "probability": 0.9925
+        },
+        {
+          "time": 62.12,
+          "end": 62.42,
+          "text": "睛",
+          "probability": 0.9508
+        },
+        {
+          "time": 62.4,
+          "end": 62.7,
+          "text": "就",
+          "probability": 0.7915
+        },
+        {
+          "time": 62.76,
+          "end": 63.24,
+          "text": "疼",
+          "probability": 0.1425
+        }
+      ]
+    },
+    {
+      "time": 63.48,
+      "end": 69.26,
+      "text": "开了主耶稣主耶稣请",
+      "words": [
+        {
+          "time": 63.48,
+          "end": 63.78,
+          "text": "开",
+          "probability": 0.4687
+        },
+        {
+          "time": 64.32,
+          "end": 64.62,
+          "text": "了",
+          "probability": 0.9575
+        },
+        {
+          "time": 65.38,
+          "end": 65.68,
+          "text": "主",
+          "probability": 0.95
+        },
+        {
+          "time": 65.98,
+          "end": 66.28,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 66.4,
+          "end": 67.24,
+          "text": "稣",
+          "probability": 0.9987
+        },
+        {
+          "time": 67.36,
+          "end": 67.66,
+          "text": "主",
+          "probability": 0.9946
+        },
+        {
+          "time": 67.7,
+          "end": 68.0,
+          "text": "耶",
+          "probability": 1.0
+        },
+        {
+          "time": 67.96,
+          "end": 68.44,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 68.96,
+          "end": 69.26,
+          "text": "请",
+          "probability": 0.9959
+        }
+      ]
+    },
+    {
+      "time": 69.28,
+      "end": 75.22,
+      "text": "你来对我说一声改变我",
+      "words": [
+        {
+          "time": 69.28,
+          "end": 69.58,
+          "text": "你",
+          "probability": 0.8012
+        },
+        {
+          "time": 69.8,
+          "end": 70.1,
+          "text": "来",
+          "probability": 0.527
+        },
+        {
+          "time": 70.26,
+          "end": 70.56,
+          "text": "对",
+          "probability": 0.9967
+        },
+        {
+          "time": 70.86,
+          "end": 71.16,
+          "text": "我",
+          "probability": 0.9989
+        },
+        {
+          "time": 71.44,
+          "end": 71.74,
+          "text": "说",
+          "probability": 0.997
+        },
+        {
+          "time": 71.96,
+          "end": 72.26,
+          "text": "一",
+          "probability": 0.9983
+        },
+        {
+          "time": 72.5,
+          "end": 72.8,
+          "text": "声",
+          "probability": 0.9911
+        },
+        {
+          "time": 73.48,
+          "end": 73.78,
+          "text": "改",
+          "probability": 0.9967
+        },
+        {
+          "time": 73.9,
+          "end": 74.48,
+          "text": "变",
+          "probability": 0.9982
+        },
+        {
+          "time": 74.92,
+          "end": 75.22,
+          "text": "我",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 75.48,
+      "end": 79.76,
+      "text": "改变我成为一个心脏的人",
+      "words": [
+        {
+          "time": 75.48,
+          "end": 75.78,
+          "text": "改",
+          "probability": 0.9978
+        },
+        {
+          "time": 75.72,
+          "end": 76.1,
+          "text": "变",
+          "probability": 1.0
+        },
+        {
+          "time": 76.34,
+          "end": 76.64,
+          "text": "我",
+          "probability": 0.9999
+        },
+        {
+          "time": 76.98,
+          "end": 77.28,
+          "text": "成",
+          "probability": 0.999
+        },
+        {
+          "time": 77.38,
+          "end": 77.68,
+          "text": "为",
+          "probability": 0.9988
+        },
+        {
+          "time": 77.92,
+          "end": 78.22,
+          "text": "一个",
+          "probability": 0.9974
+        },
+        {
+          "time": 78.44,
+          "end": 78.74,
+          "text": "心",
+          "probability": 0.9169
+        },
+        {
+          "time": 78.82,
+          "end": 79.22,
+          "text": "脏",
+          "probability": 0.6902
+        },
+        {
+          "time": 79.46,
+          "end": 79.76,
+          "text": "的人",
+          "probability": 0.6694
+        }
+      ]
+    },
+    {
+      "time": 82.02,
+      "end": 87.6,
+      "text": "耶稣基督说了一句话死去",
+      "words": [
+        {
+          "time": 82.02,
+          "end": 82.32,
+          "text": "耶",
+          "probability": 0.9748
+        },
+        {
+          "time": 82.48,
+          "end": 82.96,
+          "text": "稣",
+          "probability": 0.998
+        },
+        {
+          "time": 83.16,
+          "end": 83.46,
+          "text": "基",
+          "probability": 0.9759
+        },
+        {
+          "time": 83.74,
+          "end": 84.16,
+          "text": "督",
+          "probability": 0.9977
+        },
+        {
+          "time": 84.28,
+          "end": 84.58,
+          "text": "说",
+          "probability": 0.9793
+        },
+        {
+          "time": 84.56,
+          "end": 84.86,
+          "text": "了",
+          "probability": 0.9997
+        },
+        {
+          "time": 84.9,
+          "end": 85.2,
+          "text": "一",
+          "probability": 0.9998
+        },
+        {
+          "time": 85.16,
+          "end": 85.46,
+          "text": "句",
+          "probability": 0.9999
+        },
+        {
+          "time": 85.78,
+          "end": 86.08,
+          "text": "话",
+          "probability": 0.9996
+        },
+        {
+          "time": 86.78,
+          "end": 87.08,
+          "text": "死",
+          "probability": 0.9417
+        },
+        {
+          "time": 87.32,
+          "end": 87.62,
+          "text": "去",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 87.6,
+      "end": 93.14,
+      "text": "的拉萨路复活了耶稣基",
+      "words": [
+        {
+          "time": 87.6,
+          "end": 87.9,
+          "text": "的",
+          "probability": 0.9278
+        },
+        {
+          "time": 88.04,
+          "end": 88.34,
+          "text": "拉",
+          "probability": 0.4846
+        },
+        {
+          "time": 88.42,
+          "end": 88.82,
+          "text": "萨",
+          "probability": 0.5926
+        },
+        {
+          "time": 88.8,
+          "end": 89.1,
+          "text": "路",
+          "probability": 0.5302
+        },
+        {
+          "time": 89.08,
+          "end": 89.64,
+          "text": "复",
+          "probability": 0.4104
+        },
+        {
+          "time": 89.78,
+          "end": 90.08,
+          "text": "活",
+          "probability": 0.9573
+        },
+        {
+          "time": 90.42,
+          "end": 90.72,
+          "text": "了",
+          "probability": 0.9663
+        },
+        {
+          "time": 91.6,
+          "end": 91.9,
+          "text": "耶",
+          "probability": 0.9507
+        },
+        {
+          "time": 92.06,
+          "end": 92.6,
+          "text": "稣",
+          "probability": 0.9996
+        },
+        {
+          "time": 92.84,
+          "end": 93.14,
+          "text": "基",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 93.4,
+      "end": 99.26,
+      "text": "督说了一句话死去的拉萨路复",
+      "words": [
+        {
+          "time": 93.4,
+          "end": 93.78,
+          "text": "督",
+          "probability": 1.0
+        },
+        {
+          "time": 93.9,
+          "end": 94.2,
+          "text": "说",
+          "probability": 0.9999
+        },
+        {
+          "time": 94.2,
+          "end": 94.5,
+          "text": "了",
+          "probability": 0.9999
+        },
+        {
+          "time": 94.5,
+          "end": 94.8,
+          "text": "一",
+          "probability": 1.0
+        },
+        {
+          "time": 94.76,
+          "end": 95.06,
+          "text": "句",
+          "probability": 1.0
+        },
+        {
+          "time": 95.52,
+          "end": 95.82,
+          "text": "话",
+          "probability": 0.9998
+        },
+        {
+          "time": 96.42,
+          "end": 96.72,
+          "text": "死",
+          "probability": 0.9998
+        },
+        {
+          "time": 96.92,
+          "end": 97.22,
+          "text": "去",
+          "probability": 1.0
+        },
+        {
+          "time": 97.22,
+          "end": 97.52,
+          "text": "的",
+          "probability": 0.9998
+        },
+        {
+          "time": 97.68,
+          "end": 97.98,
+          "text": "拉",
+          "probability": 0.9998
+        },
+        {
+          "time": 98.06,
+          "end": 98.42,
+          "text": "萨",
+          "probability": 0.9999
+        },
+        {
+          "time": 98.4,
+          "end": 98.7,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 98.78,
+          "end": 99.26,
+          "text": "复",
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "time": 99.48,
+      "end": 105.26,
+      "text": "活了主耶稣主耶稣请",
+      "words": [
+        {
+          "time": 99.48,
+          "end": 99.78,
+          "text": "活",
+          "probability": 1.0
+        },
+        {
+          "time": 100.54,
+          "end": 100.84,
+          "text": "了",
+          "probability": 0.9997
+        },
+        {
+          "time": 101.3,
+          "end": 101.6,
+          "text": "主",
+          "probability": 0.9442
+        },
+        {
+          "time": 101.98,
+          "end": 102.28,
+          "text": "耶",
+          "probability": 0.9997
+        },
+        {
+          "time": 102.4,
+          "end": 103.12,
+          "text": "稣",
+          "probability": 0.999
+        },
+        {
+          "time": 103.36,
+          "end": 103.66,
+          "text": "主",
+          "probability": 0.9951
+        },
+        {
+          "time": 103.68,
+          "end": 103.98,
+          "text": "耶",
+          "probability": 1.0
+        },
+        {
+          "time": 103.98,
+          "end": 104.56,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 104.96,
+          "end": 105.26,
+          "text": "请",
+          "probability": 0.9819
+        }
+      ]
+    },
+    {
+      "time": 105.28,
+      "end": 111.18,
+      "text": "你也来对我说一声改变我",
+      "words": [
+        {
+          "time": 105.28,
+          "end": 105.58,
+          "text": "你",
+          "probability": 0.6856
+        },
+        {
+          "time": 105.56,
+          "end": 105.86,
+          "text": "也",
+          "probability": 0.5159
+        },
+        {
+          "time": 105.88,
+          "end": 106.18,
+          "text": "来",
+          "probability": 0.9974
+        },
+        {
+          "time": 106.28,
+          "end": 106.58,
+          "text": "对",
+          "probability": 0.9965
+        },
+        {
+          "time": 106.86,
+          "end": 107.16,
+          "text": "我",
+          "probability": 0.9995
+        },
+        {
+          "time": 107.42,
+          "end": 107.72,
+          "text": "说",
+          "probability": 0.9979
+        },
+        {
+          "time": 107.94,
+          "end": 108.24,
+          "text": "一",
+          "probability": 0.997
+        },
+        {
+          "time": 108.44,
+          "end": 108.74,
+          "text": "声",
+          "probability": 0.9872
+        },
+        {
+          "time": 109.44,
+          "end": 109.74,
+          "text": "改",
+          "probability": 0.9604
+        },
+        {
+          "time": 109.88,
+          "end": 110.44,
+          "text": "变",
+          "probability": 0.9842
+        },
+        {
+          "time": 110.88,
+          "end": 111.18,
+          "text": "我",
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "time": 111.42,
+      "end": 115.62,
+      "text": "改变我成为一个心造的人",
+      "words": [
+        {
+          "time": 111.42,
+          "end": 111.72,
+          "text": "改",
+          "probability": 0.9782
+        },
+        {
+          "time": 111.7,
+          "end": 112.06,
+          "text": "变",
+          "probability": 0.9999
+        },
+        {
+          "time": 112.32,
+          "end": 112.62,
+          "text": "我",
+          "probability": 0.9998
+        },
+        {
+          "time": 112.9,
+          "end": 113.2,
+          "text": "成",
+          "probability": 0.9989
+        },
+        {
+          "time": 113.28,
+          "end": 113.58,
+          "text": "为",
+          "probability": 0.9995
+        },
+        {
+          "time": 113.84,
+          "end": 114.14,
+          "text": "一个",
+          "probability": 0.999
+        },
+        {
+          "time": 114.34,
+          "end": 114.64,
+          "text": "心",
+          "probability": 0.5182
+        },
+        {
+          "time": 114.84,
+          "end": 115.14,
+          "text": "造",
+          "probability": 0.172
+        },
+        {
+          "time": 115.32,
+          "end": 115.62,
+          "text": "的人",
+          "probability": 0.8541
+        }
+      ]
+    },
+    {
+      "time": 117.94,
+      "end": 120.04,
+      "text": "耶稣基督",
+      "words": [
+        {
+          "time": 117.94,
+          "end": 118.24,
+          "text": "耶",
+          "probability": 0.9713
+        },
+        {
+          "time": 118.38,
+          "end": 118.88,
+          "text": "稣",
+          "probability": 0.9966
+        },
+        {
+          "time": 119.18,
+          "end": 119.48,
+          "text": "基",
+          "probability": 0.6234
+        },
+        {
+          "time": 119.72,
+          "end": 120.04,
+          "text": "督",
+          "probability": 0.9316
+        }
+      ]
+    }
+  ]
+}

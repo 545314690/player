@@ -1,0 +1,2117 @@
+{
+  "id": "sc930445e63e1",
+  "file": "069弹琴歌唱赞美你.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "439880b5bc198aacafc6518b51f0931f930367d4d092a82037c6649c09cf0c80",
+  "fullDuration": 311.450375,
+  "lines": [
+    {
+      "time": 29.84,
+      "end": 30.14,
+      "text": "作词 :李宗盛",
+      "words": [
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "作",
+          "probability": 0.103
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "词",
+          "probability": 0.4084
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": " :",
+          "probability": 0.5902
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "李",
+          "probability": 0.0905
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "宗",
+          "probability": 0.4967
+        },
+        {
+          "time": 29.84,
+          "end": 30.14,
+          "text": "盛",
+          "probability": 0.8773
+        }
+      ]
+    },
+    {
+      "time": 56.52,
+      "end": 62.08,
+      "text": "我要弹琴歌唱传送你你因为你大作为这奇",
+      "words": [
+        {
+          "time": 56.52,
+          "end": 56.82,
+          "text": "我要",
+          "probability": 0.0849
+        },
+        {
+          "time": 56.8,
+          "end": 57.24,
+          "text": "弹",
+          "probability": 0.1885
+        },
+        {
+          "time": 57.16,
+          "end": 57.46,
+          "text": "琴",
+          "probability": 0.8181
+        },
+        {
+          "time": 57.42,
+          "end": 57.72,
+          "text": "歌",
+          "probability": 0.9763
+        },
+        {
+          "time": 57.72,
+          "end": 58.02,
+          "text": "唱",
+          "probability": 0.9923
+        },
+        {
+          "time": 58.02,
+          "end": 58.38,
+          "text": "传",
+          "probability": 0.1781
+        },
+        {
+          "time": 58.32,
+          "end": 58.62,
+          "text": "送",
+          "probability": 0.7593
+        },
+        {
+          "time": 58.66,
+          "end": 58.96,
+          "text": "你",
+          "probability": 0.6261
+        },
+        {
+          "time": 59.14,
+          "end": 59.44,
+          "text": "你",
+          "probability": 0.5827
+        },
+        {
+          "time": 60.02,
+          "end": 60.32,
+          "text": "因为",
+          "probability": 0.9666
+        },
+        {
+          "time": 60.42,
+          "end": 60.72,
+          "text": "你",
+          "probability": 0.6736
+        },
+        {
+          "time": 60.7,
+          "end": 61.0,
+          "text": "大",
+          "probability": 0.5686
+        },
+        {
+          "time": 60.9,
+          "end": 61.2,
+          "text": "作",
+          "probability": 0.9826
+        },
+        {
+          "time": 61.28,
+          "end": 61.58,
+          "text": "为",
+          "probability": 0.9779
+        },
+        {
+          "time": 61.54,
+          "end": 61.84,
+          "text": "这",
+          "probability": 0.7059
+        },
+        {
+          "time": 61.78,
+          "end": 62.08,
+          "text": "奇",
+          "probability": 0.8565
+        }
+      ]
+    },
+    {
+      "time": 62.14,
+      "end": 67.84,
+      "text": "妙全地安当阳神说出你的荣耀全心",
+      "words": [
+        {
+          "time": 62.14,
+          "end": 62.8,
+          "text": "妙",
+          "probability": 0.9946
+        },
+        {
+          "time": 63.3,
+          "end": 63.6,
+          "text": "全",
+          "probability": 0.8719
+        },
+        {
+          "time": 63.52,
+          "end": 63.82,
+          "text": "地",
+          "probability": 0.3437
+        },
+        {
+          "time": 63.84,
+          "end": 64.14,
+          "text": "安",
+          "probability": 0.9351
+        },
+        {
+          "time": 64.18,
+          "end": 64.48,
+          "text": "当",
+          "probability": 0.3075
+        },
+        {
+          "time": 64.34,
+          "end": 64.66,
+          "text": "阳",
+          "probability": 0.5737
+        },
+        {
+          "time": 64.66,
+          "end": 64.96,
+          "text": "神",
+          "probability": 0.7767
+        },
+        {
+          "time": 65.02,
+          "end": 65.32,
+          "text": "说",
+          "probability": 0.7372
+        },
+        {
+          "time": 65.24,
+          "end": 65.54,
+          "text": "出",
+          "probability": 0.8786
+        },
+        {
+          "time": 65.78,
+          "end": 66.08,
+          "text": "你的",
+          "probability": 0.9947
+        },
+        {
+          "time": 66.08,
+          "end": 66.46,
+          "text": "荣",
+          "probability": 0.9955
+        },
+        {
+          "time": 66.36,
+          "end": 66.92,
+          "text": "耀",
+          "probability": 0.9945
+        },
+        {
+          "time": 67.26,
+          "end": 67.56,
+          "text": "全",
+          "probability": 0.9859
+        },
+        {
+          "time": 67.6,
+          "end": 67.9,
+          "text": "心",
+          "probability": 0.6928
+        }
+      ]
+    },
+    {
+      "time": 67.84,
+      "end": 73.92,
+      "text": "来赞美你几句跳舞坎坷扬月起再",
+      "words": [
+        {
+          "time": 67.84,
+          "end": 68.14,
+          "text": "来",
+          "probability": 0.9987
+        },
+        {
+          "time": 68.06,
+          "end": 68.5,
+          "text": "赞",
+          "probability": 0.9957
+        },
+        {
+          "time": 68.6,
+          "end": 68.9,
+          "text": "美",
+          "probability": 0.9536
+        },
+        {
+          "time": 69.66,
+          "end": 69.96,
+          "text": "你",
+          "probability": 0.9989
+        },
+        {
+          "time": 70.18,
+          "end": 70.52,
+          "text": "几",
+          "probability": 0.9708
+        },
+        {
+          "time": 70.4,
+          "end": 70.7,
+          "text": "句",
+          "probability": 0.2408
+        },
+        {
+          "time": 70.78,
+          "end": 71.08,
+          "text": "跳",
+          "probability": 0.995
+        },
+        {
+          "time": 71.26,
+          "end": 71.56,
+          "text": "舞",
+          "probability": 0.9978
+        },
+        {
+          "time": 71.74,
+          "end": 72.06,
+          "text": "坎",
+          "probability": 0.1994
+        },
+        {
+          "time": 71.92,
+          "end": 72.26,
+          "text": "坷",
+          "probability": 0.7031
+        },
+        {
+          "time": 72.16,
+          "end": 72.46,
+          "text": "扬",
+          "probability": 0.463
+        },
+        {
+          "time": 72.5,
+          "end": 72.8,
+          "text": "月",
+          "probability": 0.493
+        },
+        {
+          "time": 73.0,
+          "end": 73.3,
+          "text": "起",
+          "probability": 0.1894
+        },
+        {
+          "time": 73.7,
+          "end": 74.0,
+          "text": "再",
+          "probability": 0.1869
+        }
+      ]
+    },
+    {
+      "time": 73.92,
+      "end": 79.46,
+      "text": "拍唱冲唱起唱歌真真荣耀大军王",
+      "words": [
+        {
+          "time": 73.92,
+          "end": 74.22,
+          "text": "拍",
+          "probability": 0.2121
+        },
+        {
+          "time": 74.42,
+          "end": 74.72,
+          "text": "唱",
+          "probability": 0.5775
+        },
+        {
+          "time": 75.22,
+          "end": 75.56,
+          "text": "冲",
+          "probability": 0.1906
+        },
+        {
+          "time": 75.46,
+          "end": 75.76,
+          "text": "唱",
+          "probability": 0.2979
+        },
+        {
+          "time": 75.66,
+          "end": 75.96,
+          "text": "起",
+          "probability": 0.6763
+        },
+        {
+          "time": 76.0,
+          "end": 76.3,
+          "text": "唱",
+          "probability": 0.9962
+        },
+        {
+          "time": 76.88,
+          "end": 77.18,
+          "text": "歌",
+          "probability": 0.9899
+        },
+        {
+          "time": 77.2,
+          "end": 77.5,
+          "text": "真",
+          "probability": 0.5817
+        },
+        {
+          "time": 77.42,
+          "end": 77.72,
+          "text": "真",
+          "probability": 0.5471
+        },
+        {
+          "time": 77.72,
+          "end": 78.14,
+          "text": "荣",
+          "probability": 0.9878
+        },
+        {
+          "time": 78.12,
+          "end": 78.7,
+          "text": "耀",
+          "probability": 0.9992
+        },
+        {
+          "time": 78.74,
+          "end": 79.04,
+          "text": "大",
+          "probability": 0.901
+        },
+        {
+          "time": 78.9,
+          "end": 79.26,
+          "text": "军",
+          "probability": 0.5796
+        },
+        {
+          "time": 79.16,
+          "end": 79.46,
+          "text": "王",
+          "probability": 0.9397
+        }
+      ]
+    },
+    {
+      "time": 79.48,
+      "end": 85.22,
+      "text": "一降临运告主义的神Oh, Hallelujah",
+      "words": [
+        {
+          "time": 79.48,
+          "end": 79.78,
+          "text": "一",
+          "probability": 0.4425
+        },
+        {
+          "time": 79.92,
+          "end": 80.22,
+          "text": "降",
+          "probability": 0.6375
+        },
+        {
+          "time": 80.26,
+          "end": 80.74,
+          "text": "临",
+          "probability": 0.9706
+        },
+        {
+          "time": 80.88,
+          "end": 81.22,
+          "text": "运",
+          "probability": 0.0711
+        },
+        {
+          "time": 81.42,
+          "end": 81.72,
+          "text": "告",
+          "probability": 0.6393
+        },
+        {
+          "time": 81.78,
+          "end": 82.08,
+          "text": "主",
+          "probability": 0.9498
+        },
+        {
+          "time": 82.02,
+          "end": 82.42,
+          "text": "义",
+          "probability": 0.757
+        },
+        {
+          "time": 82.48,
+          "end": 82.78,
+          "text": "的",
+          "probability": 0.9691
+        },
+        {
+          "time": 83.0,
+          "end": 83.3,
+          "text": "神",
+          "probability": 0.9106
+        },
+        {
+          "time": 84.28,
+          "end": 84.58,
+          "text": "Oh",
+          "probability": 0.518
+        },
+        {
+          "time": 84.44,
+          "end": 84.74,
+          "text": ",",
+          "probability": 0.388
+        },
+        {
+          "time": 84.92,
+          "end": 85.22,
+          "text": " Hallelujah",
+          "probability": 0.2413
+        }
+      ]
+    },
+    {
+      "time": 85.56,
+      "end": 91.5,
+      "text": ", Hallelujah,赞美主Hallelujah, hallelujah, hallelujahH",
+      "words": [
+        {
+          "time": 85.56,
+          "end": 85.86,
+          "text": ",",
+          "probability": 0.595
+        },
+        {
+          "time": 85.94,
+          "end": 86.24,
+          "text": " Hallelujah",
+          "probability": 0.9849
+        },
+        {
+          "time": 86.24,
+          "end": 86.54,
+          "text": ",",
+          "probability": 0.8419
+        },
+        {
+          "time": 86.36,
+          "end": 86.76,
+          "text": "赞",
+          "probability": 0.9827
+        },
+        {
+          "time": 86.7,
+          "end": 87.0,
+          "text": "美",
+          "probability": 0.9994
+        },
+        {
+          "time": 87.1,
+          "end": 87.4,
+          "text": "主",
+          "probability": 0.9877
+        },
+        {
+          "time": 88.08,
+          "end": 88.38,
+          "text": "H",
+          "probability": 0.6146
+        },
+        {
+          "time": 88.26,
+          "end": 88.56,
+          "text": "all",
+          "probability": 0.9659
+        },
+        {
+          "time": 88.62,
+          "end": 88.92,
+          "text": "elujah",
+          "probability": 0.9589
+        },
+        {
+          "time": 89.04,
+          "end": 89.34,
+          "text": ",",
+          "probability": 0.592
+        },
+        {
+          "time": 89.24,
+          "end": 89.54,
+          "text": " hall",
+          "probability": 0.4517
+        },
+        {
+          "time": 89.58,
+          "end": 89.88,
+          "text": "elujah",
+          "probability": 0.9995
+        },
+        {
+          "time": 89.74,
+          "end": 90.04,
+          "text": ",",
+          "probability": 0.8558
+        },
+        {
+          "time": 89.94,
+          "end": 90.24,
+          "text": " hall",
+          "probability": 0.1306
+        },
+        {
+          "time": 90.2,
+          "end": 90.5,
+          "text": "elujah",
+          "probability": 0.9993
+        },
+        {
+          "time": 91.2,
+          "end": 91.5,
+          "text": "H",
+          "probability": 0.9863
+        }
+      ]
+    },
+    {
+      "time": 91.7,
+      "end": 97.1,
+      "text": "allelujah, Lord, I sing youHallelujah, you are your Lord",
+      "words": [
+        {
+          "time": 91.7,
+          "end": 92.0,
+          "text": "all",
+          "probability": 0.9992
+        },
+        {
+          "time": 92.1,
+          "end": 92.4,
+          "text": "elujah",
+          "probability": 0.9992
+        },
+        {
+          "time": 92.5,
+          "end": 92.8,
+          "text": ",",
+          "probability": 0.9965
+        },
+        {
+          "time": 92.68,
+          "end": 92.98,
+          "text": " Lord",
+          "probability": 0.0634
+        },
+        {
+          "time": 93.0,
+          "end": 93.3,
+          "text": ",",
+          "probability": 0.786
+        },
+        {
+          "time": 93.12,
+          "end": 93.42,
+          "text": " I",
+          "probability": 0.4687
+        },
+        {
+          "time": 93.34,
+          "end": 93.64,
+          "text": " sing",
+          "probability": 0.133
+        },
+        {
+          "time": 94.1,
+          "end": 94.4,
+          "text": " you",
+          "probability": 0.3318
+        },
+        {
+          "time": 95.02,
+          "end": 95.32,
+          "text": "H",
+          "probability": 0.9962
+        },
+        {
+          "time": 95.18,
+          "end": 95.48,
+          "text": "all",
+          "probability": 0.9997
+        },
+        {
+          "time": 95.54,
+          "end": 95.84,
+          "text": "elujah",
+          "probability": 0.9995
+        },
+        {
+          "time": 95.96,
+          "end": 96.26,
+          "text": ",",
+          "probability": 0.9991
+        },
+        {
+          "time": 96.1,
+          "end": 96.4,
+          "text": " you",
+          "probability": 0.4529
+        },
+        {
+          "time": 96.46,
+          "end": 96.76,
+          "text": " are",
+          "probability": 0.3543
+        },
+        {
+          "time": 96.46,
+          "end": 96.76,
+          "text": " your",
+          "probability": 0.4441
+        },
+        {
+          "time": 96.8,
+          "end": 97.1,
+          "text": " Lord",
+          "probability": 0.0745
+        }
+      ]
+    },
+    {
+      "time": 112.0,
+      "end": 117.7,
+      "text": "我要叹气歌唱, sing song you因为你那作为这奇",
+      "words": [
+        {
+          "time": 112.0,
+          "end": 112.3,
+          "text": "我要",
+          "probability": 0.3598
+        },
+        {
+          "time": 112.4,
+          "end": 112.8,
+          "text": "叹",
+          "probability": 0.5181
+        },
+        {
+          "time": 112.82,
+          "end": 113.12,
+          "text": "气",
+          "probability": 0.2915
+        },
+        {
+          "time": 113.06,
+          "end": 113.36,
+          "text": "歌",
+          "probability": 0.9907
+        },
+        {
+          "time": 113.36,
+          "end": 113.66,
+          "text": "唱",
+          "probability": 0.9948
+        },
+        {
+          "time": 113.58,
+          "end": 113.88,
+          "text": ",",
+          "probability": 0.615
+        },
+        {
+          "time": 113.72,
+          "end": 114.02,
+          "text": " sing",
+          "probability": 0.7152
+        },
+        {
+          "time": 113.96,
+          "end": 114.26,
+          "text": " song",
+          "probability": 0.3006
+        },
+        {
+          "time": 114.26,
+          "end": 114.56,
+          "text": " you",
+          "probability": 0.093
+        },
+        {
+          "time": 115.6,
+          "end": 115.9,
+          "text": "因为",
+          "probability": 0.6249
+        },
+        {
+          "time": 116.0,
+          "end": 116.3,
+          "text": "你",
+          "probability": 0.736
+        },
+        {
+          "time": 116.32,
+          "end": 116.62,
+          "text": "那",
+          "probability": 0.5568
+        },
+        {
+          "time": 116.54,
+          "end": 116.84,
+          "text": "作",
+          "probability": 0.5695
+        },
+        {
+          "time": 116.9,
+          "end": 117.2,
+          "text": "为",
+          "probability": 0.9423
+        },
+        {
+          "time": 117.16,
+          "end": 117.46,
+          "text": "这",
+          "probability": 0.8267
+        },
+        {
+          "time": 117.4,
+          "end": 117.7,
+          "text": "奇",
+          "probability": 0.4867
+        }
+      ]
+    },
+    {
+      "time": 117.78,
+      "end": 123.46,
+      "text": "妙全地让当羊生说说你的荣耀全心",
+      "words": [
+        {
+          "time": 117.78,
+          "end": 118.3,
+          "text": "妙",
+          "probability": 0.9882
+        },
+        {
+          "time": 118.94,
+          "end": 119.24,
+          "text": "全",
+          "probability": 0.8205
+        },
+        {
+          "time": 119.18,
+          "end": 119.48,
+          "text": "地",
+          "probability": 0.5907
+        },
+        {
+          "time": 119.52,
+          "end": 119.82,
+          "text": "让",
+          "probability": 0.3494
+        },
+        {
+          "time": 119.82,
+          "end": 120.12,
+          "text": "当",
+          "probability": 0.4959
+        },
+        {
+          "time": 120.02,
+          "end": 120.34,
+          "text": "羊",
+          "probability": 0.047
+        },
+        {
+          "time": 120.34,
+          "end": 120.64,
+          "text": "生",
+          "probability": 0.4195
+        },
+        {
+          "time": 120.68,
+          "end": 120.98,
+          "text": "说",
+          "probability": 0.8097
+        },
+        {
+          "time": 120.9,
+          "end": 121.2,
+          "text": "说",
+          "probability": 0.9253
+        },
+        {
+          "time": 121.32,
+          "end": 121.62,
+          "text": "你的",
+          "probability": 0.9914
+        },
+        {
+          "time": 121.72,
+          "end": 122.08,
+          "text": "荣",
+          "probability": 0.9614
+        },
+        {
+          "time": 122.0,
+          "end": 122.56,
+          "text": "耀",
+          "probability": 0.9213
+        },
+        {
+          "time": 122.88,
+          "end": 123.18,
+          "text": "全",
+          "probability": 0.9914
+        },
+        {
+          "time": 123.22,
+          "end": 123.52,
+          "text": "心",
+          "probability": 0.8301
+        }
+      ]
+    },
+    {
+      "time": 123.46,
+      "end": 129.56,
+      "text": "来赞美你几鼓跳舞太阁阳略气来",
+      "words": [
+        {
+          "time": 123.46,
+          "end": 123.76,
+          "text": "来",
+          "probability": 0.9981
+        },
+        {
+          "time": 123.7,
+          "end": 124.12,
+          "text": "赞",
+          "probability": 0.9909
+        },
+        {
+          "time": 124.26,
+          "end": 124.56,
+          "text": "美",
+          "probability": 0.9517
+        },
+        {
+          "time": 125.24,
+          "end": 125.54,
+          "text": "你",
+          "probability": 0.99
+        },
+        {
+          "time": 125.86,
+          "end": 126.2,
+          "text": "几",
+          "probability": 0.2869
+        },
+        {
+          "time": 126.04,
+          "end": 126.4,
+          "text": "鼓",
+          "probability": 0.4223
+        },
+        {
+          "time": 126.44,
+          "end": 126.74,
+          "text": "跳",
+          "probability": 0.6611
+        },
+        {
+          "time": 126.98,
+          "end": 127.28,
+          "text": "舞",
+          "probability": 0.9933
+        },
+        {
+          "time": 127.4,
+          "end": 127.7,
+          "text": "太",
+          "probability": 0.4616
+        },
+        {
+          "time": 127.6,
+          "end": 127.92,
+          "text": "阁",
+          "probability": 0.8098
+        },
+        {
+          "time": 127.82,
+          "end": 128.14,
+          "text": "阳",
+          "probability": 0.3998
+        },
+        {
+          "time": 128.1,
+          "end": 128.5,
+          "text": "略",
+          "probability": 0.263
+        },
+        {
+          "time": 128.6,
+          "end": 128.9,
+          "text": "气",
+          "probability": 0.6772
+        },
+        {
+          "time": 129.36,
+          "end": 129.66,
+          "text": "来",
+          "probability": 0.6164
+        }
+      ]
+    },
+    {
+      "time": 129.56,
+      "end": 135.1,
+      "text": "拍唱收藏起唱歌真正荣耀大全王",
+      "words": [
+        {
+          "time": 129.56,
+          "end": 129.86,
+          "text": "拍",
+          "probability": 0.394
+        },
+        {
+          "time": 129.96,
+          "end": 130.26,
+          "text": "唱",
+          "probability": 0.5075
+        },
+        {
+          "time": 130.88,
+          "end": 131.18,
+          "text": "收",
+          "probability": 0.4099
+        },
+        {
+          "time": 131.06,
+          "end": 131.4,
+          "text": "藏",
+          "probability": 0.8582
+        },
+        {
+          "time": 131.3,
+          "end": 131.6,
+          "text": "起",
+          "probability": 0.7705
+        },
+        {
+          "time": 131.66,
+          "end": 131.96,
+          "text": "唱",
+          "probability": 0.9931
+        },
+        {
+          "time": 132.22,
+          "end": 132.52,
+          "text": "歌",
+          "probability": 0.9918
+        },
+        {
+          "time": 132.84,
+          "end": 133.14,
+          "text": "真",
+          "probability": 0.2128
+        },
+        {
+          "time": 133.06,
+          "end": 133.36,
+          "text": "正",
+          "probability": 0.7076
+        },
+        {
+          "time": 133.32,
+          "end": 133.76,
+          "text": "荣",
+          "probability": 0.9984
+        },
+        {
+          "time": 133.74,
+          "end": 134.32,
+          "text": "耀",
+          "probability": 0.9995
+        },
+        {
+          "time": 134.36,
+          "end": 134.66,
+          "text": "大",
+          "probability": 0.9004
+        },
+        {
+          "time": 134.58,
+          "end": 134.88,
+          "text": "全",
+          "probability": 0.2267
+        },
+        {
+          "time": 134.8,
+          "end": 135.1,
+          "text": "王",
+          "probability": 0.3819
+        }
+      ]
+    },
+    {
+      "time": 135.1,
+      "end": 140.82,
+      "text": "一降临全高主义的神Oh, Hallelujah",
+      "words": [
+        {
+          "time": 135.1,
+          "end": 135.4,
+          "text": "一",
+          "probability": 0.5186
+        },
+        {
+          "time": 135.54,
+          "end": 135.84,
+          "text": "降",
+          "probability": 0.3924
+        },
+        {
+          "time": 135.88,
+          "end": 136.36,
+          "text": "临",
+          "probability": 0.9129
+        },
+        {
+          "time": 136.54,
+          "end": 136.84,
+          "text": "全",
+          "probability": 0.3377
+        },
+        {
+          "time": 136.94,
+          "end": 137.24,
+          "text": "高",
+          "probability": 0.8634
+        },
+        {
+          "time": 137.42,
+          "end": 137.72,
+          "text": "主",
+          "probability": 0.958
+        },
+        {
+          "time": 137.66,
+          "end": 138.04,
+          "text": "义",
+          "probability": 0.9771
+        },
+        {
+          "time": 138.12,
+          "end": 138.42,
+          "text": "的",
+          "probability": 0.88
+        },
+        {
+          "time": 138.58,
+          "end": 138.88,
+          "text": "神",
+          "probability": 0.8165
+        },
+        {
+          "time": 139.94,
+          "end": 140.24,
+          "text": "Oh",
+          "probability": 0.5694
+        },
+        {
+          "time": 140.1,
+          "end": 140.4,
+          "text": ",",
+          "probability": 0.3881
+        },
+        {
+          "time": 140.52,
+          "end": 140.82,
+          "text": " Hallelujah",
+          "probability": 0.3422
+        }
+      ]
+    },
+    {
+      "time": 141.22,
+      "end": 142.14,
+      "text": ", Hallelujah, Hallelujah",
+      "words": [
+        {
+          "time": 141.22,
+          "end": 141.52,
+          "text": ",",
+          "probability": 0.4414
+        },
+        {
+          "time": 141.56,
+          "end": 141.86,
+          "text": " Hallelujah",
+          "probability": 0.9749
+        },
+        {
+          "time": 141.84,
+          "end": 142.14,
+          "text": ",",
+          "probability": 0.5813
+        },
+        {
+          "time": 141.84,
+          "end": 142.14,
+          "text": " Hallelujah",
+          "probability": 0.1185
+        }
+      ]
+    },
+    {
+      "time": 171.82,
+      "end": 172.12,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "优",
+          "probability": 0.1197
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "优",
+          "probability": 0.9982
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "独",
+          "probability": 0.993
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "播",
+          "probability": 0.9936
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "剧",
+          "probability": 0.995
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "场",
+          "probability": 0.9963
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "——",
+          "probability": 0.9976
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "Yo",
+          "probability": 0.9875
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "Yo",
+          "probability": 0.9905
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": " Television",
+          "probability": 0.9944
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": " Series",
+          "probability": 0.9884
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": " Exc",
+          "probability": 0.9936
+        },
+        {
+          "time": 171.82,
+          "end": 172.12,
+          "text": "lusive",
+          "probability": 0.9896
+        }
+      ]
+    },
+    {
+      "time": 181.52,
+      "end": 186.96,
+      "text": "祝福跳舞看歌羊烈起来拍唱冲唱",
+      "words": [
+        {
+          "time": 181.52,
+          "end": 181.88,
+          "text": "祝",
+          "probability": 0.1538
+        },
+        {
+          "time": 181.74,
+          "end": 182.04,
+          "text": "福",
+          "probability": 0.7444
+        },
+        {
+          "time": 182.06,
+          "end": 182.36,
+          "text": "跳",
+          "probability": 0.3736
+        },
+        {
+          "time": 182.62,
+          "end": 182.92,
+          "text": "舞",
+          "probability": 0.9948
+        },
+        {
+          "time": 183.08,
+          "end": 183.38,
+          "text": "看",
+          "probability": 0.4378
+        },
+        {
+          "time": 183.28,
+          "end": 183.58,
+          "text": "歌",
+          "probability": 0.2656
+        },
+        {
+          "time": 183.48,
+          "end": 183.8,
+          "text": "羊",
+          "probability": 0.2525
+        },
+        {
+          "time": 183.74,
+          "end": 184.14,
+          "text": "烈",
+          "probability": 0.1887
+        },
+        {
+          "time": 184.22,
+          "end": 184.52,
+          "text": "起",
+          "probability": 0.7071
+        },
+        {
+          "time": 185.0,
+          "end": 185.3,
+          "text": "来",
+          "probability": 0.9886
+        },
+        {
+          "time": 185.2,
+          "end": 185.5,
+          "text": "拍",
+          "probability": 0.6402
+        },
+        {
+          "time": 185.64,
+          "end": 185.94,
+          "text": "唱",
+          "probability": 0.8591
+        },
+        {
+          "time": 186.5,
+          "end": 186.86,
+          "text": "冲",
+          "probability": 0.3751
+        },
+        {
+          "time": 186.74,
+          "end": 187.04,
+          "text": "唱",
+          "probability": 0.3527
+        }
+      ]
+    },
+    {
+      "time": 186.96,
+      "end": 192.5,
+      "text": "起唱歌见诚荣耀 大全王一将命宣",
+      "words": [
+        {
+          "time": 186.96,
+          "end": 187.26,
+          "text": "起",
+          "probability": 0.6482
+        },
+        {
+          "time": 187.3,
+          "end": 187.6,
+          "text": "唱",
+          "probability": 0.993
+        },
+        {
+          "time": 187.78,
+          "end": 188.08,
+          "text": "歌",
+          "probability": 0.7738
+        },
+        {
+          "time": 188.48,
+          "end": 188.78,
+          "text": "见",
+          "probability": 0.3094
+        },
+        {
+          "time": 188.64,
+          "end": 189.0,
+          "text": "诚",
+          "probability": 0.7557
+        },
+        {
+          "time": 188.96,
+          "end": 189.4,
+          "text": "荣",
+          "probability": 0.8199
+        },
+        {
+          "time": 189.38,
+          "end": 189.86,
+          "text": "耀",
+          "probability": 0.976
+        },
+        {
+          "time": 190.02,
+          "end": 190.32,
+          "text": " 大",
+          "probability": 0.5007
+        },
+        {
+          "time": 190.22,
+          "end": 190.52,
+          "text": "全",
+          "probability": 0.4969
+        },
+        {
+          "time": 190.46,
+          "end": 190.76,
+          "text": "王",
+          "probability": 0.6354
+        },
+        {
+          "time": 190.78,
+          "end": 191.08,
+          "text": "一",
+          "probability": 0.5656
+        },
+        {
+          "time": 191.22,
+          "end": 191.52,
+          "text": "将",
+          "probability": 0.4833
+        },
+        {
+          "time": 191.68,
+          "end": 191.98,
+          "text": "命",
+          "probability": 0.1474
+        },
+        {
+          "time": 192.16,
+          "end": 192.5,
+          "text": "宣",
+          "probability": 0.5562
+        }
+      ]
+    },
+    {
+      "time": 192.64,
+      "end": 198.26,
+      "text": "告主义歌声Oh,哈利路亚哈利路赞美",
+      "words": [
+        {
+          "time": 192.64,
+          "end": 192.94,
+          "text": "告",
+          "probability": 0.9951
+        },
+        {
+          "time": 193.08,
+          "end": 193.38,
+          "text": "主",
+          "probability": 0.8631
+        },
+        {
+          "time": 193.34,
+          "end": 193.7,
+          "text": "义",
+          "probability": 0.639
+        },
+        {
+          "time": 193.76,
+          "end": 194.06,
+          "text": "歌",
+          "probability": 0.4835
+        },
+        {
+          "time": 194.28,
+          "end": 194.58,
+          "text": "声",
+          "probability": 0.8456
+        },
+        {
+          "time": 195.56,
+          "end": 195.86,
+          "text": "Oh",
+          "probability": 0.2671
+        },
+        {
+          "time": 195.76,
+          "end": 196.06,
+          "text": ",",
+          "probability": 0.2456
+        },
+        {
+          "time": 195.94,
+          "end": 196.24,
+          "text": "哈",
+          "probability": 0.1846
+        },
+        {
+          "time": 196.1,
+          "end": 196.4,
+          "text": "利",
+          "probability": 0.7159
+        },
+        {
+          "time": 196.34,
+          "end": 196.64,
+          "text": "路",
+          "probability": 0.5576
+        },
+        {
+          "time": 196.52,
+          "end": 196.94,
+          "text": "亚",
+          "probability": 0.8272
+        },
+        {
+          "time": 197.02,
+          "end": 197.32,
+          "text": "哈",
+          "probability": 0.9961
+        },
+        {
+          "time": 197.18,
+          "end": 197.48,
+          "text": "利",
+          "probability": 0.9988
+        },
+        {
+          "time": 197.38,
+          "end": 197.68,
+          "text": "路",
+          "probability": 0.9997
+        },
+        {
+          "time": 197.6,
+          "end": 197.98,
+          "text": "赞",
+          "probability": 0.7377
+        },
+        {
+          "time": 197.96,
+          "end": 198.26,
+          "text": "美",
+          "probability": 0.9166
+        }
+      ]
+    },
+    {
+      "time": 198.32,
+      "end": 203.78,
+      "text": "主Hallelujah, hallelujah, zanayahuHallelujah",
+      "words": [
+        {
+          "time": 198.32,
+          "end": 198.62,
+          "text": "主",
+          "probability": 0.9742
+        },
+        {
+          "time": 199.32,
+          "end": 199.62,
+          "text": "H",
+          "probability": 0.3458
+        },
+        {
+          "time": 199.5,
+          "end": 199.8,
+          "text": "all",
+          "probability": 0.8924
+        },
+        {
+          "time": 199.82,
+          "end": 200.12,
+          "text": "elujah",
+          "probability": 0.9508
+        },
+        {
+          "time": 200.28,
+          "end": 200.58,
+          "text": ",",
+          "probability": 0.3705
+        },
+        {
+          "time": 200.52,
+          "end": 200.82,
+          "text": " hall",
+          "probability": 0.6543
+        },
+        {
+          "time": 200.82,
+          "end": 201.12,
+          "text": "elujah",
+          "probability": 0.999
+        },
+        {
+          "time": 200.9,
+          "end": 201.2,
+          "text": ",",
+          "probability": 0.794
+        },
+        {
+          "time": 201.06,
+          "end": 201.36,
+          "text": " z",
+          "probability": 0.1107
+        },
+        {
+          "time": 201.2,
+          "end": 201.5,
+          "text": "an",
+          "probability": 0.778
+        },
+        {
+          "time": 201.4,
+          "end": 201.7,
+          "text": "ay",
+          "probability": 0.1267
+        },
+        {
+          "time": 201.82,
+          "end": 202.12,
+          "text": "ahu",
+          "probability": 0.1029
+        },
+        {
+          "time": 202.82,
+          "end": 203.12,
+          "text": "H",
+          "probability": 0.991
+        },
+        {
+          "time": 203.0,
+          "end": 203.3,
+          "text": "all",
+          "probability": 0.9985
+        },
+        {
+          "time": 203.54,
+          "end": 203.84,
+          "text": "elujah",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 203.78,
+      "end": 209.06,
+      "text": ", choo wa chan songiHallelujah, ni ni tashan",
+      "words": [
+        {
+          "time": 203.78,
+          "end": 204.08,
+          "text": ",",
+          "probability": 0.9975
+        },
+        {
+          "time": 203.94,
+          "end": 204.24,
+          "text": " cho",
+          "probability": 0.1278
+        },
+        {
+          "time": 204.22,
+          "end": 204.52,
+          "text": "o",
+          "probability": 0.5323
+        },
+        {
+          "time": 204.38,
+          "end": 204.68,
+          "text": " wa",
+          "probability": 0.3489
+        },
+        {
+          "time": 204.54,
+          "end": 204.84,
+          "text": " ch",
+          "probability": 0.8339
+        },
+        {
+          "time": 204.66,
+          "end": 204.96,
+          "text": "an",
+          "probability": 0.8438
+        },
+        {
+          "time": 204.98,
+          "end": 205.28,
+          "text": " song",
+          "probability": 0.2636
+        },
+        {
+          "time": 205.46,
+          "end": 205.76,
+          "text": "i",
+          "probability": 0.5832
+        },
+        {
+          "time": 206.32,
+          "end": 206.62,
+          "text": "H",
+          "probability": 0.998
+        },
+        {
+          "time": 206.46,
+          "end": 206.76,
+          "text": "all",
+          "probability": 0.9993
+        },
+        {
+          "time": 206.84,
+          "end": 207.14,
+          "text": "elujah",
+          "probability": 0.9989
+        },
+        {
+          "time": 207.3,
+          "end": 207.6,
+          "text": ",",
+          "probability": 0.9757
+        },
+        {
+          "time": 207.38,
+          "end": 207.68,
+          "text": " ni",
+          "probability": 0.2488
+        },
+        {
+          "time": 207.58,
+          "end": 207.88,
+          "text": " ni",
+          "probability": 0.9186
+        },
+        {
+          "time": 207.74,
+          "end": 208.04,
+          "text": " t",
+          "probability": 0.2091
+        },
+        {
+          "time": 208.0,
+          "end": 208.3,
+          "text": "ash",
+          "probability": 0.2965
+        },
+        {
+          "time": 208.76,
+          "end": 209.06,
+          "text": "an",
+          "probability": 0.4115
+        }
+      ]
+    },
+    {
+      "time": 257.86,
+      "end": 258.64,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 257.86,
+          "end": 258.28,
+          "text": "优",
+          "probability": 0.1453
+        },
+        {
+          "time": 258.24,
+          "end": 258.54,
+          "text": "优",
+          "probability": 0.9989
+        },
+        {
+          "time": 258.24,
+          "end": 258.54,
+          "text": "独",
+          "probability": 0.9958
+        },
+        {
+          "time": 258.26,
+          "end": 258.56,
+          "text": "播",
+          "probability": 0.9924
+        },
+        {
+          "time": 258.26,
+          "end": 258.56,
+          "text": "剧",
+          "probability": 0.995
+        },
+        {
+          "time": 258.26,
+          "end": 258.56,
+          "text": "场",
+          "probability": 0.9973
+        },
+        {
+          "time": 258.26,
+          "end": 258.56,
+          "text": "——",
+          "probability": 0.9964
+        },
+        {
+          "time": 258.26,
+          "end": 258.56,
+          "text": "Yo",
+          "probability": 0.9873
+        },
+        {
+          "time": 258.26,
+          "end": 258.56,
+          "text": "Yo",
+          "probability": 0.9927
+        },
+        {
+          "time": 258.28,
+          "end": 258.58,
+          "text": " Television",
+          "probability": 0.9947
+        },
+        {
+          "time": 258.3,
+          "end": 258.6,
+          "text": " Series",
+          "probability": 0.9953
+        },
+        {
+          "time": 258.32,
+          "end": 258.62,
+          "text": " Exc",
+          "probability": 0.994
+        },
+        {
+          "time": 258.34,
+          "end": 258.64,
+          "text": "lusive",
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "time": 285.72,
+      "end": 286.72,
+      "text": "优",
+      "words": [
+        {
+          "time": 285.72,
+          "end": 286.72,
+          "text": "优",
+          "probability": 0.1935
+        }
+      ]
+    },
+    {
+      "time": 288.32,
+      "end": 293.42,
+      "text": "优独播剧场——YoYo Television Series Exclusive主要祝我唱颂你Hallelujah你一首",
+      "words": [
+        {
+          "time": 288.32,
+          "end": 288.64,
+          "text": "优",
+          "probability": 0.9984
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "独",
+          "probability": 0.9945
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "播",
+          "probability": 0.9886
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "剧",
+          "probability": 0.9938
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "场",
+          "probability": 0.9972
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "——",
+          "probability": 0.9958
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "Yo",
+          "probability": 0.9819
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "Yo",
+          "probability": 0.9902
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": " Television",
+          "probability": 0.9913
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": " Series",
+          "probability": 0.994
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": " Exc",
+          "probability": 0.9924
+        },
+        {
+          "time": 288.34,
+          "end": 288.64,
+          "text": "lusive",
+          "probability": 0.993
+        },
+        {
+          "time": 288.38,
+          "end": 288.68,
+          "text": "主",
+          "probability": 0.1654
+        },
+        {
+          "time": 288.8,
+          "end": 289.1,
+          "text": "要",
+          "probability": 0.5238
+        },
+        {
+          "time": 289.12,
+          "end": 289.58,
+          "text": "祝",
+          "probability": 0.3163
+        },
+        {
+          "time": 289.52,
+          "end": 289.82,
+          "text": "我",
+          "probability": 0.4632
+        },
+        {
+          "time": 289.86,
+          "end": 290.16,
+          "text": "唱",
+          "probability": 0.6493
+        },
+        {
+          "time": 290.14,
+          "end": 290.52,
+          "text": "颂",
+          "probability": 0.2601
+        },
+        {
+          "time": 290.92,
+          "end": 291.22,
+          "text": "你",
+          "probability": 0.3171
+        },
+        {
+          "time": 291.62,
+          "end": 291.92,
+          "text": "H",
+          "probability": 0.2437
+        },
+        {
+          "time": 291.7,
+          "end": 292.0,
+          "text": "all",
+          "probability": 0.9493
+        },
+        {
+          "time": 292.06,
+          "end": 292.36,
+          "text": "elujah",
+          "probability": 0.9797
+        },
+        {
+          "time": 292.66,
+          "end": 292.96,
+          "text": "你",
+          "probability": 0.2565
+        },
+        {
+          "time": 292.8,
+          "end": 293.1,
+          "text": "一",
+          "probability": 0.1126
+        },
+        {
+          "time": 293.12,
+          "end": 293.42,
+          "text": "首",
+          "probability": 0.0577
+        }
+      ]
+    },
+    {
+      "time": 295.06,
+      "end": 300.58,
+      "text": "Hallelujah你一首Hallelujah你一",
+      "words": [
+        {
+          "time": 295.06,
+          "end": 295.36,
+          "text": "H",
+          "probability": 0.992
+        },
+        {
+          "time": 295.2,
+          "end": 295.5,
+          "text": "all",
+          "probability": 0.9996
+        },
+        {
+          "time": 295.48,
+          "end": 295.78,
+          "text": "elujah",
+          "probability": 0.9993
+        },
+        {
+          "time": 296.1,
+          "end": 296.4,
+          "text": "你",
+          "probability": 0.9857
+        },
+        {
+          "time": 296.28,
+          "end": 296.58,
+          "text": "一",
+          "probability": 0.9989
+        },
+        {
+          "time": 296.62,
+          "end": 296.92,
+          "text": "首",
+          "probability": 0.998
+        },
+        {
+          "time": 297.74,
+          "end": 298.04,
+          "text": "H",
+          "probability": 0.996
+        },
+        {
+          "time": 298.72,
+          "end": 299.02,
+          "text": "all",
+          "probability": 0.9996
+        },
+        {
+          "time": 299.12,
+          "end": 299.42,
+          "text": "elujah",
+          "probability": 0.9991
+        },
+        {
+          "time": 299.96,
+          "end": 300.26,
+          "text": "你",
+          "probability": 0.9837
+        },
+        {
+          "time": 300.28,
+          "end": 300.58,
+          "text": "一",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 300.86,
+      "end": 301.16,
+      "text": "首",
+      "words": [
+        {
+          "time": 300.86,
+          "end": 301.16,
+          "text": "首",
+          "probability": 0.9976
+        }
+      ]
+    }
+  ]
+}

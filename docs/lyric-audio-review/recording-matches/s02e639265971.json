@@ -1,0 +1,256 @@
+{
+  "id": "s02e639265971",
+  "file": "010唱哈利路亚.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "24865",
+      "offset": -96.1285,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.218289,
+      "windows": [
+        {
+          "localStart": 100.824,
+          "sourceStart": 5.76,
+          "offset": -95.0645,
+          "coefficient": 0.05229
+        },
+        {
+          "localStart": 118.617,
+          "sourceStart": 22.455,
+          "offset": -96.1615,
+          "coefficient": 0.057113
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "39081",
+      "offset": 12.238,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 11.861,
+          "sourceStart": 22.977,
+          "offset": 11.1155,
+          "coefficient": 0.063841
+        },
+        {
+          "localStart": 29.654,
+          "sourceStart": 42.559,
+          "offset": 12.9045,
+          "coefficient": 0.04525
+        },
+        {
+          "localStart": 47.447,
+          "sourceStart": 59.147,
+          "offset": 11.7,
+          "coefficient": 0.050357
+        },
+        {
+          "localStart": 65.239,
+          "sourceStart": 77.987,
+          "offset": 12.7485,
+          "coefficient": 0.050704
+        },
+        {
+          "localStart": 83.031,
+          "sourceStart": 93.834,
+          "offset": 10.802,
+          "coefficient": 0.063163
+        },
+        {
+          "localStart": 100.824,
+          "sourceStart": 112.766,
+          "offset": 11.942,
+          "coefficient": 0.047799
+        },
+        {
+          "localStart": 118.617,
+          "sourceStart": 130.94,
+          "offset": 12.323,
+          "coefficient": 0.047899
+        },
+        {
+          "localStart": 133.444,
+          "sourceStart": 147.36,
+          "offset": 13.9165,
+          "coefficient": 0.051365
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "39424",
+      "offset": 128.9555,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 11.861,
+          "sourceStart": 140.49,
+          "offset": 128.629,
+          "coefficient": 0.121892
+        },
+        {
+          "localStart": 29.654,
+          "sourceStart": 157.743,
+          "offset": 128.089,
+          "coefficient": 0.045809
+        },
+        {
+          "localStart": 47.447,
+          "sourceStart": 177.44,
+          "offset": 129.993,
+          "coefficient": 0.087969
+        },
+        {
+          "localStart": 65.239,
+          "sourceStart": 193.701,
+          "offset": 128.462,
+          "coefficient": 0.096344
+        },
+        {
+          "localStart": 83.031,
+          "sourceStart": 212.41,
+          "offset": 129.378,
+          "coefficient": 0.087699
+        },
+        {
+          "localStart": 100.824,
+          "sourceStart": 227.803,
+          "offset": 126.9785,
+          "coefficient": 0.148909
+        },
+        {
+          "localStart": 118.617,
+          "sourceStart": 249.195,
+          "offset": 130.5785,
+          "coefficient": 0.091895
+        },
+        {
+          "localStart": 133.444,
+          "sourceStart": 261.539,
+          "offset": 128.0955,
+          "coefficient": 0.074572
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "40486",
+      "offset": 35.7315,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 11.861,
+          "sourceStart": 48.646,
+          "offset": 36.7845,
+          "coefficient": 0.059015
+        },
+        {
+          "localStart": 29.654,
+          "sourceStart": 66.749,
+          "offset": 37.095,
+          "coefficient": 0.069643
+        },
+        {
+          "localStart": 47.447,
+          "sourceStart": 83.374,
+          "offset": 35.928,
+          "coefficient": 0.067227
+        },
+        {
+          "localStart": 65.239,
+          "sourceStart": 101.915,
+          "offset": 36.6755,
+          "coefficient": 0.071417
+        },
+        {
+          "localStart": 83.031,
+          "sourceStart": 117.794,
+          "offset": 34.7625,
+          "coefficient": 0.057119
+        },
+        {
+          "localStart": 100.824,
+          "sourceStart": 137.383,
+          "offset": 36.559,
+          "coefficient": 0.071784
+        },
+        {
+          "localStart": 118.617,
+          "sourceStart": 153.212,
+          "offset": 34.595,
+          "coefficient": 0.056472
+        },
+        {
+          "localStart": 133.444,
+          "sourceStart": 169.976,
+          "offset": 36.532,
+          "coefficient": 0.071617
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "20098",
+      "offset": -24.078,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.837608,
+      "windows": [
+        {
+          "localStart": 29.654,
+          "sourceStart": 3.733,
+          "offset": -25.921,
+          "coefficient": 0.033541
+        },
+        {
+          "localStart": 47.447,
+          "sourceStart": 21.892,
+          "offset": -25.5545,
+          "coefficient": 0.049834
+        },
+        {
+          "localStart": 65.239,
+          "sourceStart": 39.636,
+          "offset": -25.6035,
+          "coefficient": 0.035536
+        },
+        {
+          "localStart": 83.031,
+          "sourceStart": 57.246,
+          "offset": -25.7855,
+          "coefficient": 0.030683
+        },
+        {
+          "localStart": 100.824,
+          "sourceStart": 76.275,
+          "offset": -24.5485,
+          "coefficient": 0.02774
+        },
+        {
+          "localStart": 118.617,
+          "sourceStart": 93.195,
+          "offset": -25.4215,
+          "coefficient": 0.034709
+        },
+        {
+          "localStart": 133.444,
+          "sourceStart": 108.105,
+          "offset": -25.3385,
+          "coefficient": 0.047891
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

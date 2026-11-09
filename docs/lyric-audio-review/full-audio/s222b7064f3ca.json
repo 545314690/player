@@ -1,0 +1,1379 @@
+{
+  "id": "s222b7064f3ca",
+  "file": "161.向我主唱哈利路亚.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "745c184ee51a8ddaaec96661f04ded9bb6148680ef7139a4fdc15b962e32b7f8",
+  "fullDuration": 143.020408,
+  "lines": [
+    {
+      "time": 7.68,
+      "end": 24.86,
+      "text": "祝耶稣佩德大赞",
+      "words": [
+        {
+          "time": 7.68,
+          "end": 23.24,
+          "text": "祝",
+          "probability": 0.3773
+        },
+        {
+          "time": 23.22,
+          "end": 23.52,
+          "text": "耶",
+          "probability": 0.8287
+        },
+        {
+          "time": 23.42,
+          "end": 23.8,
+          "text": "稣",
+          "probability": 0.9573
+        },
+        {
+          "time": 23.74,
+          "end": 24.04,
+          "text": "佩",
+          "probability": 0.2872
+        },
+        {
+          "time": 24.0,
+          "end": 24.3,
+          "text": "德",
+          "probability": 0.6597
+        },
+        {
+          "time": 24.26,
+          "end": 24.56,
+          "text": "大",
+          "probability": 0.8205
+        },
+        {
+          "time": 24.46,
+          "end": 24.86,
+          "text": "赞",
+          "probability": 0.9777
+        }
+      ]
+    },
+    {
+      "time": 24.98,
+      "end": 25.28,
+      "text": "美",
+      "words": [
+        {
+          "time": 24.98,
+          "end": 25.28,
+          "text": "美",
+          "probability": 0.9736
+        }
+      ]
+    },
+    {
+      "time": 31.28,
+      "end": 36.34,
+      "text": "祝耶稣佩德的赞美",
+      "words": [
+        {
+          "time": 31.28,
+          "end": 33.86,
+          "text": "祝",
+          "probability": 0.5207
+        },
+        {
+          "time": 33.94,
+          "end": 34.24,
+          "text": "耶",
+          "probability": 0.9226
+        },
+        {
+          "time": 34.12,
+          "end": 34.5,
+          "text": "稣",
+          "probability": 0.8998
+        },
+        {
+          "time": 34.42,
+          "end": 34.74,
+          "text": "佩",
+          "probability": 0.4117
+        },
+        {
+          "time": 34.72,
+          "end": 35.02,
+          "text": "德",
+          "probability": 0.3655
+        },
+        {
+          "time": 34.98,
+          "end": 35.28,
+          "text": "的",
+          "probability": 0.6202
+        },
+        {
+          "time": 35.18,
+          "end": 35.58,
+          "text": "赞",
+          "probability": 0.9878
+        },
+        {
+          "time": 36.04,
+          "end": 36.34,
+          "text": "美",
+          "probability": 0.9929
+        }
+      ]
+    },
+    {
+      "time": 37.76,
+      "end": 43.78,
+      "text": "向我祝查哈利路亚",
+      "words": [
+        {
+          "time": 37.76,
+          "end": 38.06,
+          "text": "向",
+          "probability": 0.6934
+        },
+        {
+          "time": 38.24,
+          "end": 38.54,
+          "text": "我",
+          "probability": 0.9976
+        },
+        {
+          "time": 38.44,
+          "end": 38.8,
+          "text": "祝",
+          "probability": 0.6955
+        },
+        {
+          "time": 38.76,
+          "end": 39.06,
+          "text": "查",
+          "probability": 0.1776
+        },
+        {
+          "time": 39.04,
+          "end": 39.34,
+          "text": "哈",
+          "probability": 0.8893
+        },
+        {
+          "time": 39.28,
+          "end": 39.58,
+          "text": "利",
+          "probability": 0.8904
+        },
+        {
+          "time": 39.56,
+          "end": 39.86,
+          "text": "路",
+          "probability": 0.9884
+        },
+        {
+          "time": 39.8,
+          "end": 43.78,
+          "text": "亚",
+          "probability": 0.7907
+        }
+      ]
+    },
+    {
+      "time": 52.76,
+      "end": 58.92,
+      "text": "主耶稣美德大赞美主耶稣美德大赞美",
+      "words": [
+        {
+          "time": 52.76,
+          "end": 53.06,
+          "text": "主",
+          "probability": 0.4738
+        },
+        {
+          "time": 53.22,
+          "end": 53.52,
+          "text": "耶",
+          "probability": 0.9908
+        },
+        {
+          "time": 53.4,
+          "end": 53.78,
+          "text": "稣",
+          "probability": 0.8753
+        },
+        {
+          "time": 53.74,
+          "end": 54.04,
+          "text": "美",
+          "probability": 0.2588
+        },
+        {
+          "time": 54.0,
+          "end": 54.3,
+          "text": "德",
+          "probability": 0.4749
+        },
+        {
+          "time": 54.28,
+          "end": 54.58,
+          "text": "大",
+          "probability": 0.5591
+        },
+        {
+          "time": 54.48,
+          "end": 54.86,
+          "text": "赞",
+          "probability": 0.9209
+        },
+        {
+          "time": 55.04,
+          "end": 55.34,
+          "text": "美",
+          "probability": 0.9961
+        },
+        {
+          "time": 55.94,
+          "end": 56.24,
+          "text": "主",
+          "probability": 0.9787
+        },
+        {
+          "time": 56.42,
+          "end": 56.72,
+          "text": "耶",
+          "probability": 0.9996
+        },
+        {
+          "time": 56.64,
+          "end": 56.98,
+          "text": "稣",
+          "probability": 0.9993
+        },
+        {
+          "time": 56.96,
+          "end": 57.26,
+          "text": "美",
+          "probability": 0.9951
+        },
+        {
+          "time": 57.22,
+          "end": 57.52,
+          "text": "德",
+          "probability": 0.9989
+        },
+        {
+          "time": 57.52,
+          "end": 57.82,
+          "text": "大",
+          "probability": 0.9936
+        },
+        {
+          "time": 57.68,
+          "end": 58.06,
+          "text": "赞",
+          "probability": 0.9996
+        },
+        {
+          "time": 58.62,
+          "end": 58.92,
+          "text": "美",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 59.26,
+      "end": 64.96,
+      "text": "大赞美大赞美大赞美主耶稣美德",
+      "words": [
+        {
+          "time": 59.26,
+          "end": 59.56,
+          "text": "大",
+          "probability": 0.9396
+        },
+        {
+          "time": 59.62,
+          "end": 59.98,
+          "text": "赞",
+          "probability": 0.8887
+        },
+        {
+          "time": 60.78,
+          "end": 61.08,
+          "text": "美",
+          "probability": 0.5876
+        },
+        {
+          "time": 61.3,
+          "end": 61.6,
+          "text": "大",
+          "probability": 0.5556
+        },
+        {
+          "time": 61.3,
+          "end": 61.68,
+          "text": "赞",
+          "probability": 0.9964
+        },
+        {
+          "time": 61.38,
+          "end": 61.68,
+          "text": "美",
+          "probability": 0.9992
+        },
+        {
+          "time": 61.38,
+          "end": 61.68,
+          "text": "大",
+          "probability": 0.9658
+        },
+        {
+          "time": 61.74,
+          "end": 62.08,
+          "text": "赞",
+          "probability": 0.9986
+        },
+        {
+          "time": 62.78,
+          "end": 63.08,
+          "text": "美",
+          "probability": 0.9929
+        },
+        {
+          "time": 63.44,
+          "end": 63.74,
+          "text": "主",
+          "probability": 0.9997
+        },
+        {
+          "time": 63.92,
+          "end": 64.22,
+          "text": "耶",
+          "probability": 0.9999
+        },
+        {
+          "time": 64.12,
+          "end": 64.46,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 64.44,
+          "end": 64.74,
+          "text": "美",
+          "probability": 1.0
+        },
+        {
+          "time": 64.7,
+          "end": 65.0,
+          "text": "德",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 64.96,
+      "end": 65.54,
+      "text": "大赞",
+      "words": [
+        {
+          "time": 64.96,
+          "end": 65.26,
+          "text": "大",
+          "probability": 0.9999
+        },
+        {
+          "time": 65.2,
+          "end": 65.54,
+          "text": "赞",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 73.06,
+      "end": 78.74,
+      "text": "美向我祝查阿里路亚向我祝查",
+      "words": [
+        {
+          "time": 73.06,
+          "end": 73.36,
+          "text": "美",
+          "probability": 1.0
+        },
+        {
+          "time": 74.16,
+          "end": 74.46,
+          "text": "向",
+          "probability": 0.4229
+        },
+        {
+          "time": 74.66,
+          "end": 74.96,
+          "text": "我",
+          "probability": 0.9936
+        },
+        {
+          "time": 74.84,
+          "end": 75.2,
+          "text": "祝",
+          "probability": 0.2816
+        },
+        {
+          "time": 75.22,
+          "end": 75.52,
+          "text": "查",
+          "probability": 0.1894
+        },
+        {
+          "time": 75.56,
+          "end": 75.86,
+          "text": "阿",
+          "probability": 0.7548
+        },
+        {
+          "time": 75.68,
+          "end": 75.98,
+          "text": "里",
+          "probability": 0.8099
+        },
+        {
+          "time": 75.96,
+          "end": 76.26,
+          "text": "路",
+          "probability": 0.9798
+        },
+        {
+          "time": 76.26,
+          "end": 76.8,
+          "text": "亚",
+          "probability": 0.7058
+        },
+        {
+          "time": 77.34,
+          "end": 77.64,
+          "text": "向",
+          "probability": 0.9912
+        },
+        {
+          "time": 77.88,
+          "end": 78.18,
+          "text": "我",
+          "probability": 0.9996
+        },
+        {
+          "time": 78.08,
+          "end": 78.42,
+          "text": "祝",
+          "probability": 0.9985
+        },
+        {
+          "time": 78.44,
+          "end": 78.74,
+          "text": "查",
+          "probability": 0.9863
+        }
+      ]
+    },
+    {
+      "time": 78.8,
+      "end": 84.56,
+      "text": "阿里路亚祝阿里路呀祝阿里路呀",
+      "words": [
+        {
+          "time": 78.8,
+          "end": 79.1,
+          "text": "阿",
+          "probability": 0.9993
+        },
+        {
+          "time": 78.9,
+          "end": 79.2,
+          "text": "里",
+          "probability": 0.9997
+        },
+        {
+          "time": 79.18,
+          "end": 79.48,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 79.42,
+          "end": 79.88,
+          "text": "亚",
+          "probability": 0.9734
+        },
+        {
+          "time": 80.56,
+          "end": 81.0,
+          "text": "祝",
+          "probability": 0.2273
+        },
+        {
+          "time": 81.02,
+          "end": 81.32,
+          "text": "阿",
+          "probability": 0.7154
+        },
+        {
+          "time": 81.32,
+          "end": 81.62,
+          "text": "里",
+          "probability": 0.7827
+        },
+        {
+          "time": 81.66,
+          "end": 81.96,
+          "text": "路",
+          "probability": 0.9369
+        },
+        {
+          "time": 82.18,
+          "end": 82.48,
+          "text": "呀",
+          "probability": 0.5492
+        },
+        {
+          "time": 82.7,
+          "end": 83.22,
+          "text": "祝",
+          "probability": 0.9557
+        },
+        {
+          "time": 83.24,
+          "end": 83.54,
+          "text": "阿",
+          "probability": 0.9981
+        },
+        {
+          "time": 83.52,
+          "end": 83.82,
+          "text": "里",
+          "probability": 0.9992
+        },
+        {
+          "time": 83.8,
+          "end": 84.1,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "呀",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 84.9,
+      "end": 87.76,
+      "text": "向我祝祝阿里路呀",
+      "words": [
+        {
+          "time": 84.9,
+          "end": 85.2,
+          "text": "向",
+          "probability": 0.6905
+        },
+        {
+          "time": 85.36,
+          "end": 85.66,
+          "text": "我",
+          "probability": 0.9828
+        },
+        {
+          "time": 85.54,
+          "end": 85.92,
+          "text": "祝",
+          "probability": 0.749
+        },
+        {
+          "time": 85.84,
+          "end": 86.22,
+          "text": "祝",
+          "probability": 0.2833
+        },
+        {
+          "time": 86.14,
+          "end": 86.44,
+          "text": "阿",
+          "probability": 0.9963
+        },
+        {
+          "time": 86.4,
+          "end": 86.7,
+          "text": "里",
+          "probability": 0.9995
+        },
+        {
+          "time": 86.66,
+          "end": 86.96,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 87.46,
+          "end": 87.76,
+          "text": "呀",
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "time": 89.1,
+      "end": 95.1,
+      "text": "祝耶稣佩德大赞美祝耶稣佩德大赞美",
+      "words": [
+        {
+          "time": 89.1,
+          "end": 89.64,
+          "text": "祝",
+          "probability": 0.5376
+        },
+        {
+          "time": 89.64,
+          "end": 89.94,
+          "text": "耶",
+          "probability": 0.9452
+        },
+        {
+          "time": 89.84,
+          "end": 90.22,
+          "text": "稣",
+          "probability": 0.6038
+        },
+        {
+          "time": 90.18,
+          "end": 90.48,
+          "text": "佩",
+          "probability": 0.2348
+        },
+        {
+          "time": 90.4,
+          "end": 90.7,
+          "text": "德",
+          "probability": 0.782
+        },
+        {
+          "time": 90.7,
+          "end": 91.0,
+          "text": "大",
+          "probability": 0.6099
+        },
+        {
+          "time": 90.9,
+          "end": 91.28,
+          "text": "赞",
+          "probability": 0.9975
+        },
+        {
+          "time": 91.42,
+          "end": 91.72,
+          "text": "美",
+          "probability": 0.9903
+        },
+        {
+          "time": 92.26,
+          "end": 92.88,
+          "text": "祝",
+          "probability": 0.9896
+        },
+        {
+          "time": 92.92,
+          "end": 93.22,
+          "text": "耶",
+          "probability": 0.9994
+        },
+        {
+          "time": 93.08,
+          "end": 93.42,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 93.4,
+          "end": 93.7,
+          "text": "佩",
+          "probability": 0.9999
+        },
+        {
+          "time": 93.64,
+          "end": 93.94,
+          "text": "德",
+          "probability": 0.9993
+        },
+        {
+          "time": 93.92,
+          "end": 94.22,
+          "text": "大",
+          "probability": 0.9978
+        },
+        {
+          "time": 94.1,
+          "end": 94.48,
+          "text": "赞",
+          "probability": 0.9999
+        },
+        {
+          "time": 94.8,
+          "end": 95.1,
+          "text": "美",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 95.7,
+      "end": 101.34,
+      "text": "阿里德赞美阿里德赞美祝耶稣佩德",
+      "words": [
+        {
+          "time": 95.7,
+          "end": 96.0,
+          "text": "阿",
+          "probability": 0.1998
+        },
+        {
+          "time": 96.06,
+          "end": 96.36,
+          "text": "里",
+          "probability": 0.2209
+        },
+        {
+          "time": 96.3,
+          "end": 96.6,
+          "text": "德",
+          "probability": 0.3371
+        },
+        {
+          "time": 96.58,
+          "end": 97.02,
+          "text": "赞",
+          "probability": 0.9711
+        },
+        {
+          "time": 97.22,
+          "end": 97.52,
+          "text": "美",
+          "probability": 0.9998
+        },
+        {
+          "time": 97.78,
+          "end": 98.08,
+          "text": "阿",
+          "probability": 0.9802
+        },
+        {
+          "time": 98.2,
+          "end": 98.5,
+          "text": "里",
+          "probability": 0.9985
+        },
+        {
+          "time": 98.44,
+          "end": 98.74,
+          "text": "德",
+          "probability": 0.9947
+        },
+        {
+          "time": 98.74,
+          "end": 99.16,
+          "text": "赞",
+          "probability": 0.9997
+        },
+        {
+          "time": 99.24,
+          "end": 99.54,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 99.84,
+          "end": 100.46,
+          "text": "祝",
+          "probability": 0.9896
+        },
+        {
+          "time": 100.4,
+          "end": 100.7,
+          "text": "耶",
+          "probability": 0.9995
+        },
+        {
+          "time": 100.56,
+          "end": 100.92,
+          "text": "稣",
+          "probability": 0.999
+        },
+        {
+          "time": 100.9,
+          "end": 101.2,
+          "text": "佩",
+          "probability": 0.9998
+        },
+        {
+          "time": 101.12,
+          "end": 101.42,
+          "text": "德",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 101.34,
+      "end": 102.58,
+      "text": "大赞美",
+      "words": [
+        {
+          "time": 101.34,
+          "end": 101.64,
+          "text": "大",
+          "probability": 0.9987
+        },
+        {
+          "time": 101.6,
+          "end": 101.98,
+          "text": "赞",
+          "probability": 0.9999
+        },
+        {
+          "time": 102.28,
+          "end": 102.58,
+          "text": "美",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 104.24,
+      "end": 110.24,
+      "text": "向我祝祝阿里路呀向我祝唱哈利路亚",
+      "words": [
+        {
+          "time": 104.24,
+          "end": 104.54,
+          "text": "向",
+          "probability": 0.7423
+        },
+        {
+          "time": 104.72,
+          "end": 105.02,
+          "text": "我",
+          "probability": 0.9888
+        },
+        {
+          "time": 104.88,
+          "end": 105.22,
+          "text": "祝",
+          "probability": 0.994
+        },
+        {
+          "time": 105.2,
+          "end": 105.5,
+          "text": "祝",
+          "probability": 0.9335
+        },
+        {
+          "time": 105.42,
+          "end": 105.72,
+          "text": "阿",
+          "probability": 0.9931
+        },
+        {
+          "time": 105.72,
+          "end": 106.02,
+          "text": "里",
+          "probability": 0.9997
+        },
+        {
+          "time": 105.98,
+          "end": 106.28,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 106.42,
+          "end": 106.72,
+          "text": "呀",
+          "probability": 0.9968
+        },
+        {
+          "time": 107.48,
+          "end": 107.78,
+          "text": "向",
+          "probability": 0.3569
+        },
+        {
+          "time": 107.9,
+          "end": 108.2,
+          "text": "我",
+          "probability": 0.8573
+        },
+        {
+          "time": 108.14,
+          "end": 108.46,
+          "text": "祝",
+          "probability": 0.4417
+        },
+        {
+          "time": 108.48,
+          "end": 108.78,
+          "text": "唱",
+          "probability": 0.4078
+        },
+        {
+          "time": 108.84,
+          "end": 109.14,
+          "text": "哈",
+          "probability": 0.901
+        },
+        {
+          "time": 108.94,
+          "end": 109.24,
+          "text": "利",
+          "probability": 0.7236
+        },
+        {
+          "time": 109.2,
+          "end": 109.5,
+          "text": "路",
+          "probability": 0.9771
+        },
+        {
+          "time": 109.4,
+          "end": 110.24,
+          "text": "亚",
+          "probability": 0.4784
+        }
+      ]
+    },
+    {
+      "time": 110.64,
+      "end": 116.2,
+      "text": "唱哈利路亚唱哈利路亚向我祝唱",
+      "words": [
+        {
+          "time": 110.64,
+          "end": 110.94,
+          "text": "唱",
+          "probability": 0.671
+        },
+        {
+          "time": 111.14,
+          "end": 111.44,
+          "text": "哈",
+          "probability": 0.999
+        },
+        {
+          "time": 111.38,
+          "end": 111.68,
+          "text": "利",
+          "probability": 0.9992
+        },
+        {
+          "time": 111.66,
+          "end": 111.96,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 112.14,
+          "end": 112.5,
+          "text": "亚",
+          "probability": 0.9994
+        },
+        {
+          "time": 112.74,
+          "end": 113.04,
+          "text": "唱",
+          "probability": 0.9836
+        },
+        {
+          "time": 113.24,
+          "end": 113.54,
+          "text": "哈",
+          "probability": 0.9991
+        },
+        {
+          "time": 113.5,
+          "end": 113.8,
+          "text": "利",
+          "probability": 0.9999
+        },
+        {
+          "time": 113.82,
+          "end": 114.12,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 114.22,
+          "end": 114.6,
+          "text": "亚",
+          "probability": 0.9997
+        },
+        {
+          "time": 114.9,
+          "end": 115.2,
+          "text": "向",
+          "probability": 0.9987
+        },
+        {
+          "time": 115.42,
+          "end": 115.72,
+          "text": "我",
+          "probability": 0.9986
+        },
+        {
+          "time": 115.56,
+          "end": 115.92,
+          "text": "祝",
+          "probability": 0.9989
+        },
+        {
+          "time": 115.9,
+          "end": 116.2,
+          "text": "唱",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 116.2,
+      "end": 121.8,
+      "text": "哈利路亚主耶稣爱得大赞美",
+      "words": [
+        {
+          "time": 116.2,
+          "end": 116.5,
+          "text": "哈",
+          "probability": 0.9998
+        },
+        {
+          "time": 116.42,
+          "end": 116.72,
+          "text": "利",
+          "probability": 0.9997
+        },
+        {
+          "time": 116.68,
+          "end": 116.98,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 116.96,
+          "end": 118.66,
+          "text": "亚",
+          "probability": 0.9997
+        },
+        {
+          "time": 119.18,
+          "end": 119.48,
+          "text": "主",
+          "probability": 0.9323
+        },
+        {
+          "time": 119.66,
+          "end": 119.96,
+          "text": "耶",
+          "probability": 0.9973
+        },
+        {
+          "time": 119.86,
+          "end": 120.24,
+          "text": "稣",
+          "probability": 0.9548
+        },
+        {
+          "time": 120.22,
+          "end": 120.52,
+          "text": "爱",
+          "probability": 0.5995
+        },
+        {
+          "time": 120.42,
+          "end": 120.72,
+          "text": "得",
+          "probability": 0.4916
+        },
+        {
+          "time": 120.68,
+          "end": 120.98,
+          "text": "大",
+          "probability": 0.3453
+        },
+        {
+          "time": 120.92,
+          "end": 121.28,
+          "text": "赞",
+          "probability": 0.9769
+        },
+        {
+          "time": 121.5,
+          "end": 121.8,
+          "text": "美",
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "time": 122.34,
+      "end": 128.08,
+      "text": "主耶稣爱得大赞美他爱得赞美他",
+      "words": [
+        {
+          "time": 122.34,
+          "end": 122.64,
+          "text": "主",
+          "probability": 0.9807
+        },
+        {
+          "time": 122.86,
+          "end": 123.16,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 123.06,
+          "end": 123.44,
+          "text": "稣",
+          "probability": 0.9998
+        },
+        {
+          "time": 123.4,
+          "end": 123.7,
+          "text": "爱",
+          "probability": 0.9988
+        },
+        {
+          "time": 123.62,
+          "end": 123.92,
+          "text": "得",
+          "probability": 0.9972
+        },
+        {
+          "time": 123.88,
+          "end": 124.18,
+          "text": "大",
+          "probability": 0.9992
+        },
+        {
+          "time": 124.12,
+          "end": 124.46,
+          "text": "赞",
+          "probability": 0.9998
+        },
+        {
+          "time": 124.96,
+          "end": 125.26,
+          "text": "美",
+          "probability": 0.9996
+        },
+        {
+          "time": 125.66,
+          "end": 125.96,
+          "text": "他",
+          "probability": 0.5651
+        },
+        {
+          "time": 126.08,
+          "end": 126.38,
+          "text": "爱",
+          "probability": 0.8956
+        },
+        {
+          "time": 126.32,
+          "end": 126.62,
+          "text": "得",
+          "probability": 0.9834
+        },
+        {
+          "time": 126.66,
+          "end": 127.1,
+          "text": "赞",
+          "probability": 0.9235
+        },
+        {
+          "time": 127.28,
+          "end": 127.58,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 127.78,
+          "end": 128.08,
+          "text": "他",
+          "probability": 0.8951
+        }
+      ]
+    },
+    {
+      "time": 128.22,
+      "end": 132.52,
+      "text": "爱得赞美主耶稣爱得大赞美",
+      "words": [
+        {
+          "time": 128.22,
+          "end": 128.52,
+          "text": "爱",
+          "probability": 0.9931
+        },
+        {
+          "time": 128.48,
+          "end": 128.78,
+          "text": "得",
+          "probability": 0.9971
+        },
+        {
+          "time": 128.74,
+          "end": 129.18,
+          "text": "赞",
+          "probability": 0.9998
+        },
+        {
+          "time": 129.3,
+          "end": 129.6,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 129.84,
+          "end": 130.14,
+          "text": "主",
+          "probability": 0.9988
+        },
+        {
+          "time": 130.38,
+          "end": 130.68,
+          "text": "耶",
+          "probability": 0.9999
+        },
+        {
+          "time": 130.6,
+          "end": 130.96,
+          "text": "稣",
+          "probability": 0.9998
+        },
+        {
+          "time": 130.92,
+          "end": 131.22,
+          "text": "爱",
+          "probability": 0.9991
+        },
+        {
+          "time": 131.12,
+          "end": 131.42,
+          "text": "得",
+          "probability": 0.9997
+        },
+        {
+          "time": 131.38,
+          "end": 131.68,
+          "text": "大",
+          "probability": 0.9992
+        },
+        {
+          "time": 131.62,
+          "end": 131.98,
+          "text": "赞",
+          "probability": 0.9998
+        },
+        {
+          "time": 132.22,
+          "end": 132.52,
+          "text": "美",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 140.42,
+      "end": 141.32,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 140.42,
+          "end": 140.92,
+          "text": "优",
+          "probability": 0.2534
+        },
+        {
+          "time": 140.82,
+          "end": 141.32,
+          "text": "优",
+          "probability": 0.9977
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "独",
+          "probability": 0.9954
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "播",
+          "probability": 0.9972
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "剧",
+          "probability": 0.9972
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "场",
+          "probability": 0.9978
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "——",
+          "probability": 0.9982
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "Yo",
+          "probability": 0.9964
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "Yo",
+          "probability": 0.9981
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": " Television",
+          "probability": 0.9956
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": " Series",
+          "probability": 0.9986
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": " Exc",
+          "probability": 0.9969
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "lusive",
+          "probability": 0.9976
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "s503f7eb56933",
+  "file": "164哈利路亚赞美主.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "3622",
+      "offset": -24.682,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.837207,
+      "windows": [
+        {
+          "localStart": 30.323,
+          "sourceStart": 4.144,
+          "offset": -26.1795,
+          "coefficient": 0.10022
+        },
+        {
+          "localStart": 48.517,
+          "sourceStart": 25.436,
+          "offset": -23.0815,
+          "coefficient": 0.055464
+        },
+        {
+          "localStart": 66.711,
+          "sourceStart": 44.008,
+          "offset": -22.7035,
+          "coefficient": 0.084488
+        },
+        {
+          "localStart": 84.904,
+          "sourceStart": 59.39,
+          "offset": -25.5145,
+          "coefficient": 0.058722
+        },
+        {
+          "localStart": 103.099,
+          "sourceStart": 77.343,
+          "offset": -25.7555,
+          "coefficient": 0.067876
+        },
+        {
+          "localStart": 121.293,
+          "sourceStart": 94.734,
+          "offset": -26.559,
+          "coefficient": 0.0501
+        },
+        {
+          "localStart": 136.454,
+          "sourceStart": 111.406,
+          "offset": -25.048,
+          "coefficient": 0.051392
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "42096",
+      "offset": -41.112,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.728841,
+      "windows": [
+        {
+          "localStart": 48.517,
+          "sourceStart": 7.396,
+          "offset": -41.1215,
+          "coefficient": 0.05977
+        },
+        {
+          "localStart": 66.711,
+          "sourceStart": 24.308,
+          "offset": -42.4025,
+          "coefficient": 0.041238
+        },
+        {
+          "localStart": 84.904,
+          "sourceStart": 42.928,
+          "offset": -41.977,
+          "coefficient": 0.044587
+        },
+        {
+          "localStart": 103.099,
+          "sourceStart": 62.914,
+          "offset": -40.184,
+          "coefficient": 0.038701
+        },
+        {
+          "localStart": 121.293,
+          "sourceStart": 81.227,
+          "offset": -40.0655,
+          "coefficient": 0.040143
+        },
+        {
+          "localStart": 136.454,
+          "sourceStart": 94.626,
+          "offset": -41.828,
+          "coefficient": 0.040066
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

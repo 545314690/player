@@ -1,0 +1,1808 @@
+{
+  "id": "s24385f219db5",
+  "file": "026丰盛的人生_女声.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "157d574eaa6d14f26c48198572dd70d2bf68e417afbe8cbb236f918fcb42f542",
+  "fullDuration": 183.808,
+  "lines": [
+    {
+      "time": 2.28,
+      "end": 5.74,
+      "text": "作词 :李宗盛作词 :李宗盛作词 :李宗盛作词 :李宗盛作词 :李宗盛作词 :李宗盛",
+      "words": [
+        {
+          "time": 2.28,
+          "end": 2.58,
+          "text": "作",
+          "probability": 0.1642
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "词",
+          "probability": 0.8222
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": " :",
+          "probability": 0.4342
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "李",
+          "probability": 0.023
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "宗",
+          "probability": 0.3179
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "盛",
+          "probability": 0.4993
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "作",
+          "probability": 0.616
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "词",
+          "probability": 0.6294
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": " :",
+          "probability": 0.9577
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "李",
+          "probability": 0.4661
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "宗",
+          "probability": 0.9831
+        },
+        {
+          "time": 3.14,
+          "end": 3.44,
+          "text": "盛",
+          "probability": 0.9974
+        },
+        {
+          "time": 3.14,
+          "end": 3.44,
+          "text": "作",
+          "probability": 0.6759
+        },
+        {
+          "time": 3.14,
+          "end": 3.44,
+          "text": "词",
+          "probability": 0.62
+        },
+        {
+          "time": 3.14,
+          "end": 3.44,
+          "text": " :",
+          "probability": 0.983
+        },
+        {
+          "time": 3.26,
+          "end": 3.56,
+          "text": "李",
+          "probability": 0.7741
+        },
+        {
+          "time": 3.26,
+          "end": 3.56,
+          "text": "宗",
+          "probability": 0.9892
+        },
+        {
+          "time": 3.34,
+          "end": 3.64,
+          "text": "盛",
+          "probability": 0.9979
+        },
+        {
+          "time": 4.16,
+          "end": 4.46,
+          "text": "作",
+          "probability": 0.6688
+        },
+        {
+          "time": 4.16,
+          "end": 4.46,
+          "text": "词",
+          "probability": 0.6849
+        },
+        {
+          "time": 4.16,
+          "end": 4.46,
+          "text": " :",
+          "probability": 0.9891
+        },
+        {
+          "time": 4.16,
+          "end": 4.46,
+          "text": "李",
+          "probability": 0.8766
+        },
+        {
+          "time": 4.16,
+          "end": 4.46,
+          "text": "宗",
+          "probability": 0.9915
+        },
+        {
+          "time": 4.26,
+          "end": 4.56,
+          "text": "盛",
+          "probability": 0.998
+        },
+        {
+          "time": 4.62,
+          "end": 4.92,
+          "text": "作",
+          "probability": 0.7339
+        },
+        {
+          "time": 4.64,
+          "end": 4.94,
+          "text": "词",
+          "probability": 0.7418
+        },
+        {
+          "time": 4.64,
+          "end": 4.94,
+          "text": " :",
+          "probability": 0.9904
+        },
+        {
+          "time": 4.76,
+          "end": 5.06,
+          "text": "李",
+          "probability": 0.9193
+        },
+        {
+          "time": 4.76,
+          "end": 5.06,
+          "text": "宗",
+          "probability": 0.9924
+        },
+        {
+          "time": 4.78,
+          "end": 5.08,
+          "text": "盛",
+          "probability": 0.9981
+        },
+        {
+          "time": 4.8,
+          "end": 5.1,
+          "text": "作",
+          "probability": 0.6206
+        },
+        {
+          "time": 4.84,
+          "end": 5.14,
+          "text": "词",
+          "probability": 0.7977
+        },
+        {
+          "time": 4.84,
+          "end": 5.14,
+          "text": " :",
+          "probability": 0.993
+        },
+        {
+          "time": 5.42,
+          "end": 5.72,
+          "text": "李",
+          "probability": 0.9346
+        },
+        {
+          "time": 5.42,
+          "end": 5.72,
+          "text": "宗",
+          "probability": 0.9931
+        },
+        {
+          "time": 5.44,
+          "end": 5.74,
+          "text": "盛",
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "time": 7.12,
+      "end": 8.5,
+      "text": "作词 :李宗盛作词 :",
+      "words": [
+        {
+          "time": 7.12,
+          "end": 7.42,
+          "text": "作",
+          "probability": 0.6548
+        },
+        {
+          "time": 7.12,
+          "end": 7.42,
+          "text": "词",
+          "probability": 0.764
+        },
+        {
+          "time": 7.12,
+          "end": 7.42,
+          "text": " :",
+          "probability": 0.992
+        },
+        {
+          "time": 7.98,
+          "end": 8.28,
+          "text": "李",
+          "probability": 0.9452
+        },
+        {
+          "time": 7.98,
+          "end": 8.28,
+          "text": "宗",
+          "probability": 0.994
+        },
+        {
+          "time": 7.98,
+          "end": 8.28,
+          "text": "盛",
+          "probability": 0.9981
+        },
+        {
+          "time": 8.2,
+          "end": 8.5,
+          "text": "作",
+          "probability": 0.5349
+        },
+        {
+          "time": 8.2,
+          "end": 8.5,
+          "text": "词",
+          "probability": 0.82
+        },
+        {
+          "time": 8.2,
+          "end": 8.5,
+          "text": " :",
+          "probability": 0.9922
+        }
+      ]
+    },
+    {
+      "time": 10.08,
+      "end": 11.02,
+      "text": "李宗盛",
+      "words": [
+        {
+          "time": 10.08,
+          "end": 10.38,
+          "text": "李",
+          "probability": 0.9515
+        },
+        {
+          "time": 10.08,
+          "end": 10.38,
+          "text": "宗",
+          "probability": 0.9939
+        },
+        {
+          "time": 10.72,
+          "end": 11.02,
+          "text": "盛",
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "time": 12.58,
+      "end": 18.68,
+      "text": "作词 :李宗盛若是一勇老",
+      "words": [
+        {
+          "time": 12.58,
+          "end": 12.88,
+          "text": "作",
+          "probability": 0.533
+        },
+        {
+          "time": 12.58,
+          "end": 12.88,
+          "text": "词",
+          "probability": 0.8475
+        },
+        {
+          "time": 12.58,
+          "end": 12.88,
+          "text": " :",
+          "probability": 0.9919
+        },
+        {
+          "time": 13.52,
+          "end": 13.82,
+          "text": "李",
+          "probability": 0.9549
+        },
+        {
+          "time": 13.52,
+          "end": 13.82,
+          "text": "宗",
+          "probability": 0.9937
+        },
+        {
+          "time": 13.52,
+          "end": 13.82,
+          "text": "盛",
+          "probability": 0.998
+        },
+        {
+          "time": 14.92,
+          "end": 15.82,
+          "text": "若",
+          "probability": 0.4094
+        },
+        {
+          "time": 16.04,
+          "end": 16.34,
+          "text": "是",
+          "probability": 0.9362
+        },
+        {
+          "time": 16.56,
+          "end": 16.86,
+          "text": "一",
+          "probability": 0.4043
+        },
+        {
+          "time": 17.04,
+          "end": 17.6,
+          "text": "勇",
+          "probability": 0.1222
+        },
+        {
+          "time": 18.38,
+          "end": 18.68,
+          "text": "老",
+          "probability": 0.6393
+        }
+      ]
+    },
+    {
+      "time": 18.84,
+      "end": 20.0,
+      "text": "苦中的",
+      "words": [
+        {
+          "time": 18.84,
+          "end": 19.14,
+          "text": "苦",
+          "probability": 0.7543
+        },
+        {
+          "time": 19.3,
+          "end": 19.6,
+          "text": "中",
+          "probability": 0.637
+        },
+        {
+          "time": 19.7,
+          "end": 20.0,
+          "text": "的",
+          "probability": 0.2907
+        }
+      ]
+    },
+    {
+      "time": 21.38,
+      "end": 27.64,
+      "text": "若是一勇老苦中的何以交脱给严肃何以交脱给严",
+      "words": [
+        {
+          "time": 21.38,
+          "end": 22.5,
+          "text": "若",
+          "probability": 0.8575
+        },
+        {
+          "time": 22.2,
+          "end": 22.5,
+          "text": "是",
+          "probability": 0.9866
+        },
+        {
+          "time": 22.2,
+          "end": 22.5,
+          "text": "一",
+          "probability": 0.9389
+        },
+        {
+          "time": 22.2,
+          "end": 22.5,
+          "text": "勇",
+          "probability": 0.9785
+        },
+        {
+          "time": 22.2,
+          "end": 22.5,
+          "text": "老",
+          "probability": 0.9793
+        },
+        {
+          "time": 22.2,
+          "end": 22.5,
+          "text": "苦",
+          "probability": 0.9806
+        },
+        {
+          "time": 22.2,
+          "end": 22.5,
+          "text": "中",
+          "probability": 0.978
+        },
+        {
+          "time": 22.2,
+          "end": 22.5,
+          "text": "的",
+          "probability": 0.8492
+        },
+        {
+          "time": 22.66,
+          "end": 22.96,
+          "text": "何",
+          "probability": 0.3262
+        },
+        {
+          "time": 23.52,
+          "end": 23.82,
+          "text": "以",
+          "probability": 0.7969
+        },
+        {
+          "time": 23.98,
+          "end": 24.28,
+          "text": "交",
+          "probability": 0.9268
+        },
+        {
+          "time": 24.4,
+          "end": 24.9,
+          "text": "脱",
+          "probability": 0.519
+        },
+        {
+          "time": 25.74,
+          "end": 26.04,
+          "text": "给",
+          "probability": 0.9343
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "严",
+          "probability": 0.2576
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "肃",
+          "probability": 0.8749
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "何",
+          "probability": 0.4569
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "以",
+          "probability": 0.9938
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "交",
+          "probability": 0.9949
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "脱",
+          "probability": 0.7922
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "给",
+          "probability": 0.9802
+        },
+        {
+          "time": 26.2,
+          "end": 27.64,
+          "text": "严",
+          "probability": 0.9096
+        }
+      ]
+    },
+    {
+      "time": 27.7,
+      "end": 28.16,
+      "text": "肃",
+      "words": [
+        {
+          "time": 27.7,
+          "end": 28.16,
+          "text": "肃",
+          "probability": 0.9568
+        }
+      ]
+    },
+    {
+      "time": 29.6,
+      "end": 35.68,
+      "text": "若是你撑回心忧伤泄",
+      "words": [
+        {
+          "time": 29.6,
+          "end": 30.28,
+          "text": "若",
+          "probability": 0.9657
+        },
+        {
+          "time": 30.48,
+          "end": 30.78,
+          "text": "是",
+          "probability": 0.9832
+        },
+        {
+          "time": 30.92,
+          "end": 31.22,
+          "text": "你",
+          "probability": 0.9378
+        },
+        {
+          "time": 31.3,
+          "end": 31.88,
+          "text": "撑",
+          "probability": 0.4423
+        },
+        {
+          "time": 32.46,
+          "end": 32.76,
+          "text": "回",
+          "probability": 0.6968
+        },
+        {
+          "time": 32.86,
+          "end": 33.16,
+          "text": "心",
+          "probability": 0.9903
+        },
+        {
+          "time": 33.16,
+          "end": 33.58,
+          "text": "忧",
+          "probability": 0.9529
+        },
+        {
+          "time": 33.62,
+          "end": 35.04,
+          "text": "伤",
+          "probability": 0.9589
+        },
+        {
+          "time": 35.22,
+          "end": 35.68,
+          "text": "泄",
+          "probability": 0.0924
+        }
+      ]
+    },
+    {
+      "time": 35.7,
+      "end": 37.26,
+      "text": "墨绝望",
+      "words": [
+        {
+          "time": 35.7,
+          "end": 36.08,
+          "text": "墨",
+          "probability": 0.1076
+        },
+        {
+          "time": 36.04,
+          "end": 36.68,
+          "text": "绝",
+          "probability": 0.783
+        },
+        {
+          "time": 36.96,
+          "end": 37.26,
+          "text": "望",
+          "probability": 0.981
+        }
+      ]
+    },
+    {
+      "time": 38.66,
+      "end": 44.46,
+      "text": "投靠耶稣就有希望",
+      "words": [
+        {
+          "time": 38.66,
+          "end": 38.96,
+          "text": "投",
+          "probability": 0.8829
+        },
+        {
+          "time": 39.02,
+          "end": 39.76,
+          "text": "靠",
+          "probability": 0.9979
+        },
+        {
+          "time": 40.22,
+          "end": 40.52,
+          "text": "耶",
+          "probability": 0.956
+        },
+        {
+          "time": 40.54,
+          "end": 41.2,
+          "text": "稣",
+          "probability": 0.8917
+        },
+        {
+          "time": 42.2,
+          "end": 42.5,
+          "text": "就",
+          "probability": 0.6925
+        },
+        {
+          "time": 43.08,
+          "end": 43.38,
+          "text": "有",
+          "probability": 0.862
+        },
+        {
+          "time": 44.16,
+          "end": 44.46,
+          "text": "希望",
+          "probability": 0.9871
+        }
+      ]
+    },
+    {
+      "time": 45.56,
+      "end": 51.48,
+      "text": "在基督里你要盼望丰盛的人",
+      "words": [
+        {
+          "time": 45.56,
+          "end": 45.86,
+          "text": "在",
+          "probability": 0.9762
+        },
+        {
+          "time": 45.94,
+          "end": 46.24,
+          "text": "基",
+          "probability": 0.4873
+        },
+        {
+          "time": 46.16,
+          "end": 46.48,
+          "text": "督",
+          "probability": 0.9819
+        },
+        {
+          "time": 46.76,
+          "end": 47.06,
+          "text": "里",
+          "probability": 0.9907
+        },
+        {
+          "time": 47.82,
+          "end": 48.12,
+          "text": "你要",
+          "probability": 0.2445
+        },
+        {
+          "time": 48.1,
+          "end": 48.5,
+          "text": "盼",
+          "probability": 0.5565
+        },
+        {
+          "time": 48.8,
+          "end": 49.1,
+          "text": "望",
+          "probability": 0.9929
+        },
+        {
+          "time": 49.86,
+          "end": 50.26,
+          "text": "丰",
+          "probability": 0.6888
+        },
+        {
+          "time": 50.22,
+          "end": 50.6,
+          "text": "盛",
+          "probability": 0.9804
+        },
+        {
+          "time": 51.18,
+          "end": 51.48,
+          "text": "的人",
+          "probability": 0.4921
+        }
+      ]
+    },
+    {
+      "time": 52.52,
+      "end": 58.06,
+      "text": "生都为我照亮在基督里",
+      "words": [
+        {
+          "time": 52.52,
+          "end": 52.82,
+          "text": "生",
+          "probability": 0.9922
+        },
+        {
+          "time": 53.14,
+          "end": 53.44,
+          "text": "都",
+          "probability": 0.3219
+        },
+        {
+          "time": 53.54,
+          "end": 53.84,
+          "text": "为",
+          "probability": 0.9
+        },
+        {
+          "time": 54.4,
+          "end": 54.7,
+          "text": "我",
+          "probability": 0.9995
+        },
+        {
+          "time": 54.84,
+          "end": 55.14,
+          "text": "照",
+          "probability": 0.9465
+        },
+        {
+          "time": 55.58,
+          "end": 55.88,
+          "text": "亮",
+          "probability": 0.9184
+        },
+        {
+          "time": 56.54,
+          "end": 56.84,
+          "text": "在",
+          "probability": 0.9647
+        },
+        {
+          "time": 57.1,
+          "end": 57.4,
+          "text": "基",
+          "probability": 0.3705
+        },
+        {
+          "time": 57.32,
+          "end": 57.62,
+          "text": "督",
+          "probability": 0.9818
+        },
+        {
+          "time": 57.76,
+          "end": 58.06,
+          "text": "里",
+          "probability": 0.9401
+        }
+      ]
+    },
+    {
+      "time": 58.9,
+      "end": 64.48,
+      "text": "你有力量人生旅途中我",
+      "words": [
+        {
+          "time": 58.9,
+          "end": 59.2,
+          "text": "你有",
+          "probability": 0.3753
+        },
+        {
+          "time": 59.3,
+          "end": 59.6,
+          "text": "力",
+          "probability": 0.9965
+        },
+        {
+          "time": 60.22,
+          "end": 60.52,
+          "text": "量",
+          "probability": 0.9965
+        },
+        {
+          "time": 60.98,
+          "end": 61.28,
+          "text": "人",
+          "probability": 0.9798
+        },
+        {
+          "time": 61.32,
+          "end": 61.62,
+          "text": "生",
+          "probability": 0.9875
+        },
+        {
+          "time": 61.72,
+          "end": 62.18,
+          "text": "旅",
+          "probability": 0.9805
+        },
+        {
+          "time": 62.68,
+          "end": 63.06,
+          "text": "途",
+          "probability": 0.9766
+        },
+        {
+          "time": 63.3,
+          "end": 63.6,
+          "text": "中",
+          "probability": 0.9994
+        },
+        {
+          "time": 64.22,
+          "end": 64.52,
+          "text": "我",
+          "probability": 0.6028
+        }
+      ]
+    },
+    {
+      "time": 64.48,
+      "end": 67.72,
+      "text": "靠住的刚强",
+      "words": [
+        {
+          "time": 64.48,
+          "end": 65.12,
+          "text": "靠",
+          "probability": 0.9803
+        },
+        {
+          "time": 65.44,
+          "end": 65.74,
+          "text": "住",
+          "probability": 0.6979
+        },
+        {
+          "time": 66.3,
+          "end": 66.6,
+          "text": "的",
+          "probability": 0.8189
+        },
+        {
+          "time": 66.92,
+          "end": 67.22,
+          "text": "刚",
+          "probability": 0.4104
+        },
+        {
+          "time": 67.26,
+          "end": 67.72,
+          "text": "强",
+          "probability": 0.3126
+        }
+      ]
+    },
+    {
+      "time": 73.44,
+      "end": 76.8,
+      "text": "我是理由老苦中的",
+      "words": [
+        {
+          "time": 73.44,
+          "end": 73.74,
+          "text": "我是",
+          "probability": 0.4526
+        },
+        {
+          "time": 73.88,
+          "end": 74.18,
+          "text": "理",
+          "probability": 0.372
+        },
+        {
+          "time": 74.4,
+          "end": 74.7,
+          "text": "由",
+          "probability": 0.9971
+        },
+        {
+          "time": 75.3,
+          "end": 75.6,
+          "text": "老",
+          "probability": 0.9474
+        },
+        {
+          "time": 75.66,
+          "end": 75.96,
+          "text": "苦",
+          "probability": 0.9404
+        },
+        {
+          "time": 76.08,
+          "end": 76.38,
+          "text": "中",
+          "probability": 0.8364
+        },
+        {
+          "time": 76.5,
+          "end": 76.8,
+          "text": "的",
+          "probability": 0.8542
+        }
+      ]
+    },
+    {
+      "time": 79.06,
+      "end": 84.84,
+      "text": "可以交脱给耶稣若",
+      "words": [
+        {
+          "time": 79.06,
+          "end": 79.36,
+          "text": "可以",
+          "probability": 0.9541
+        },
+        {
+          "time": 79.54,
+          "end": 79.84,
+          "text": "交",
+          "probability": 0.9859
+        },
+        {
+          "time": 79.86,
+          "end": 80.4,
+          "text": "脱",
+          "probability": 0.469
+        },
+        {
+          "time": 81.04,
+          "end": 81.34,
+          "text": "给",
+          "probability": 0.9989
+        },
+        {
+          "time": 81.66,
+          "end": 81.96,
+          "text": "耶",
+          "probability": 0.9891
+        },
+        {
+          "time": 82.62,
+          "end": 83.2,
+          "text": "稣",
+          "probability": 0.9591
+        },
+        {
+          "time": 84.22,
+          "end": 84.84,
+          "text": "若",
+          "probability": 0.9766
+        }
+      ]
+    },
+    {
+      "time": 84.94,
+      "end": 91.24,
+      "text": "是你真会心忧伤切莫切忘",
+      "words": [
+        {
+          "time": 84.94,
+          "end": 85.24,
+          "text": "是",
+          "probability": 0.9783
+        },
+        {
+          "time": 85.28,
+          "end": 85.58,
+          "text": "你",
+          "probability": 0.8125
+        },
+        {
+          "time": 85.64,
+          "end": 85.94,
+          "text": "真",
+          "probability": 0.8086
+        },
+        {
+          "time": 86.6,
+          "end": 86.9,
+          "text": "会",
+          "probability": 0.2782
+        },
+        {
+          "time": 86.98,
+          "end": 87.28,
+          "text": "心",
+          "probability": 0.9513
+        },
+        {
+          "time": 87.26,
+          "end": 87.66,
+          "text": "忧",
+          "probability": 0.9318
+        },
+        {
+          "time": 87.68,
+          "end": 88.14,
+          "text": "伤",
+          "probability": 0.926
+        },
+        {
+          "time": 89.14,
+          "end": 89.44,
+          "text": "切",
+          "probability": 0.2599
+        },
+        {
+          "time": 89.42,
+          "end": 89.82,
+          "text": "莫",
+          "probability": 0.4615
+        },
+        {
+          "time": 90.08,
+          "end": 90.38,
+          "text": "切",
+          "probability": 0.7451
+        },
+        {
+          "time": 90.94,
+          "end": 91.24,
+          "text": "忘",
+          "probability": 0.3376
+        }
+      ]
+    },
+    {
+      "time": 92.22,
+      "end": 98.78,
+      "text": "徒靠耶稣就有希望在",
+      "words": [
+        {
+          "time": 92.22,
+          "end": 92.6,
+          "text": "徒",
+          "probability": 0.178
+        },
+        {
+          "time": 92.6,
+          "end": 93.12,
+          "text": "靠",
+          "probability": 0.8172
+        },
+        {
+          "time": 93.62,
+          "end": 93.92,
+          "text": "耶",
+          "probability": 0.9862
+        },
+        {
+          "time": 93.92,
+          "end": 94.6,
+          "text": "稣",
+          "probability": 0.9148
+        },
+        {
+          "time": 95.48,
+          "end": 95.78,
+          "text": "就",
+          "probability": 0.2259
+        },
+        {
+          "time": 96.28,
+          "end": 96.58,
+          "text": "有",
+          "probability": 0.9558
+        },
+        {
+          "time": 97.4,
+          "end": 97.7,
+          "text": "希望",
+          "probability": 0.9789
+        },
+        {
+          "time": 98.48,
+          "end": 98.78,
+          "text": "在",
+          "probability": 0.771
+        }
+      ]
+    },
+    {
+      "time": 99.02,
+      "end": 104.7,
+      "text": "基督里必要徨徨丰盛的人",
+      "words": [
+        {
+          "time": 99.02,
+          "end": 99.32,
+          "text": "基",
+          "probability": 0.2222
+        },
+        {
+          "time": 99.26,
+          "end": 99.56,
+          "text": "督",
+          "probability": 0.994
+        },
+        {
+          "time": 99.7,
+          "end": 100.0,
+          "text": "里",
+          "probability": 0.977
+        },
+        {
+          "time": 100.4,
+          "end": 100.7,
+          "text": "必",
+          "probability": 0.4372
+        },
+        {
+          "time": 100.8,
+          "end": 101.1,
+          "text": "要",
+          "probability": 0.5851
+        },
+        {
+          "time": 101.04,
+          "end": 101.46,
+          "text": "徨",
+          "probability": 0.3044
+        },
+        {
+          "time": 101.92,
+          "end": 102.32,
+          "text": "徨",
+          "probability": 0.9503
+        },
+        {
+          "time": 102.74,
+          "end": 103.12,
+          "text": "丰",
+          "probability": 0.3435
+        },
+        {
+          "time": 103.08,
+          "end": 103.38,
+          "text": "盛",
+          "probability": 0.6993
+        },
+        {
+          "time": 103.48,
+          "end": 103.78,
+          "text": "的",
+          "probability": 0.5233
+        },
+        {
+          "time": 104.4,
+          "end": 104.7,
+          "text": "人",
+          "probability": 0.7518
+        }
+      ]
+    },
+    {
+      "time": 104.92,
+      "end": 110.56,
+      "text": "生祂为我照亮在基督里",
+      "words": [
+        {
+          "time": 104.92,
+          "end": 105.22,
+          "text": "生",
+          "probability": 0.9502
+        },
+        {
+          "time": 105.78,
+          "end": 106.16,
+          "text": "祂",
+          "probability": 0.4707
+        },
+        {
+          "time": 106.28,
+          "end": 106.58,
+          "text": "为",
+          "probability": 0.8324
+        },
+        {
+          "time": 107.02,
+          "end": 107.32,
+          "text": "我",
+          "probability": 0.9984
+        },
+        {
+          "time": 107.44,
+          "end": 107.74,
+          "text": "照",
+          "probability": 0.9661
+        },
+        {
+          "time": 108.08,
+          "end": 108.38,
+          "text": "亮",
+          "probability": 0.8698
+        },
+        {
+          "time": 108.94,
+          "end": 109.24,
+          "text": "在",
+          "probability": 0.9975
+        },
+        {
+          "time": 109.56,
+          "end": 109.86,
+          "text": "基",
+          "probability": 0.9992
+        },
+        {
+          "time": 109.8,
+          "end": 110.1,
+          "text": "督",
+          "probability": 0.9999
+        },
+        {
+          "time": 110.26,
+          "end": 110.56,
+          "text": "里",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 110.96,
+      "end": 116.64,
+      "text": "必要力量人生旅途中我",
+      "words": [
+        {
+          "time": 110.96,
+          "end": 111.26,
+          "text": "必",
+          "probability": 0.9721
+        },
+        {
+          "time": 111.34,
+          "end": 111.64,
+          "text": "要",
+          "probability": 0.9158
+        },
+        {
+          "time": 111.64,
+          "end": 111.94,
+          "text": "力",
+          "probability": 0.941
+        },
+        {
+          "time": 112.3,
+          "end": 112.6,
+          "text": "量",
+          "probability": 0.9891
+        },
+        {
+          "time": 113.34,
+          "end": 113.64,
+          "text": "人",
+          "probability": 0.9641
+        },
+        {
+          "time": 113.62,
+          "end": 113.92,
+          "text": "生",
+          "probability": 0.9643
+        },
+        {
+          "time": 113.98,
+          "end": 114.4,
+          "text": "旅",
+          "probability": 0.782
+        },
+        {
+          "time": 114.8,
+          "end": 115.28,
+          "text": "途",
+          "probability": 0.9126
+        },
+        {
+          "time": 115.46,
+          "end": 115.76,
+          "text": "中",
+          "probability": 0.9972
+        },
+        {
+          "time": 116.34,
+          "end": 116.64,
+          "text": "我",
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "time": 116.64,
+      "end": 119.72,
+      "text": "靠住的高强",
+      "words": [
+        {
+          "time": 116.64,
+          "end": 117.26,
+          "text": "靠",
+          "probability": 0.9829
+        },
+        {
+          "time": 117.4,
+          "end": 117.7,
+          "text": "住",
+          "probability": 0.7871
+        },
+        {
+          "time": 118.34,
+          "end": 118.64,
+          "text": "的",
+          "probability": 0.7591
+        },
+        {
+          "time": 118.92,
+          "end": 119.22,
+          "text": "高",
+          "probability": 0.1982
+        },
+        {
+          "time": 119.24,
+          "end": 119.72,
+          "text": "强",
+          "probability": 0.3696
+        }
+      ]
+    },
+    {
+      "time": 122.08,
+      "end": 128.28,
+      "text": "在极度里必要盼望佛神的人",
+      "words": [
+        {
+          "time": 122.08,
+          "end": 122.38,
+          "text": "在",
+          "probability": 0.994
+        },
+        {
+          "time": 122.76,
+          "end": 123.08,
+          "text": "极",
+          "probability": 0.1764
+        },
+        {
+          "time": 122.98,
+          "end": 123.28,
+          "text": "度",
+          "probability": 0.8817
+        },
+        {
+          "time": 123.42,
+          "end": 123.72,
+          "text": "里",
+          "probability": 0.9817
+        },
+        {
+          "time": 124.16,
+          "end": 124.46,
+          "text": "必",
+          "probability": 0.2755
+        },
+        {
+          "time": 124.54,
+          "end": 124.84,
+          "text": "要",
+          "probability": 0.9791
+        },
+        {
+          "time": 124.74,
+          "end": 125.14,
+          "text": "盼",
+          "probability": 0.7941
+        },
+        {
+          "time": 125.56,
+          "end": 125.86,
+          "text": "望",
+          "probability": 0.9984
+        },
+        {
+          "time": 126.38,
+          "end": 126.74,
+          "text": "佛",
+          "probability": 0.3492
+        },
+        {
+          "time": 126.78,
+          "end": 127.08,
+          "text": "神",
+          "probability": 0.6761
+        },
+        {
+          "time": 127.18,
+          "end": 127.48,
+          "text": "的",
+          "probability": 0.6299
+        },
+        {
+          "time": 127.98,
+          "end": 128.28,
+          "text": "人",
+          "probability": 0.4064
+        }
+      ]
+    },
+    {
+      "time": 128.54,
+      "end": 134.22,
+      "text": "生它为我照亮在极度里",
+      "words": [
+        {
+          "time": 128.54,
+          "end": 128.84,
+          "text": "生",
+          "probability": 0.9927
+        },
+        {
+          "time": 129.36,
+          "end": 129.66,
+          "text": "它",
+          "probability": 0.4199
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "为",
+          "probability": 0.854
+        },
+        {
+          "time": 130.52,
+          "end": 130.82,
+          "text": "我",
+          "probability": 0.9886
+        },
+        {
+          "time": 130.96,
+          "end": 131.26,
+          "text": "照",
+          "probability": 0.9745
+        },
+        {
+          "time": 131.62,
+          "end": 131.92,
+          "text": "亮",
+          "probability": 0.98
+        },
+        {
+          "time": 132.6,
+          "end": 132.9,
+          "text": "在",
+          "probability": 0.9997
+        },
+        {
+          "time": 133.1,
+          "end": 133.42,
+          "text": "极",
+          "probability": 0.9997
+        },
+        {
+          "time": 133.34,
+          "end": 133.64,
+          "text": "度",
+          "probability": 0.9998
+        },
+        {
+          "time": 133.92,
+          "end": 134.22,
+          "text": "里",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 134.48,
+      "end": 140.54,
+      "text": "必要力量人生旅途中我靠",
+      "words": [
+        {
+          "time": 134.48,
+          "end": 134.78,
+          "text": "必",
+          "probability": 0.9971
+        },
+        {
+          "time": 134.88,
+          "end": 135.18,
+          "text": "要",
+          "probability": 0.9984
+        },
+        {
+          "time": 135.14,
+          "end": 135.44,
+          "text": "力",
+          "probability": 0.8337
+        },
+        {
+          "time": 135.76,
+          "end": 136.06,
+          "text": "量",
+          "probability": 0.9972
+        },
+        {
+          "time": 136.68,
+          "end": 136.98,
+          "text": "人",
+          "probability": 0.6224
+        },
+        {
+          "time": 137.04,
+          "end": 137.34,
+          "text": "生",
+          "probability": 0.9994
+        },
+        {
+          "time": 137.46,
+          "end": 137.86,
+          "text": "旅",
+          "probability": 0.9991
+        },
+        {
+          "time": 138.26,
+          "end": 138.64,
+          "text": "途",
+          "probability": 1.0
+        },
+        {
+          "time": 138.84,
+          "end": 139.14,
+          "text": "中",
+          "probability": 0.9999
+        },
+        {
+          "time": 139.64,
+          "end": 139.94,
+          "text": "我",
+          "probability": 0.9898
+        },
+        {
+          "time": 139.98,
+          "end": 140.54,
+          "text": "靠",
+          "probability": 0.8335
+        }
+      ]
+    },
+    {
+      "time": 140.84,
+      "end": 146.58,
+      "text": "住的高雄天生的土",
+      "words": [
+        {
+          "time": 140.84,
+          "end": 141.14,
+          "text": "住",
+          "probability": 0.5362
+        },
+        {
+          "time": 141.44,
+          "end": 141.74,
+          "text": "的",
+          "probability": 0.5651
+        },
+        {
+          "time": 142.2,
+          "end": 142.5,
+          "text": "高",
+          "probability": 0.8607
+        },
+        {
+          "time": 142.52,
+          "end": 143.7,
+          "text": "雄",
+          "probability": 0.0784
+        },
+        {
+          "time": 144.54,
+          "end": 144.84,
+          "text": "天",
+          "probability": 0.1153
+        },
+        {
+          "time": 144.92,
+          "end": 145.22,
+          "text": "生",
+          "probability": 0.8871
+        },
+        {
+          "time": 145.42,
+          "end": 145.72,
+          "text": "的",
+          "probability": 0.6131
+        },
+        {
+          "time": 146.28,
+          "end": 146.58,
+          "text": "土",
+          "probability": 0.3325
+        }
+      ]
+    },
+    {
+      "time": 146.58,
+      "end": 151.5,
+      "text": "壮我靠住的高雄",
+      "words": [
+        {
+          "time": 146.58,
+          "end": 147.04,
+          "text": "壮",
+          "probability": 0.3646
+        },
+        {
+          "time": 147.64,
+          "end": 147.94,
+          "text": "我",
+          "probability": 0.9956
+        },
+        {
+          "time": 148.04,
+          "end": 148.64,
+          "text": "靠",
+          "probability": 1.0
+        },
+        {
+          "time": 148.86,
+          "end": 149.16,
+          "text": "住",
+          "probability": 0.9961
+        },
+        {
+          "time": 149.6,
+          "end": 149.9,
+          "text": "的",
+          "probability": 0.999
+        },
+        {
+          "time": 150.58,
+          "end": 150.88,
+          "text": "高",
+          "probability": 0.999
+        },
+        {
+          "time": 150.92,
+          "end": 151.5,
+          "text": "雄",
+          "probability": 0.991
+        }
+      ]
+    },
+    {
+      "time": 181.84,
+      "end": 182.16,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 181.84,
+          "end": 182.14,
+          "text": "优",
+          "probability": 0.3102
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "优",
+          "probability": 0.9935
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "独",
+          "probability": 0.9893
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "播",
+          "probability": 0.9892
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "剧",
+          "probability": 0.9896
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "场",
+          "probability": 0.9899
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "——",
+          "probability": 0.9949
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "Yo",
+          "probability": 0.9924
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "Yo",
+          "probability": 0.9936
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": " Television",
+          "probability": 0.9762
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": " Series",
+          "probability": 0.9896
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": " Exc",
+          "probability": 0.9925
+        },
+        {
+          "time": 181.86,
+          "end": 182.16,
+          "text": "lusive",
+          "probability": 0.9929
+        }
+      ]
+    }
+  ]
+}

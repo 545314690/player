@@ -1,0 +1,104 @@
+{
+  "id": "sd25962837717",
+  "file": "007别怕路艰难.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "22461",
+      "offset": -21.965,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.772995,
+      "windows": [
+        {
+          "localStart": 39.288,
+          "sourceStart": 17.515,
+          "offset": -21.7725,
+          "coefficient": 0.057783
+        },
+        {
+          "localStart": 62.861,
+          "sourceStart": 40.437,
+          "offset": -22.4245,
+          "coefficient": 0.028431
+        },
+        {
+          "localStart": 86.434,
+          "sourceStart": 64.237,
+          "offset": -22.1975,
+          "coefficient": 0.042428
+        },
+        {
+          "localStart": 110.007,
+          "sourceStart": 86.681,
+          "offset": -23.3255,
+          "coefficient": 0.047716
+        },
+        {
+          "localStart": 133.579,
+          "sourceStart": 112.303,
+          "offset": -21.2765,
+          "coefficient": 0.079177
+        },
+        {
+          "localStart": 157.153,
+          "sourceStart": 135.643,
+          "offset": -21.51,
+          "coefficient": 0.044373
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "25099",
+      "offset": -75.32,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.309709,
+      "windows": [
+        {
+          "localStart": 86.434,
+          "sourceStart": 11.694,
+          "offset": -74.7395,
+          "coefficient": 0.110419
+        },
+        {
+          "localStart": 110.007,
+          "sourceStart": 36.352,
+          "offset": -73.655,
+          "coefficient": 0.033773
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "30413",
+      "offset": -118.51,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.396715,
+      "windows": [
+        {
+          "localStart": 133.579,
+          "sourceStart": 16.587,
+          "offset": -116.9925,
+          "coefficient": 0.038691
+        },
+        {
+          "localStart": 157.153,
+          "sourceStart": 37.667,
+          "offset": -119.485,
+          "coefficient": 0.039511
+        },
+        {
+          "localStart": 176.797,
+          "sourceStart": 57.785,
+          "offset": -119.011,
+          "coefficient": 0.027037
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

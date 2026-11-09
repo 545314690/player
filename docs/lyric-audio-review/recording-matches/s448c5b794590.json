@@ -1,0 +1,125 @@
+{
+  "id": "s448c5b794590",
+  "file": "060荣耀归主名_女声.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "20047",
+    "url": "https://www.izanmei.cc/song/20047.html",
+    "audio": "https://play.izanm.org/song/p/20047.mp3",
+    "offset": 0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 15.36,
+        "sourceStart": 15.36,
+        "offset": 0.0,
+        "coefficient": 0.998834
+      },
+      {
+        "localStart": 38.4,
+        "sourceStart": 38.4,
+        "offset": 0.0,
+        "coefficient": 0.999457
+      },
+      {
+        "localStart": 61.44,
+        "sourceStart": 61.44,
+        "offset": 0.0,
+        "coefficient": 0.998792
+      },
+      {
+        "localStart": 84.48,
+        "sourceStart": 84.48,
+        "offset": 0.0,
+        "coefficient": 0.999115
+      },
+      {
+        "localStart": 107.52,
+        "sourceStart": 107.52,
+        "offset": 0.0,
+        "coefficient": 0.998301
+      },
+      {
+        "localStart": 130.56,
+        "sourceStart": 130.56,
+        "offset": 0.0,
+        "coefficient": 0.999586
+      },
+      {
+        "localStart": 153.6,
+        "sourceStart": 153.6,
+        "offset": 0.0,
+        "coefficient": 0.999079
+      },
+      {
+        "localStart": 172.8,
+        "sourceStart": 172.8,
+        "offset": 0.0,
+        "coefficient": 0.999006
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "20047",
+      "offset": 0.0,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 15.36,
+          "sourceStart": 15.36,
+          "offset": 0.0,
+          "coefficient": 0.998834
+        },
+        {
+          "localStart": 38.4,
+          "sourceStart": 38.4,
+          "offset": 0.0,
+          "coefficient": 0.999457
+        },
+        {
+          "localStart": 61.44,
+          "sourceStart": 61.44,
+          "offset": 0.0,
+          "coefficient": 0.998792
+        },
+        {
+          "localStart": 84.48,
+          "sourceStart": 84.48,
+          "offset": 0.0,
+          "coefficient": 0.999115
+        },
+        {
+          "localStart": 107.52,
+          "sourceStart": 107.52,
+          "offset": 0.0,
+          "coefficient": 0.998301
+        },
+        {
+          "localStart": 130.56,
+          "sourceStart": 130.56,
+          "offset": 0.0,
+          "coefficient": 0.999586
+        },
+        {
+          "localStart": 153.6,
+          "sourceStart": 153.6,
+          "offset": 0.0,
+          "coefficient": 0.999079
+        },
+        {
+          "localStart": 172.8,
+          "sourceStart": 172.8,
+          "offset": 0.0,
+          "coefficient": 0.999006
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

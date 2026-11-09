@@ -1,0 +1,177 @@
+{
+  "id": "s6e8c2d5a68d5",
+  "file": "065十字架的爱_女声.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "4022",
+    "url": "https://www.izanmei.cc/song/4022.html",
+    "audio": "https://play.izanm.org/song/p/4022.mp3",
+    "offset": 0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 15.63,
+        "sourceStart": 15.63,
+        "offset": 0.0,
+        "coefficient": 0.993888
+      },
+      {
+        "localStart": 39.074,
+        "sourceStart": 39.074,
+        "offset": 0.0,
+        "coefficient": 0.996806
+      },
+      {
+        "localStart": 62.518,
+        "sourceStart": 62.518,
+        "offset": 0.0,
+        "coefficient": 0.992703
+      },
+      {
+        "localStart": 85.963,
+        "sourceStart": 85.963,
+        "offset": 0.0,
+        "coefficient": 0.989407
+      },
+      {
+        "localStart": 109.407,
+        "sourceStart": 109.407,
+        "offset": 0.0,
+        "coefficient": 0.994275
+      },
+      {
+        "localStart": 132.851,
+        "sourceStart": 132.851,
+        "offset": 0.0,
+        "coefficient": 0.992489
+      },
+      {
+        "localStart": 156.296,
+        "sourceStart": 156.296,
+        "offset": 0.0,
+        "coefficient": 0.991969
+      },
+      {
+        "localStart": 175.833,
+        "sourceStart": 175.833,
+        "offset": 0.0,
+        "coefficient": 0.998618
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "22145",
+      "offset": -26.8795,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.804873,
+      "windows": [
+        {
+          "localStart": 39.074,
+          "sourceStart": 12.23,
+          "offset": -26.8435,
+          "coefficient": 0.486775
+        },
+        {
+          "localStart": 62.518,
+          "sourceStart": 35.67,
+          "offset": -26.848,
+          "coefficient": 0.27314
+        },
+        {
+          "localStart": 85.963,
+          "sourceStart": 59.104,
+          "offset": -26.8585,
+          "coefficient": 0.467203
+        },
+        {
+          "localStart": 109.407,
+          "sourceStart": 82.541,
+          "offset": -26.866,
+          "coefficient": 0.580438
+        },
+        {
+          "localStart": 132.851,
+          "sourceStart": 105.981,
+          "offset": -26.871,
+          "coefficient": 0.594075
+        },
+        {
+          "localStart": 156.296,
+          "sourceStart": 129.421,
+          "offset": -26.875,
+          "coefficient": 0.208792
+        },
+        {
+          "localStart": 175.833,
+          "sourceStart": 148.934,
+          "offset": -26.899,
+          "coefficient": 0.528783
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "4022",
+      "offset": 0.0,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 15.63,
+          "sourceStart": 15.63,
+          "offset": 0.0,
+          "coefficient": 0.993888
+        },
+        {
+          "localStart": 39.074,
+          "sourceStart": 39.074,
+          "offset": 0.0,
+          "coefficient": 0.996806
+        },
+        {
+          "localStart": 62.518,
+          "sourceStart": 62.518,
+          "offset": 0.0,
+          "coefficient": 0.992703
+        },
+        {
+          "localStart": 85.963,
+          "sourceStart": 85.963,
+          "offset": 0.0,
+          "coefficient": 0.989407
+        },
+        {
+          "localStart": 109.407,
+          "sourceStart": 109.407,
+          "offset": 0.0,
+          "coefficient": 0.994275
+        },
+        {
+          "localStart": 132.851,
+          "sourceStart": 132.851,
+          "offset": 0.0,
+          "coefficient": 0.992489
+        },
+        {
+          "localStart": 156.296,
+          "sourceStart": 156.296,
+          "offset": 0.0,
+          "coefficient": 0.991969
+        },
+        {
+          "localStart": 175.833,
+          "sourceStart": 175.833,
+          "offset": 0.0,
+          "coefficient": 0.998618
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

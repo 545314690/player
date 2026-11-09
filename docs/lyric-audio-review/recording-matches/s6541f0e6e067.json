@@ -1,0 +1,125 @@
+{
+  "id": "s6541f0e6e067",
+  "file": "244耶和华果然成就大事.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "30355",
+    "url": "https://www.izanmei.cc/song/30355.html",
+    "audio": "https://play.izanm.org/song/p/30355.mp3",
+    "offset": -0.628622,
+    "scale": 1.000001498,
+    "residual": 0.000716,
+    "coverage": 0.998106,
+    "windows": [
+      {
+        "localStart": 26.553,
+        "sourceStart": 25.925,
+        "offset": -0.6285,
+        "coefficient": 0.845351
+      },
+      {
+        "localStart": 66.384,
+        "sourceStart": 65.755,
+        "offset": -0.6285,
+        "coefficient": 0.935361
+      },
+      {
+        "localStart": 106.215,
+        "sourceStart": 105.586,
+        "offset": -0.6285,
+        "coefficient": 0.882286
+      },
+      {
+        "localStart": 146.045,
+        "sourceStart": 145.417,
+        "offset": -0.6285,
+        "coefficient": 0.861659
+      },
+      {
+        "localStart": 185.875,
+        "sourceStart": 185.247,
+        "offset": -0.6285,
+        "coefficient": 0.93637
+      },
+      {
+        "localStart": 225.706,
+        "sourceStart": 225.077,
+        "offset": -0.6285,
+        "coefficient": 0.893455
+      },
+      {
+        "localStart": 265.536,
+        "sourceStart": 264.908,
+        "offset": -0.6285,
+        "coefficient": 0.911562
+      },
+      {
+        "localStart": 298.728,
+        "sourceStart": 298.1,
+        "offset": -0.6285,
+        "coefficient": 0.901413
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "30355",
+      "offset": -0.628622,
+      "scale": 1.000001498,
+      "residual": 0.000716,
+      "coverage": 0.998106,
+      "windows": [
+        {
+          "localStart": 26.553,
+          "sourceStart": 25.925,
+          "offset": -0.6285,
+          "coefficient": 0.845351
+        },
+        {
+          "localStart": 66.384,
+          "sourceStart": 65.755,
+          "offset": -0.6285,
+          "coefficient": 0.935361
+        },
+        {
+          "localStart": 106.215,
+          "sourceStart": 105.586,
+          "offset": -0.6285,
+          "coefficient": 0.882286
+        },
+        {
+          "localStart": 146.045,
+          "sourceStart": 145.417,
+          "offset": -0.6285,
+          "coefficient": 0.861659
+        },
+        {
+          "localStart": 185.875,
+          "sourceStart": 185.247,
+          "offset": -0.6285,
+          "coefficient": 0.93637
+        },
+        {
+          "localStart": 225.706,
+          "sourceStart": 225.077,
+          "offset": -0.6285,
+          "coefficient": 0.893455
+        },
+        {
+          "localStart": 265.536,
+          "sourceStart": 264.908,
+          "offset": -0.6285,
+          "coefficient": 0.911562
+        },
+        {
+          "localStart": 298.728,
+          "sourceStart": 298.1,
+          "offset": -0.6285,
+          "coefficient": 0.901413
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

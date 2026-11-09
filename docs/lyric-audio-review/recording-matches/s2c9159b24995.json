@@ -1,0 +1,125 @@
+{
+  "id": "s2c9159b24995",
+  "file": "189主耶稣被钉在十架上_现场.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "13264",
+    "url": "https://www.izanmei.cc/song/13264.html",
+    "audio": "https://play.izanm.org/song/p/13264.mp3",
+    "offset": 0.024,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 0.999789,
+    "windows": [
+      {
+        "localStart": 19.569,
+        "sourceStart": 19.593,
+        "offset": 0.024,
+        "coefficient": 0.998018
+      },
+      {
+        "localStart": 48.922,
+        "sourceStart": 48.946,
+        "offset": 0.024,
+        "coefficient": 0.998566
+      },
+      {
+        "localStart": 78.275,
+        "sourceStart": 78.299,
+        "offset": 0.024,
+        "coefficient": 0.998655
+      },
+      {
+        "localStart": 107.629,
+        "sourceStart": 107.653,
+        "offset": 0.024,
+        "coefficient": 0.998915
+      },
+      {
+        "localStart": 136.982,
+        "sourceStart": 137.006,
+        "offset": 0.024,
+        "coefficient": 0.998428
+      },
+      {
+        "localStart": 166.336,
+        "sourceStart": 166.36,
+        "offset": 0.024,
+        "coefficient": 0.998065
+      },
+      {
+        "localStart": 195.69,
+        "sourceStart": 195.714,
+        "offset": 0.024,
+        "coefficient": 0.998017
+      },
+      {
+        "localStart": 220.15,
+        "sourceStart": 220.174,
+        "offset": 0.024,
+        "coefficient": 0.997956
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "13264",
+      "offset": 0.024,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 0.999789,
+      "windows": [
+        {
+          "localStart": 19.569,
+          "sourceStart": 19.593,
+          "offset": 0.024,
+          "coefficient": 0.998018
+        },
+        {
+          "localStart": 48.922,
+          "sourceStart": 48.946,
+          "offset": 0.024,
+          "coefficient": 0.998566
+        },
+        {
+          "localStart": 78.275,
+          "sourceStart": 78.299,
+          "offset": 0.024,
+          "coefficient": 0.998655
+        },
+        {
+          "localStart": 107.629,
+          "sourceStart": 107.653,
+          "offset": 0.024,
+          "coefficient": 0.998915
+        },
+        {
+          "localStart": 136.982,
+          "sourceStart": 137.006,
+          "offset": 0.024,
+          "coefficient": 0.998428
+        },
+        {
+          "localStart": 166.336,
+          "sourceStart": 166.36,
+          "offset": 0.024,
+          "coefficient": 0.998065
+        },
+        {
+          "localStart": 195.69,
+          "sourceStart": 195.714,
+          "offset": 0.024,
+          "coefficient": 0.998017
+        },
+        {
+          "localStart": 220.15,
+          "sourceStart": 220.174,
+          "offset": 0.024,
+          "coefficient": 0.997956
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

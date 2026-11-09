@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "27080",
+  "waveform": {
+    "source": "27080",
+    "url": "https://www.izanmei.cc/song/27080.html",
+    "audio": "https://play.izanm.org/song/p/27080.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 23.297,
+        "sourceStart": 23.297,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 58.242,
+        "sourceStart": 58.242,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 93.188,
+        "sourceStart": 93.188,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 128.133,
+        "sourceStart": 128.133,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 163.079,
+        "sourceStart": 163.079,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 198.024,
+        "sourceStart": 198.024,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 232.97,
+        "sourceStart": 232.97,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 262.091,
+        "sourceStart": 262.091,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "s9a31a8845c5f",
+  "file": "313大海中的船.mp3",
+  "fullDuration": 291.2155,
+  "recordingHash": "89f850a61e31cb4eea387acd8e7cf5f24d8ff05f18e30622f61246976b3b376d",
+  "lines": []
+}

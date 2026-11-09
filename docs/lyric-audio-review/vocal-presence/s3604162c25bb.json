@@ -1,0 +1,213 @@
+{
+  "id": "s3604162c25bb",
+  "file": "016.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 21.9,
+      "tags": {
+        "Singing": 0.02015,
+        "Choir": 0.00572,
+        "Speech": 0.02463,
+        "Piano": 0.17506,
+        "Electric piano": 0.08974,
+        "Music": 0.79721,
+        "Musical instrument": 0.17614
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.79721
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.17614
+        },
+        {
+          "label": "Piano",
+          "score": 0.17506
+        },
+        {
+          "label": "New-age music",
+          "score": 0.15844
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.14007
+        }
+      ]
+    },
+    {
+      "time": 47.44,
+      "tags": {
+        "Singing": 0.02788,
+        "Choir": 0.01078,
+        "Speech": 0.02315,
+        "Piano": 0.06031,
+        "Electric piano": 0.03893,
+        "Music": 0.68097,
+        "Musical instrument": 0.06924
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.68097
+        },
+        {
+          "label": "Theme music",
+          "score": 0.10989
+        },
+        {
+          "label": "Background music",
+          "score": 0.09957
+        },
+        {
+          "label": "New-age music",
+          "score": 0.08665
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.06924
+        }
+      ]
+    },
+    {
+      "time": 72.99,
+      "tags": {
+        "Singing": 0.00466,
+        "Choir": 0.00138,
+        "Speech": 0.02905,
+        "Piano": 0.0678,
+        "Electric piano": 0.04371,
+        "Music": 0.76806,
+        "Musical instrument": 0.06643
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.76806
+        },
+        {
+          "label": "New-age music",
+          "score": 0.24385
+        },
+        {
+          "label": "Background music",
+          "score": 0.14234
+        },
+        {
+          "label": "Sad music",
+          "score": 0.11773
+        },
+        {
+          "label": "Theme music",
+          "score": 0.11441
+        }
+      ]
+    },
+    {
+      "time": 98.53,
+      "tags": {
+        "Singing": 0.04426,
+        "Choir": 0.02171,
+        "Speech": 0.03529,
+        "Piano": 0.03475,
+        "Electric piano": 0.01931,
+        "Music": 0.73166,
+        "Musical instrument": 0.05839
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.73166
+        },
+        {
+          "label": "Theme music",
+          "score": 0.17357
+        },
+        {
+          "label": "Background music",
+          "score": 0.10224
+        },
+        {
+          "label": "New-age music",
+          "score": 0.07139
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.05839
+        }
+      ]
+    },
+    {
+      "time": 124.08,
+      "tags": {
+        "Singing": 0.07148,
+        "Choir": 0.03433,
+        "Speech": 0.03129,
+        "Piano": 0.04928,
+        "Electric piano": 0.02334,
+        "Music": 0.7753,
+        "Musical instrument": 0.10146
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.7753
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.10146
+        },
+        {
+          "label": "Singing",
+          "score": 0.07148
+        },
+        {
+          "label": "Christian music",
+          "score": 0.06658
+        },
+        {
+          "label": "Background music",
+          "score": 0.06643
+        }
+      ]
+    },
+    {
+      "time": 149.62,
+      "tags": {
+        "Singing": 0.01602,
+        "Choir": 0.01113,
+        "Speech": 0.01982,
+        "Piano": 0.08413,
+        "Electric piano": 0.04513,
+        "Music": 0.75689,
+        "Musical instrument": 0.0848
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.75689
+        },
+        {
+          "label": "New-age music",
+          "score": 0.12809
+        },
+        {
+          "label": "Ambient music",
+          "score": 0.09603
+        },
+        {
+          "label": "Background music",
+          "score": 0.09498
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.0848
+        }
+      ]
+    }
+  ]
+}

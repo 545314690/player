@@ -1,0 +1,125 @@
+{
+  "id": "sbc116d74ee93",
+  "file": "033给我一颗中国心_庄严_颂诗.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "896",
+    "url": "https://www.izanmei.cc/song/896.html",
+    "audio": "https://play.izanm.org/song/p/896.mp3",
+    "offset": 0.04994,
+    "scale": 0.999999115,
+    "residual": 0.001182,
+    "coverage": 0.999762,
+    "windows": [
+      {
+        "localStart": 34.574,
+        "sourceStart": 34.623,
+        "offset": 0.05,
+        "coefficient": 0.977098
+      },
+      {
+        "localStart": 86.434,
+        "sourceStart": 86.484,
+        "offset": 0.05,
+        "coefficient": 0.922159
+      },
+      {
+        "localStart": 138.294,
+        "sourceStart": 138.345,
+        "offset": 0.05,
+        "coefficient": 0.931905
+      },
+      {
+        "localStart": 190.155,
+        "sourceStart": 190.205,
+        "offset": 0.05,
+        "coefficient": 0.904306
+      },
+      {
+        "localStart": 242.016,
+        "sourceStart": 242.065,
+        "offset": 0.05,
+        "coefficient": 0.95729
+      },
+      {
+        "localStart": 293.876,
+        "sourceStart": 293.926,
+        "offset": 0.05,
+        "coefficient": 0.940425
+      },
+      {
+        "localStart": 345.736,
+        "sourceStart": 345.786,
+        "offset": 0.05,
+        "coefficient": 0.929744
+      },
+      {
+        "localStart": 388.954,
+        "sourceStart": 389.003,
+        "offset": 0.05,
+        "coefficient": 0.968395
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "896",
+      "offset": 0.04994,
+      "scale": 0.999999115,
+      "residual": 0.001182,
+      "coverage": 0.999762,
+      "windows": [
+        {
+          "localStart": 34.574,
+          "sourceStart": 34.623,
+          "offset": 0.05,
+          "coefficient": 0.977098
+        },
+        {
+          "localStart": 86.434,
+          "sourceStart": 86.484,
+          "offset": 0.05,
+          "coefficient": 0.922159
+        },
+        {
+          "localStart": 138.294,
+          "sourceStart": 138.345,
+          "offset": 0.05,
+          "coefficient": 0.931905
+        },
+        {
+          "localStart": 190.155,
+          "sourceStart": 190.205,
+          "offset": 0.05,
+          "coefficient": 0.904306
+        },
+        {
+          "localStart": 242.016,
+          "sourceStart": 242.065,
+          "offset": 0.05,
+          "coefficient": 0.95729
+        },
+        {
+          "localStart": 293.876,
+          "sourceStart": 293.926,
+          "offset": 0.05,
+          "coefficient": 0.940425
+        },
+        {
+          "localStart": 345.736,
+          "sourceStart": 345.786,
+          "offset": 0.05,
+          "coefficient": 0.929744
+        },
+        {
+          "localStart": 388.954,
+          "sourceStart": 389.003,
+          "offset": 0.05,
+          "coefficient": 0.968395
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

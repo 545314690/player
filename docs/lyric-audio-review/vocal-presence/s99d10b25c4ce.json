@@ -1,0 +1,213 @@
+{
+  "id": "s99d10b25c4ce",
+  "file": "004阿爸父.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 51.0,
+      "tags": {
+        "Singing": 0.26604,
+        "Choir": 0.01506,
+        "Speech": 0.01775,
+        "Piano": 0.01901,
+        "Electric piano": 0.00288,
+        "Music": 0.83467,
+        "Musical instrument": 0.08715
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.83467
+        },
+        {
+          "label": "Humming",
+          "score": 0.28575
+        },
+        {
+          "label": "Singing",
+          "score": 0.26604
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.23422
+        },
+        {
+          "label": "Opera",
+          "score": 0.11346
+        }
+      ]
+    },
+    {
+      "time": 110.51,
+      "tags": {
+        "Singing": 0.13198,
+        "Choir": 0.00727,
+        "Speech": 0.02885,
+        "Piano": 0.05428,
+        "Electric piano": 0.01407,
+        "Music": 0.78318,
+        "Musical instrument": 0.08667
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.78318
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.17068
+        },
+        {
+          "label": "Humming",
+          "score": 0.16731
+        },
+        {
+          "label": "Singing",
+          "score": 0.13198
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.08667
+        }
+      ]
+    },
+    {
+      "time": 170.02,
+      "tags": {
+        "Singing": 0.00322,
+        "Choir": 0.00089,
+        "Speech": 0.02436,
+        "Piano": 0.15569,
+        "Electric piano": 0.13984,
+        "Music": 0.64132,
+        "Musical instrument": 0.0605
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.64132
+        },
+        {
+          "label": "New-age music",
+          "score": 0.35009
+        },
+        {
+          "label": "Ambient music",
+          "score": 0.20752
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.18385
+        },
+        {
+          "label": "Piano",
+          "score": 0.15569
+        }
+      ]
+    },
+    {
+      "time": 229.52,
+      "tags": {
+        "Singing": 0.20751,
+        "Choir": 0.04465,
+        "Speech": 0.01426,
+        "Piano": 0.02549,
+        "Electric piano": 0.00693,
+        "Music": 0.78121,
+        "Musical instrument": 0.04062
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.78121
+        },
+        {
+          "label": "Singing",
+          "score": 0.20751
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.1265
+        },
+        {
+          "label": "Opera",
+          "score": 0.11518
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.0868
+        }
+      ]
+    },
+    {
+      "time": 289.03,
+      "tags": {
+        "Singing": 0.21043,
+        "Choir": 0.05099,
+        "Speech": 0.01792,
+        "Piano": 0.01746,
+        "Electric piano": 0.00487,
+        "Music": 0.80919,
+        "Musical instrument": 0.04529
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.80919
+        },
+        {
+          "label": "Singing",
+          "score": 0.21043
+        },
+        {
+          "label": "Christian music",
+          "score": 0.12087
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.10971
+        },
+        {
+          "label": "Opera",
+          "score": 0.09634
+        }
+      ]
+    },
+    {
+      "time": 348.53,
+      "tags": {
+        "Singing": 0.2421,
+        "Choir": 0.03858,
+        "Speech": 0.00858,
+        "Piano": 0.03173,
+        "Electric piano": 0.00563,
+        "Music": 0.81111,
+        "Musical instrument": 0.0533
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.81111
+        },
+        {
+          "label": "Opera",
+          "score": 0.41739
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.25371
+        },
+        {
+          "label": "Singing",
+          "score": 0.2421
+        },
+        {
+          "label": "Humming",
+          "score": 0.20361
+        }
+      ]
+    }
+  ]
+}

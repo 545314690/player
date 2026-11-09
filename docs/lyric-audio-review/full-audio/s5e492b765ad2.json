@@ -1,0 +1,820 @@
+{
+  "id": "s5e492b765ad2",
+  "file": "020-.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "e7f27382e731d940333881b4758bc1e69febede14d586e1e5ad9214f41aace33",
+  "fullDuration": 96.470125,
+  "lines": [
+    {
+      "time": 12.04,
+      "end": 17.8,
+      "text": "曾有一双手眺望着聪明像明",
+      "words": [
+        {
+          "time": 12.04,
+          "end": 12.34,
+          "text": "曾",
+          "probability": 0.2418
+        },
+        {
+          "time": 12.74,
+          "end": 13.04,
+          "text": "有一",
+          "probability": 0.4276
+        },
+        {
+          "time": 13.36,
+          "end": 13.94,
+          "text": "双",
+          "probability": 0.6691
+        },
+        {
+          "time": 14.06,
+          "end": 14.36,
+          "text": "手",
+          "probability": 0.9886
+        },
+        {
+          "time": 14.5,
+          "end": 14.92,
+          "text": "眺",
+          "probability": 0.7071
+        },
+        {
+          "time": 14.96,
+          "end": 15.26,
+          "text": "望",
+          "probability": 0.9983
+        },
+        {
+          "time": 15.5,
+          "end": 15.8,
+          "text": "着",
+          "probability": 0.8938
+        },
+        {
+          "time": 15.78,
+          "end": 16.26,
+          "text": "聪",
+          "probability": 0.791
+        },
+        {
+          "time": 16.48,
+          "end": 16.78,
+          "text": "明",
+          "probability": 0.997
+        },
+        {
+          "time": 17.02,
+          "end": 17.32,
+          "text": "像",
+          "probability": 0.1857
+        },
+        {
+          "time": 17.5,
+          "end": 17.8,
+          "text": "明",
+          "probability": 0.6869
+        }
+      ]
+    },
+    {
+      "time": 17.94,
+      "end": 19.96,
+      "text": "天光环温然一世",
+      "words": [
+        {
+          "time": 17.94,
+          "end": 18.24,
+          "text": "天",
+          "probability": 0.7974
+        },
+        {
+          "time": 18.26,
+          "end": 18.56,
+          "text": "光",
+          "probability": 0.4979
+        },
+        {
+          "time": 18.54,
+          "end": 18.9,
+          "text": "环",
+          "probability": 0.5359
+        },
+        {
+          "time": 18.82,
+          "end": 19.24,
+          "text": "温",
+          "probability": 0.1565
+        },
+        {
+          "time": 18.94,
+          "end": 19.24,
+          "text": "然",
+          "probability": 0.1364
+        },
+        {
+          "time": 19.22,
+          "end": 19.52,
+          "text": "一",
+          "probability": 0.4342
+        },
+        {
+          "time": 19.66,
+          "end": 19.96,
+          "text": "世",
+          "probability": 0.5242
+        }
+      ]
+    },
+    {
+      "time": 22.02,
+      "end": 28.16,
+      "text": "他奇妙的手长不回走我的草",
+      "words": [
+        {
+          "time": 22.02,
+          "end": 22.32,
+          "text": "他",
+          "probability": 0.5992
+        },
+        {
+          "time": 22.38,
+          "end": 22.68,
+          "text": "奇",
+          "probability": 0.7539
+        },
+        {
+          "time": 22.86,
+          "end": 23.28,
+          "text": "妙",
+          "probability": 0.9835
+        },
+        {
+          "time": 23.26,
+          "end": 23.56,
+          "text": "的",
+          "probability": 0.5837
+        },
+        {
+          "time": 23.9,
+          "end": 24.2,
+          "text": "手",
+          "probability": 0.6005
+        },
+        {
+          "time": 24.5,
+          "end": 24.8,
+          "text": "长",
+          "probability": 0.3126
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "不",
+          "probability": 0.1769
+        },
+        {
+          "time": 25.42,
+          "end": 25.72,
+          "text": "回",
+          "probability": 0.2626
+        },
+        {
+          "time": 25.88,
+          "end": 26.18,
+          "text": "走",
+          "probability": 0.4772
+        },
+        {
+          "time": 27.1,
+          "end": 27.4,
+          "text": "我的",
+          "probability": 0.0881
+        },
+        {
+          "time": 27.78,
+          "end": 28.16,
+          "text": "草",
+          "probability": 0.2318
+        }
+      ]
+    },
+    {
+      "time": 28.34,
+      "end": 29.98,
+      "text": "香荒泥",
+      "words": [
+        {
+          "time": 28.34,
+          "end": 28.64,
+          "text": "香",
+          "probability": 0.5583
+        },
+        {
+          "time": 28.86,
+          "end": 29.46,
+          "text": "荒",
+          "probability": 0.2361
+        },
+        {
+          "time": 29.54,
+          "end": 29.98,
+          "text": "泥",
+          "probability": 0.4619
+        }
+      ]
+    },
+    {
+      "time": 31.96,
+      "end": 38.1,
+      "text": "奇妙的恩典让我又得着爱好的",
+      "words": [
+        {
+          "time": 31.96,
+          "end": 32.26,
+          "text": "奇",
+          "probability": 0.9631
+        },
+        {
+          "time": 32.28,
+          "end": 32.84,
+          "text": "妙",
+          "probability": 0.996
+        },
+        {
+          "time": 32.94,
+          "end": 33.24,
+          "text": "的",
+          "probability": 0.9713
+        },
+        {
+          "time": 33.48,
+          "end": 33.78,
+          "text": "恩",
+          "probability": 0.9119
+        },
+        {
+          "time": 33.8,
+          "end": 34.28,
+          "text": "典",
+          "probability": 0.8858
+        },
+        {
+          "time": 34.5,
+          "end": 34.8,
+          "text": "让",
+          "probability": 0.3731
+        },
+        {
+          "time": 35.0,
+          "end": 35.3,
+          "text": "我",
+          "probability": 0.4386
+        },
+        {
+          "time": 35.46,
+          "end": 35.76,
+          "text": "又",
+          "probability": 0.2725
+        },
+        {
+          "time": 35.82,
+          "end": 36.12,
+          "text": "得",
+          "probability": 0.4811
+        },
+        {
+          "time": 36.48,
+          "end": 36.78,
+          "text": "着",
+          "probability": 0.2084
+        },
+        {
+          "time": 37.08,
+          "end": 37.38,
+          "text": "爱",
+          "probability": 0.3058
+        },
+        {
+          "time": 37.8,
+          "end": 38.1,
+          "text": "好的",
+          "probability": 0.9541
+        }
+      ]
+    },
+    {
+      "time": 38.3,
+      "end": 40.04,
+      "text": "心生命",
+      "words": [
+        {
+          "time": 38.3,
+          "end": 38.6,
+          "text": "心",
+          "probability": 0.3832
+        },
+        {
+          "time": 39.04,
+          "end": 39.34,
+          "text": "生",
+          "probability": 0.9458
+        },
+        {
+          "time": 39.74,
+          "end": 40.04,
+          "text": "命",
+          "probability": 0.9529
+        }
+      ]
+    },
+    {
+      "time": 42.14,
+      "end": 47.94,
+      "text": "我永远歌手我永远赞美你那",
+      "words": [
+        {
+          "time": 42.14,
+          "end": 42.44,
+          "text": "我",
+          "probability": 0.9903
+        },
+        {
+          "time": 42.56,
+          "end": 42.86,
+          "text": "永",
+          "probability": 0.9962
+        },
+        {
+          "time": 43.0,
+          "end": 43.4,
+          "text": "远",
+          "probability": 0.9982
+        },
+        {
+          "time": 43.5,
+          "end": 43.8,
+          "text": "歌",
+          "probability": 0.5709
+        },
+        {
+          "time": 44.04,
+          "end": 44.34,
+          "text": "手",
+          "probability": 0.4368
+        },
+        {
+          "time": 44.64,
+          "end": 44.94,
+          "text": "我",
+          "probability": 0.9984
+        },
+        {
+          "time": 45.06,
+          "end": 45.36,
+          "text": "永",
+          "probability": 0.9996
+        },
+        {
+          "time": 45.52,
+          "end": 45.9,
+          "text": "远",
+          "probability": 0.9998
+        },
+        {
+          "time": 45.92,
+          "end": 46.48,
+          "text": "赞",
+          "probability": 0.8712
+        },
+        {
+          "time": 46.58,
+          "end": 46.88,
+          "text": "美",
+          "probability": 0.5504
+        },
+        {
+          "time": 47.22,
+          "end": 47.52,
+          "text": "你",
+          "probability": 0.4922
+        },
+        {
+          "time": 47.64,
+          "end": 47.94,
+          "text": "那",
+          "probability": 0.8393
+        }
+      ]
+    },
+    {
+      "time": 48.06,
+      "end": 50.08,
+      "text": "奇妙的双手",
+      "words": [
+        {
+          "time": 48.06,
+          "end": 48.36,
+          "text": "奇",
+          "probability": 0.999
+        },
+        {
+          "time": 48.32,
+          "end": 48.72,
+          "text": "妙",
+          "probability": 0.9991
+        },
+        {
+          "time": 48.72,
+          "end": 49.02,
+          "text": "的",
+          "probability": 0.9964
+        },
+        {
+          "time": 49.0,
+          "end": 49.6,
+          "text": "双",
+          "probability": 0.8021
+        },
+        {
+          "time": 49.78,
+          "end": 50.08,
+          "text": "手",
+          "probability": 0.9138
+        }
+      ]
+    },
+    {
+      "time": 52.76,
+      "end": 53.06,
+      "text": "哦",
+      "words": [
+        {
+          "time": 52.76,
+          "end": 53.06,
+          "text": "哦",
+          "probability": 0.3016
+        }
+      ]
+    },
+    {
+      "time": 54.78,
+      "end": 55.34,
+      "text": "祝",
+      "words": [
+        {
+          "time": 54.78,
+          "end": 55.34,
+          "text": "祝",
+          "probability": 0.1654
+        }
+      ]
+    },
+    {
+      "time": 57.38,
+      "end": 60.18,
+      "text": "你那奇妙的双手",
+      "words": [
+        {
+          "time": 57.38,
+          "end": 57.68,
+          "text": "你",
+          "probability": 0.8263
+        },
+        {
+          "time": 57.78,
+          "end": 58.08,
+          "text": "那",
+          "probability": 0.994
+        },
+        {
+          "time": 58.0,
+          "end": 58.3,
+          "text": "奇",
+          "probability": 0.9779
+        },
+        {
+          "time": 58.26,
+          "end": 58.64,
+          "text": "妙",
+          "probability": 0.9963
+        },
+        {
+          "time": 58.66,
+          "end": 58.96,
+          "text": "的",
+          "probability": 0.997
+        },
+        {
+          "time": 59.22,
+          "end": 59.86,
+          "text": "双",
+          "probability": 0.9423
+        },
+        {
+          "time": 59.88,
+          "end": 60.18,
+          "text": "手",
+          "probability": 0.9917
+        }
+      ]
+    },
+    {
+      "time": 62.5,
+      "end": 62.8,
+      "text": "哦",
+      "words": [
+        {
+          "time": 62.5,
+          "end": 62.8,
+          "text": "哦",
+          "probability": 0.9797
+        }
+      ]
+    },
+    {
+      "time": 65.08,
+      "end": 65.76,
+      "text": "祝",
+      "words": [
+        {
+          "time": 65.08,
+          "end": 65.76,
+          "text": "祝",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 67.64,
+      "end": 70.5,
+      "text": "你那奇妙的双手",
+      "words": [
+        {
+          "time": 67.64,
+          "end": 67.94,
+          "text": "你",
+          "probability": 0.9974
+        },
+        {
+          "time": 67.94,
+          "end": 68.24,
+          "text": "那",
+          "probability": 0.9988
+        },
+        {
+          "time": 68.24,
+          "end": 68.54,
+          "text": "奇",
+          "probability": 0.9999
+        },
+        {
+          "time": 68.5,
+          "end": 68.88,
+          "text": "妙",
+          "probability": 0.9999
+        },
+        {
+          "time": 68.98,
+          "end": 69.28,
+          "text": "的",
+          "probability": 1.0
+        },
+        {
+          "time": 69.46,
+          "end": 70.1,
+          "text": "双",
+          "probability": 0.9998
+        },
+        {
+          "time": 70.2,
+          "end": 70.5,
+          "text": "手",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 72.68,
+      "end": 78.9,
+      "text": "奇妙的恩典在我又读着美好的",
+      "words": [
+        {
+          "time": 72.68,
+          "end": 72.98,
+          "text": "奇",
+          "probability": 0.5457
+        },
+        {
+          "time": 73.0,
+          "end": 73.54,
+          "text": "妙",
+          "probability": 0.9998
+        },
+        {
+          "time": 73.64,
+          "end": 73.94,
+          "text": "的",
+          "probability": 0.9989
+        },
+        {
+          "time": 74.2,
+          "end": 74.5,
+          "text": "恩",
+          "probability": 0.9928
+        },
+        {
+          "time": 74.52,
+          "end": 74.98,
+          "text": "典",
+          "probability": 0.9775
+        },
+        {
+          "time": 75.24,
+          "end": 75.54,
+          "text": "在",
+          "probability": 0.7888
+        },
+        {
+          "time": 75.68,
+          "end": 75.98,
+          "text": "我",
+          "probability": 0.7062
+        },
+        {
+          "time": 76.2,
+          "end": 76.5,
+          "text": "又",
+          "probability": 0.6525
+        },
+        {
+          "time": 76.5,
+          "end": 76.98,
+          "text": "读",
+          "probability": 0.2019
+        },
+        {
+          "time": 77.24,
+          "end": 77.54,
+          "text": "着",
+          "probability": 0.3721
+        },
+        {
+          "time": 77.84,
+          "end": 78.14,
+          "text": "美",
+          "probability": 0.6515
+        },
+        {
+          "time": 78.6,
+          "end": 78.9,
+          "text": "好的",
+          "probability": 0.9962
+        }
+      ]
+    },
+    {
+      "time": 79.04,
+      "end": 80.9,
+      "text": "牺牲命",
+      "words": [
+        {
+          "time": 79.04,
+          "end": 79.54,
+          "text": "牺",
+          "probability": 0.158
+        },
+        {
+          "time": 79.68,
+          "end": 80.28,
+          "text": "牲",
+          "probability": 0.895
+        },
+        {
+          "time": 80.6,
+          "end": 80.9,
+          "text": "命",
+          "probability": 0.1994
+        }
+      ]
+    },
+    {
+      "time": 82.94,
+      "end": 88.84,
+      "text": "我永远歌手 我永远赞美你那",
+      "words": [
+        {
+          "time": 82.94,
+          "end": 83.24,
+          "text": "我",
+          "probability": 0.9652
+        },
+        {
+          "time": 83.64,
+          "end": 83.94,
+          "text": "永",
+          "probability": 0.9977
+        },
+        {
+          "time": 83.82,
+          "end": 84.2,
+          "text": "远",
+          "probability": 0.9903
+        },
+        {
+          "time": 84.34,
+          "end": 84.64,
+          "text": "歌",
+          "probability": 0.9586
+        },
+        {
+          "time": 84.82,
+          "end": 85.12,
+          "text": "手",
+          "probability": 0.2594
+        },
+        {
+          "time": 85.4,
+          "end": 85.7,
+          "text": " 我",
+          "probability": 0.6788
+        },
+        {
+          "time": 85.8,
+          "end": 86.1,
+          "text": "永",
+          "probability": 0.9995
+        },
+        {
+          "time": 86.32,
+          "end": 86.68,
+          "text": "远",
+          "probability": 0.9994
+        },
+        {
+          "time": 86.74,
+          "end": 87.32,
+          "text": "赞",
+          "probability": 0.4893
+        },
+        {
+          "time": 87.42,
+          "end": 87.72,
+          "text": "美",
+          "probability": 0.1211
+        },
+        {
+          "time": 88.08,
+          "end": 88.38,
+          "text": "你",
+          "probability": 0.6076
+        },
+        {
+          "time": 88.54,
+          "end": 88.84,
+          "text": "那",
+          "probability": 0.9706
+        }
+      ]
+    },
+    {
+      "time": 88.98,
+      "end": 91.02,
+      "text": "奇妙的双手",
+      "words": [
+        {
+          "time": 88.98,
+          "end": 89.28,
+          "text": "奇",
+          "probability": 0.9266
+        },
+        {
+          "time": 89.24,
+          "end": 89.64,
+          "text": "妙",
+          "probability": 0.9854
+        },
+        {
+          "time": 89.64,
+          "end": 89.94,
+          "text": "的",
+          "probability": 0.9925
+        },
+        {
+          "time": 89.92,
+          "end": 90.56,
+          "text": "双",
+          "probability": 0.2098
+        },
+        {
+          "time": 90.72,
+          "end": 91.02,
+          "text": "手",
+          "probability": 0.672
+        }
+      ]
+    }
+  ]
+}

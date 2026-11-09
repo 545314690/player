@@ -1,0 +1,1353 @@
+{
+  "id": "s31a1898267cf",
+  "file": "268耶稣是主.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "37b1f485e9c4ef17be052b376e7defdd15da4c0086b9bee0da77e1b345ef18a9",
+  "fullDuration": 109.770625,
+  "lines": [
+    {
+      "time": 18.98,
+      "end": 24.74,
+      "text": "作词:李宗盛像小柳的秘密因为之朝天夜市是只",
+      "words": [
+        {
+          "time": 18.98,
+          "end": 19.28,
+          "text": "作",
+          "probability": 0.0435
+        },
+        {
+          "time": 18.98,
+          "end": 19.28,
+          "text": "词",
+          "probability": 0.3938
+        },
+        {
+          "time": 18.98,
+          "end": 19.28,
+          "text": ":",
+          "probability": 0.855
+        },
+        {
+          "time": 18.98,
+          "end": 19.28,
+          "text": "李",
+          "probability": 0.035
+        },
+        {
+          "time": 18.98,
+          "end": 19.28,
+          "text": "宗",
+          "probability": 0.4053
+        },
+        {
+          "time": 18.98,
+          "end": 19.28,
+          "text": "盛",
+          "probability": 0.6729
+        },
+        {
+          "time": 18.98,
+          "end": 19.28,
+          "text": "像",
+          "probability": 0.1997
+        },
+        {
+          "time": 19.28,
+          "end": 19.58,
+          "text": "小",
+          "probability": 0.4057
+        },
+        {
+          "time": 19.48,
+          "end": 19.78,
+          "text": "柳",
+          "probability": 0.1473
+        },
+        {
+          "time": 19.8,
+          "end": 20.1,
+          "text": "的",
+          "probability": 0.0836
+        },
+        {
+          "time": 20.24,
+          "end": 20.54,
+          "text": "秘",
+          "probability": 0.064
+        },
+        {
+          "time": 20.32,
+          "end": 20.62,
+          "text": "密",
+          "probability": 0.8289
+        },
+        {
+          "time": 20.8,
+          "end": 21.1,
+          "text": "因为",
+          "probability": 0.1586
+        },
+        {
+          "time": 21.04,
+          "end": 21.34,
+          "text": "之",
+          "probability": 0.1163
+        },
+        {
+          "time": 21.5,
+          "end": 21.8,
+          "text": "朝",
+          "probability": 0.5706
+        },
+        {
+          "time": 22.18,
+          "end": 22.48,
+          "text": "天",
+          "probability": 0.1529
+        },
+        {
+          "time": 23.5,
+          "end": 23.8,
+          "text": "夜",
+          "probability": 0.1275
+        },
+        {
+          "time": 23.68,
+          "end": 23.98,
+          "text": "市",
+          "probability": 0.2659
+        },
+        {
+          "time": 24.04,
+          "end": 24.34,
+          "text": "是",
+          "probability": 0.2205
+        },
+        {
+          "time": 24.44,
+          "end": 24.74,
+          "text": "只",
+          "probability": 0.0466
+        }
+      ]
+    },
+    {
+      "time": 26.02,
+      "end": 27.32,
+      "text": "夜市是只",
+      "words": [
+        {
+          "time": 26.02,
+          "end": 26.32,
+          "text": "夜",
+          "probability": 0.995
+        },
+        {
+          "time": 26.24,
+          "end": 26.54,
+          "text": "市",
+          "probability": 0.9987
+        },
+        {
+          "time": 26.58,
+          "end": 26.88,
+          "text": "是",
+          "probability": 0.9943
+        },
+        {
+          "time": 27.02,
+          "end": 27.32,
+          "text": "只",
+          "probability": 0.9934
+        }
+      ]
+    },
+    {
+      "time": 29.06,
+      "end": 34.56,
+      "text": "万德多要来清起尽百周为止耶",
+      "words": [
+        {
+          "time": 29.06,
+          "end": 29.36,
+          "text": "万",
+          "probability": 0.1486
+        },
+        {
+          "time": 29.22,
+          "end": 29.52,
+          "text": "德",
+          "probability": 0.0764
+        },
+        {
+          "time": 29.5,
+          "end": 29.8,
+          "text": "多",
+          "probability": 0.2424
+        },
+        {
+          "time": 30.0,
+          "end": 30.3,
+          "text": "要",
+          "probability": 0.2787
+        },
+        {
+          "time": 30.46,
+          "end": 30.76,
+          "text": "来",
+          "probability": 0.7163
+        },
+        {
+          "time": 30.88,
+          "end": 31.18,
+          "text": "清",
+          "probability": 0.0697
+        },
+        {
+          "time": 31.7,
+          "end": 32.0,
+          "text": "起",
+          "probability": 0.146
+        },
+        {
+          "time": 31.96,
+          "end": 32.36,
+          "text": "尽",
+          "probability": 0.2347
+        },
+        {
+          "time": 32.38,
+          "end": 32.68,
+          "text": "百",
+          "probability": 0.2604
+        },
+        {
+          "time": 32.66,
+          "end": 32.96,
+          "text": "周",
+          "probability": 0.3992
+        },
+        {
+          "time": 33.0,
+          "end": 33.3,
+          "text": "为",
+          "probability": 0.7482
+        },
+        {
+          "time": 33.44,
+          "end": 33.74,
+          "text": "止",
+          "probability": 0.7942
+        },
+        {
+          "time": 34.26,
+          "end": 34.56,
+          "text": "耶",
+          "probability": 0.6227
+        }
+      ]
+    },
+    {
+      "time": 34.68,
+      "end": 40.06,
+      "text": "士师环游无地址耶士师师",
+      "words": [
+        {
+          "time": 34.68,
+          "end": 34.98,
+          "text": "士",
+          "probability": 0.1088
+        },
+        {
+          "time": 35.32,
+          "end": 35.62,
+          "text": "师",
+          "probability": 0.3063
+        },
+        {
+          "time": 35.78,
+          "end": 36.16,
+          "text": "环",
+          "probability": 0.5252
+        },
+        {
+          "time": 36.1,
+          "end": 36.48,
+          "text": "游",
+          "probability": 0.325
+        },
+        {
+          "time": 36.5,
+          "end": 36.8,
+          "text": "无",
+          "probability": 0.152
+        },
+        {
+          "time": 36.82,
+          "end": 37.12,
+          "text": "地",
+          "probability": 0.3891
+        },
+        {
+          "time": 37.1,
+          "end": 37.52,
+          "text": "址",
+          "probability": 0.2993
+        },
+        {
+          "time": 38.7,
+          "end": 39.0,
+          "text": "耶",
+          "probability": 0.9794
+        },
+        {
+          "time": 39.04,
+          "end": 39.34,
+          "text": "士",
+          "probability": 0.9662
+        },
+        {
+          "time": 39.36,
+          "end": 39.66,
+          "text": "师",
+          "probability": 0.9134
+        },
+        {
+          "time": 39.76,
+          "end": 40.06,
+          "text": "师",
+          "probability": 0.2096
+        }
+      ]
+    },
+    {
+      "time": 41.3,
+      "end": 42.76,
+      "text": "耶士师师",
+      "words": [
+        {
+          "time": 41.3,
+          "end": 41.6,
+          "text": "耶",
+          "probability": 0.9222
+        },
+        {
+          "time": 41.58,
+          "end": 41.88,
+          "text": "士",
+          "probability": 0.9976
+        },
+        {
+          "time": 41.98,
+          "end": 42.28,
+          "text": "师",
+          "probability": 0.9961
+        },
+        {
+          "time": 42.46,
+          "end": 42.76,
+          "text": "师",
+          "probability": 0.9336
+        }
+      ]
+    },
+    {
+      "time": 44.48,
+      "end": 47.8,
+      "text": "天下万无量还我子",
+      "words": [
+        {
+          "time": 44.48,
+          "end": 44.78,
+          "text": "天",
+          "probability": 0.8669
+        },
+        {
+          "time": 45.04,
+          "end": 45.34,
+          "text": "下",
+          "probability": 0.9785
+        },
+        {
+          "time": 45.8,
+          "end": 46.1,
+          "text": "万",
+          "probability": 0.6678
+        },
+        {
+          "time": 46.1,
+          "end": 46.4,
+          "text": "无",
+          "probability": 0.1989
+        },
+        {
+          "time": 46.34,
+          "end": 46.64,
+          "text": "量",
+          "probability": 0.2251
+        },
+        {
+          "time": 46.7,
+          "end": 47.0,
+          "text": "还",
+          "probability": 0.1149
+        },
+        {
+          "time": 47.04,
+          "end": 47.34,
+          "text": "我",
+          "probability": 0.2961
+        },
+        {
+          "time": 47.5,
+          "end": 47.8,
+          "text": "子",
+          "probability": 0.1353
+        }
+      ]
+    },
+    {
+      "time": 49.66,
+      "end": 55.46,
+      "text": "大荣要先赶祝你报仇前耶稣",
+      "words": [
+        {
+          "time": 49.66,
+          "end": 49.96,
+          "text": "大",
+          "probability": 0.4422
+        },
+        {
+          "time": 49.98,
+          "end": 50.64,
+          "text": "荣",
+          "probability": 0.4827
+        },
+        {
+          "time": 50.86,
+          "end": 51.16,
+          "text": "要",
+          "probability": 0.227
+        },
+        {
+          "time": 51.34,
+          "end": 51.64,
+          "text": "先",
+          "probability": 0.2462
+        },
+        {
+          "time": 52.12,
+          "end": 52.44,
+          "text": "赶",
+          "probability": 0.2128
+        },
+        {
+          "time": 52.44,
+          "end": 52.8,
+          "text": "祝",
+          "probability": 0.1184
+        },
+        {
+          "time": 52.82,
+          "end": 53.12,
+          "text": "你",
+          "probability": 0.3544
+        },
+        {
+          "time": 53.14,
+          "end": 53.44,
+          "text": "报",
+          "probability": 0.2565
+        },
+        {
+          "time": 53.38,
+          "end": 53.76,
+          "text": "仇",
+          "probability": 0.3521
+        },
+        {
+          "time": 53.94,
+          "end": 54.24,
+          "text": "前",
+          "probability": 0.4331
+        },
+        {
+          "time": 54.74,
+          "end": 55.04,
+          "text": "耶",
+          "probability": 0.7944
+        },
+        {
+          "time": 55.02,
+          "end": 55.46,
+          "text": "稣",
+          "probability": 0.3037
+        }
+      ]
+    },
+    {
+      "time": 55.98,
+      "end": 60.38,
+      "text": "耶稣耶稣耶稣耶稣",
+      "words": [
+        {
+          "time": 55.98,
+          "end": 56.28,
+          "text": "耶",
+          "probability": 0.9905
+        },
+        {
+          "time": 56.28,
+          "end": 57.6,
+          "text": "稣",
+          "probability": 0.998
+        },
+        {
+          "time": 58.42,
+          "end": 58.72,
+          "text": "耶",
+          "probability": 0.9969
+        },
+        {
+          "time": 58.8,
+          "end": 59.58,
+          "text": "稣",
+          "probability": 0.9993
+        },
+        {
+          "time": 59.88,
+          "end": 60.18,
+          "text": "耶",
+          "probability": 0.6327
+        },
+        {
+          "time": 59.88,
+          "end": 60.18,
+          "text": "稣",
+          "probability": 0.9994
+        },
+        {
+          "time": 60.08,
+          "end": 60.38,
+          "text": "耶",
+          "probability": 0.3642
+        },
+        {
+          "time": 60.08,
+          "end": 60.38,
+          "text": "稣",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 62.46,
+      "end": 63.2,
+      "text": "耶稣耶",
+      "words": [
+        {
+          "time": 62.46,
+          "end": 62.76,
+          "text": "耶",
+          "probability": 0.6841
+        },
+        {
+          "time": 62.62,
+          "end": 63.06,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 62.9,
+          "end": 63.2,
+          "text": "耶",
+          "probability": 0.9104
+        }
+      ]
+    },
+    {
+      "time": 64.42,
+      "end": 67.48,
+      "text": "稣耶稣耶稣",
+      "words": [
+        {
+          "time": 64.42,
+          "end": 64.84,
+          "text": "稣",
+          "probability": 0.9982
+        },
+        {
+          "time": 64.88,
+          "end": 65.18,
+          "text": "耶",
+          "probability": 0.9691
+        },
+        {
+          "time": 64.88,
+          "end": 66.84,
+          "text": "稣",
+          "probability": 0.9981
+        },
+        {
+          "time": 66.88,
+          "end": 67.18,
+          "text": "耶",
+          "probability": 0.9823
+        },
+        {
+          "time": 67.08,
+          "end": 67.48,
+          "text": "稣",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 69.44,
+      "end": 70.66,
+      "text": "耶稣耶稣耶稣",
+      "words": [
+        {
+          "time": 69.44,
+          "end": 69.74,
+          "text": "耶",
+          "probability": 0.9839
+        },
+        {
+          "time": 69.82,
+          "end": 70.12,
+          "text": "稣",
+          "probability": 0.9987
+        },
+        {
+          "time": 70.14,
+          "end": 70.44,
+          "text": "耶",
+          "probability": 0.9791
+        },
+        {
+          "time": 70.14,
+          "end": 70.44,
+          "text": "稣",
+          "probability": 0.9989
+        },
+        {
+          "time": 70.36,
+          "end": 70.66,
+          "text": "耶",
+          "probability": 0.9708
+        },
+        {
+          "time": 70.36,
+          "end": 70.66,
+          "text": "稣",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 72.52,
+      "end": 78.56,
+      "text": "耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣",
+      "words": [
+        {
+          "time": 72.52,
+          "end": 72.82,
+          "text": "耶",
+          "probability": 0.9629
+        },
+        {
+          "time": 72.76,
+          "end": 73.06,
+          "text": "稣",
+          "probability": 0.9988
+        },
+        {
+          "time": 72.76,
+          "end": 73.06,
+          "text": "耶",
+          "probability": 0.9524
+        },
+        {
+          "time": 73.0,
+          "end": 73.3,
+          "text": "稣",
+          "probability": 0.9987
+        },
+        {
+          "time": 73.06,
+          "end": 73.36,
+          "text": "耶",
+          "probability": 0.9466
+        },
+        {
+          "time": 73.06,
+          "end": 73.36,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 73.2,
+          "end": 73.5,
+          "text": "耶",
+          "probability": 0.9393
+        },
+        {
+          "time": 73.76,
+          "end": 74.06,
+          "text": "稣",
+          "probability": 0.9984
+        },
+        {
+          "time": 73.76,
+          "end": 74.06,
+          "text": "耶",
+          "probability": 0.9374
+        },
+        {
+          "time": 74.44,
+          "end": 74.96,
+          "text": "稣",
+          "probability": 0.998
+        },
+        {
+          "time": 75.18,
+          "end": 75.48,
+          "text": "耶",
+          "probability": 0.9387
+        },
+        {
+          "time": 75.52,
+          "end": 75.82,
+          "text": "稣",
+          "probability": 0.9978
+        },
+        {
+          "time": 75.82,
+          "end": 76.12,
+          "text": "耶",
+          "probability": 0.9462
+        },
+        {
+          "time": 75.94,
+          "end": 76.24,
+          "text": "稣",
+          "probability": 0.9976
+        },
+        {
+          "time": 76.6,
+          "end": 76.9,
+          "text": "耶",
+          "probability": 0.9533
+        },
+        {
+          "time": 76.68,
+          "end": 77.22,
+          "text": "稣",
+          "probability": 0.9976
+        },
+        {
+          "time": 77.72,
+          "end": 78.02,
+          "text": "耶",
+          "probability": 0.959
+        },
+        {
+          "time": 78.0,
+          "end": 78.56,
+          "text": "稣",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 79.02,
+      "end": 84.24,
+      "text": "耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶",
+      "words": [
+        {
+          "time": 79.02,
+          "end": 79.32,
+          "text": "耶",
+          "probability": 0.9634
+        },
+        {
+          "time": 79.02,
+          "end": 79.32,
+          "text": "稣",
+          "probability": 0.9976
+        },
+        {
+          "time": 79.34,
+          "end": 79.64,
+          "text": "耶",
+          "probability": 0.9684
+        },
+        {
+          "time": 79.7,
+          "end": 80.0,
+          "text": "稣",
+          "probability": 0.9978
+        },
+        {
+          "time": 80.18,
+          "end": 80.48,
+          "text": "耶",
+          "probability": 0.9702
+        },
+        {
+          "time": 80.54,
+          "end": 81.0,
+          "text": "稣",
+          "probability": 0.9976
+        },
+        {
+          "time": 82.18,
+          "end": 82.48,
+          "text": "耶",
+          "probability": 0.9727
+        },
+        {
+          "time": 82.5,
+          "end": 82.8,
+          "text": "稣",
+          "probability": 0.9978
+        },
+        {
+          "time": 82.76,
+          "end": 83.06,
+          "text": "耶",
+          "probability": 0.9739
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "稣",
+          "probability": 0.9977
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "耶",
+          "probability": 0.9747
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "稣",
+          "probability": 0.9978
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "耶",
+          "probability": 0.9757
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "稣",
+          "probability": 0.9978
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "耶",
+          "probability": 0.9764
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "稣",
+          "probability": 0.9979
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "耶",
+          "probability": 0.9764
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "稣",
+          "probability": 0.9979
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "耶",
+          "probability": 0.9767
+        },
+        {
+          "time": 84.14,
+          "end": 84.44,
+          "text": "稣",
+          "probability": 0.998
+        },
+        {
+          "time": 84.14,
+          "end": 84.44,
+          "text": "耶",
+          "probability": 0.9769
+        },
+        {
+          "time": 84.14,
+          "end": 84.44,
+          "text": "稣",
+          "probability": 0.998
+        },
+        {
+          "time": 84.14,
+          "end": 84.44,
+          "text": "耶",
+          "probability": 0.9768
+        },
+        {
+          "time": 84.2,
+          "end": 84.5,
+          "text": "稣",
+          "probability": 0.998
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "耶",
+          "probability": 0.977
+        }
+      ]
+    },
+    {
+      "time": 84.24,
+      "end": 86.24,
+      "text": "稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣也是世子",
+      "words": [
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "稣",
+          "probability": 0.998
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "耶",
+          "probability": 0.9762
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "稣",
+          "probability": 0.9981
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "耶",
+          "probability": 0.9758
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "稣",
+          "probability": 0.9981
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "耶",
+          "probability": 0.9758
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "稣",
+          "probability": 0.9982
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "耶",
+          "probability": 0.9759
+        },
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "稣",
+          "probability": 0.9983
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9755
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9983
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9763
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9984
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9754
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9984
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9757
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9983
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9758
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9984
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9763
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9985
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9766
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9767
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.976
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.976
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.976
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9765
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9768
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9762
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9987
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9765
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9987
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9764
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "耶",
+          "probability": 0.9763
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "稣",
+          "probability": 0.9986
+        },
+        {
+          "time": 84.94,
+          "end": 85.24,
+          "text": "也是",
+          "probability": 0.3043
+        },
+        {
+          "time": 85.36,
+          "end": 85.66,
+          "text": "世",
+          "probability": 0.225
+        },
+        {
+          "time": 85.94,
+          "end": 86.24,
+          "text": "子",
+          "probability": 0.394
+        }
+      ]
+    },
+    {
+      "time": 87.94,
+      "end": 91.5,
+      "text": "天下万能养万花子",
+      "words": [
+        {
+          "time": 87.94,
+          "end": 88.24,
+          "text": "天",
+          "probability": 0.7145
+        },
+        {
+          "time": 88.64,
+          "end": 88.94,
+          "text": "下",
+          "probability": 0.9871
+        },
+        {
+          "time": 89.3,
+          "end": 89.6,
+          "text": "万",
+          "probability": 0.1239
+        },
+        {
+          "time": 89.56,
+          "end": 89.86,
+          "text": "能",
+          "probability": 0.317
+        },
+        {
+          "time": 89.76,
+          "end": 90.1,
+          "text": "养",
+          "probability": 0.2938
+        },
+        {
+          "time": 90.1,
+          "end": 90.4,
+          "text": "万",
+          "probability": 0.8533
+        },
+        {
+          "time": 90.5,
+          "end": 90.8,
+          "text": "花",
+          "probability": 0.3108
+        },
+        {
+          "time": 91.2,
+          "end": 91.5,
+          "text": "子",
+          "probability": 0.4383
+        }
+      ]
+    },
+    {
+      "time": 93.18,
+      "end": 100.12,
+      "text": "把荣耀协在这里把救世也是也是",
+      "words": [
+        {
+          "time": 93.18,
+          "end": 93.48,
+          "text": "把",
+          "probability": 0.4887
+        },
+        {
+          "time": 93.4,
+          "end": 93.88,
+          "text": "荣",
+          "probability": 0.9475
+        },
+        {
+          "time": 94.22,
+          "end": 94.64,
+          "text": "耀",
+          "probability": 0.9431
+        },
+        {
+          "time": 94.6,
+          "end": 95.04,
+          "text": "协",
+          "probability": 0.1931
+        },
+        {
+          "time": 95.6,
+          "end": 95.9,
+          "text": "在",
+          "probability": 0.6167
+        },
+        {
+          "time": 96.12,
+          "end": 96.42,
+          "text": "这里",
+          "probability": 0.1727
+        },
+        {
+          "time": 96.58,
+          "end": 96.88,
+          "text": "把",
+          "probability": 0.3275
+        },
+        {
+          "time": 96.84,
+          "end": 97.14,
+          "text": "救",
+          "probability": 0.1253
+        },
+        {
+          "time": 97.26,
+          "end": 97.56,
+          "text": "世",
+          "probability": 0.1887
+        },
+        {
+          "time": 98.36,
+          "end": 98.66,
+          "text": "也是",
+          "probability": 0.9419
+        },
+        {
+          "time": 99.82,
+          "end": 100.12,
+          "text": "也是",
+          "probability": 0.9859
+        }
+      ]
+    },
+    {
+      "time": 103.22,
+      "end": 103.68,
+      "text": "世子",
+      "words": [
+        {
+          "time": 103.22,
+          "end": 103.52,
+          "text": "世",
+          "probability": 0.5298
+        },
+        {
+          "time": 103.38,
+          "end": 103.68,
+          "text": "子",
+          "probability": 0.9962
+        }
+      ]
+    }
+  ]
+}

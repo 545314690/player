@@ -1,0 +1,100 @@
+{
+  "id": "sd66d25d01a11",
+  "file": "078我以祷告来到你跟前.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "22783",
+      "offset": -1.7585,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.994177,
+      "windows": [
+        {
+          "localStart": 24.16,
+          "sourceStart": 22.407,
+          "offset": -1.7525,
+          "coefficient": 0.640794
+        },
+        {
+          "localStart": 60.4,
+          "sourceStart": 58.638,
+          "offset": -1.7625,
+          "coefficient": 0.390851
+        },
+        {
+          "localStart": 96.641,
+          "sourceStart": 94.868,
+          "offset": -1.7725,
+          "coefficient": 0.546815
+        },
+        {
+          "localStart": 132.881,
+          "sourceStart": 131.098,
+          "offset": -1.7825,
+          "coefficient": 0.517835
+        },
+        {
+          "localStart": 169.121,
+          "sourceStart": 167.328,
+          "offset": -1.7925,
+          "coefficient": 0.479574
+        },
+        {
+          "localStart": 205.361,
+          "sourceStart": 203.559,
+          "offset": -1.8025,
+          "coefficient": 0.552768
+        },
+        {
+          "localStart": 241.601,
+          "sourceStart": 239.789,
+          "offset": -1.8125,
+          "coefficient": 0.555961
+        },
+        {
+          "localStart": 271.801,
+          "sourceStart": 269.981,
+          "offset": -1.8205,
+          "coefficient": 0.514508
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "45052",
+      "offset": -168.079,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.443451,
+      "windows": [
+        {
+          "localStart": 169.121,
+          "sourceStart": 2.583,
+          "offset": -166.5385,
+          "coefficient": 0.038116
+        },
+        {
+          "localStart": 205.361,
+          "sourceStart": 35.702,
+          "offset": -169.659,
+          "coefficient": 0.101184
+        },
+        {
+          "localStart": 241.601,
+          "sourceStart": 72.244,
+          "offset": -169.3575,
+          "coefficient": 0.076457
+        },
+        {
+          "localStart": 271.801,
+          "sourceStart": 102.638,
+          "offset": -169.163,
+          "coefficient": 0.069834
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "28224",
+  "waveform": {
+    "source": "28224",
+    "url": "https://www.izanmei.cc/song/28224.html",
+    "audio": "https://play.izanm.org/song/p/28224.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 27.105,
+        "sourceStart": 27.105,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 67.761,
+        "sourceStart": 67.761,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 108.418,
+        "sourceStart": 108.418,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 149.076,
+        "sourceStart": 149.076,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 189.732,
+        "sourceStart": 189.732,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 230.389,
+        "sourceStart": 230.389,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 271.046,
+        "sourceStart": 271.046,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 304.928,
+        "sourceStart": 304.928,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "s25e169eecd51",
+  "file": "289陪我走过春夏秋冬.mp3",
+  "fullDuration": 338.810563,
+  "recordingHash": "9dd0ac7a970aacbac8cc99fb82d5d179f8fa73856a7f89de195a4e2eb577c999",
+  "lines": []
+}

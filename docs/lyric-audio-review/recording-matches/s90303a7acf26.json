@@ -1,0 +1,125 @@
+{
+  "id": "s90303a7acf26",
+  "file": "232以色列兴起.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "3421",
+    "url": "https://www.izanmei.cc/song/3421.html",
+    "audio": "https://play.izanm.org/song/p/3421.mp3",
+    "offset": -0.044,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 0.998725,
+    "windows": [
+      {
+        "localStart": 9.504,
+        "sourceStart": 9.46,
+        "offset": -0.044,
+        "coefficient": 0.955769
+      },
+      {
+        "localStart": 23.76,
+        "sourceStart": 23.716,
+        "offset": -0.044,
+        "coefficient": 0.954924
+      },
+      {
+        "localStart": 38.016,
+        "sourceStart": 37.972,
+        "offset": -0.044,
+        "coefficient": 0.958744
+      },
+      {
+        "localStart": 52.272,
+        "sourceStart": 52.228,
+        "offset": -0.044,
+        "coefficient": 0.95617
+      },
+      {
+        "localStart": 66.528,
+        "sourceStart": 66.484,
+        "offset": -0.044,
+        "coefficient": 0.955409
+      },
+      {
+        "localStart": 80.784,
+        "sourceStart": 80.74,
+        "offset": -0.044,
+        "coefficient": 0.953877
+      },
+      {
+        "localStart": 95.04,
+        "sourceStart": 94.996,
+        "offset": -0.044,
+        "coefficient": 0.955061
+      },
+      {
+        "localStart": 106.92,
+        "sourceStart": 106.876,
+        "offset": -0.044,
+        "coefficient": 0.952659
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "3421",
+      "offset": -0.044,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 0.998725,
+      "windows": [
+        {
+          "localStart": 9.504,
+          "sourceStart": 9.46,
+          "offset": -0.044,
+          "coefficient": 0.955769
+        },
+        {
+          "localStart": 23.76,
+          "sourceStart": 23.716,
+          "offset": -0.044,
+          "coefficient": 0.954924
+        },
+        {
+          "localStart": 38.016,
+          "sourceStart": 37.972,
+          "offset": -0.044,
+          "coefficient": 0.958744
+        },
+        {
+          "localStart": 52.272,
+          "sourceStart": 52.228,
+          "offset": -0.044,
+          "coefficient": 0.95617
+        },
+        {
+          "localStart": 66.528,
+          "sourceStart": 66.484,
+          "offset": -0.044,
+          "coefficient": 0.955409
+        },
+        {
+          "localStart": 80.784,
+          "sourceStart": 80.74,
+          "offset": -0.044,
+          "coefficient": 0.953877
+        },
+        {
+          "localStart": 95.04,
+          "sourceStart": 94.996,
+          "offset": -0.044,
+          "coefficient": 0.955061
+        },
+        {
+          "localStart": 106.92,
+          "sourceStart": 106.876,
+          "offset": -0.044,
+          "coefficient": 0.952659
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

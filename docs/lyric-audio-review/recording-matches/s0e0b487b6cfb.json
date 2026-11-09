@@ -1,0 +1,403 @@
+{
+  "id": "s0e0b487b6cfb",
+  "file": "235-.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "10493",
+    "url": "https://www.izanmei.cc/song/10493.html",
+    "audio": "https://play.izanm.org/song/p/10493.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 0.99952,
+    "windows": [
+      {
+        "localStart": 21.838,
+        "sourceStart": 21.838,
+        "offset": 0.0,
+        "coefficient": 0.997742
+      },
+      {
+        "localStart": 54.596,
+        "sourceStart": 54.596,
+        "offset": 0.0,
+        "coefficient": 0.997632
+      },
+      {
+        "localStart": 87.353,
+        "sourceStart": 87.353,
+        "offset": 0.0,
+        "coefficient": 0.997095
+      },
+      {
+        "localStart": 120.111,
+        "sourceStart": 120.111,
+        "offset": 0.0,
+        "coefficient": 0.996957
+      },
+      {
+        "localStart": 152.869,
+        "sourceStart": 152.869,
+        "offset": 0.0,
+        "coefficient": 0.996171
+      },
+      {
+        "localStart": 185.626,
+        "sourceStart": 185.626,
+        "offset": 0.0,
+        "coefficient": 0.995892
+      },
+      {
+        "localStart": 218.384,
+        "sourceStart": 218.384,
+        "offset": 0.0,
+        "coefficient": 0.996077
+      },
+      {
+        "localStart": 245.682,
+        "sourceStart": 245.682,
+        "offset": 0.0,
+        "coefficient": 0.995423
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "7261",
+      "offset": -15.497,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.938946,
+      "windows": [
+        {
+          "localStart": 21.838,
+          "sourceStart": 7.907,
+          "offset": -13.931,
+          "coefficient": 0.055936
+        },
+        {
+          "localStart": 54.596,
+          "sourceStart": 39.406,
+          "offset": -15.1905,
+          "coefficient": 0.060736
+        },
+        {
+          "localStart": 87.353,
+          "sourceStart": 69.972,
+          "offset": -17.382,
+          "coefficient": 0.107606
+        },
+        {
+          "localStart": 120.111,
+          "sourceStart": 102.636,
+          "offset": -17.475,
+          "coefficient": 0.098431
+        },
+        {
+          "localStart": 152.869,
+          "sourceStart": 135.54,
+          "offset": -17.329,
+          "coefficient": 0.041777
+        },
+        {
+          "localStart": 185.626,
+          "sourceStart": 169.168,
+          "offset": -16.4575,
+          "coefficient": 0.056076
+        },
+        {
+          "localStart": 218.384,
+          "sourceStart": 204.633,
+          "offset": -13.751,
+          "coefficient": 0.055492
+        },
+        {
+          "localStart": 245.682,
+          "sourceStart": 230.51,
+          "offset": -15.1725,
+          "coefficient": 0.090676
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "30363",
+      "offset": -27.6585,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.898679,
+      "windows": [
+        {
+          "localStart": 54.596,
+          "sourceStart": 27.5,
+          "offset": -27.0965,
+          "coefficient": 0.104673
+        },
+        {
+          "localStart": 87.353,
+          "sourceStart": 58.028,
+          "offset": -29.3255,
+          "coefficient": 0.083601
+        },
+        {
+          "localStart": 120.111,
+          "sourceStart": 91.004,
+          "offset": -29.1065,
+          "coefficient": 0.052454
+        },
+        {
+          "localStart": 152.869,
+          "sourceStart": 126.582,
+          "offset": -26.287,
+          "coefficient": 0.049054
+        },
+        {
+          "localStart": 185.626,
+          "sourceStart": 157.749,
+          "offset": -27.877,
+          "coefficient": 0.075929
+        },
+        {
+          "localStart": 218.384,
+          "sourceStart": 190.982,
+          "offset": -27.4015,
+          "coefficient": 0.076589
+        },
+        {
+          "localStart": 245.682,
+          "sourceStart": 218.936,
+          "offset": -26.7455,
+          "coefficient": 0.056749
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "15291",
+      "offset": 6.843,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 21.838,
+          "sourceStart": 28.811,
+          "offset": 6.9735,
+          "coefficient": 0.050984
+        },
+        {
+          "localStart": 54.596,
+          "sourceStart": 60.34,
+          "offset": 5.7445,
+          "coefficient": 0.091994
+        },
+        {
+          "localStart": 87.353,
+          "sourceStart": 92.237,
+          "offset": 4.884,
+          "coefficient": 0.073386
+        },
+        {
+          "localStart": 120.111,
+          "sourceStart": 125.677,
+          "offset": 5.5655,
+          "coefficient": 0.058244
+        },
+        {
+          "localStart": 152.869,
+          "sourceStart": 160.562,
+          "offset": 7.6935,
+          "coefficient": 0.051425
+        },
+        {
+          "localStart": 185.626,
+          "sourceStart": 192.945,
+          "offset": 7.319,
+          "coefficient": 0.06616
+        },
+        {
+          "localStart": 218.384,
+          "sourceStart": 226.395,
+          "offset": 8.0115,
+          "coefficient": 0.065125
+        },
+        {
+          "localStart": 245.682,
+          "sourceStart": 254.253,
+          "offset": 8.571,
+          "coefficient": 0.062061
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "15238",
+      "offset": 162.6375,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 21.838,
+          "sourceStart": 183.525,
+          "offset": 161.687,
+          "coefficient": 0.079566
+        },
+        {
+          "localStart": 54.596,
+          "sourceStart": 218.875,
+          "offset": 164.2785,
+          "coefficient": 0.062917
+        },
+        {
+          "localStart": 87.353,
+          "sourceStart": 248.679,
+          "offset": 161.325,
+          "coefficient": 0.068765
+        },
+        {
+          "localStart": 120.111,
+          "sourceStart": 282.752,
+          "offset": 162.641,
+          "coefficient": 0.08335
+        },
+        {
+          "localStart": 152.869,
+          "sourceStart": 313.904,
+          "offset": 161.036,
+          "coefficient": 0.065082
+        },
+        {
+          "localStart": 185.626,
+          "sourceStart": 350.084,
+          "offset": 164.4585,
+          "coefficient": 0.062356
+        },
+        {
+          "localStart": 218.384,
+          "sourceStart": 380.185,
+          "offset": 161.801,
+          "coefficient": 0.059222
+        },
+        {
+          "localStart": 245.682,
+          "sourceStart": 409.925,
+          "offset": 164.2435,
+          "coefficient": 0.041982
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "12075",
+      "offset": 8.368,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.90877,
+      "windows": [
+        {
+          "localStart": 21.838,
+          "sourceStart": 30.656,
+          "offset": 8.818,
+          "coefficient": 0.07049
+        },
+        {
+          "localStart": 54.596,
+          "sourceStart": 61.872,
+          "offset": 7.276,
+          "coefficient": 0.045745
+        },
+        {
+          "localStart": 87.353,
+          "sourceStart": 95.725,
+          "offset": 8.372,
+          "coefficient": 0.051447
+        },
+        {
+          "localStart": 120.111,
+          "sourceStart": 130.425,
+          "offset": 10.3145,
+          "coefficient": 0.087188
+        },
+        {
+          "localStart": 152.869,
+          "sourceStart": 162.262,
+          "offset": 9.394,
+          "coefficient": 0.038974
+        },
+        {
+          "localStart": 185.626,
+          "sourceStart": 192.232,
+          "offset": 6.6055,
+          "coefficient": 0.06135
+        },
+        {
+          "localStart": 218.384,
+          "sourceStart": 227.09,
+          "offset": 8.7065,
+          "coefficient": 0.062588
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "10493",
+      "offset": -0.0,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 0.99952,
+      "windows": [
+        {
+          "localStart": 21.838,
+          "sourceStart": 21.838,
+          "offset": 0.0,
+          "coefficient": 0.997742
+        },
+        {
+          "localStart": 54.596,
+          "sourceStart": 54.596,
+          "offset": 0.0,
+          "coefficient": 0.997632
+        },
+        {
+          "localStart": 87.353,
+          "sourceStart": 87.353,
+          "offset": 0.0,
+          "coefficient": 0.997095
+        },
+        {
+          "localStart": 120.111,
+          "sourceStart": 120.111,
+          "offset": 0.0,
+          "coefficient": 0.996957
+        },
+        {
+          "localStart": 152.869,
+          "sourceStart": 152.869,
+          "offset": 0.0,
+          "coefficient": 0.996171
+        },
+        {
+          "localStart": 185.626,
+          "sourceStart": 185.626,
+          "offset": 0.0,
+          "coefficient": 0.995892
+        },
+        {
+          "localStart": 218.384,
+          "sourceStart": 218.384,
+          "offset": 0.0,
+          "coefficient": 0.996077
+        },
+        {
+          "localStart": 245.682,
+          "sourceStart": 245.682,
+          "offset": 0.0,
+          "coefficient": 0.995423
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

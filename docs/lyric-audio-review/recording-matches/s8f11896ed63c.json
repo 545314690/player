@@ -1,0 +1,170 @@
+{
+  "id": "s8f11896ed63c",
+  "file": "105-.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "23058",
+      "offset": 0.2275,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 19.389,
+          "sourceStart": 19.569,
+          "offset": 0.18,
+          "coefficient": 0.626254
+        },
+        {
+          "localStart": 48.472,
+          "sourceStart": 48.663,
+          "offset": 0.1905,
+          "coefficient": 0.732863
+        },
+        {
+          "localStart": 77.556,
+          "sourceStart": 77.764,
+          "offset": 0.2085,
+          "coefficient": 0.524648
+        },
+        {
+          "localStart": 106.64,
+          "sourceStart": 106.843,
+          "offset": 0.203,
+          "coefficient": 0.837738
+        },
+        {
+          "localStart": 135.724,
+          "sourceStart": 135.933,
+          "offset": 0.2095,
+          "coefficient": 0.73691
+        },
+        {
+          "localStart": 164.808,
+          "sourceStart": 165.024,
+          "offset": 0.2165,
+          "coefficient": 0.709009
+        },
+        {
+          "localStart": 193.891,
+          "sourceStart": 194.117,
+          "offset": 0.2255,
+          "coefficient": 0.570072
+        },
+        {
+          "localStart": 218.127,
+          "sourceStart": 218.344,
+          "offset": 0.2165,
+          "coefficient": 0.521163
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "46763",
+      "offset": 12.4335,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.810525,
+      "windows": [
+        {
+          "localStart": 19.389,
+          "sourceStart": 29.892,
+          "offset": 10.5025,
+          "coefficient": 0.041889
+        },
+        {
+          "localStart": 48.472,
+          "sourceStart": 61.096,
+          "offset": 12.623,
+          "coefficient": 0.050248
+        },
+        {
+          "localStart": 77.556,
+          "sourceStart": 90.309,
+          "offset": 12.7535,
+          "coefficient": 0.029031
+        },
+        {
+          "localStart": 106.64,
+          "sourceStart": 117.76,
+          "offset": 11.12,
+          "coefficient": 0.057276
+        },
+        {
+          "localStart": 135.724,
+          "sourceStart": 148.234,
+          "offset": 12.5105,
+          "coefficient": 0.072104
+        },
+        {
+          "localStart": 164.808,
+          "sourceStart": 178.55,
+          "offset": 13.7425,
+          "coefficient": 0.074899
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "45928",
+      "offset": 84.412,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 19.389,
+          "sourceStart": 103.049,
+          "offset": 83.66,
+          "coefficient": 0.081936
+        },
+        {
+          "localStart": 48.472,
+          "sourceStart": 130.962,
+          "offset": 82.4895,
+          "coefficient": 0.075244
+        },
+        {
+          "localStart": 77.556,
+          "sourceStart": 162.921,
+          "offset": 85.365,
+          "coefficient": 0.060242
+        },
+        {
+          "localStart": 106.64,
+          "sourceStart": 190.506,
+          "offset": 83.8665,
+          "coefficient": 0.120351
+        },
+        {
+          "localStart": 135.724,
+          "sourceStart": 221.489,
+          "offset": 85.766,
+          "coefficient": 0.087792
+        },
+        {
+          "localStart": 164.808,
+          "sourceStart": 250.386,
+          "offset": 85.5785,
+          "coefficient": 0.06744
+        },
+        {
+          "localStart": 193.891,
+          "sourceStart": 277.902,
+          "offset": 84.011,
+          "coefficient": 0.124518
+        },
+        {
+          "localStart": 218.127,
+          "sourceStart": 300.974,
+          "offset": 82.8465,
+          "coefficient": 0.086135
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

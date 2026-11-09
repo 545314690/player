@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "4033",
+  "waveform": {
+    "source": "4033",
+    "url": "https://www.izanmei.cc/song/4033.html",
+    "audio": "https://play.izanm.org/song/p/4033.mp3",
+    "offset": 0.026058,
+    "scale": 0.999995095,
+    "residual": 0.000851,
+    "coverage": 0.999764,
+    "windows": [
+      {
+        "localStart": 26.471,
+        "sourceStart": 26.497,
+        "offset": 0.025,
+        "coefficient": 0.980417
+      },
+      {
+        "localStart": 66.178,
+        "sourceStart": 66.204,
+        "offset": 0.025,
+        "coefficient": 0.984535
+      },
+      {
+        "localStart": 105.886,
+        "sourceStart": 105.911,
+        "offset": 0.025,
+        "coefficient": 0.98323
+      },
+      {
+        "localStart": 145.594,
+        "sourceStart": 145.619,
+        "offset": 0.025,
+        "coefficient": 0.977889
+      },
+      {
+        "localStart": 185.3,
+        "sourceStart": 185.326,
+        "offset": 0.025,
+        "coefficient": 0.982216
+      },
+      {
+        "localStart": 225.008,
+        "sourceStart": 225.033,
+        "offset": 0.025,
+        "coefficient": 0.977235
+      },
+      {
+        "localStart": 264.716,
+        "sourceStart": 264.74,
+        "offset": 0.025,
+        "coefficient": 0.982219
+      },
+      {
+        "localStart": 297.805,
+        "sourceStart": 297.83,
+        "offset": 0.025,
+        "coefficient": 0.966795
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.97458,
+  "id": "sec9406393f38",
+  "file": "121最知心的朋友合唱.mp3",
+  "fullDuration": 330.919184,
+  "recordingHash": "77b509a495d7bea7b5f6c8d4ed1106b2c08bb37db66a4e9f1894001c2c51f625",
+  "lines": []
+}

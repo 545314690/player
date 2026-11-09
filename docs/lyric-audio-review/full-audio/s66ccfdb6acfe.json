@@ -1,0 +1,992 @@
+{
+  "id": "s66ccfdb6acfe",
+  "file": "015-.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "7097cfa1a6b9c7078216ee5e7c2b91b56a5b0e26cbb3755d032fc12117619156",
+  "fullDuration": 133.787625,
+  "lines": [
+    {
+      "time": 2.42,
+      "end": 2.74,
+      "text": "Zither",
+      "words": [
+        {
+          "time": 2.42,
+          "end": 2.72,
+          "text": "Z",
+          "probability": 0.1574
+        },
+        {
+          "time": 2.44,
+          "end": 2.74,
+          "text": "ither",
+          "probability": 0.9842
+        }
+      ]
+    },
+    {
+      "time": 7.16,
+      "end": 7.46,
+      "text": "Har",
+      "words": [
+        {
+          "time": 7.16,
+          "end": 7.46,
+          "text": " Har",
+          "probability": 0.9879
+        }
+      ]
+    },
+    {
+      "time": 12.78,
+      "end": 13.08,
+      "text": "p",
+      "words": [
+        {
+          "time": 12.78,
+          "end": 13.08,
+          "text": "p",
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "time": 30.36,
+      "end": 36.22,
+      "text": "从他扬出来之地值得日落出的那边主",
+      "words": [
+        {
+          "time": 30.36,
+          "end": 30.66,
+          "text": "从",
+          "probability": 0.6153
+        },
+        {
+          "time": 30.56,
+          "end": 30.86,
+          "text": "他",
+          "probability": 0.4141
+        },
+        {
+          "time": 30.74,
+          "end": 31.08,
+          "text": "扬",
+          "probability": 0.5665
+        },
+        {
+          "time": 31.12,
+          "end": 31.42,
+          "text": "出来",
+          "probability": 0.739
+        },
+        {
+          "time": 31.44,
+          "end": 31.74,
+          "text": "之",
+          "probability": 0.9208
+        },
+        {
+          "time": 31.64,
+          "end": 31.94,
+          "text": "地",
+          "probability": 0.9072
+        },
+        {
+          "time": 32.06,
+          "end": 32.36,
+          "text": "值",
+          "probability": 0.6509
+        },
+        {
+          "time": 32.3,
+          "end": 32.6,
+          "text": "得",
+          "probability": 0.988
+        },
+        {
+          "time": 32.56,
+          "end": 32.86,
+          "text": "日",
+          "probability": 0.995
+        },
+        {
+          "time": 32.94,
+          "end": 33.24,
+          "text": "落",
+          "probability": 0.9916
+        },
+        {
+          "time": 33.46,
+          "end": 33.76,
+          "text": "出",
+          "probability": 0.3205
+        },
+        {
+          "time": 34.3,
+          "end": 34.6,
+          "text": "的",
+          "probability": 0.9219
+        },
+        {
+          "time": 34.62,
+          "end": 34.92,
+          "text": "那",
+          "probability": 0.8567
+        },
+        {
+          "time": 35.2,
+          "end": 35.5,
+          "text": "边",
+          "probability": 0.9768
+        },
+        {
+          "time": 35.92,
+          "end": 36.22,
+          "text": "主",
+          "probability": 0.8797
+        }
+      ]
+    },
+    {
+      "time": 36.28,
+      "end": 36.96,
+      "text": "的名",
+      "words": [
+        {
+          "time": 36.28,
+          "end": 36.58,
+          "text": "的",
+          "probability": 0.9215
+        },
+        {
+          "time": 36.66,
+          "end": 36.96,
+          "text": "名",
+          "probability": 0.5287
+        }
+      ]
+    },
+    {
+      "time": 39.0,
+      "end": 40.58,
+      "text": "当赞美的",
+      "words": [
+        {
+          "time": 39.0,
+          "end": 39.3,
+          "text": "当",
+          "probability": 0.8959
+        },
+        {
+          "time": 39.34,
+          "end": 39.8,
+          "text": "赞",
+          "probability": 0.972
+        },
+        {
+          "time": 39.88,
+          "end": 40.18,
+          "text": "美",
+          "probability": 0.7482
+        },
+        {
+          "time": 40.28,
+          "end": 40.58,
+          "text": "的",
+          "probability": 0.8028
+        }
+      ]
+    },
+    {
+      "time": 43.64,
+      "end": 49.18,
+      "text": "赞美主命圣地儿女要赞美",
+      "words": [
+        {
+          "time": 43.64,
+          "end": 44.1,
+          "text": "赞",
+          "probability": 0.9988
+        },
+        {
+          "time": 44.6,
+          "end": 44.9,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 44.96,
+          "end": 45.26,
+          "text": "主",
+          "probability": 0.9211
+        },
+        {
+          "time": 45.52,
+          "end": 45.82,
+          "text": "命",
+          "probability": 0.7734
+        },
+        {
+          "time": 46.98,
+          "end": 47.38,
+          "text": "圣",
+          "probability": 0.4472
+        },
+        {
+          "time": 47.28,
+          "end": 47.58,
+          "text": "地",
+          "probability": 0.6461
+        },
+        {
+          "time": 47.48,
+          "end": 47.78,
+          "text": "儿",
+          "probability": 0.7594
+        },
+        {
+          "time": 47.68,
+          "end": 47.98,
+          "text": "女",
+          "probability": 0.9774
+        },
+        {
+          "time": 47.88,
+          "end": 48.18,
+          "text": "要",
+          "probability": 0.9008
+        },
+        {
+          "time": 48.16,
+          "end": 48.62,
+          "text": "赞",
+          "probability": 0.9988
+        },
+        {
+          "time": 48.88,
+          "end": 49.18,
+          "text": "美",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 50.44,
+      "end": 54.42,
+      "text": "赞美主的生命",
+      "words": [
+        {
+          "time": 50.44,
+          "end": 51.2,
+          "text": "赞",
+          "probability": 0.9998
+        },
+        {
+          "time": 51.78,
+          "end": 52.08,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 52.22,
+          "end": 52.52,
+          "text": "主",
+          "probability": 0.9978
+        },
+        {
+          "time": 53.06,
+          "end": 53.36,
+          "text": "的",
+          "probability": 0.989
+        },
+        {
+          "time": 53.46,
+          "end": 53.76,
+          "text": "生",
+          "probability": 0.9932
+        },
+        {
+          "time": 54.12,
+          "end": 54.42,
+          "text": "命",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 55.88,
+      "end": 61.74,
+      "text": "赞美主生命从今时直到",
+      "words": [
+        {
+          "time": 55.88,
+          "end": 56.26,
+          "text": "赞",
+          "probability": 0.9731
+        },
+        {
+          "time": 56.12,
+          "end": 56.42,
+          "text": "美",
+          "probability": 0.9998
+        },
+        {
+          "time": 56.36,
+          "end": 56.66,
+          "text": "主",
+          "probability": 0.9949
+        },
+        {
+          "time": 56.82,
+          "end": 57.12,
+          "text": "生",
+          "probability": 0.97
+        },
+        {
+          "time": 57.44,
+          "end": 57.74,
+          "text": "命",
+          "probability": 0.9997
+        },
+        {
+          "time": 58.14,
+          "end": 58.44,
+          "text": "从",
+          "probability": 0.8076
+        },
+        {
+          "time": 58.5,
+          "end": 58.8,
+          "text": "今",
+          "probability": 0.8511
+        },
+        {
+          "time": 59.22,
+          "end": 59.52,
+          "text": "时",
+          "probability": 0.676
+        },
+        {
+          "time": 60.64,
+          "end": 60.94,
+          "text": "直",
+          "probability": 0.9972
+        },
+        {
+          "time": 61.44,
+          "end": 61.74,
+          "text": "到",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 61.76,
+      "end": 67.3,
+      "text": "永远赞美主的生",
+      "words": [
+        {
+          "time": 61.76,
+          "end": 62.06,
+          "text": "永",
+          "probability": 0.9943
+        },
+        {
+          "time": 62.42,
+          "end": 63.76,
+          "text": "远",
+          "probability": 0.9979
+        },
+        {
+          "time": 63.96,
+          "end": 64.72,
+          "text": "赞",
+          "probability": 0.9126
+        },
+        {
+          "time": 65.32,
+          "end": 65.62,
+          "text": "美",
+          "probability": 0.9673
+        },
+        {
+          "time": 65.88,
+          "end": 66.18,
+          "text": "主",
+          "probability": 0.9218
+        },
+        {
+          "time": 66.62,
+          "end": 66.92,
+          "text": "的",
+          "probability": 0.9462
+        },
+        {
+          "time": 67.0,
+          "end": 67.3,
+          "text": "生",
+          "probability": 0.9188
+        }
+      ]
+    },
+    {
+      "time": 67.64,
+      "end": 67.94,
+      "text": "命",
+      "words": [
+        {
+          "time": 67.64,
+          "end": 67.94,
+          "text": "命",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 69.54,
+      "end": 70.88,
+      "text": "从太阳出来之",
+      "words": [
+        {
+          "time": 69.54,
+          "end": 69.84,
+          "text": "从",
+          "probability": 0.9954
+        },
+        {
+          "time": 69.78,
+          "end": 70.08,
+          "text": "太",
+          "probability": 0.9664
+        },
+        {
+          "time": 69.88,
+          "end": 70.18,
+          "text": "阳",
+          "probability": 0.9929
+        },
+        {
+          "time": 70.26,
+          "end": 70.56,
+          "text": "出来",
+          "probability": 0.7515
+        },
+        {
+          "time": 70.58,
+          "end": 70.88,
+          "text": "之",
+          "probability": 0.6784
+        }
+      ]
+    },
+    {
+      "time": 72.48,
+      "end": 77.78,
+      "text": "地直到日落主的那边主的名",
+      "words": [
+        {
+          "time": 72.48,
+          "end": 72.78,
+          "text": "地",
+          "probability": 0.9522
+        },
+        {
+          "time": 72.88,
+          "end": 73.18,
+          "text": "直",
+          "probability": 0.9986
+        },
+        {
+          "time": 73.14,
+          "end": 73.44,
+          "text": "到",
+          "probability": 0.9983
+        },
+        {
+          "time": 73.4,
+          "end": 73.7,
+          "text": "日",
+          "probability": 0.9866
+        },
+        {
+          "time": 73.8,
+          "end": 74.1,
+          "text": "落",
+          "probability": 0.9942
+        },
+        {
+          "time": 74.26,
+          "end": 74.56,
+          "text": "主",
+          "probability": 0.8257
+        },
+        {
+          "time": 75.12,
+          "end": 75.42,
+          "text": "的",
+          "probability": 0.9913
+        },
+        {
+          "time": 75.44,
+          "end": 75.74,
+          "text": "那",
+          "probability": 0.9744
+        },
+        {
+          "time": 75.92,
+          "end": 76.22,
+          "text": "边",
+          "probability": 0.7437
+        },
+        {
+          "time": 76.74,
+          "end": 77.04,
+          "text": "主",
+          "probability": 0.9973
+        },
+        {
+          "time": 77.08,
+          "end": 77.38,
+          "text": "的",
+          "probability": 0.9899
+        },
+        {
+          "time": 77.48,
+          "end": 77.78,
+          "text": "名",
+          "probability": 0.5678
+        }
+      ]
+    },
+    {
+      "time": 79.74,
+      "end": 81.34,
+      "text": "当赞美的",
+      "words": [
+        {
+          "time": 79.74,
+          "end": 80.04,
+          "text": "当",
+          "probability": 0.9085
+        },
+        {
+          "time": 80.1,
+          "end": 80.52,
+          "text": "赞",
+          "probability": 0.9848
+        },
+        {
+          "time": 80.62,
+          "end": 80.92,
+          "text": "美",
+          "probability": 0.9997
+        },
+        {
+          "time": 81.04,
+          "end": 81.34,
+          "text": "的",
+          "probability": 0.7815
+        }
+      ]
+    },
+    {
+      "time": 83.0,
+      "end": 84.72,
+      "text": "从太阳出来之地",
+      "words": [
+        {
+          "time": 83.0,
+          "end": 83.3,
+          "text": "从",
+          "probability": 0.995
+        },
+        {
+          "time": 83.24,
+          "end": 83.54,
+          "text": "太",
+          "probability": 0.999
+        },
+        {
+          "time": 83.38,
+          "end": 83.74,
+          "text": "阳",
+          "probability": 1.0
+        },
+        {
+          "time": 83.74,
+          "end": 84.04,
+          "text": "出来",
+          "probability": 0.999
+        },
+        {
+          "time": 84.04,
+          "end": 84.34,
+          "text": "之",
+          "probability": 0.9993
+        },
+        {
+          "time": 84.42,
+          "end": 84.72,
+          "text": "地",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 86.32,
+      "end": 91.24,
+      "text": "直到日落主祝的那天祝的名",
+      "words": [
+        {
+          "time": 86.32,
+          "end": 86.62,
+          "text": "直",
+          "probability": 0.5364
+        },
+        {
+          "time": 86.58,
+          "end": 86.88,
+          "text": "到",
+          "probability": 0.9997
+        },
+        {
+          "time": 86.84,
+          "end": 87.14,
+          "text": "日",
+          "probability": 0.9991
+        },
+        {
+          "time": 87.2,
+          "end": 87.5,
+          "text": "落",
+          "probability": 1.0
+        },
+        {
+          "time": 87.64,
+          "end": 87.94,
+          "text": "主",
+          "probability": 0.9191
+        },
+        {
+          "time": 88.22,
+          "end": 88.52,
+          "text": "祝",
+          "probability": 0.2719
+        },
+        {
+          "time": 88.54,
+          "end": 88.84,
+          "text": "的",
+          "probability": 0.3512
+        },
+        {
+          "time": 88.88,
+          "end": 89.18,
+          "text": "那",
+          "probability": 0.5993
+        },
+        {
+          "time": 89.42,
+          "end": 89.72,
+          "text": "天",
+          "probability": 0.9297
+        },
+        {
+          "time": 90.14,
+          "end": 90.5,
+          "text": "祝",
+          "probability": 0.6052
+        },
+        {
+          "time": 90.5,
+          "end": 90.8,
+          "text": "的",
+          "probability": 0.9955
+        },
+        {
+          "time": 90.94,
+          "end": 91.24,
+          "text": "名",
+          "probability": 0.388
+        }
+      ]
+    },
+    {
+      "time": 93.18,
+      "end": 94.74,
+      "text": "当赞美的",
+      "words": [
+        {
+          "time": 93.18,
+          "end": 93.48,
+          "text": "当",
+          "probability": 0.9601
+        },
+        {
+          "time": 93.5,
+          "end": 93.92,
+          "text": "赞",
+          "probability": 0.9059
+        },
+        {
+          "time": 94.04,
+          "end": 94.34,
+          "text": "美",
+          "probability": 0.9514
+        },
+        {
+          "time": 94.44,
+          "end": 94.74,
+          "text": "的",
+          "probability": 0.6845
+        }
+      ]
+    },
+    {
+      "time": 97.72,
+      "end": 103.22,
+      "text": "赞美主命圣的耳里要赞美",
+      "words": [
+        {
+          "time": 97.72,
+          "end": 98.2,
+          "text": "赞",
+          "probability": 0.991
+        },
+        {
+          "time": 98.68,
+          "end": 98.98,
+          "text": "美",
+          "probability": 0.9998
+        },
+        {
+          "time": 99.06,
+          "end": 99.36,
+          "text": "主",
+          "probability": 0.8557
+        },
+        {
+          "time": 99.56,
+          "end": 99.86,
+          "text": "命",
+          "probability": 0.8606
+        },
+        {
+          "time": 101.04,
+          "end": 101.44,
+          "text": "圣",
+          "probability": 0.4655
+        },
+        {
+          "time": 101.34,
+          "end": 101.64,
+          "text": "的",
+          "probability": 0.4776
+        },
+        {
+          "time": 101.56,
+          "end": 101.86,
+          "text": "耳",
+          "probability": 0.7243
+        },
+        {
+          "time": 101.74,
+          "end": 102.04,
+          "text": "里",
+          "probability": 0.1282
+        },
+        {
+          "time": 101.98,
+          "end": 102.28,
+          "text": "要",
+          "probability": 0.7792
+        },
+        {
+          "time": 102.18,
+          "end": 102.64,
+          "text": "赞",
+          "probability": 0.995
+        },
+        {
+          "time": 102.92,
+          "end": 103.22,
+          "text": "美",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 104.42,
+      "end": 108.34,
+      "text": "赞美主的生命",
+      "words": [
+        {
+          "time": 104.42,
+          "end": 104.96,
+          "text": "赞",
+          "probability": 0.9751
+        },
+        {
+          "time": 105.76,
+          "end": 106.06,
+          "text": "美",
+          "probability": 0.9998
+        },
+        {
+          "time": 106.2,
+          "end": 106.5,
+          "text": "主",
+          "probability": 0.9672
+        },
+        {
+          "time": 107.04,
+          "end": 107.34,
+          "text": "的",
+          "probability": 0.9902
+        },
+        {
+          "time": 107.44,
+          "end": 107.74,
+          "text": "生",
+          "probability": 0.9923
+        },
+        {
+          "time": 108.04,
+          "end": 108.34,
+          "text": "命",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 109.82,
+      "end": 113.18,
+      "text": "赞美主生命崇敬时",
+      "words": [
+        {
+          "time": 109.82,
+          "end": 110.22,
+          "text": "赞",
+          "probability": 0.9143
+        },
+        {
+          "time": 110.1,
+          "end": 110.4,
+          "text": "美",
+          "probability": 0.9991
+        },
+        {
+          "time": 110.34,
+          "end": 110.64,
+          "text": "主",
+          "probability": 0.9902
+        },
+        {
+          "time": 110.76,
+          "end": 111.06,
+          "text": "生",
+          "probability": 0.8867
+        },
+        {
+          "time": 111.36,
+          "end": 111.66,
+          "text": "命",
+          "probability": 0.9992
+        },
+        {
+          "time": 112.0,
+          "end": 112.44,
+          "text": "崇",
+          "probability": 0.245
+        },
+        {
+          "time": 112.38,
+          "end": 112.8,
+          "text": "敬",
+          "probability": 0.2174
+        },
+        {
+          "time": 112.88,
+          "end": 113.18,
+          "text": "时",
+          "probability": 0.6825
+        }
+      ]
+    },
+    {
+      "time": 114.7,
+      "end": 116.62,
+      "text": "直到永远",
+      "words": [
+        {
+          "time": 114.7,
+          "end": 115.0,
+          "text": "直",
+          "probability": 0.8106
+        },
+        {
+          "time": 115.32,
+          "end": 115.62,
+          "text": "到",
+          "probability": 0.9108
+        },
+        {
+          "time": 115.64,
+          "end": 115.94,
+          "text": "永",
+          "probability": 0.9997
+        },
+        {
+          "time": 116.06,
+          "end": 116.62,
+          "text": "远",
+          "probability": 0.9967
+        }
+      ]
+    },
+    {
+      "time": 118.1,
+      "end": 121.62,
+      "text": "在美主的生命",
+      "words": [
+        {
+          "time": 118.1,
+          "end": 118.4,
+          "text": "在",
+          "probability": 0.8895
+        },
+        {
+          "time": 119.1,
+          "end": 119.4,
+          "text": "美",
+          "probability": 0.9174
+        },
+        {
+          "time": 119.62,
+          "end": 119.92,
+          "text": "主",
+          "probability": 0.4589
+        },
+        {
+          "time": 120.38,
+          "end": 120.68,
+          "text": "的",
+          "probability": 0.9294
+        },
+        {
+          "time": 120.7,
+          "end": 121.0,
+          "text": "生",
+          "probability": 0.935
+        },
+        {
+          "time": 121.32,
+          "end": 121.62,
+          "text": "命",
+          "probability": 0.9998
+        }
+      ]
+    }
+  ]
+}

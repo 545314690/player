@@ -1,0 +1,491 @@
+{
+  "id": "s0a7f535898e0",
+  "file": "205-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "ea5a85507681f68cea5a6e9d0cffb1f7e5208d498927c13a65c7815191a014cc",
+  "fullDuration": 92.734694,
+  "lines": [
+    {
+      "time": 1.78,
+      "end": 4.36,
+      "text": "我命的朝",
+      "words": [
+        {
+          "time": 1.78,
+          "end": 2.08,
+          "text": "我",
+          "probability": 0.3037
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "命",
+          "probability": 0.1124
+        },
+        {
+          "time": 3.3,
+          "end": 3.6,
+          "text": "的",
+          "probability": 0.4499
+        },
+        {
+          "time": 4.06,
+          "end": 4.36,
+          "text": "朝",
+          "probability": 0.1172
+        }
+      ]
+    },
+    {
+      "time": 6.4,
+      "end": 10.88,
+      "text": "赞美救助我神",
+      "words": [
+        {
+          "time": 6.4,
+          "end": 7.1,
+          "text": "赞",
+          "probability": 0.8592
+        },
+        {
+          "time": 7.42,
+          "end": 7.72,
+          "text": "美",
+          "probability": 0.9308
+        },
+        {
+          "time": 8.42,
+          "end": 8.72,
+          "text": "救",
+          "probability": 0.9925
+        },
+        {
+          "time": 9.04,
+          "end": 9.34,
+          "text": "助",
+          "probability": 0.9295
+        },
+        {
+          "time": 9.82,
+          "end": 10.12,
+          "text": "我",
+          "probability": 0.9978
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "神",
+          "probability": 0.2678
+        }
+      ]
+    },
+    {
+      "time": 14.98,
+      "end": 17.86,
+      "text": "以真为道",
+      "words": [
+        {
+          "time": 14.98,
+          "end": 15.28,
+          "text": "以",
+          "probability": 0.2618
+        },
+        {
+          "time": 15.64,
+          "end": 15.94,
+          "text": "真",
+          "probability": 0.4005
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "为",
+          "probability": 0.9265
+        },
+        {
+          "time": 17.56,
+          "end": 17.86,
+          "text": "道",
+          "probability": 0.3173
+        }
+      ]
+    },
+    {
+      "time": 21.7,
+      "end": 24.3,
+      "text": "何等为道",
+      "words": [
+        {
+          "time": 21.7,
+          "end": 22.0,
+          "text": "何",
+          "probability": 0.9065
+        },
+        {
+          "time": 22.5,
+          "end": 22.8,
+          "text": "等",
+          "probability": 0.9539
+        },
+        {
+          "time": 23.26,
+          "end": 23.56,
+          "text": "为",
+          "probability": 0.999
+        },
+        {
+          "time": 24.0,
+          "end": 24.3,
+          "text": "道",
+          "probability": 0.9647
+        }
+      ]
+    },
+    {
+      "time": 28.28,
+      "end": 31.32,
+      "text": "我灵的伤",
+      "words": [
+        {
+          "time": 28.28,
+          "end": 28.58,
+          "text": "我",
+          "probability": 0.4214
+        },
+        {
+          "time": 29.0,
+          "end": 29.56,
+          "text": "灵",
+          "probability": 0.0841
+        },
+        {
+          "time": 29.88,
+          "end": 30.18,
+          "text": "的",
+          "probability": 0.6437
+        },
+        {
+          "time": 30.46,
+          "end": 31.32,
+          "text": "伤",
+          "probability": 0.7152
+        }
+      ]
+    },
+    {
+      "time": 33.0,
+      "end": 37.72,
+      "text": "赞美救助我神",
+      "words": [
+        {
+          "time": 33.0,
+          "end": 33.74,
+          "text": "赞",
+          "probability": 0.9452
+        },
+        {
+          "time": 34.06,
+          "end": 34.36,
+          "text": "美",
+          "probability": 0.7363
+        },
+        {
+          "time": 35.1,
+          "end": 35.4,
+          "text": "救",
+          "probability": 0.9786
+        },
+        {
+          "time": 35.76,
+          "end": 36.06,
+          "text": "助",
+          "probability": 0.552
+        },
+        {
+          "time": 36.64,
+          "end": 36.94,
+          "text": "我",
+          "probability": 0.9911
+        },
+        {
+          "time": 37.42,
+          "end": 37.72,
+          "text": "神",
+          "probability": 0.3275
+        }
+      ]
+    },
+    {
+      "time": 41.64,
+      "end": 44.56,
+      "text": "以真为大",
+      "words": [
+        {
+          "time": 41.64,
+          "end": 41.94,
+          "text": "以",
+          "probability": 0.4903
+        },
+        {
+          "time": 42.32,
+          "end": 42.62,
+          "text": "真",
+          "probability": 0.4407
+        },
+        {
+          "time": 43.28,
+          "end": 43.58,
+          "text": "为",
+          "probability": 0.4477
+        },
+        {
+          "time": 44.26,
+          "end": 44.56,
+          "text": "大",
+          "probability": 0.4519
+        }
+      ]
+    },
+    {
+      "time": 48.4,
+      "end": 50.98,
+      "text": "何等为大",
+      "words": [
+        {
+          "time": 48.4,
+          "end": 48.7,
+          "text": "何",
+          "probability": 0.9262
+        },
+        {
+          "time": 49.24,
+          "end": 49.54,
+          "text": "等",
+          "probability": 0.484
+        },
+        {
+          "time": 49.96,
+          "end": 50.26,
+          "text": "为",
+          "probability": 0.9905
+        },
+        {
+          "time": 50.68,
+          "end": 50.98,
+          "text": "大",
+          "probability": 0.9885
+        }
+      ]
+    },
+    {
+      "time": 54.84,
+      "end": 58.04,
+      "text": "一生为大",
+      "words": [
+        {
+          "time": 54.84,
+          "end": 55.14,
+          "text": "一",
+          "probability": 0.1987
+        },
+        {
+          "time": 55.72,
+          "end": 56.02,
+          "text": "生",
+          "probability": 0.4669
+        },
+        {
+          "time": 56.7,
+          "end": 57.0,
+          "text": "为",
+          "probability": 0.6175
+        },
+        {
+          "time": 57.74,
+          "end": 58.04,
+          "text": "大",
+          "probability": 0.2622
+        }
+      ]
+    },
+    {
+      "time": 61.56,
+      "end": 64.44,
+      "text": "和道为大",
+      "words": [
+        {
+          "time": 61.56,
+          "end": 61.86,
+          "text": "和",
+          "probability": 0.2883
+        },
+        {
+          "time": 62.6,
+          "end": 62.9,
+          "text": "道",
+          "probability": 0.1403
+        },
+        {
+          "time": 63.3,
+          "end": 63.6,
+          "text": "为",
+          "probability": 0.8241
+        },
+        {
+          "time": 64.14,
+          "end": 64.44,
+          "text": "大",
+          "probability": 0.9843
+        }
+      ]
+    },
+    {
+      "time": 68.36,
+      "end": 71.14,
+      "text": "一生为大",
+      "words": [
+        {
+          "time": 68.36,
+          "end": 68.66,
+          "text": "一",
+          "probability": 0.9784
+        },
+        {
+          "time": 69.04,
+          "end": 69.34,
+          "text": "生",
+          "probability": 0.9979
+        },
+        {
+          "time": 70.04,
+          "end": 70.34,
+          "text": "为",
+          "probability": 0.9989
+        },
+        {
+          "time": 70.84,
+          "end": 71.14,
+          "text": "大",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 75.38,
+      "end": 78.82,
+      "text": "和道为大",
+      "words": [
+        {
+          "time": 75.38,
+          "end": 75.68,
+          "text": "和",
+          "probability": 0.9761
+        },
+        {
+          "time": 76.6,
+          "end": 76.9,
+          "text": "道",
+          "probability": 0.9972
+        },
+        {
+          "time": 77.5,
+          "end": 77.8,
+          "text": "为",
+          "probability": 0.9872
+        },
+        {
+          "time": 78.52,
+          "end": 78.82,
+          "text": "大",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 92.54,
+      "end": 92.84,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "优",
+          "probability": 0.0691
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "优",
+          "probability": 0.9958
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "独",
+          "probability": 0.9937
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "播",
+          "probability": 0.9943
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "剧",
+          "probability": 0.9965
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "场",
+          "probability": 0.9973
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "——",
+          "probability": 0.9986
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "Yo",
+          "probability": 0.9966
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "Yo",
+          "probability": 0.996
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": " Television",
+          "probability": 0.9947
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": " Series",
+          "probability": 0.9963
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": " Exc",
+          "probability": 0.997
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "lusive",
+          "probability": 0.997
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1963 @@
+{
+  "id": "se7e6693ccf9f",
+  "file": "221-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "149734dea23805e1bb591651b38ddacd9e1d622fe70f4a6d620a143bafdfcaac",
+  "fullDuration": 210.703673,
+  "lines": [
+    {
+      "time": 1.66,
+      "end": 2.24,
+      "text": "作词 :李宗盛作曲 :李宗",
+      "words": [
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": "作",
+          "probability": 0.114
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": "词",
+          "probability": 0.6584
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": " :",
+          "probability": 0.604
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": "李",
+          "probability": 0.0315
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": "宗",
+          "probability": 0.3139
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": "盛",
+          "probability": 0.6504
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": "作",
+          "probability": 0.7323
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": "曲",
+          "probability": 0.755
+        },
+        {
+          "time": 1.66,
+          "end": 1.96,
+          "text": " :",
+          "probability": 0.9381
+        },
+        {
+          "time": 1.86,
+          "end": 2.16,
+          "text": "李",
+          "probability": 0.4905
+        },
+        {
+          "time": 1.86,
+          "end": 2.24,
+          "text": "宗",
+          "probability": 0.9925
+        }
+      ]
+    },
+    {
+      "time": 7.76,
+      "end": 8.48,
+      "text": "盛作曲 :李宗",
+      "words": [
+        {
+          "time": 7.76,
+          "end": 8.06,
+          "text": "盛",
+          "probability": 0.9986
+        },
+        {
+          "time": 7.76,
+          "end": 8.06,
+          "text": "作",
+          "probability": 0.6571
+        },
+        {
+          "time": 7.76,
+          "end": 8.06,
+          "text": "曲",
+          "probability": 0.7848
+        },
+        {
+          "time": 7.76,
+          "end": 8.06,
+          "text": " :",
+          "probability": 0.972
+        },
+        {
+          "time": 8.18,
+          "end": 8.48,
+          "text": "李",
+          "probability": 0.8093
+        },
+        {
+          "time": 8.18,
+          "end": 8.48,
+          "text": "宗",
+          "probability": 0.9945
+        }
+      ]
+    },
+    {
+      "time": 10.56,
+      "end": 16.12,
+      "text": "盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作",
+      "words": [
+        {
+          "time": 10.56,
+          "end": 10.88,
+          "text": "盛",
+          "probability": 0.999
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "作",
+          "probability": 0.6687
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "曲",
+          "probability": 0.8241
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": " :",
+          "probability": 0.9795
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "李",
+          "probability": 0.8869
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "宗",
+          "probability": 0.995
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "盛",
+          "probability": 0.999
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "作",
+          "probability": 0.5711
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "曲",
+          "probability": 0.7811
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": " :",
+          "probability": 0.9847
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "李",
+          "probability": 0.9212
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "宗",
+          "probability": 0.9956
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "盛",
+          "probability": 0.9991
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "作",
+          "probability": 0.6292
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "曲",
+          "probability": 0.7832
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": " :",
+          "probability": 0.9863
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "李",
+          "probability": 0.9383
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "宗",
+          "probability": 0.9958
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "盛",
+          "probability": 0.9992
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "作",
+          "probability": 0.4742
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "曲",
+          "probability": 0.7426
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": " :",
+          "probability": 0.988
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "李",
+          "probability": 0.9483
+        },
+        {
+          "time": 10.58,
+          "end": 10.9,
+          "text": "宗",
+          "probability": 0.9958
+        },
+        {
+          "time": 10.6,
+          "end": 10.94,
+          "text": "盛",
+          "probability": 0.9992
+        },
+        {
+          "time": 10.68,
+          "end": 10.98,
+          "text": "作",
+          "probability": 0.5056
+        },
+        {
+          "time": 10.68,
+          "end": 10.98,
+          "text": "曲",
+          "probability": 0.8103
+        },
+        {
+          "time": 10.68,
+          "end": 10.98,
+          "text": " :",
+          "probability": 0.9869
+        },
+        {
+          "time": 11.06,
+          "end": 11.36,
+          "text": "李",
+          "probability": 0.9548
+        },
+        {
+          "time": 11.08,
+          "end": 11.38,
+          "text": "宗",
+          "probability": 0.996
+        },
+        {
+          "time": 11.14,
+          "end": 11.52,
+          "text": "盛",
+          "probability": 0.9993
+        },
+        {
+          "time": 11.22,
+          "end": 11.52,
+          "text": "作",
+          "probability": 0.3912
+        },
+        {
+          "time": 11.22,
+          "end": 11.52,
+          "text": "曲",
+          "probability": 0.8006
+        },
+        {
+          "time": 11.24,
+          "end": 11.54,
+          "text": " :",
+          "probability": 0.9885
+        },
+        {
+          "time": 11.36,
+          "end": 11.66,
+          "text": "李",
+          "probability": 0.9592
+        },
+        {
+          "time": 11.36,
+          "end": 11.66,
+          "text": "宗",
+          "probability": 0.996
+        },
+        {
+          "time": 11.46,
+          "end": 11.76,
+          "text": "盛",
+          "probability": 0.9993
+        },
+        {
+          "time": 11.64,
+          "end": 11.94,
+          "text": "作",
+          "probability": 0.5224
+        },
+        {
+          "time": 11.64,
+          "end": 11.94,
+          "text": "曲",
+          "probability": 0.8514
+        },
+        {
+          "time": 11.66,
+          "end": 11.96,
+          "text": " :",
+          "probability": 0.9888
+        },
+        {
+          "time": 11.94,
+          "end": 12.24,
+          "text": "李",
+          "probability": 0.9586
+        },
+        {
+          "time": 11.94,
+          "end": 12.24,
+          "text": "宗",
+          "probability": 0.9956
+        },
+        {
+          "time": 12.18,
+          "end": 12.48,
+          "text": "盛",
+          "probability": 0.9993
+        },
+        {
+          "time": 12.18,
+          "end": 12.48,
+          "text": "作",
+          "probability": 0.4208
+        },
+        {
+          "time": 12.18,
+          "end": 12.48,
+          "text": "曲",
+          "probability": 0.8054
+        },
+        {
+          "time": 12.18,
+          "end": 12.48,
+          "text": " :",
+          "probability": 0.989
+        },
+        {
+          "time": 12.22,
+          "end": 12.52,
+          "text": "李",
+          "probability": 0.9658
+        },
+        {
+          "time": 12.22,
+          "end": 12.52,
+          "text": "宗",
+          "probability": 0.9952
+        },
+        {
+          "time": 12.24,
+          "end": 12.54,
+          "text": "盛",
+          "probability": 0.9993
+        },
+        {
+          "time": 12.26,
+          "end": 12.56,
+          "text": "作",
+          "probability": 0.4966
+        },
+        {
+          "time": 12.26,
+          "end": 12.56,
+          "text": "曲",
+          "probability": 0.933
+        },
+        {
+          "time": 12.26,
+          "end": 12.56,
+          "text": " :",
+          "probability": 0.9867
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": "李",
+          "probability": 0.9689
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": "宗",
+          "probability": 0.995
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": "盛",
+          "probability": 0.9994
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": "作",
+          "probability": 0.4537
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": "曲",
+          "probability": 0.912
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": " :",
+          "probability": 0.9871
+        },
+        {
+          "time": 12.94,
+          "end": 13.24,
+          "text": "李",
+          "probability": 0.968
+        },
+        {
+          "time": 12.94,
+          "end": 13.24,
+          "text": "宗",
+          "probability": 0.9946
+        },
+        {
+          "time": 13.22,
+          "end": 13.52,
+          "text": "盛",
+          "probability": 0.9994
+        },
+        {
+          "time": 13.8,
+          "end": 14.1,
+          "text": "作",
+          "probability": 0.3256
+        },
+        {
+          "time": 13.8,
+          "end": 14.1,
+          "text": "曲",
+          "probability": 0.9456
+        },
+        {
+          "time": 13.8,
+          "end": 14.1,
+          "text": " :",
+          "probability": 0.9883
+        },
+        {
+          "time": 14.42,
+          "end": 14.72,
+          "text": "李",
+          "probability": 0.9681
+        },
+        {
+          "time": 14.42,
+          "end": 14.72,
+          "text": "宗",
+          "probability": 0.9943
+        },
+        {
+          "time": 15.04,
+          "end": 15.44,
+          "text": "盛",
+          "probability": 0.9995
+        },
+        {
+          "time": 15.26,
+          "end": 15.56,
+          "text": "作",
+          "probability": 0.3412
+        },
+        {
+          "time": 15.26,
+          "end": 15.56,
+          "text": "曲",
+          "probability": 0.9291
+        },
+        {
+          "time": 15.26,
+          "end": 15.56,
+          "text": " :",
+          "probability": 0.9868
+        },
+        {
+          "time": 15.72,
+          "end": 16.02,
+          "text": "李",
+          "probability": 0.9702
+        },
+        {
+          "time": 15.74,
+          "end": 16.04,
+          "text": "宗",
+          "probability": 0.9947
+        },
+        {
+          "time": 15.74,
+          "end": 16.04,
+          "text": "盛",
+          "probability": 0.9995
+        },
+        {
+          "time": 16.12,
+          "end": 16.42,
+          "text": "作",
+          "probability": 0.3828
+        }
+      ]
+    },
+    {
+      "time": 16.12,
+      "end": 19.86,
+      "text": "曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛Zither",
+      "words": [
+        {
+          "time": 16.12,
+          "end": 16.42,
+          "text": "曲",
+          "probability": 0.9667
+        },
+        {
+          "time": 16.12,
+          "end": 16.42,
+          "text": " :",
+          "probability": 0.9882
+        },
+        {
+          "time": 17.32,
+          "end": 17.62,
+          "text": "李",
+          "probability": 0.9719
+        },
+        {
+          "time": 17.32,
+          "end": 17.62,
+          "text": "宗",
+          "probability": 0.9947
+        },
+        {
+          "time": 17.56,
+          "end": 17.86,
+          "text": "盛",
+          "probability": 0.9995
+        },
+        {
+          "time": 17.58,
+          "end": 17.88,
+          "text": "作",
+          "probability": 0.3596
+        },
+        {
+          "time": 17.58,
+          "end": 17.88,
+          "text": "曲",
+          "probability": 0.9595
+        },
+        {
+          "time": 17.58,
+          "end": 17.88,
+          "text": " :",
+          "probability": 0.9899
+        },
+        {
+          "time": 17.74,
+          "end": 18.04,
+          "text": "李",
+          "probability": 0.9733
+        },
+        {
+          "time": 17.74,
+          "end": 18.04,
+          "text": "宗",
+          "probability": 0.995
+        },
+        {
+          "time": 17.98,
+          "end": 18.28,
+          "text": "盛",
+          "probability": 0.9995
+        },
+        {
+          "time": 18.04,
+          "end": 18.34,
+          "text": "作",
+          "probability": 0.4231
+        },
+        {
+          "time": 18.04,
+          "end": 18.34,
+          "text": "曲",
+          "probability": 0.9627
+        },
+        {
+          "time": 18.04,
+          "end": 18.34,
+          "text": " :",
+          "probability": 0.9902
+        },
+        {
+          "time": 18.64,
+          "end": 18.94,
+          "text": "李",
+          "probability": 0.974
+        },
+        {
+          "time": 18.64,
+          "end": 18.94,
+          "text": "宗",
+          "probability": 0.9954
+        },
+        {
+          "time": 18.64,
+          "end": 18.94,
+          "text": "盛",
+          "probability": 0.9994
+        },
+        {
+          "time": 18.64,
+          "end": 18.94,
+          "text": "作",
+          "probability": 0.3291
+        },
+        {
+          "time": 18.64,
+          "end": 18.94,
+          "text": "曲",
+          "probability": 0.9707
+        },
+        {
+          "time": 18.64,
+          "end": 18.94,
+          "text": " :",
+          "probability": 0.9904
+        },
+        {
+          "time": 18.86,
+          "end": 19.16,
+          "text": "李",
+          "probability": 0.975
+        },
+        {
+          "time": 18.86,
+          "end": 19.16,
+          "text": "宗",
+          "probability": 0.9954
+        },
+        {
+          "time": 18.86,
+          "end": 19.16,
+          "text": "盛",
+          "probability": 0.9995
+        },
+        {
+          "time": 19.36,
+          "end": 19.66,
+          "text": "Z",
+          "probability": 0.2218
+        },
+        {
+          "time": 19.56,
+          "end": 19.86,
+          "text": "ither",
+          "probability": 0.9875
+        }
+      ]
+    },
+    {
+      "time": 22.4,
+      "end": 22.7,
+      "text": "Har",
+      "words": [
+        {
+          "time": 22.4,
+          "end": 22.7,
+          "text": " Har",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 25.26,
+      "end": 25.56,
+      "text": "p",
+      "words": [
+        {
+          "time": 25.26,
+          "end": 25.56,
+          "text": "p",
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "time": 50.28,
+      "end": 51.96,
+      "text": "高唱Hall",
+      "words": [
+        {
+          "time": 50.28,
+          "end": 50.58,
+          "text": "高",
+          "probability": 0.7848
+        },
+        {
+          "time": 50.66,
+          "end": 50.96,
+          "text": "唱",
+          "probability": 0.3317
+        },
+        {
+          "time": 51.26,
+          "end": 51.56,
+          "text": "H",
+          "probability": 0.4004
+        },
+        {
+          "time": 51.66,
+          "end": 51.96,
+          "text": "all",
+          "probability": 0.9751
+        }
+      ]
+    },
+    {
+      "time": 53.22,
+      "end": 55.24,
+      "text": "elujah, Hallelujah",
+      "words": [
+        {
+          "time": 53.22,
+          "end": 53.52,
+          "text": "elujah",
+          "probability": 0.984
+        },
+        {
+          "time": 53.64,
+          "end": 53.94,
+          "text": ",",
+          "probability": 0.4248
+        },
+        {
+          "time": 54.94,
+          "end": 55.24,
+          "text": " Hallelujah",
+          "probability": 0.5905
+        }
+      ]
+    },
+    {
+      "time": 57.22,
+      "end": 62.9,
+      "text": "用彩美和感谢迎接每一天高",
+      "words": [
+        {
+          "time": 57.22,
+          "end": 57.52,
+          "text": "用",
+          "probability": 0.7364
+        },
+        {
+          "time": 57.44,
+          "end": 57.76,
+          "text": "彩",
+          "probability": 0.1437
+        },
+        {
+          "time": 57.82,
+          "end": 58.12,
+          "text": "美",
+          "probability": 0.7059
+        },
+        {
+          "time": 58.74,
+          "end": 59.04,
+          "text": "和",
+          "probability": 0.9039
+        },
+        {
+          "time": 59.0,
+          "end": 59.3,
+          "text": "感",
+          "probability": 0.9751
+        },
+        {
+          "time": 59.44,
+          "end": 59.74,
+          "text": "谢",
+          "probability": 0.8876
+        },
+        {
+          "time": 60.24,
+          "end": 60.54,
+          "text": "迎",
+          "probability": 0.8677
+        },
+        {
+          "time": 60.64,
+          "end": 60.94,
+          "text": "接",
+          "probability": 0.9792
+        },
+        {
+          "time": 61.1,
+          "end": 61.4,
+          "text": "每",
+          "probability": 0.9956
+        },
+        {
+          "time": 61.42,
+          "end": 61.72,
+          "text": "一",
+          "probability": 0.9977
+        },
+        {
+          "time": 61.94,
+          "end": 62.24,
+          "text": "天",
+          "probability": 0.9975
+        },
+        {
+          "time": 62.6,
+          "end": 62.9,
+          "text": "高",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 62.96,
+      "end": 64.22,
+      "text": "唱Hall",
+      "words": [
+        {
+          "time": 62.96,
+          "end": 63.26,
+          "text": "唱",
+          "probability": 0.9991
+        },
+        {
+          "time": 63.52,
+          "end": 63.82,
+          "text": "H",
+          "probability": 0.999
+        },
+        {
+          "time": 63.92,
+          "end": 64.22,
+          "text": "all",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 65.44,
+      "end": 67.56,
+      "text": "elujah, Hallelujah",
+      "words": [
+        {
+          "time": 65.44,
+          "end": 65.74,
+          "text": "elujah",
+          "probability": 0.9997
+        },
+        {
+          "time": 66.16,
+          "end": 66.46,
+          "text": ",",
+          "probability": 0.9998
+        },
+        {
+          "time": 67.26,
+          "end": 67.56,
+          "text": " Hallelujah",
+          "probability": 0.9869
+        }
+      ]
+    },
+    {
+      "time": 69.5,
+      "end": 74.56,
+      "text": "他将全在每一天耶稣将将决",
+      "words": [
+        {
+          "time": 69.5,
+          "end": 69.8,
+          "text": "他",
+          "probability": 0.4515
+        },
+        {
+          "time": 69.76,
+          "end": 70.06,
+          "text": "将",
+          "probability": 0.2268
+        },
+        {
+          "time": 70.1,
+          "end": 70.4,
+          "text": "全",
+          "probability": 0.5378
+        },
+        {
+          "time": 70.64,
+          "end": 70.94,
+          "text": "在",
+          "probability": 0.9627
+        },
+        {
+          "time": 71.04,
+          "end": 71.34,
+          "text": "每",
+          "probability": 0.986
+        },
+        {
+          "time": 71.36,
+          "end": 71.66,
+          "text": "一",
+          "probability": 0.9996
+        },
+        {
+          "time": 71.76,
+          "end": 72.06,
+          "text": "天",
+          "probability": 0.9796
+        },
+        {
+          "time": 72.52,
+          "end": 72.82,
+          "text": "耶",
+          "probability": 0.6884
+        },
+        {
+          "time": 72.82,
+          "end": 73.28,
+          "text": "稣",
+          "probability": 0.9374
+        },
+        {
+          "time": 73.38,
+          "end": 73.68,
+          "text": "将",
+          "probability": 0.8472
+        },
+        {
+          "time": 73.74,
+          "end": 74.04,
+          "text": "将",
+          "probability": 0.3059
+        },
+        {
+          "time": 74.04,
+          "end": 74.56,
+          "text": "决",
+          "probability": 0.5838
+        }
+      ]
+    },
+    {
+      "time": 91.02,
+      "end": 95.92,
+      "text": "空水泛乱的时候变速撞前",
+      "words": [
+        {
+          "time": 91.02,
+          "end": 91.32,
+          "text": "空",
+          "probability": 0.2454
+        },
+        {
+          "time": 91.4,
+          "end": 91.7,
+          "text": "水",
+          "probability": 0.8734
+        },
+        {
+          "time": 91.76,
+          "end": 92.14,
+          "text": "泛",
+          "probability": 0.236
+        },
+        {
+          "time": 92.16,
+          "end": 92.56,
+          "text": "乱",
+          "probability": 0.7878
+        },
+        {
+          "time": 93.06,
+          "end": 93.36,
+          "text": "的时候",
+          "probability": 0.9803
+        },
+        {
+          "time": 94.08,
+          "end": 94.54,
+          "text": "变",
+          "probability": 0.5386
+        },
+        {
+          "time": 94.76,
+          "end": 95.06,
+          "text": "速",
+          "probability": 0.8572
+        },
+        {
+          "time": 95.2,
+          "end": 95.62,
+          "text": "撞",
+          "probability": 0.3063
+        },
+        {
+          "time": 95.62,
+          "end": 95.92,
+          "text": "前",
+          "probability": 0.2241
+        }
+      ]
+    },
+    {
+      "time": 97.2,
+      "end": 102.22,
+      "text": "自灭手底的时候变速撞前",
+      "words": [
+        {
+          "time": 97.2,
+          "end": 97.5,
+          "text": "自",
+          "probability": 0.7458
+        },
+        {
+          "time": 97.52,
+          "end": 97.9,
+          "text": "灭",
+          "probability": 0.2498
+        },
+        {
+          "time": 97.96,
+          "end": 98.26,
+          "text": "手",
+          "probability": 0.5331
+        },
+        {
+          "time": 98.36,
+          "end": 98.66,
+          "text": "底",
+          "probability": 0.409
+        },
+        {
+          "time": 99.22,
+          "end": 99.52,
+          "text": "的时候",
+          "probability": 0.992
+        },
+        {
+          "time": 100.22,
+          "end": 100.68,
+          "text": "变",
+          "probability": 0.9985
+        },
+        {
+          "time": 100.92,
+          "end": 101.22,
+          "text": "速",
+          "probability": 0.9991
+        },
+        {
+          "time": 101.38,
+          "end": 101.78,
+          "text": "撞",
+          "probability": 0.957
+        },
+        {
+          "time": 101.92,
+          "end": 102.22,
+          "text": "前",
+          "probability": 0.9899
+        }
+      ]
+    },
+    {
+      "time": 103.62,
+      "end": 109.42,
+      "text": "不看幻境只要全心来相信耶稣",
+      "words": [
+        {
+          "time": 103.62,
+          "end": 103.92,
+          "text": "不",
+          "probability": 0.9457
+        },
+        {
+          "time": 104.14,
+          "end": 104.44,
+          "text": "看",
+          "probability": 0.3872
+        },
+        {
+          "time": 104.42,
+          "end": 104.88,
+          "text": "幻",
+          "probability": 0.187
+        },
+        {
+          "time": 104.94,
+          "end": 105.24,
+          "text": "境",
+          "probability": 0.3302
+        },
+        {
+          "time": 105.64,
+          "end": 105.94,
+          "text": "只",
+          "probability": 0.9145
+        },
+        {
+          "time": 106.08,
+          "end": 106.38,
+          "text": "要",
+          "probability": 0.979
+        },
+        {
+          "time": 106.4,
+          "end": 106.7,
+          "text": "全",
+          "probability": 0.8103
+        },
+        {
+          "time": 106.74,
+          "end": 107.04,
+          "text": "心",
+          "probability": 0.8859
+        },
+        {
+          "time": 107.18,
+          "end": 107.48,
+          "text": "来",
+          "probability": 0.92
+        },
+        {
+          "time": 107.86,
+          "end": 108.16,
+          "text": "相信",
+          "probability": 0.9923
+        },
+        {
+          "time": 108.72,
+          "end": 109.02,
+          "text": "耶",
+          "probability": 0.9948
+        },
+        {
+          "time": 108.92,
+          "end": 109.48,
+          "text": "稣",
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "time": 109.42,
+      "end": 113.22,
+      "text": "掌权他凡事都掌权",
+      "words": [
+        {
+          "time": 109.42,
+          "end": 109.8,
+          "text": "掌",
+          "probability": 0.7324
+        },
+        {
+          "time": 109.76,
+          "end": 110.18,
+          "text": "权",
+          "probability": 0.61
+        },
+        {
+          "time": 110.58,
+          "end": 110.88,
+          "text": "他",
+          "probability": 0.669
+        },
+        {
+          "time": 110.94,
+          "end": 111.38,
+          "text": "凡",
+          "probability": 0.9374
+        },
+        {
+          "time": 111.42,
+          "end": 111.72,
+          "text": "事",
+          "probability": 0.9922
+        },
+        {
+          "time": 111.82,
+          "end": 112.12,
+          "text": "都",
+          "probability": 0.9937
+        },
+        {
+          "time": 112.12,
+          "end": 112.52,
+          "text": "掌",
+          "probability": 0.8885
+        },
+        {
+          "time": 112.5,
+          "end": 113.22,
+          "text": "权",
+          "probability": 0.9411
+        }
+      ]
+    },
+    {
+      "time": 114.9,
+      "end": 120.76,
+      "text": "高唱哈利路亚哈利路亚",
+      "words": [
+        {
+          "time": 114.9,
+          "end": 115.2,
+          "text": "高",
+          "probability": 0.9252
+        },
+        {
+          "time": 115.28,
+          "end": 115.58,
+          "text": "唱",
+          "probability": 0.6263
+        },
+        {
+          "time": 115.94,
+          "end": 116.24,
+          "text": "哈",
+          "probability": 0.403
+        },
+        {
+          "time": 116.52,
+          "end": 116.82,
+          "text": "利",
+          "probability": 0.5798
+        },
+        {
+          "time": 117.3,
+          "end": 117.6,
+          "text": "路",
+          "probability": 0.9026
+        },
+        {
+          "time": 117.92,
+          "end": 118.38,
+          "text": "亚",
+          "probability": 0.9091
+        },
+        {
+          "time": 118.78,
+          "end": 119.08,
+          "text": "哈",
+          "probability": 0.4534
+        },
+        {
+          "time": 119.48,
+          "end": 119.78,
+          "text": "利",
+          "probability": 0.9989
+        },
+        {
+          "time": 119.88,
+          "end": 120.18,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 120.24,
+          "end": 120.76,
+          "text": "亚",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 121.84,
+      "end": 127.52,
+      "text": "用在每个感谢迎接每一天高",
+      "words": [
+        {
+          "time": 121.84,
+          "end": 122.14,
+          "text": "用",
+          "probability": 0.7198
+        },
+        {
+          "time": 122.1,
+          "end": 122.4,
+          "text": "在",
+          "probability": 0.603
+        },
+        {
+          "time": 122.52,
+          "end": 122.82,
+          "text": "每",
+          "probability": 0.688
+        },
+        {
+          "time": 123.34,
+          "end": 123.64,
+          "text": "个",
+          "probability": 0.5116
+        },
+        {
+          "time": 123.62,
+          "end": 123.92,
+          "text": "感",
+          "probability": 0.9872
+        },
+        {
+          "time": 124.08,
+          "end": 124.38,
+          "text": "谢",
+          "probability": 0.9745
+        },
+        {
+          "time": 124.88,
+          "end": 125.18,
+          "text": "迎",
+          "probability": 0.9619
+        },
+        {
+          "time": 125.26,
+          "end": 125.56,
+          "text": "接",
+          "probability": 0.988
+        },
+        {
+          "time": 125.68,
+          "end": 125.98,
+          "text": "每",
+          "probability": 0.9995
+        },
+        {
+          "time": 126.04,
+          "end": 126.34,
+          "text": "一",
+          "probability": 0.9971
+        },
+        {
+          "time": 126.46,
+          "end": 126.76,
+          "text": "天",
+          "probability": 0.9972
+        },
+        {
+          "time": 127.22,
+          "end": 127.52,
+          "text": "高",
+          "probability": 0.9388
+        }
+      ]
+    },
+    {
+      "time": 127.54,
+      "end": 133.26,
+      "text": "唱哈利路亚哈利路亚",
+      "words": [
+        {
+          "time": 127.54,
+          "end": 127.84,
+          "text": "唱",
+          "probability": 0.9996
+        },
+        {
+          "time": 128.32,
+          "end": 128.62,
+          "text": "哈",
+          "probability": 0.9896
+        },
+        {
+          "time": 128.88,
+          "end": 129.18,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 129.64,
+          "end": 129.94,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 130.24,
+          "end": 130.7,
+          "text": "亚",
+          "probability": 0.9993
+        },
+        {
+          "time": 131.34,
+          "end": 131.64,
+          "text": "哈",
+          "probability": 0.397
+        },
+        {
+          "time": 131.8,
+          "end": 132.1,
+          "text": "利",
+          "probability": 0.7007
+        },
+        {
+          "time": 132.2,
+          "end": 132.5,
+          "text": "路",
+          "probability": 0.8061
+        },
+        {
+          "time": 132.54,
+          "end": 133.26,
+          "text": "亚",
+          "probability": 0.5943
+        }
+      ]
+    },
+    {
+      "time": 134.14,
+      "end": 139.38,
+      "text": "他掌现在每一天耶稣见着前",
+      "words": [
+        {
+          "time": 134.14,
+          "end": 134.44,
+          "text": "他",
+          "probability": 0.7608
+        },
+        {
+          "time": 134.36,
+          "end": 134.7,
+          "text": "掌",
+          "probability": 0.2276
+        },
+        {
+          "time": 134.78,
+          "end": 135.08,
+          "text": "现",
+          "probability": 0.0838
+        },
+        {
+          "time": 135.28,
+          "end": 135.58,
+          "text": "在",
+          "probability": 0.8873
+        },
+        {
+          "time": 135.72,
+          "end": 136.02,
+          "text": "每",
+          "probability": 0.9904
+        },
+        {
+          "time": 135.98,
+          "end": 136.28,
+          "text": "一",
+          "probability": 0.9984
+        },
+        {
+          "time": 136.4,
+          "end": 136.7,
+          "text": "天",
+          "probability": 0.9905
+        },
+        {
+          "time": 137.16,
+          "end": 137.46,
+          "text": "耶",
+          "probability": 0.9976
+        },
+        {
+          "time": 137.46,
+          "end": 137.9,
+          "text": "稣",
+          "probability": 0.9947
+        },
+        {
+          "time": 137.98,
+          "end": 138.28,
+          "text": "见",
+          "probability": 0.8191
+        },
+        {
+          "time": 138.38,
+          "end": 138.68,
+          "text": "着",
+          "probability": 0.7372
+        },
+        {
+          "time": 139.08,
+          "end": 139.38,
+          "text": "前",
+          "probability": 0.1461
+        }
+      ]
+    },
+    {
+      "time": 142.56,
+      "end": 148.56,
+      "text": "他唱哈利路亚哈利路亚",
+      "words": [
+        {
+          "time": 142.56,
+          "end": 142.86,
+          "text": "他",
+          "probability": 0.136
+        },
+        {
+          "time": 142.96,
+          "end": 143.26,
+          "text": "唱",
+          "probability": 0.9644
+        },
+        {
+          "time": 143.74,
+          "end": 144.04,
+          "text": "哈",
+          "probability": 0.9904
+        },
+        {
+          "time": 144.22,
+          "end": 144.52,
+          "text": "利",
+          "probability": 0.99
+        },
+        {
+          "time": 145.04,
+          "end": 145.34,
+          "text": "路",
+          "probability": 0.9996
+        },
+        {
+          "time": 145.6,
+          "end": 146.08,
+          "text": "亚",
+          "probability": 0.9995
+        },
+        {
+          "time": 146.5,
+          "end": 146.8,
+          "text": "哈",
+          "probability": 0.9656
+        },
+        {
+          "time": 147.18,
+          "end": 147.48,
+          "text": "利",
+          "probability": 0.9996
+        },
+        {
+          "time": 147.54,
+          "end": 147.84,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 148.0,
+          "end": 148.56,
+          "text": "亚",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 149.44,
+      "end": 155.2,
+      "text": "拥在每个感谢迎接每一天他",
+      "words": [
+        {
+          "time": 149.44,
+          "end": 149.82,
+          "text": "拥",
+          "probability": 0.5399
+        },
+        {
+          "time": 149.8,
+          "end": 150.1,
+          "text": "在",
+          "probability": 0.5755
+        },
+        {
+          "time": 150.22,
+          "end": 150.52,
+          "text": "每",
+          "probability": 0.7791
+        },
+        {
+          "time": 151.06,
+          "end": 151.36,
+          "text": "个",
+          "probability": 0.5038
+        },
+        {
+          "time": 151.32,
+          "end": 151.62,
+          "text": "感",
+          "probability": 0.7497
+        },
+        {
+          "time": 151.82,
+          "end": 152.12,
+          "text": "谢",
+          "probability": 0.9559
+        },
+        {
+          "time": 152.58,
+          "end": 152.88,
+          "text": "迎",
+          "probability": 0.7213
+        },
+        {
+          "time": 152.94,
+          "end": 153.24,
+          "text": "接",
+          "probability": 0.9576
+        },
+        {
+          "time": 153.42,
+          "end": 153.72,
+          "text": "每",
+          "probability": 0.9996
+        },
+        {
+          "time": 153.82,
+          "end": 154.12,
+          "text": "一",
+          "probability": 0.9997
+        },
+        {
+          "time": 154.18,
+          "end": 154.48,
+          "text": "天",
+          "probability": 0.987
+        },
+        {
+          "time": 154.9,
+          "end": 155.2,
+          "text": "他",
+          "probability": 0.9523
+        }
+      ]
+    },
+    {
+      "time": 155.22,
+      "end": 160.36,
+      "text": "唱哈利路亚Hallelujah",
+      "words": [
+        {
+          "time": 155.22,
+          "end": 155.52,
+          "text": "唱",
+          "probability": 0.9993
+        },
+        {
+          "time": 156.0,
+          "end": 156.3,
+          "text": "哈",
+          "probability": 0.9991
+        },
+        {
+          "time": 156.52,
+          "end": 156.82,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 157.3,
+          "end": 157.6,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 157.92,
+          "end": 158.36,
+          "text": "亚",
+          "probability": 0.9998
+        },
+        {
+          "time": 158.82,
+          "end": 159.12,
+          "text": "H",
+          "probability": 0.437
+        },
+        {
+          "time": 159.34,
+          "end": 159.64,
+          "text": "all",
+          "probability": 0.9481
+        },
+        {
+          "time": 160.06,
+          "end": 160.36,
+          "text": "elujah",
+          "probability": 0.889
+        }
+      ]
+    },
+    {
+      "time": 161.94,
+      "end": 168.22,
+      "text": "他重圈在每一天耶稣在重圈他",
+      "words": [
+        {
+          "time": 161.94,
+          "end": 162.24,
+          "text": "他",
+          "probability": 0.3791
+        },
+        {
+          "time": 162.08,
+          "end": 162.38,
+          "text": "重",
+          "probability": 0.2413
+        },
+        {
+          "time": 162.32,
+          "end": 162.82,
+          "text": "圈",
+          "probability": 0.51
+        },
+        {
+          "time": 162.94,
+          "end": 163.24,
+          "text": "在",
+          "probability": 0.9565
+        },
+        {
+          "time": 163.38,
+          "end": 163.68,
+          "text": "每",
+          "probability": 0.9913
+        },
+        {
+          "time": 163.7,
+          "end": 164.0,
+          "text": "一",
+          "probability": 0.9946
+        },
+        {
+          "time": 164.06,
+          "end": 164.36,
+          "text": "天",
+          "probability": 0.997
+        },
+        {
+          "time": 164.82,
+          "end": 165.12,
+          "text": "耶",
+          "probability": 0.9874
+        },
+        {
+          "time": 165.14,
+          "end": 165.58,
+          "text": "稣",
+          "probability": 0.7732
+        },
+        {
+          "time": 165.7,
+          "end": 166.0,
+          "text": "在",
+          "probability": 0.4698
+        },
+        {
+          "time": 165.98,
+          "end": 166.28,
+          "text": "重",
+          "probability": 0.5894
+        },
+        {
+          "time": 166.36,
+          "end": 167.04,
+          "text": "圈",
+          "probability": 0.9384
+        },
+        {
+          "time": 167.98,
+          "end": 168.28,
+          "text": "他",
+          "probability": 0.984
+        }
+      ]
+    },
+    {
+      "time": 168.22,
+      "end": 174.06,
+      "text": "重圈在每一天耶稣在重",
+      "words": [
+        {
+          "time": 168.22,
+          "end": 168.52,
+          "text": "重",
+          "probability": 0.9994
+        },
+        {
+          "time": 168.5,
+          "end": 168.98,
+          "text": "圈",
+          "probability": 0.999
+        },
+        {
+          "time": 169.12,
+          "end": 169.42,
+          "text": "在",
+          "probability": 0.9934
+        },
+        {
+          "time": 169.54,
+          "end": 169.84,
+          "text": "每",
+          "probability": 0.9991
+        },
+        {
+          "time": 169.84,
+          "end": 170.14,
+          "text": "一",
+          "probability": 0.9996
+        },
+        {
+          "time": 170.3,
+          "end": 170.6,
+          "text": "天",
+          "probability": 0.9981
+        },
+        {
+          "time": 171.14,
+          "end": 171.44,
+          "text": "耶",
+          "probability": 0.9987
+        },
+        {
+          "time": 171.76,
+          "end": 172.28,
+          "text": "稣",
+          "probability": 0.9964
+        },
+        {
+          "time": 172.82,
+          "end": 173.12,
+          "text": "在",
+          "probability": 0.8592
+        },
+        {
+          "time": 173.76,
+          "end": 174.06,
+          "text": "重",
+          "probability": 0.9288
+        }
+      ]
+    },
+    {
+      "time": 174.08,
+      "end": 175.0,
+      "text": "圈",
+      "words": [
+        {
+          "time": 174.08,
+          "end": 175.0,
+          "text": "圈",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 189.66,
+      "end": 189.96,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 189.66,
+          "end": 189.96,
+          "text": "Z",
+          "probability": 0.1697
+        },
+        {
+          "time": 189.66,
+          "end": 189.96,
+          "text": "ither",
+          "probability": 0.9895
+        },
+        {
+          "time": 189.66,
+          "end": 189.96,
+          "text": " Har",
+          "probability": 0.9955
+        },
+        {
+          "time": 189.66,
+          "end": 189.96,
+          "text": "p",
+          "probability": 0.9985
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1698 @@
+{
+  "id": "s24ce4fe67ffb",
+  "file": "167-版本二.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "aa49267ef5559f8adb3067a106ebf69f5d73d0e9a9fc9ad911bbfb76b959ac84",
+  "fullDuration": 199.9075,
+  "lines": [
+    {
+      "time": 2.28,
+      "end": 2.8,
+      "text": "作词 :李宗盛作曲 :李宗",
+      "words": [
+        {
+          "time": 2.28,
+          "end": 2.58,
+          "text": "作",
+          "probability": 0.1479
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": "词",
+          "probability": 0.6758
+        },
+        {
+          "time": 2.48,
+          "end": 2.78,
+          "text": " :",
+          "probability": 0.6249
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "李",
+          "probability": 0.0235
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "宗",
+          "probability": 0.3205
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "盛",
+          "probability": 0.7804
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "作",
+          "probability": 0.8004
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "曲",
+          "probability": 0.6913
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": " :",
+          "probability": 0.9402
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "李",
+          "probability": 0.4623
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "宗",
+          "probability": 0.9908
+        }
+      ]
+    },
+    {
+      "time": 9.44,
+      "end": 9.76,
+      "text": "盛作曲 :",
+      "words": [
+        {
+          "time": 9.44,
+          "end": 9.74,
+          "text": "盛",
+          "probability": 0.9982
+        },
+        {
+          "time": 9.44,
+          "end": 9.74,
+          "text": "作",
+          "probability": 0.7001
+        },
+        {
+          "time": 9.46,
+          "end": 9.76,
+          "text": "曲",
+          "probability": 0.6822
+        },
+        {
+          "time": 9.46,
+          "end": 9.76,
+          "text": " :",
+          "probability": 0.9718
+        }
+      ]
+    },
+    {
+      "time": 13.02,
+      "end": 13.46,
+      "text": "李宗",
+      "words": [
+        {
+          "time": 13.02,
+          "end": 13.32,
+          "text": "李",
+          "probability": 0.7835
+        },
+        {
+          "time": 13.02,
+          "end": 13.46,
+          "text": "宗",
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "time": 14.88,
+      "end": 15.18,
+      "text": "盛",
+      "words": [
+        {
+          "time": 14.88,
+          "end": 15.18,
+          "text": "盛",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 16.76,
+      "end": 22.68,
+      "text": "我要向高山巨屋我的帮助从何来",
+      "words": [
+        {
+          "time": 16.76,
+          "end": 17.06,
+          "text": "我要",
+          "probability": 0.9429
+        },
+        {
+          "time": 17.54,
+          "end": 17.84,
+          "text": "向",
+          "probability": 0.5151
+        },
+        {
+          "time": 17.9,
+          "end": 18.2,
+          "text": "高",
+          "probability": 0.9125
+        },
+        {
+          "time": 18.32,
+          "end": 18.62,
+          "text": "山",
+          "probability": 0.9927
+        },
+        {
+          "time": 18.64,
+          "end": 19.1,
+          "text": "巨",
+          "probability": 0.1368
+        },
+        {
+          "time": 19.06,
+          "end": 19.56,
+          "text": "屋",
+          "probability": 0.6271
+        },
+        {
+          "time": 20.28,
+          "end": 20.58,
+          "text": "我的",
+          "probability": 0.9716
+        },
+        {
+          "time": 20.64,
+          "end": 21.04,
+          "text": "帮",
+          "probability": 0.9679
+        },
+        {
+          "time": 21.06,
+          "end": 21.36,
+          "text": "助",
+          "probability": 0.9237
+        },
+        {
+          "time": 21.44,
+          "end": 21.74,
+          "text": "从",
+          "probability": 0.9543
+        },
+        {
+          "time": 21.88,
+          "end": 22.18,
+          "text": "何",
+          "probability": 0.9752
+        },
+        {
+          "time": 22.38,
+          "end": 22.68,
+          "text": "来",
+          "probability": 0.9974
+        }
+      ]
+    },
+    {
+      "time": 23.34,
+      "end": 28.98,
+      "text": "我的帮助从早前地的耶和华尔来",
+      "words": [
+        {
+          "time": 23.34,
+          "end": 23.64,
+          "text": "我的",
+          "probability": 0.9937
+        },
+        {
+          "time": 23.8,
+          "end": 24.2,
+          "text": "帮",
+          "probability": 0.9997
+        },
+        {
+          "time": 24.26,
+          "end": 24.56,
+          "text": "助",
+          "probability": 0.9998
+        },
+        {
+          "time": 24.66,
+          "end": 24.96,
+          "text": "从",
+          "probability": 0.9837
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "早",
+          "probability": 0.6733
+        },
+        {
+          "time": 25.5,
+          "end": 25.8,
+          "text": "前",
+          "probability": 0.3494
+        },
+        {
+          "time": 26.26,
+          "end": 26.56,
+          "text": "地",
+          "probability": 0.2456
+        },
+        {
+          "time": 26.7,
+          "end": 27.0,
+          "text": "的",
+          "probability": 0.2634
+        },
+        {
+          "time": 27.06,
+          "end": 27.36,
+          "text": "耶",
+          "probability": 0.6048
+        },
+        {
+          "time": 27.48,
+          "end": 27.78,
+          "text": "和",
+          "probability": 0.9918
+        },
+        {
+          "time": 27.8,
+          "end": 28.22,
+          "text": "华",
+          "probability": 0.909
+        },
+        {
+          "time": 28.22,
+          "end": 28.58,
+          "text": "尔",
+          "probability": 0.865
+        },
+        {
+          "time": 28.68,
+          "end": 28.98,
+          "text": "来",
+          "probability": 0.5731
+        }
+      ]
+    },
+    {
+      "time": 29.82,
+      "end": 35.38,
+      "text": "我要向高山去目我的帮助从何来",
+      "words": [
+        {
+          "time": 29.82,
+          "end": 30.12,
+          "text": "我要",
+          "probability": 0.9324
+        },
+        {
+          "time": 30.34,
+          "end": 30.64,
+          "text": "向",
+          "probability": 0.8416
+        },
+        {
+          "time": 30.68,
+          "end": 30.98,
+          "text": "高",
+          "probability": 0.9928
+        },
+        {
+          "time": 31.1,
+          "end": 31.4,
+          "text": "山",
+          "probability": 0.982
+        },
+        {
+          "time": 31.48,
+          "end": 31.78,
+          "text": "去",
+          "probability": 0.8611
+        },
+        {
+          "time": 31.92,
+          "end": 32.22,
+          "text": "目",
+          "probability": 0.185
+        },
+        {
+          "time": 33.1,
+          "end": 33.4,
+          "text": "我的",
+          "probability": 0.9672
+        },
+        {
+          "time": 33.4,
+          "end": 33.82,
+          "text": "帮",
+          "probability": 0.9433
+        },
+        {
+          "time": 33.84,
+          "end": 34.14,
+          "text": "助",
+          "probability": 0.8442
+        },
+        {
+          "time": 34.2,
+          "end": 34.5,
+          "text": "从",
+          "probability": 0.9878
+        },
+        {
+          "time": 34.62,
+          "end": 34.92,
+          "text": "何",
+          "probability": 0.9746
+        },
+        {
+          "time": 35.08,
+          "end": 35.38,
+          "text": "来",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 36.18,
+      "end": 42.18,
+      "text": "我的帮助从在天地的野荷花而来",
+      "words": [
+        {
+          "time": 36.18,
+          "end": 36.48,
+          "text": "我的",
+          "probability": 0.9981
+        },
+        {
+          "time": 36.6,
+          "end": 37.0,
+          "text": "帮",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.08,
+          "end": 37.38,
+          "text": "助",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.46,
+          "end": 37.76,
+          "text": "从",
+          "probability": 0.9981
+        },
+        {
+          "time": 37.86,
+          "end": 38.16,
+          "text": "在",
+          "probability": 0.2672
+        },
+        {
+          "time": 38.48,
+          "end": 38.78,
+          "text": "天",
+          "probability": 0.7253
+        },
+        {
+          "time": 39.1,
+          "end": 39.4,
+          "text": "地",
+          "probability": 0.5729
+        },
+        {
+          "time": 39.66,
+          "end": 39.96,
+          "text": "的",
+          "probability": 0.3754
+        },
+        {
+          "time": 39.9,
+          "end": 40.2,
+          "text": "野",
+          "probability": 0.5602
+        },
+        {
+          "time": 40.2,
+          "end": 40.62,
+          "text": "荷",
+          "probability": 0.5854
+        },
+        {
+          "time": 40.7,
+          "end": 41.0,
+          "text": "花",
+          "probability": 0.8275
+        },
+        {
+          "time": 41.06,
+          "end": 41.36,
+          "text": "而",
+          "probability": 0.9863
+        },
+        {
+          "time": 41.88,
+          "end": 42.18,
+          "text": "来",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 43.14,
+      "end": 48.7,
+      "text": "HallelujahHallelujah",
+      "words": [
+        {
+          "time": 43.14,
+          "end": 43.44,
+          "text": "H",
+          "probability": 0.2679
+        },
+        {
+          "time": 43.8,
+          "end": 44.1,
+          "text": "all",
+          "probability": 0.9468
+        },
+        {
+          "time": 44.8,
+          "end": 45.1,
+          "text": "elujah",
+          "probability": 0.9651
+        },
+        {
+          "time": 46.22,
+          "end": 46.52,
+          "text": "H",
+          "probability": 0.9651
+        },
+        {
+          "time": 46.96,
+          "end": 47.26,
+          "text": "all",
+          "probability": 0.9987
+        },
+        {
+          "time": 48.4,
+          "end": 48.7,
+          "text": "elujah",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 48.96,
+      "end": 53.64,
+      "text": "HallelujahHall",
+      "words": [
+        {
+          "time": 48.96,
+          "end": 49.26,
+          "text": "H",
+          "probability": 0.9859
+        },
+        {
+          "time": 50.16,
+          "end": 50.46,
+          "text": "all",
+          "probability": 0.999
+        },
+        {
+          "time": 51.66,
+          "end": 51.96,
+          "text": "elujah",
+          "probability": 0.999
+        },
+        {
+          "time": 52.68,
+          "end": 52.98,
+          "text": "H",
+          "probability": 0.9892
+        },
+        {
+          "time": 53.34,
+          "end": 53.64,
+          "text": "all",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 55.2,
+      "end": 60.3,
+      "text": "elujahHallelujahHallelujah",
+      "words": [
+        {
+          "time": 55.2,
+          "end": 55.5,
+          "text": "elujah",
+          "probability": 0.9975
+        },
+        {
+          "time": 55.84,
+          "end": 56.14,
+          "text": "H",
+          "probability": 0.9948
+        },
+        {
+          "time": 56.54,
+          "end": 56.84,
+          "text": "all",
+          "probability": 0.9987
+        },
+        {
+          "time": 58.04,
+          "end": 58.34,
+          "text": "elujah",
+          "probability": 0.9989
+        },
+        {
+          "time": 59.1,
+          "end": 59.4,
+          "text": "H",
+          "probability": 0.9981
+        },
+        {
+          "time": 59.78,
+          "end": 60.08,
+          "text": "all",
+          "probability": 0.999
+        },
+        {
+          "time": 60.0,
+          "end": 60.3,
+          "text": "elujah",
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "time": 62.18,
+      "end": 67.18,
+      "text": "HallelujahHallelujah",
+      "words": [
+        {
+          "time": 62.18,
+          "end": 62.48,
+          "text": "H",
+          "probability": 0.9984
+        },
+        {
+          "time": 63.0,
+          "end": 63.3,
+          "text": "all",
+          "probability": 0.999
+        },
+        {
+          "time": 64.1,
+          "end": 64.4,
+          "text": "elujah",
+          "probability": 0.9972
+        },
+        {
+          "time": 65.46,
+          "end": 65.76,
+          "text": "H",
+          "probability": 0.9968
+        },
+        {
+          "time": 66.16,
+          "end": 66.46,
+          "text": "all",
+          "probability": 0.9978
+        },
+        {
+          "time": 66.88,
+          "end": 67.18,
+          "text": "elujah",
+          "probability": 0.9955
+        }
+      ]
+    },
+    {
+      "time": 80.98,
+      "end": 86.62,
+      "text": "我要向高山举步我离帮出宗和来",
+      "words": [
+        {
+          "time": 80.98,
+          "end": 81.28,
+          "text": "我要",
+          "probability": 0.3065
+        },
+        {
+          "time": 81.52,
+          "end": 81.82,
+          "text": "向",
+          "probability": 0.677
+        },
+        {
+          "time": 81.86,
+          "end": 82.16,
+          "text": "高",
+          "probability": 0.9348
+        },
+        {
+          "time": 82.28,
+          "end": 82.58,
+          "text": "山",
+          "probability": 0.9965
+        },
+        {
+          "time": 82.58,
+          "end": 83.0,
+          "text": "举",
+          "probability": 0.3064
+        },
+        {
+          "time": 83.14,
+          "end": 83.44,
+          "text": "步",
+          "probability": 0.257
+        },
+        {
+          "time": 84.04,
+          "end": 84.34,
+          "text": "我",
+          "probability": 0.6517
+        },
+        {
+          "time": 84.22,
+          "end": 84.58,
+          "text": "离",
+          "probability": 0.1335
+        },
+        {
+          "time": 84.62,
+          "end": 85.02,
+          "text": "帮",
+          "probability": 0.3276
+        },
+        {
+          "time": 85.08,
+          "end": 85.38,
+          "text": "出",
+          "probability": 0.4658
+        },
+        {
+          "time": 85.42,
+          "end": 85.82,
+          "text": "宗",
+          "probability": 0.189
+        },
+        {
+          "time": 85.88,
+          "end": 86.18,
+          "text": "和",
+          "probability": 0.4533
+        },
+        {
+          "time": 86.32,
+          "end": 86.62,
+          "text": "来",
+          "probability": 0.6103
+        }
+      ]
+    },
+    {
+      "time": 87.18,
+      "end": 89.6,
+      "text": "我离帮出宗和来",
+      "words": [
+        {
+          "time": 87.18,
+          "end": 87.48,
+          "text": "我",
+          "probability": 0.9228
+        },
+        {
+          "time": 87.46,
+          "end": 87.8,
+          "text": "离",
+          "probability": 0.9988
+        },
+        {
+          "time": 87.8,
+          "end": 88.18,
+          "text": "帮",
+          "probability": 0.9995
+        },
+        {
+          "time": 88.28,
+          "end": 88.58,
+          "text": "出",
+          "probability": 0.9874
+        },
+        {
+          "time": 88.62,
+          "end": 89.0,
+          "text": "宗",
+          "probability": 0.995
+        },
+        {
+          "time": 89.08,
+          "end": 89.38,
+          "text": "和",
+          "probability": 0.2855
+        },
+        {
+          "time": 89.3,
+          "end": 89.6,
+          "text": "来",
+          "probability": 0.9126
+        }
+      ]
+    },
+    {
+      "time": 93.02,
+      "end": 93.32,
+      "text": "我",
+      "words": [
+        {
+          "time": 93.02,
+          "end": 93.32,
+          "text": "我",
+          "probability": 0.1888
+        }
+      ]
+    },
+    {
+      "time": 100.3,
+      "end": 106.34,
+      "text": "离帮出宗和来And in the end of our lives",
+      "words": [
+        {
+          "time": 100.3,
+          "end": 100.6,
+          "text": "离",
+          "probability": 0.9976
+        },
+        {
+          "time": 100.62,
+          "end": 101.0,
+          "text": "帮",
+          "probability": 0.9986
+        },
+        {
+          "time": 101.12,
+          "end": 101.42,
+          "text": "出",
+          "probability": 0.991
+        },
+        {
+          "time": 101.4,
+          "end": 101.8,
+          "text": "宗",
+          "probability": 0.9984
+        },
+        {
+          "time": 101.72,
+          "end": 102.02,
+          "text": "和",
+          "probability": 0.984
+        },
+        {
+          "time": 101.84,
+          "end": 102.14,
+          "text": "来",
+          "probability": 0.9821
+        },
+        {
+          "time": 102.82,
+          "end": 103.12,
+          "text": "And",
+          "probability": 0.1652
+        },
+        {
+          "time": 103.2,
+          "end": 103.5,
+          "text": " in",
+          "probability": 0.2415
+        },
+        {
+          "time": 103.48,
+          "end": 103.78,
+          "text": " the",
+          "probability": 0.9709
+        },
+        {
+          "time": 104.08,
+          "end": 104.38,
+          "text": " end",
+          "probability": 0.2517
+        },
+        {
+          "time": 104.38,
+          "end": 104.68,
+          "text": " of",
+          "probability": 0.9969
+        },
+        {
+          "time": 105.0,
+          "end": 105.3,
+          "text": " our",
+          "probability": 0.9774
+        },
+        {
+          "time": 106.04,
+          "end": 106.34,
+          "text": " lives",
+          "probability": 0.6192
+        }
+      ]
+    },
+    {
+      "time": 107.2,
+      "end": 107.5,
+      "text": "All",
+      "words": [
+        {
+          "time": 107.2,
+          "end": 107.5,
+          "text": "All",
+          "probability": 0.8563
+        }
+      ]
+    },
+    {
+      "time": 108.82,
+      "end": 115.36,
+      "text": "eluia, Alleluia, Allelu",
+      "words": [
+        {
+          "time": 108.82,
+          "end": 109.12,
+          "text": "elu",
+          "probability": 0.9353
+        },
+        {
+          "time": 109.42,
+          "end": 109.72,
+          "text": "ia",
+          "probability": 0.984
+        },
+        {
+          "time": 109.88,
+          "end": 110.18,
+          "text": ",",
+          "probability": 0.4218
+        },
+        {
+          "time": 110.86,
+          "end": 111.16,
+          "text": " All",
+          "probability": 0.8749
+        },
+        {
+          "time": 111.86,
+          "end": 112.16,
+          "text": "elu",
+          "probability": 0.999
+        },
+        {
+          "time": 112.68,
+          "end": 112.98,
+          "text": "ia",
+          "probability": 1.0
+        },
+        {
+          "time": 113.24,
+          "end": 113.54,
+          "text": ",",
+          "probability": 0.7052
+        },
+        {
+          "time": 113.68,
+          "end": 113.98,
+          "text": " All",
+          "probability": 0.9875
+        },
+        {
+          "time": 115.06,
+          "end": 115.36,
+          "text": "elu",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 115.9,
+      "end": 121.64,
+      "text": "ia, AlleluiaAllelu",
+      "words": [
+        {
+          "time": 115.9,
+          "end": 116.2,
+          "text": "ia",
+          "probability": 0.9996
+        },
+        {
+          "time": 116.16,
+          "end": 116.46,
+          "text": ",",
+          "probability": 0.7572
+        },
+        {
+          "time": 116.84,
+          "end": 117.14,
+          "text": " All",
+          "probability": 0.9911
+        },
+        {
+          "time": 118.28,
+          "end": 118.58,
+          "text": "elu",
+          "probability": 0.9992
+        },
+        {
+          "time": 119.0,
+          "end": 119.3,
+          "text": "ia",
+          "probability": 0.9743
+        },
+        {
+          "time": 120.08,
+          "end": 120.38,
+          "text": "All",
+          "probability": 0.894
+        },
+        {
+          "time": 121.34,
+          "end": 121.64,
+          "text": "elu",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 122.26,
+      "end": 126.66,
+      "text": "ia, Alleluia, Alleluia, All",
+      "words": [
+        {
+          "time": 122.26,
+          "end": 122.56,
+          "text": "ia",
+          "probability": 0.9994
+        },
+        {
+          "time": 122.48,
+          "end": 122.78,
+          "text": ",",
+          "probability": 0.9997
+        },
+        {
+          "time": 123.2,
+          "end": 123.5,
+          "text": " All",
+          "probability": 0.9979
+        },
+        {
+          "time": 123.52,
+          "end": 123.82,
+          "text": "elu",
+          "probability": 0.9995
+        },
+        {
+          "time": 123.52,
+          "end": 123.82,
+          "text": "ia",
+          "probability": 1.0
+        },
+        {
+          "time": 123.52,
+          "end": 123.82,
+          "text": ",",
+          "probability": 0.9828
+        },
+        {
+          "time": 123.7,
+          "end": 124.0,
+          "text": " All",
+          "probability": 0.9981
+        },
+        {
+          "time": 124.78,
+          "end": 125.08,
+          "text": "elu",
+          "probability": 0.9995
+        },
+        {
+          "time": 125.46,
+          "end": 125.76,
+          "text": "ia",
+          "probability": 0.9998
+        },
+        {
+          "time": 126.0,
+          "end": 126.3,
+          "text": ",",
+          "probability": 0.674
+        },
+        {
+          "time": 126.36,
+          "end": 126.66,
+          "text": " All",
+          "probability": 0.9928
+        }
+      ]
+    },
+    {
+      "time": 130.88,
+      "end": 136.7,
+      "text": "eluia我要向高山之路我的光出",
+      "words": [
+        {
+          "time": 130.88,
+          "end": 131.18,
+          "text": "elu",
+          "probability": 0.9995
+        },
+        {
+          "time": 130.88,
+          "end": 131.18,
+          "text": "ia",
+          "probability": 0.9994
+        },
+        {
+          "time": 132.26,
+          "end": 132.56,
+          "text": "我要",
+          "probability": 0.9046
+        },
+        {
+          "time": 132.8,
+          "end": 133.1,
+          "text": "向",
+          "probability": 0.4709
+        },
+        {
+          "time": 133.12,
+          "end": 133.42,
+          "text": "高",
+          "probability": 0.8808
+        },
+        {
+          "time": 133.56,
+          "end": 133.86,
+          "text": "山",
+          "probability": 0.4602
+        },
+        {
+          "time": 133.9,
+          "end": 134.2,
+          "text": "之",
+          "probability": 0.1937
+        },
+        {
+          "time": 134.42,
+          "end": 134.72,
+          "text": "路",
+          "probability": 0.7502
+        },
+        {
+          "time": 135.42,
+          "end": 135.72,
+          "text": "我的",
+          "probability": 0.5335
+        },
+        {
+          "time": 135.96,
+          "end": 136.26,
+          "text": "光",
+          "probability": 0.3298
+        },
+        {
+          "time": 136.4,
+          "end": 136.7,
+          "text": "出",
+          "probability": 0.218
+        }
+      ]
+    },
+    {
+      "time": 136.82,
+      "end": 142.36,
+      "text": "前来我的光出前来天地的",
+      "words": [
+        {
+          "time": 136.82,
+          "end": 137.12,
+          "text": "前",
+          "probability": 0.2923
+        },
+        {
+          "time": 137.66,
+          "end": 137.96,
+          "text": "来",
+          "probability": 0.9196
+        },
+        {
+          "time": 138.54,
+          "end": 138.84,
+          "text": "我的",
+          "probability": 0.9874
+        },
+        {
+          "time": 139.1,
+          "end": 139.4,
+          "text": "光",
+          "probability": 0.9996
+        },
+        {
+          "time": 139.54,
+          "end": 139.84,
+          "text": "出",
+          "probability": 0.9965
+        },
+        {
+          "time": 139.94,
+          "end": 140.24,
+          "text": "前",
+          "probability": 0.981
+        },
+        {
+          "time": 140.26,
+          "end": 140.56,
+          "text": "来",
+          "probability": 0.6202
+        },
+        {
+          "time": 141.14,
+          "end": 141.44,
+          "text": "天",
+          "probability": 0.9399
+        },
+        {
+          "time": 141.56,
+          "end": 141.86,
+          "text": "地",
+          "probability": 0.9679
+        },
+        {
+          "time": 142.08,
+          "end": 142.38,
+          "text": "的",
+          "probability": 0.6652
+        }
+      ]
+    },
+    {
+      "time": 142.36,
+      "end": 148.4,
+      "text": "耶和华耶和我要向高山之路我的",
+      "words": [
+        {
+          "time": 142.36,
+          "end": 142.66,
+          "text": "耶",
+          "probability": 0.8883
+        },
+        {
+          "time": 142.74,
+          "end": 143.04,
+          "text": "和",
+          "probability": 0.9937
+        },
+        {
+          "time": 142.96,
+          "end": 143.54,
+          "text": "华",
+          "probability": 0.7204
+        },
+        {
+          "time": 143.58,
+          "end": 143.88,
+          "text": "耶",
+          "probability": 0.4067
+        },
+        {
+          "time": 143.84,
+          "end": 144.14,
+          "text": "和",
+          "probability": 0.2432
+        },
+        {
+          "time": 144.7,
+          "end": 145.0,
+          "text": "我要",
+          "probability": 0.9864
+        },
+        {
+          "time": 145.54,
+          "end": 145.84,
+          "text": "向",
+          "probability": 0.9995
+        },
+        {
+          "time": 145.94,
+          "end": 146.24,
+          "text": "高",
+          "probability": 0.9998
+        },
+        {
+          "time": 146.34,
+          "end": 146.64,
+          "text": "山",
+          "probability": 0.9999
+        },
+        {
+          "time": 146.72,
+          "end": 147.02,
+          "text": "之",
+          "probability": 0.9988
+        },
+        {
+          "time": 147.2,
+          "end": 147.5,
+          "text": "路",
+          "probability": 0.9995
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "我的",
+          "probability": 0.9985
+        }
+      ]
+    },
+    {
+      "time": 148.68,
+      "end": 154.64,
+      "text": "光出前来我的光出前来天地",
+      "words": [
+        {
+          "time": 148.68,
+          "end": 148.98,
+          "text": "光",
+          "probability": 0.9999
+        },
+        {
+          "time": 149.08,
+          "end": 149.38,
+          "text": "出",
+          "probability": 0.9991
+        },
+        {
+          "time": 149.56,
+          "end": 149.86,
+          "text": "前",
+          "probability": 0.999
+        },
+        {
+          "time": 150.48,
+          "end": 150.78,
+          "text": "来",
+          "probability": 0.9984
+        },
+        {
+          "time": 151.3,
+          "end": 151.6,
+          "text": "我的",
+          "probability": 0.9956
+        },
+        {
+          "time": 151.88,
+          "end": 152.18,
+          "text": "光",
+          "probability": 0.9998
+        },
+        {
+          "time": 152.28,
+          "end": 152.58,
+          "text": "出",
+          "probability": 0.9995
+        },
+        {
+          "time": 152.72,
+          "end": 153.02,
+          "text": "前",
+          "probability": 0.9978
+        },
+        {
+          "time": 153.12,
+          "end": 153.42,
+          "text": "来",
+          "probability": 0.973
+        },
+        {
+          "time": 153.62,
+          "end": 153.92,
+          "text": "天",
+          "probability": 0.9854
+        },
+        {
+          "time": 154.34,
+          "end": 154.64,
+          "text": "地",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 154.82,
+      "end": 156.94,
+      "text": "的耶和华耶和",
+      "words": [
+        {
+          "time": 154.82,
+          "end": 155.12,
+          "text": "的",
+          "probability": 0.9982
+        },
+        {
+          "time": 155.14,
+          "end": 155.44,
+          "text": "耶",
+          "probability": 0.9995
+        },
+        {
+          "time": 155.5,
+          "end": 155.8,
+          "text": "和",
+          "probability": 1.0
+        },
+        {
+          "time": 155.86,
+          "end": 156.28,
+          "text": "华",
+          "probability": 0.9998
+        },
+        {
+          "time": 156.42,
+          "end": 156.72,
+          "text": "耶",
+          "probability": 0.9978
+        },
+        {
+          "time": 156.64,
+          "end": 156.94,
+          "text": "和",
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "time": 158.4,
+      "end": 160.24,
+      "text": "Hallelujah",
+      "words": [
+        {
+          "time": 158.4,
+          "end": 158.7,
+          "text": "H",
+          "probability": 0.3587
+        },
+        {
+          "time": 159.02,
+          "end": 159.32,
+          "text": "all",
+          "probability": 0.9842
+        },
+        {
+          "time": 159.94,
+          "end": 160.24,
+          "text": "elujah",
+          "probability": 0.9576
+        }
+      ]
+    },
+    {
+      "time": 161.5,
+      "end": 165.6,
+      "text": "HallelujahHall",
+      "words": [
+        {
+          "time": 161.5,
+          "end": 161.8,
+          "text": "H",
+          "probability": 0.9574
+        },
+        {
+          "time": 162.14,
+          "end": 162.44,
+          "text": "all",
+          "probability": 0.9982
+        },
+        {
+          "time": 163.3,
+          "end": 163.6,
+          "text": "elujah",
+          "probability": 0.9996
+        },
+        {
+          "time": 164.68,
+          "end": 164.98,
+          "text": "H",
+          "probability": 0.974
+        },
+        {
+          "time": 165.3,
+          "end": 165.6,
+          "text": "all",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 166.92,
+      "end": 168.88,
+      "text": "elujahHall",
+      "words": [
+        {
+          "time": 166.92,
+          "end": 167.22,
+          "text": "elujah",
+          "probability": 0.9991
+        },
+        {
+          "time": 167.9,
+          "end": 168.2,
+          "text": "H",
+          "probability": 0.9869
+        },
+        {
+          "time": 168.58,
+          "end": 168.88,
+          "text": "all",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 170.76,
+      "end": 177.3,
+      "text": "elujahHallelujahHallelujahH",
+      "words": [
+        {
+          "time": 170.76,
+          "end": 171.06,
+          "text": "elujah",
+          "probability": 0.9995
+        },
+        {
+          "time": 171.08,
+          "end": 171.38,
+          "text": "H",
+          "probability": 0.988
+        },
+        {
+          "time": 171.72,
+          "end": 172.02,
+          "text": "all",
+          "probability": 0.9983
+        },
+        {
+          "time": 172.96,
+          "end": 173.26,
+          "text": "elujah",
+          "probability": 0.9994
+        },
+        {
+          "time": 174.32,
+          "end": 174.62,
+          "text": "H",
+          "probability": 0.9952
+        },
+        {
+          "time": 174.92,
+          "end": 175.22,
+          "text": "all",
+          "probability": 0.9986
+        },
+        {
+          "time": 175.74,
+          "end": 176.04,
+          "text": "elujah",
+          "probability": 0.9992
+        },
+        {
+          "time": 177.0,
+          "end": 177.3,
+          "text": "H",
+          "probability": 0.9915
+        }
+      ]
+    },
+    {
+      "time": 178.16,
+      "end": 184.26,
+      "text": "allelujahHallelujahHallelujah我的帮",
+      "words": [
+        {
+          "time": 178.16,
+          "end": 178.46,
+          "text": "all",
+          "probability": 0.9982
+        },
+        {
+          "time": 179.38,
+          "end": 179.68,
+          "text": "elujah",
+          "probability": 0.9989
+        },
+        {
+          "time": 180.04,
+          "end": 180.34,
+          "text": "H",
+          "probability": 0.9896
+        },
+        {
+          "time": 180.4,
+          "end": 180.7,
+          "text": "all",
+          "probability": 0.9978
+        },
+        {
+          "time": 180.4,
+          "end": 180.7,
+          "text": "elujah",
+          "probability": 0.9985
+        },
+        {
+          "time": 180.66,
+          "end": 180.96,
+          "text": "H",
+          "probability": 0.9372
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "all",
+          "probability": 0.9964
+        },
+        {
+          "time": 182.5,
+          "end": 182.8,
+          "text": "elujah",
+          "probability": 0.9983
+        },
+        {
+          "time": 183.24,
+          "end": 183.54,
+          "text": "我的",
+          "probability": 0.3224
+        },
+        {
+          "time": 183.84,
+          "end": 184.26,
+          "text": "帮",
+          "probability": 0.9938
+        }
+      ]
+    },
+    {
+      "time": 184.28,
+      "end": 190.16,
+      "text": "助从早天地的夜和花而",
+      "words": [
+        {
+          "time": 184.28,
+          "end": 184.58,
+          "text": "助",
+          "probability": 0.9973
+        },
+        {
+          "time": 184.66,
+          "end": 184.96,
+          "text": "从",
+          "probability": 0.7483
+        },
+        {
+          "time": 185.04,
+          "end": 185.34,
+          "text": "早",
+          "probability": 0.8286
+        },
+        {
+          "time": 185.6,
+          "end": 185.9,
+          "text": "天",
+          "probability": 0.4647
+        },
+        {
+          "time": 186.3,
+          "end": 186.6,
+          "text": "地",
+          "probability": 0.4376
+        },
+        {
+          "time": 186.76,
+          "end": 187.06,
+          "text": "的",
+          "probability": 0.4546
+        },
+        {
+          "time": 187.24,
+          "end": 187.54,
+          "text": "夜",
+          "probability": 0.4833
+        },
+        {
+          "time": 188.0,
+          "end": 188.3,
+          "text": "和",
+          "probability": 0.7751
+        },
+        {
+          "time": 188.84,
+          "end": 189.14,
+          "text": "花",
+          "probability": 0.8296
+        },
+        {
+          "time": 189.86,
+          "end": 190.16,
+          "text": "而",
+          "probability": 0.9761
+        }
+      ]
+    },
+    {
+      "time": 190.76,
+      "end": 191.06,
+      "text": "来",
+      "words": [
+        {
+          "time": 190.76,
+          "end": 191.06,
+          "text": "来",
+          "probability": 0.9999
+        }
+      ]
+    }
+  ]
+}

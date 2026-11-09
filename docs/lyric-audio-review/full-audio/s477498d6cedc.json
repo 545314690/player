@@ -1,0 +1,992 @@
+{
+  "id": "s477498d6cedc",
+  "file": "285爱使我们相聚在一起.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "ff41c4e29bd3e83161d4c971cdfd6e3ae39b36c2716506e1deeabc4d7aecfda7",
+  "fullDuration": 125.361633,
+  "lines": [
+    {
+      "time": 18.8,
+      "end": 21.82,
+      "text": "爱是我们相聚在一起",
+      "words": [
+        {
+          "time": 18.8,
+          "end": 19.1,
+          "text": "爱",
+          "probability": 0.518
+        },
+        {
+          "time": 19.06,
+          "end": 19.36,
+          "text": "是",
+          "probability": 0.6023
+        },
+        {
+          "time": 19.86,
+          "end": 20.16,
+          "text": "我们",
+          "probability": 0.9808
+        },
+        {
+          "time": 20.16,
+          "end": 20.46,
+          "text": "相",
+          "probability": 0.3391
+        },
+        {
+          "time": 20.44,
+          "end": 20.9,
+          "text": "聚",
+          "probability": 0.9983
+        },
+        {
+          "time": 20.94,
+          "end": 21.24,
+          "text": "在",
+          "probability": 0.9676
+        },
+        {
+          "time": 21.52,
+          "end": 21.82,
+          "text": "一起",
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "time": 31.32,
+      "end": 37.4,
+      "text": "爱是我们相聚在一起让我们一起",
+      "words": [
+        {
+          "time": 31.32,
+          "end": 31.62,
+          "text": "爱",
+          "probability": 0.3631
+        },
+        {
+          "time": 31.58,
+          "end": 31.88,
+          "text": "是",
+          "probability": 0.9337
+        },
+        {
+          "time": 32.34,
+          "end": 32.64,
+          "text": "我们",
+          "probability": 0.994
+        },
+        {
+          "time": 32.66,
+          "end": 32.96,
+          "text": "相",
+          "probability": 0.9752
+        },
+        {
+          "time": 32.92,
+          "end": 33.34,
+          "text": "聚",
+          "probability": 0.9994
+        },
+        {
+          "time": 33.42,
+          "end": 33.72,
+          "text": "在",
+          "probability": 0.989
+        },
+        {
+          "time": 34.02,
+          "end": 34.32,
+          "text": "一起",
+          "probability": 0.9977
+        },
+        {
+          "time": 35.46,
+          "end": 35.76,
+          "text": "让",
+          "probability": 0.9831
+        },
+        {
+          "time": 36.02,
+          "end": 36.32,
+          "text": "我们",
+          "probability": 0.9998
+        },
+        {
+          "time": 37.1,
+          "end": 37.4,
+          "text": "一起",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 37.74,
+      "end": 42.76,
+      "text": "歌唱唱出有宗你赞美诗",
+      "words": [
+        {
+          "time": 37.74,
+          "end": 38.04,
+          "text": "歌",
+          "probability": 0.982
+        },
+        {
+          "time": 38.52,
+          "end": 38.82,
+          "text": "唱",
+          "probability": 0.9982
+        },
+        {
+          "time": 39.64,
+          "end": 39.94,
+          "text": "唱",
+          "probability": 0.9746
+        },
+        {
+          "time": 39.94,
+          "end": 40.24,
+          "text": "出",
+          "probability": 0.9959
+        },
+        {
+          "time": 40.32,
+          "end": 40.62,
+          "text": "有",
+          "probability": 0.804
+        },
+        {
+          "time": 40.64,
+          "end": 40.98,
+          "text": "宗",
+          "probability": 0.1748
+        },
+        {
+          "time": 40.96,
+          "end": 41.26,
+          "text": "你",
+          "probability": 0.6069
+        },
+        {
+          "time": 41.2,
+          "end": 41.64,
+          "text": "赞",
+          "probability": 0.9946
+        },
+        {
+          "time": 41.86,
+          "end": 42.16,
+          "text": "美",
+          "probability": 0.9981
+        },
+        {
+          "time": 42.26,
+          "end": 42.76,
+          "text": "诗",
+          "probability": 0.745
+        }
+      ]
+    },
+    {
+      "time": 44.1,
+      "end": 49.98,
+      "text": "我们手拉手到世人之道爱是我们相聚",
+      "words": [
+        {
+          "time": 44.1,
+          "end": 44.4,
+          "text": "我们",
+          "probability": 0.9986
+        },
+        {
+          "time": 44.5,
+          "end": 44.8,
+          "text": "手",
+          "probability": 0.5449
+        },
+        {
+          "time": 45.0,
+          "end": 45.3,
+          "text": "拉",
+          "probability": 0.8434
+        },
+        {
+          "time": 45.52,
+          "end": 45.82,
+          "text": "手",
+          "probability": 0.9815
+        },
+        {
+          "time": 45.9,
+          "end": 46.2,
+          "text": "到",
+          "probability": 0.2577
+        },
+        {
+          "time": 46.18,
+          "end": 46.48,
+          "text": "世",
+          "probability": 0.4138
+        },
+        {
+          "time": 46.62,
+          "end": 46.92,
+          "text": "人",
+          "probability": 0.9927
+        },
+        {
+          "time": 47.0,
+          "end": 47.3,
+          "text": "之",
+          "probability": 0.4133
+        },
+        {
+          "time": 47.52,
+          "end": 47.82,
+          "text": "道",
+          "probability": 0.3926
+        },
+        {
+          "time": 48.02,
+          "end": 48.32,
+          "text": "爱",
+          "probability": 0.9981
+        },
+        {
+          "time": 48.24,
+          "end": 48.54,
+          "text": "是",
+          "probability": 0.9986
+        },
+        {
+          "time": 48.9,
+          "end": 49.2,
+          "text": "我们",
+          "probability": 0.9999
+        },
+        {
+          "time": 49.3,
+          "end": 49.6,
+          "text": "相",
+          "probability": 0.9987
+        },
+        {
+          "time": 49.58,
+          "end": 49.98,
+          "text": "聚",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 50.08,
+      "end": 51.0,
+      "text": "在一起",
+      "words": [
+        {
+          "time": 50.08,
+          "end": 50.38,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 50.7,
+          "end": 51.0,
+          "text": "一起",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 68.86,
+      "end": 74.66,
+      "text": "爱是我们相聚在一起爱是我们相",
+      "words": [
+        {
+          "time": 68.86,
+          "end": 69.16,
+          "text": "爱",
+          "probability": 0.5551
+        },
+        {
+          "time": 69.14,
+          "end": 69.44,
+          "text": "是",
+          "probability": 0.9408
+        },
+        {
+          "time": 69.94,
+          "end": 70.24,
+          "text": "我们",
+          "probability": 0.9949
+        },
+        {
+          "time": 70.22,
+          "end": 70.52,
+          "text": "相",
+          "probability": 0.9585
+        },
+        {
+          "time": 70.52,
+          "end": 70.96,
+          "text": "聚",
+          "probability": 0.9977
+        },
+        {
+          "time": 71.0,
+          "end": 71.3,
+          "text": "在",
+          "probability": 0.9966
+        },
+        {
+          "time": 71.58,
+          "end": 71.88,
+          "text": "一起",
+          "probability": 0.9991
+        },
+        {
+          "time": 73.02,
+          "end": 73.32,
+          "text": "爱",
+          "probability": 0.7363
+        },
+        {
+          "time": 73.3,
+          "end": 73.6,
+          "text": "是",
+          "probability": 0.9993
+        },
+        {
+          "time": 73.98,
+          "end": 74.28,
+          "text": "我们",
+          "probability": 0.9998
+        },
+        {
+          "time": 74.38,
+          "end": 74.68,
+          "text": "相",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 74.66,
+      "end": 80.42,
+      "text": "聚在一起天主神圣是我们心灵",
+      "words": [
+        {
+          "time": 74.66,
+          "end": 75.06,
+          "text": "聚",
+          "probability": 0.9999
+        },
+        {
+          "time": 75.14,
+          "end": 75.44,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 75.82,
+          "end": 76.12,
+          "text": "一起",
+          "probability": 0.9999
+        },
+        {
+          "time": 77.22,
+          "end": 77.52,
+          "text": "天",
+          "probability": 0.9803
+        },
+        {
+          "time": 77.48,
+          "end": 77.78,
+          "text": "主",
+          "probability": 0.8345
+        },
+        {
+          "time": 78.02,
+          "end": 78.32,
+          "text": "神",
+          "probability": 0.5181
+        },
+        {
+          "time": 78.3,
+          "end": 78.8,
+          "text": "圣",
+          "probability": 0.4859
+        },
+        {
+          "time": 78.8,
+          "end": 79.1,
+          "text": "是",
+          "probability": 0.9275
+        },
+        {
+          "time": 79.32,
+          "end": 79.62,
+          "text": "我们",
+          "probability": 0.9986
+        },
+        {
+          "time": 79.6,
+          "end": 79.9,
+          "text": "心",
+          "probability": 0.9928
+        },
+        {
+          "time": 79.94,
+          "end": 80.42,
+          "text": "灵",
+          "probability": 0.9909
+        }
+      ]
+    },
+    {
+      "time": 80.48,
+      "end": 86.26,
+      "text": "合意爱是我们相聚在一起让我们",
+      "words": [
+        {
+          "time": 80.48,
+          "end": 80.78,
+          "text": "合",
+          "probability": 0.4545
+        },
+        {
+          "time": 80.92,
+          "end": 81.22,
+          "text": "意",
+          "probability": 0.4448
+        },
+        {
+          "time": 81.42,
+          "end": 81.72,
+          "text": "爱",
+          "probability": 0.9983
+        },
+        {
+          "time": 81.68,
+          "end": 81.98,
+          "text": "是",
+          "probability": 0.9988
+        },
+        {
+          "time": 82.32,
+          "end": 82.62,
+          "text": "我们",
+          "probability": 0.9995
+        },
+        {
+          "time": 82.74,
+          "end": 83.04,
+          "text": "相",
+          "probability": 0.9991
+        },
+        {
+          "time": 83.0,
+          "end": 83.38,
+          "text": "聚",
+          "probability": 1.0
+        },
+        {
+          "time": 83.5,
+          "end": 83.8,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 84.08,
+          "end": 84.38,
+          "text": "一起",
+          "probability": 0.9993
+        },
+        {
+          "time": 85.56,
+          "end": 85.86,
+          "text": "让",
+          "probability": 0.6287
+        },
+        {
+          "time": 85.96,
+          "end": 86.26,
+          "text": "我们",
+          "probability": 0.9938
+        }
+      ]
+    },
+    {
+      "time": 87.2,
+      "end": 93.0,
+      "text": "一起乐场唱出有种的赞美诗",
+      "words": [
+        {
+          "time": 87.2,
+          "end": 87.5,
+          "text": "一起",
+          "probability": 0.991
+        },
+        {
+          "time": 87.82,
+          "end": 88.12,
+          "text": "乐",
+          "probability": 0.8859
+        },
+        {
+          "time": 88.56,
+          "end": 88.86,
+          "text": "场",
+          "probability": 0.5408
+        },
+        {
+          "time": 89.74,
+          "end": 90.04,
+          "text": "唱",
+          "probability": 0.5335
+        },
+        {
+          "time": 90.04,
+          "end": 90.34,
+          "text": "出",
+          "probability": 0.9803
+        },
+        {
+          "time": 90.42,
+          "end": 90.72,
+          "text": "有",
+          "probability": 0.7339
+        },
+        {
+          "time": 90.78,
+          "end": 91.08,
+          "text": "种",
+          "probability": 0.6012
+        },
+        {
+          "time": 91.14,
+          "end": 91.44,
+          "text": "的",
+          "probability": 0.4309
+        },
+        {
+          "time": 91.32,
+          "end": 91.84,
+          "text": "赞",
+          "probability": 0.968
+        },
+        {
+          "time": 92.0,
+          "end": 92.3,
+          "text": "美",
+          "probability": 0.9925
+        },
+        {
+          "time": 92.38,
+          "end": 93.0,
+          "text": "诗",
+          "probability": 0.2421
+        }
+      ]
+    },
+    {
+      "time": 94.16,
+      "end": 99.68,
+      "text": "我们收了收让世人知道爱是我们相",
+      "words": [
+        {
+          "time": 94.16,
+          "end": 94.46,
+          "text": "我们",
+          "probability": 0.9891
+        },
+        {
+          "time": 94.56,
+          "end": 94.86,
+          "text": "收",
+          "probability": 0.2958
+        },
+        {
+          "time": 95.06,
+          "end": 95.36,
+          "text": "了",
+          "probability": 0.3877
+        },
+        {
+          "time": 95.58,
+          "end": 95.88,
+          "text": "收",
+          "probability": 0.51
+        },
+        {
+          "time": 96.0,
+          "end": 96.3,
+          "text": "让",
+          "probability": 0.5445
+        },
+        {
+          "time": 96.26,
+          "end": 96.56,
+          "text": "世",
+          "probability": 0.7038
+        },
+        {
+          "time": 96.68,
+          "end": 96.98,
+          "text": "人",
+          "probability": 0.9951
+        },
+        {
+          "time": 97.56,
+          "end": 97.86,
+          "text": "知道",
+          "probability": 0.9
+        },
+        {
+          "time": 98.1,
+          "end": 98.4,
+          "text": "爱",
+          "probability": 0.7733
+        },
+        {
+          "time": 98.34,
+          "end": 98.64,
+          "text": "是",
+          "probability": 0.7177
+        },
+        {
+          "time": 98.96,
+          "end": 99.26,
+          "text": "我们",
+          "probability": 0.9962
+        },
+        {
+          "time": 99.38,
+          "end": 99.68,
+          "text": "相",
+          "probability": 0.9558
+        }
+      ]
+    },
+    {
+      "time": 99.68,
+      "end": 101.04,
+      "text": "聚在一起",
+      "words": [
+        {
+          "time": 99.68,
+          "end": 100.1,
+          "text": "聚",
+          "probability": 0.9992
+        },
+        {
+          "time": 100.16,
+          "end": 100.46,
+          "text": "在",
+          "probability": 0.9995
+        },
+        {
+          "time": 100.74,
+          "end": 101.04,
+          "text": "一起",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 102.34,
+      "end": 108.0,
+      "text": "我们收了收让世人知道爱是我们相",
+      "words": [
+        {
+          "time": 102.34,
+          "end": 102.64,
+          "text": "我们",
+          "probability": 0.9396
+        },
+        {
+          "time": 102.9,
+          "end": 103.2,
+          "text": "收",
+          "probability": 0.9965
+        },
+        {
+          "time": 103.4,
+          "end": 103.7,
+          "text": "了",
+          "probability": 0.9904
+        },
+        {
+          "time": 103.92,
+          "end": 104.22,
+          "text": "收",
+          "probability": 0.9994
+        },
+        {
+          "time": 104.34,
+          "end": 104.64,
+          "text": "让",
+          "probability": 0.977
+        },
+        {
+          "time": 104.6,
+          "end": 104.9,
+          "text": "世",
+          "probability": 0.9997
+        },
+        {
+          "time": 104.94,
+          "end": 105.24,
+          "text": "人",
+          "probability": 0.9999
+        },
+        {
+          "time": 105.92,
+          "end": 106.22,
+          "text": "知道",
+          "probability": 0.9895
+        },
+        {
+          "time": 106.44,
+          "end": 106.74,
+          "text": "爱",
+          "probability": 0.9993
+        },
+        {
+          "time": 106.68,
+          "end": 106.98,
+          "text": "是",
+          "probability": 0.998
+        },
+        {
+          "time": 107.32,
+          "end": 107.62,
+          "text": "我们",
+          "probability": 0.9997
+        },
+        {
+          "time": 107.74,
+          "end": 108.04,
+          "text": "相",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 108.0,
+      "end": 109.36,
+      "text": "聚在一起",
+      "words": [
+        {
+          "time": 108.0,
+          "end": 108.42,
+          "text": "聚",
+          "probability": 0.9999
+        },
+        {
+          "time": 108.5,
+          "end": 108.8,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 109.06,
+          "end": 109.36,
+          "text": "一起",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 110.68,
+      "end": 116.4,
+      "text": "我们收了收让世人知道爱是我们相",
+      "words": [
+        {
+          "time": 110.68,
+          "end": 110.98,
+          "text": "我们",
+          "probability": 0.9608
+        },
+        {
+          "time": 111.22,
+          "end": 111.52,
+          "text": "收",
+          "probability": 0.9937
+        },
+        {
+          "time": 111.8,
+          "end": 112.1,
+          "text": "了",
+          "probability": 0.9962
+        },
+        {
+          "time": 112.26,
+          "end": 112.56,
+          "text": "收",
+          "probability": 0.9983
+        },
+        {
+          "time": 112.7,
+          "end": 113.0,
+          "text": "让",
+          "probability": 0.988
+        },
+        {
+          "time": 112.94,
+          "end": 113.24,
+          "text": "世",
+          "probability": 0.9997
+        },
+        {
+          "time": 113.36,
+          "end": 113.66,
+          "text": "人",
+          "probability": 0.9999
+        },
+        {
+          "time": 114.26,
+          "end": 114.56,
+          "text": "知道",
+          "probability": 0.9968
+        },
+        {
+          "time": 114.82,
+          "end": 115.12,
+          "text": "爱",
+          "probability": 0.9655
+        },
+        {
+          "time": 115.04,
+          "end": 115.34,
+          "text": "是",
+          "probability": 0.9989
+        },
+        {
+          "time": 115.7,
+          "end": 116.0,
+          "text": "我们",
+          "probability": 0.9996
+        },
+        {
+          "time": 116.1,
+          "end": 116.4,
+          "text": "相",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 116.4,
+      "end": 117.72,
+      "text": "聚在一起",
+      "words": [
+        {
+          "time": 116.4,
+          "end": 116.76,
+          "text": "聚",
+          "probability": 0.9999
+        },
+        {
+          "time": 116.86,
+          "end": 117.16,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 117.42,
+          "end": 117.72,
+          "text": "一起",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 125.18,
+      "end": 125.48,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "优",
+          "probability": 0.1966
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "优",
+          "probability": 0.9979
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "独",
+          "probability": 0.9932
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "播",
+          "probability": 0.996
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "剧",
+          "probability": 0.9968
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "场",
+          "probability": 0.998
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "——",
+          "probability": 0.9983
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "Yo",
+          "probability": 0.9971
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "Yo",
+          "probability": 0.9979
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": " Television",
+          "probability": 0.9915
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": " Series",
+          "probability": 0.9979
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": " Exc",
+          "probability": 0.9966
+        },
+        {
+          "time": 125.18,
+          "end": 125.48,
+          "text": "lusive",
+          "probability": 0.9976
+        }
+      ]
+    }
+  ]
+}

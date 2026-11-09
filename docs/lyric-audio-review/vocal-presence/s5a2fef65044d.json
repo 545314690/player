@@ -1,0 +1,213 @@
+{
+  "id": "s5a2fef65044d",
+  "file": "101耶和华是爱.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 58.97,
+      "tags": {
+        "Singing": 0.15748,
+        "Choir": 0.00586,
+        "Speech": 0.07109,
+        "Piano": 0.03435,
+        "Electric piano": 0.00531,
+        "Music": 0.849,
+        "Musical instrument": 0.07538
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.849
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.22307
+        },
+        {
+          "label": "Singing",
+          "score": 0.15748
+        },
+        {
+          "label": "Opera",
+          "score": 0.10952
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.07538
+        }
+      ]
+    },
+    {
+      "time": 127.77,
+      "tags": {
+        "Singing": 0.28833,
+        "Choir": 0.02851,
+        "Speech": 0.01452,
+        "Piano": 0.02755,
+        "Electric piano": 0.00271,
+        "Music": 0.83101,
+        "Musical instrument": 0.0502
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.83101
+        },
+        {
+          "label": "Singing",
+          "score": 0.28833
+        },
+        {
+          "label": "Opera",
+          "score": 0.24097
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.20573
+        },
+        {
+          "label": "Female singing",
+          "score": 0.12728
+        }
+      ]
+    },
+    {
+      "time": 196.57,
+      "tags": {
+        "Singing": 0.27064,
+        "Choir": 0.30406,
+        "Speech": 0.01531,
+        "Piano": 0.0282,
+        "Electric piano": 0.00285,
+        "Music": 0.84284,
+        "Musical instrument": 0.04715
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.84284
+        },
+        {
+          "label": "Choir",
+          "score": 0.30406
+        },
+        {
+          "label": "Singing",
+          "score": 0.27064
+        },
+        {
+          "label": "Christian music",
+          "score": 0.19658
+        },
+        {
+          "label": "Opera",
+          "score": 0.18272
+        }
+      ]
+    },
+    {
+      "time": 265.36,
+      "tags": {
+        "Singing": 0.03797,
+        "Choir": 0.00697,
+        "Speech": 0.36573,
+        "Piano": 0.04026,
+        "Electric piano": 0.02056,
+        "Music": 0.72495,
+        "Musical instrument": 0.05379
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.72495
+        },
+        {
+          "label": "Speech",
+          "score": 0.36573
+        },
+        {
+          "label": "Organ",
+          "score": 0.0617
+        },
+        {
+          "label": "Ambient music",
+          "score": 0.05772
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.05379
+        }
+      ]
+    },
+    {
+      "time": 334.16,
+      "tags": {
+        "Singing": 0.00821,
+        "Choir": 0.00084,
+        "Speech": 0.02247,
+        "Piano": 0.0958,
+        "Electric piano": 0.00796,
+        "Music": 0.64228,
+        "Musical instrument": 0.25893
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.64228
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.25893
+        },
+        {
+          "label": "Clarinet",
+          "score": 0.16401
+        },
+        {
+          "label": "Wind instrument, woodwind instrument",
+          "score": 0.15565
+        },
+        {
+          "label": "Brass instrument",
+          "score": 0.10976
+        }
+      ]
+    },
+    {
+      "time": 402.96,
+      "tags": {
+        "Singing": 0.1371,
+        "Choir": 0.11418,
+        "Speech": 0.03069,
+        "Piano": 0.02244,
+        "Electric piano": 0.00309,
+        "Music": 0.80559,
+        "Musical instrument": 0.0771
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.80559
+        },
+        {
+          "label": "Singing",
+          "score": 0.1371
+        },
+        {
+          "label": "Choir",
+          "score": 0.11418
+        },
+        {
+          "label": "Orchestra",
+          "score": 0.10668
+        },
+        {
+          "label": "Opera",
+          "score": 0.09809
+        }
+      ]
+    }
+  ]
+}

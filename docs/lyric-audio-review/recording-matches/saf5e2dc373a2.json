@@ -1,0 +1,60 @@
+{
+  "id": "saf5e2dc373a2",
+  "file": "069-.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "23040",
+      "offset": -28.55,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.908281,
+      "windows": [
+        {
+          "localStart": 62.255,
+          "sourceStart": 33.696,
+          "offset": -28.5595,
+          "coefficient": 0.816736
+        },
+        {
+          "localStart": 99.608,
+          "sourceStart": 71.057,
+          "offset": -28.551,
+          "coefficient": 0.811007
+        },
+        {
+          "localStart": 136.961,
+          "sourceStart": 108.418,
+          "offset": -28.543,
+          "coefficient": 0.789162
+        },
+        {
+          "localStart": 174.314,
+          "sourceStart": 145.779,
+          "offset": -28.535,
+          "coefficient": 0.868804
+        },
+        {
+          "localStart": 211.667,
+          "sourceStart": 183.141,
+          "offset": -28.5265,
+          "coefficient": 0.806057
+        },
+        {
+          "localStart": 249.02,
+          "sourceStart": 220.501,
+          "offset": -28.5185,
+          "coefficient": 0.71045
+        },
+        {
+          "localStart": 280.147,
+          "sourceStart": 251.636,
+          "offset": -28.5115,
+          "coefficient": 0.790348
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

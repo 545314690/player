@@ -1,0 +1,3648 @@
+{
+  "id": "s6e1261f8314a",
+  "file": "156.祝福中国（多语版）.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "085e3bdad91439f42203c0386ea32f9f7fbed739842eee8526c5713517e1a213",
+  "fullDuration": 260.82125,
+  "lines": [
+    {
+      "time": 23.86,
+      "end": 29.38,
+      "text": "作词:小雅目を闭じる时にあなたを想い",
+      "words": [
+        {
+          "time": 23.86,
+          "end": 24.16,
+          "text": "作",
+          "probability": 0.0833
+        },
+        {
+          "time": 23.86,
+          "end": 24.16,
+          "text": "词",
+          "probability": 0.587
+        },
+        {
+          "time": 23.86,
+          "end": 24.16,
+          "text": ":",
+          "probability": 0.5523
+        },
+        {
+          "time": 23.86,
+          "end": 24.16,
+          "text": "小",
+          "probability": 0.033
+        },
+        {
+          "time": 23.86,
+          "end": 24.16,
+          "text": "雅",
+          "probability": 0.0551
+        },
+        {
+          "time": 24.24,
+          "end": 24.54,
+          "text": "目",
+          "probability": 0.1527
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "を",
+          "probability": 0.6151
+        },
+        {
+          "time": 24.92,
+          "end": 25.34,
+          "text": "闭",
+          "probability": 0.9882
+        },
+        {
+          "time": 25.38,
+          "end": 25.68,
+          "text": "じ",
+          "probability": 0.8783
+        },
+        {
+          "time": 25.66,
+          "end": 25.96,
+          "text": "る",
+          "probability": 0.9989
+        },
+        {
+          "time": 25.96,
+          "end": 26.26,
+          "text": "时",
+          "probability": 0.8603
+        },
+        {
+          "time": 26.66,
+          "end": 26.96,
+          "text": "に",
+          "probability": 0.9268
+        },
+        {
+          "time": 27.22,
+          "end": 27.52,
+          "text": "あ",
+          "probability": 0.3977
+        },
+        {
+          "time": 27.5,
+          "end": 27.8,
+          "text": "なた",
+          "probability": 0.9996
+        },
+        {
+          "time": 28.12,
+          "end": 28.42,
+          "text": "を",
+          "probability": 0.7471
+        },
+        {
+          "time": 28.6,
+          "end": 28.9,
+          "text": "想",
+          "probability": 0.9809
+        },
+        {
+          "time": 29.08,
+          "end": 29.38,
+          "text": "い",
+          "probability": 0.9782
+        }
+      ]
+    },
+    {
+      "time": 30.86,
+      "end": 36.64,
+      "text": "自分の国自分の今日で立ち主に戻り",
+      "words": [
+        {
+          "time": 30.86,
+          "end": 31.16,
+          "text": "自",
+          "probability": 0.9979
+        },
+        {
+          "time": 31.06,
+          "end": 31.36,
+          "text": "分",
+          "probability": 0.9999
+        },
+        {
+          "time": 31.26,
+          "end": 31.56,
+          "text": "の",
+          "probability": 0.9976
+        },
+        {
+          "time": 31.76,
+          "end": 32.06,
+          "text": "国",
+          "probability": 0.9662
+        },
+        {
+          "time": 32.56,
+          "end": 32.86,
+          "text": "自",
+          "probability": 0.9994
+        },
+        {
+          "time": 32.72,
+          "end": 33.02,
+          "text": "分",
+          "probability": 1.0
+        },
+        {
+          "time": 32.96,
+          "end": 33.26,
+          "text": "の",
+          "probability": 0.9991
+        },
+        {
+          "time": 33.32,
+          "end": 33.62,
+          "text": "今日",
+          "probability": 0.8058
+        },
+        {
+          "time": 33.62,
+          "end": 33.92,
+          "text": "で",
+          "probability": 0.7786
+        },
+        {
+          "time": 33.82,
+          "end": 34.12,
+          "text": "立",
+          "probability": 0.2999
+        },
+        {
+          "time": 34.0,
+          "end": 34.3,
+          "text": "ち",
+          "probability": 0.8372
+        },
+        {
+          "time": 34.34,
+          "end": 34.64,
+          "text": "主",
+          "probability": 0.1872
+        },
+        {
+          "time": 34.7,
+          "end": 35.0,
+          "text": "に",
+          "probability": 0.9242
+        },
+        {
+          "time": 34.96,
+          "end": 35.8,
+          "text": "戻",
+          "probability": 0.9087
+        },
+        {
+          "time": 36.34,
+          "end": 36.64,
+          "text": "り",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 37.46,
+      "end": 42.74,
+      "text": "休まずにあだ名のため祈っていく",
+      "words": [
+        {
+          "time": 37.46,
+          "end": 37.76,
+          "text": "休",
+          "probability": 0.9667
+        },
+        {
+          "time": 38.14,
+          "end": 38.44,
+          "text": "まず",
+          "probability": 0.9958
+        },
+        {
+          "time": 38.82,
+          "end": 39.12,
+          "text": "に",
+          "probability": 0.997
+        },
+        {
+          "time": 39.02,
+          "end": 39.32,
+          "text": "あ",
+          "probability": 0.3879
+        },
+        {
+          "time": 39.18,
+          "end": 39.48,
+          "text": "だ",
+          "probability": 0.8982
+        },
+        {
+          "time": 39.38,
+          "end": 39.68,
+          "text": "名",
+          "probability": 0.9004
+        },
+        {
+          "time": 39.58,
+          "end": 39.88,
+          "text": "の",
+          "probability": 0.9993
+        },
+        {
+          "time": 40.24,
+          "end": 40.54,
+          "text": "ため",
+          "probability": 0.9802
+        },
+        {
+          "time": 40.96,
+          "end": 41.46,
+          "text": "祈",
+          "probability": 0.8926
+        },
+        {
+          "time": 41.66,
+          "end": 41.96,
+          "text": "って",
+          "probability": 0.436
+        },
+        {
+          "time": 42.44,
+          "end": 42.74,
+          "text": "いく",
+          "probability": 0.8694
+        }
+      ]
+    },
+    {
+      "time": 44.2,
+      "end": 50.42,
+      "text": "祭礼の火燃えていく旬にもちでいく",
+      "words": [
+        {
+          "time": 44.2,
+          "end": 44.68,
+          "text": "祭",
+          "probability": 0.2368
+        },
+        {
+          "time": 44.62,
+          "end": 44.92,
+          "text": "礼",
+          "probability": 0.672
+        },
+        {
+          "time": 44.9,
+          "end": 45.2,
+          "text": "の",
+          "probability": 0.9995
+        },
+        {
+          "time": 45.26,
+          "end": 45.56,
+          "text": "火",
+          "probability": 0.7568
+        },
+        {
+          "time": 45.84,
+          "end": 46.22,
+          "text": "燃",
+          "probability": 0.9879
+        },
+        {
+          "time": 46.28,
+          "end": 46.58,
+          "text": "えて",
+          "probability": 0.9993
+        },
+        {
+          "time": 46.88,
+          "end": 47.18,
+          "text": "いく",
+          "probability": 0.9727
+        },
+        {
+          "time": 47.52,
+          "end": 48.0,
+          "text": "旬",
+          "probability": 0.714
+        },
+        {
+          "time": 48.06,
+          "end": 48.36,
+          "text": "に",
+          "probability": 0.9952
+        },
+        {
+          "time": 48.26,
+          "end": 48.56,
+          "text": "も",
+          "probability": 0.2587
+        },
+        {
+          "time": 48.66,
+          "end": 48.96,
+          "text": "ち",
+          "probability": 0.7296
+        },
+        {
+          "time": 49.34,
+          "end": 49.64,
+          "text": "で",
+          "probability": 0.3219
+        },
+        {
+          "time": 50.12,
+          "end": 50.42,
+          "text": "いく",
+          "probability": 0.4514
+        }
+      ]
+    },
+    {
+      "time": 54.26,
+      "end": 59.86,
+      "text": "祝福祝福祝福阿",
+      "words": [
+        {
+          "time": 54.26,
+          "end": 54.76,
+          "text": "祝",
+          "probability": 0.3163
+        },
+        {
+          "time": 54.88,
+          "end": 55.18,
+          "text": "福",
+          "probability": 0.6588
+        },
+        {
+          "time": 55.94,
+          "end": 56.44,
+          "text": "祝",
+          "probability": 0.6817
+        },
+        {
+          "time": 56.9,
+          "end": 57.2,
+          "text": "福",
+          "probability": 0.9995
+        },
+        {
+          "time": 57.64,
+          "end": 58.14,
+          "text": "祝",
+          "probability": 0.9231
+        },
+        {
+          "time": 58.76,
+          "end": 59.06,
+          "text": "福",
+          "probability": 0.9994
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "阿",
+          "probability": 0.0758
+        }
+      ]
+    },
+    {
+      "time": 59.86,
+      "end": 63.98,
+      "text": "弥陀佛祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福祝福我能不能再加一切",
+      "words": [
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "弥",
+          "probability": 0.0622
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "陀",
+          "probability": 0.9813
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "佛",
+          "probability": 0.5817
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.2403
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.7801
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.8227
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9905
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.8346
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9967
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.82
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.997
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.8493
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9978
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.874
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9983
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9044
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9983
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9328
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9989
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9536
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.999
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9667
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9991
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9753
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9991
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9812
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9992
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9856
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9993
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9888
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9993
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9914
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9993
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9926
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9994
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.994
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9993
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.995
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9992
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9958
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9993
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9963
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9992
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9967
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9992
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.997
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9991
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.997
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9991
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9967
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.999
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9971
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9989
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9966
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9988
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9968
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9988
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9966
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9986
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9965
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9986
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9967
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9986
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9962
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9985
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9962
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9982
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9963
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9982
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9959
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9982
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9958
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9959
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9957
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9978
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9955
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9975
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9956
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9973
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9952
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9972
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9951
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9971
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9954
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.997
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9947
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9967
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9948
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9965
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9942
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9963
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9944
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9959
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.994
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9953
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9932
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9952
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9933
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9951
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9935
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9947
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9934
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.995
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9935
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9941
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.993
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9939
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9926
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9943
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9923
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9929
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9922
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9928
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9911
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9931
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9917
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9926
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9911
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9911
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9916
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.992
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9903
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9912
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9891
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9903
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9896
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9896
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9899
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9906
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9889
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.991
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.989
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9891
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "祝",
+          "probability": 0.9872
+        },
+        {
+          "time": 59.86,
+          "end": 60.16,
+          "text": "福",
+          "probability": 0.9907
+        },
+        {
+          "time": 61.16,
+          "end": 61.46,
+          "text": "我",
+          "probability": 0.12
+        },
+        {
+          "time": 61.28,
+          "end": 61.58,
+          "text": "能",
+          "probability": 0.0527
+        },
+        {
+          "time": 61.7,
+          "end": 62.0,
+          "text": "不能",
+          "probability": 0.0532
+        },
+        {
+          "time": 62.68,
+          "end": 62.98,
+          "text": "再",
+          "probability": 0.0302
+        },
+        {
+          "time": 63.0,
+          "end": 63.3,
+          "text": "加",
+          "probability": 0.0305
+        },
+        {
+          "time": 63.18,
+          "end": 63.48,
+          "text": "一",
+          "probability": 0.1179
+        },
+        {
+          "time": 63.68,
+          "end": 63.98,
+          "text": "切",
+          "probability": 0.0932
+        }
+      ]
+    },
+    {
+      "time": 67.32,
+      "end": 71.3,
+      "text": "我能再加一切耶稣耶稣耶",
+      "words": [
+        {
+          "time": 67.32,
+          "end": 67.62,
+          "text": "我",
+          "probability": 0.1489
+        },
+        {
+          "time": 67.32,
+          "end": 67.62,
+          "text": "能",
+          "probability": 0.565
+        },
+        {
+          "time": 67.32,
+          "end": 67.62,
+          "text": "再",
+          "probability": 0.3043
+        },
+        {
+          "time": 67.32,
+          "end": 67.62,
+          "text": "加",
+          "probability": 0.8583
+        },
+        {
+          "time": 67.32,
+          "end": 67.62,
+          "text": "一",
+          "probability": 0.9118
+        },
+        {
+          "time": 67.32,
+          "end": 67.62,
+          "text": "切",
+          "probability": 0.8963
+        },
+        {
+          "time": 67.44,
+          "end": 67.74,
+          "text": "耶",
+          "probability": 0.366
+        },
+        {
+          "time": 67.96,
+          "end": 68.56,
+          "text": "稣",
+          "probability": 0.3026
+        },
+        {
+          "time": 69.34,
+          "end": 69.64,
+          "text": "耶",
+          "probability": 0.95
+        },
+        {
+          "time": 69.78,
+          "end": 70.56,
+          "text": "稣",
+          "probability": 0.999
+        },
+        {
+          "time": 71.0,
+          "end": 71.3,
+          "text": "耶",
+          "probability": 0.9907
+        }
+      ]
+    },
+    {
+      "time": 72.94,
+      "end": 77.96,
+      "text": "稣我能再加一切我",
+      "words": [
+        {
+          "time": 72.94,
+          "end": 73.66,
+          "text": "稣",
+          "probability": 0.9976
+        },
+        {
+          "time": 74.46,
+          "end": 74.76,
+          "text": "我",
+          "probability": 0.3376
+        },
+        {
+          "time": 74.58,
+          "end": 74.88,
+          "text": "能",
+          "probability": 0.5152
+        },
+        {
+          "time": 75.0,
+          "end": 75.3,
+          "text": "再",
+          "probability": 0.2897
+        },
+        {
+          "time": 75.62,
+          "end": 75.92,
+          "text": "加",
+          "probability": 0.762
+        },
+        {
+          "time": 76.46,
+          "end": 76.76,
+          "text": "一",
+          "probability": 0.9124
+        },
+        {
+          "time": 77.02,
+          "end": 77.32,
+          "text": "切",
+          "probability": 0.7075
+        },
+        {
+          "time": 77.66,
+          "end": 77.96,
+          "text": "我",
+          "probability": 0.2862
+        }
+      ]
+    },
+    {
+      "time": 79.5,
+      "end": 79.98,
+      "text": "能再加",
+      "words": [
+        {
+          "time": 79.5,
+          "end": 79.8,
+          "text": "能",
+          "probability": 0.6192
+        },
+        {
+          "time": 79.52,
+          "end": 79.82,
+          "text": "再",
+          "probability": 0.5964
+        },
+        {
+          "time": 79.68,
+          "end": 79.98,
+          "text": "加",
+          "probability": 0.9222
+        }
+      ]
+    },
+    {
+      "time": 81.52,
+      "end": 81.82,
+      "text": "一",
+      "words": [
+        {
+          "time": 81.52,
+          "end": 81.82,
+          "text": "一",
+          "probability": 0.944
+        }
+      ]
+    },
+    {
+      "time": 83.02,
+      "end": 83.32,
+      "text": "切",
+      "words": [
+        {
+          "time": 83.02,
+          "end": 83.32,
+          "text": "切",
+          "probability": 0.9004
+        }
+      ]
+    },
+    {
+      "time": 87.2,
+      "end": 92.58,
+      "text": "你连你连你连你连你连",
+      "words": [
+        {
+          "time": 87.2,
+          "end": 87.5,
+          "text": "你",
+          "probability": 0.4578
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": "连",
+          "probability": 0.0308
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": "你",
+          "probability": 0.0621
+        },
+        {
+          "time": 89.44,
+          "end": 89.74,
+          "text": "连",
+          "probability": 0.099
+        },
+        {
+          "time": 89.44,
+          "end": 89.74,
+          "text": "你",
+          "probability": 0.404
+        },
+        {
+          "time": 89.74,
+          "end": 90.14,
+          "text": "连",
+          "probability": 0.145
+        },
+        {
+          "time": 90.4,
+          "end": 90.7,
+          "text": "你",
+          "probability": 0.6256
+        },
+        {
+          "time": 91.84,
+          "end": 92.14,
+          "text": "连",
+          "probability": 0.1802
+        },
+        {
+          "time": 91.84,
+          "end": 92.14,
+          "text": "你",
+          "probability": 0.7297
+        },
+        {
+          "time": 92.5,
+          "end": 92.8,
+          "text": "连",
+          "probability": 0.285
+        }
+      ]
+    },
+    {
+      "time": 92.58,
+      "end": 98.2,
+      "text": "你连你连你连你连你连你连你连你连",
+      "words": [
+        {
+          "time": 92.58,
+          "end": 92.88,
+          "text": "你",
+          "probability": 0.7504
+        },
+        {
+          "time": 92.58,
+          "end": 92.88,
+          "text": "连",
+          "probability": 0.4236
+        },
+        {
+          "time": 93.3,
+          "end": 93.6,
+          "text": "你",
+          "probability": 0.7388
+        },
+        {
+          "time": 93.96,
+          "end": 94.26,
+          "text": "连",
+          "probability": 0.5425
+        },
+        {
+          "time": 94.34,
+          "end": 94.64,
+          "text": "你",
+          "probability": 0.6901
+        },
+        {
+          "time": 94.58,
+          "end": 95.0,
+          "text": "连",
+          "probability": 0.6058
+        },
+        {
+          "time": 94.82,
+          "end": 95.12,
+          "text": "你",
+          "probability": 0.6728
+        },
+        {
+          "time": 95.16,
+          "end": 95.46,
+          "text": "连",
+          "probability": 0.6405
+        },
+        {
+          "time": 95.84,
+          "end": 96.14,
+          "text": "你",
+          "probability": 0.6751
+        },
+        {
+          "time": 95.84,
+          "end": 96.32,
+          "text": "连",
+          "probability": 0.6631
+        },
+        {
+          "time": 97.0,
+          "end": 97.3,
+          "text": "你",
+          "probability": 0.6783
+        },
+        {
+          "time": 97.26,
+          "end": 97.56,
+          "text": "连",
+          "probability": 0.6769
+        },
+        {
+          "time": 97.34,
+          "end": 97.64,
+          "text": "你",
+          "probability": 0.6923
+        },
+        {
+          "time": 97.34,
+          "end": 97.72,
+          "text": "连",
+          "probability": 0.6927
+        },
+        {
+          "time": 97.74,
+          "end": 98.04,
+          "text": "你",
+          "probability": 0.7089
+        },
+        {
+          "time": 97.96,
+          "end": 98.26,
+          "text": "连",
+          "probability": 0.7048
+        }
+      ]
+    },
+    {
+      "time": 98.2,
+      "end": 103.48,
+      "text": "你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连",
+      "words": [
+        {
+          "time": 98.2,
+          "end": 98.5,
+          "text": "你",
+          "probability": 0.7182
+        },
+        {
+          "time": 99.42,
+          "end": 99.72,
+          "text": "连",
+          "probability": 0.7351
+        },
+        {
+          "time": 99.54,
+          "end": 99.84,
+          "text": "你",
+          "probability": 0.7505
+        },
+        {
+          "time": 99.64,
+          "end": 99.94,
+          "text": "连",
+          "probability": 0.7677
+        },
+        {
+          "time": 99.92,
+          "end": 100.22,
+          "text": "你",
+          "probability": 0.788
+        },
+        {
+          "time": 100.64,
+          "end": 100.94,
+          "text": "连",
+          "probability": 0.8077
+        },
+        {
+          "time": 101.12,
+          "end": 101.42,
+          "text": "你",
+          "probability": 0.793
+        },
+        {
+          "time": 101.9,
+          "end": 102.2,
+          "text": "连",
+          "probability": 0.8281
+        },
+        {
+          "time": 101.9,
+          "end": 102.2,
+          "text": "你",
+          "probability": 0.8119
+        },
+        {
+          "time": 102.1,
+          "end": 102.4,
+          "text": "连",
+          "probability": 0.8545
+        },
+        {
+          "time": 102.1,
+          "end": 102.4,
+          "text": "你",
+          "probability": 0.816
+        },
+        {
+          "time": 102.1,
+          "end": 102.4,
+          "text": "连",
+          "probability": 0.887
+        },
+        {
+          "time": 102.16,
+          "end": 102.46,
+          "text": "你",
+          "probability": 0.8293
+        },
+        {
+          "time": 102.62,
+          "end": 102.92,
+          "text": "连",
+          "probability": 0.9043
+        },
+        {
+          "time": 102.62,
+          "end": 102.92,
+          "text": "你",
+          "probability": 0.8363
+        },
+        {
+          "time": 102.62,
+          "end": 102.92,
+          "text": "连",
+          "probability": 0.92
+        },
+        {
+          "time": 102.62,
+          "end": 102.92,
+          "text": "你",
+          "probability": 0.8422
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9288
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8511
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9398
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8518
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9488
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8626
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9566
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8613
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.962
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8657
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9664
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8681
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9713
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8651
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9743
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8721
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9772
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8734
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9797
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8726
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9825
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8743
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9838
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8759
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9861
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8713
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9869
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.8743
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "连",
+          "probability": 0.9884
+        },
+        {
+          "time": 102.64,
+          "end": 102.94,
+          "text": "你",
+          "probability": 0.879
+        },
+        {
+          "time": 103.22,
+          "end": 103.72,
+          "text": "连",
+          "probability": 0.9892
+        }
+      ]
+    },
+    {
+      "time": 103.48,
+      "end": 109.1,
+      "text": "你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连你连",
+      "words": [
+        {
+          "time": 103.48,
+          "end": 103.78,
+          "text": "你",
+          "probability": 0.8762
+        },
+        {
+          "time": 103.5,
+          "end": 103.8,
+          "text": "连",
+          "probability": 0.9905
+        },
+        {
+          "time": 103.68,
+          "end": 103.98,
+          "text": "你",
+          "probability": 0.8721
+        },
+        {
+          "time": 103.7,
+          "end": 104.0,
+          "text": "连",
+          "probability": 0.9912
+        },
+        {
+          "time": 103.7,
+          "end": 104.0,
+          "text": "你",
+          "probability": 0.8762
+        },
+        {
+          "time": 103.7,
+          "end": 104.0,
+          "text": "连",
+          "probability": 0.9919
+        },
+        {
+          "time": 103.7,
+          "end": 104.0,
+          "text": "你",
+          "probability": 0.88
+        },
+        {
+          "time": 104.12,
+          "end": 104.42,
+          "text": "连",
+          "probability": 0.9926
+        },
+        {
+          "time": 104.12,
+          "end": 104.42,
+          "text": "你",
+          "probability": 0.8767
+        },
+        {
+          "time": 104.12,
+          "end": 104.42,
+          "text": "连",
+          "probability": 0.9928
+        },
+        {
+          "time": 104.12,
+          "end": 104.42,
+          "text": "你",
+          "probability": 0.8795
+        },
+        {
+          "time": 104.12,
+          "end": 104.42,
+          "text": "连",
+          "probability": 0.9934
+        },
+        {
+          "time": 104.12,
+          "end": 104.42,
+          "text": "你",
+          "probability": 0.8801
+        },
+        {
+          "time": 104.14,
+          "end": 104.44,
+          "text": "连",
+          "probability": 0.9936
+        },
+        {
+          "time": 104.14,
+          "end": 104.44,
+          "text": "你",
+          "probability": 0.8752
+        },
+        {
+          "time": 104.14,
+          "end": 104.44,
+          "text": "连",
+          "probability": 0.9941
+        },
+        {
+          "time": 104.14,
+          "end": 104.44,
+          "text": "你",
+          "probability": 0.8804
+        },
+        {
+          "time": 104.14,
+          "end": 104.44,
+          "text": "连",
+          "probability": 0.9945
+        },
+        {
+          "time": 104.14,
+          "end": 104.44,
+          "text": "你",
+          "probability": 0.8775
+        },
+        {
+          "time": 104.26,
+          "end": 104.78,
+          "text": "连",
+          "probability": 0.9947
+        },
+        {
+          "time": 104.48,
+          "end": 104.78,
+          "text": "你",
+          "probability": 0.8775
+        },
+        {
+          "time": 104.52,
+          "end": 104.82,
+          "text": "连",
+          "probability": 0.9951
+        },
+        {
+          "time": 104.52,
+          "end": 104.82,
+          "text": "你",
+          "probability": 0.8792
+        },
+        {
+          "time": 104.52,
+          "end": 104.82,
+          "text": "连",
+          "probability": 0.9951
+        },
+        {
+          "time": 104.52,
+          "end": 104.82,
+          "text": "你",
+          "probability": 0.8806
+        },
+        {
+          "time": 104.52,
+          "end": 104.82,
+          "text": "连",
+          "probability": 0.9954
+        },
+        {
+          "time": 104.52,
+          "end": 104.82,
+          "text": "你",
+          "probability": 0.8768
+        },
+        {
+          "time": 104.54,
+          "end": 104.84,
+          "text": "连",
+          "probability": 0.9955
+        },
+        {
+          "time": 105.26,
+          "end": 105.56,
+          "text": "你",
+          "probability": 0.8748
+        },
+        {
+          "time": 106.02,
+          "end": 106.32,
+          "text": "连",
+          "probability": 0.9957
+        },
+        {
+          "time": 106.52,
+          "end": 106.82,
+          "text": "你",
+          "probability": 0.8773
+        },
+        {
+          "time": 106.54,
+          "end": 106.84,
+          "text": "连",
+          "probability": 0.9957
+        },
+        {
+          "time": 106.54,
+          "end": 106.84,
+          "text": "你",
+          "probability": 0.8779
+        },
+        {
+          "time": 106.54,
+          "end": 106.84,
+          "text": "连",
+          "probability": 0.9958
+        },
+        {
+          "time": 106.54,
+          "end": 106.84,
+          "text": "你",
+          "probability": 0.8797
+        },
+        {
+          "time": 107.44,
+          "end": 107.84,
+          "text": "连",
+          "probability": 0.9961
+        },
+        {
+          "time": 107.8,
+          "end": 108.1,
+          "text": "你",
+          "probability": 0.8782
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9962
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8764
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9963
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.877
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9962
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8744
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9963
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8754
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9964
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8742
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9967
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8712
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9966
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8715
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9965
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8749
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9967
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8687
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9967
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8694
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9968
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8734
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9966
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8669
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "连",
+          "probability": 0.9966
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "你",
+          "probability": 0.8667
+        },
+        {
+          "time": 108.96,
+          "end": 109.32,
+          "text": "连",
+          "probability": 0.9966
+        }
+      ]
+    },
+    {
+      "time": 109.1,
+      "end": 110.54,
+      "text": "你连你连你连你",
+      "words": [
+        {
+          "time": 109.1,
+          "end": 109.4,
+          "text": "你",
+          "probability": 0.8694
+        },
+        {
+          "time": 109.28,
+          "end": 109.8,
+          "text": "连",
+          "probability": 0.9966
+        },
+        {
+          "time": 109.5,
+          "end": 109.8,
+          "text": "你",
+          "probability": 0.8657
+        },
+        {
+          "time": 109.94,
+          "end": 110.24,
+          "text": "连",
+          "probability": 0.9963
+        },
+        {
+          "time": 109.94,
+          "end": 110.24,
+          "text": "你",
+          "probability": 0.8627
+        },
+        {
+          "time": 110.1,
+          "end": 110.4,
+          "text": "连",
+          "probability": 0.9964
+        },
+        {
+          "time": 110.24,
+          "end": 110.54,
+          "text": "你",
+          "probability": 0.8634
+        }
+      ]
+    },
+    {
+      "time": 113.02,
+      "end": 113.32,
+      "text": "连",
+      "words": [
+        {
+          "time": 113.02,
+          "end": 113.32,
+          "text": "连",
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "time": 117.88,
+      "end": 122.2,
+      "text": "天啊天啊天啊",
+      "words": [
+        {
+          "time": 117.88,
+          "end": 118.18,
+          "text": "天",
+          "probability": 0.0662
+        },
+        {
+          "time": 118.4,
+          "end": 118.7,
+          "text": "啊",
+          "probability": 0.2531
+        },
+        {
+          "time": 119.54,
+          "end": 119.84,
+          "text": "天",
+          "probability": 0.6348
+        },
+        {
+          "time": 120.32,
+          "end": 120.62,
+          "text": "啊",
+          "probability": 0.9947
+        },
+        {
+          "time": 121.22,
+          "end": 121.52,
+          "text": "天",
+          "probability": 0.9453
+        },
+        {
+          "time": 121.9,
+          "end": 122.2,
+          "text": "啊",
+          "probability": 0.9937
+        }
+      ]
+    },
+    {
+      "time": 123.9,
+      "end": 129.52,
+      "text": "我贴你我贴你我贴你我贴你我贴你我贴你我",
+      "words": [
+        {
+          "time": 123.9,
+          "end": 124.2,
+          "text": "我",
+          "probability": 0.4873
+        },
+        {
+          "time": 124.12,
+          "end": 124.62,
+          "text": "贴",
+          "probability": 0.1028
+        },
+        {
+          "time": 125.02,
+          "end": 125.32,
+          "text": "你",
+          "probability": 0.4267
+        },
+        {
+          "time": 125.68,
+          "end": 125.98,
+          "text": "我",
+          "probability": 0.2076
+        },
+        {
+          "time": 125.76,
+          "end": 126.06,
+          "text": "贴",
+          "probability": 0.5347
+        },
+        {
+          "time": 126.64,
+          "end": 126.94,
+          "text": "你",
+          "probability": 0.8858
+        },
+        {
+          "time": 127.1,
+          "end": 127.4,
+          "text": "我",
+          "probability": 0.233
+        },
+        {
+          "time": 127.3,
+          "end": 127.6,
+          "text": "贴",
+          "probability": 0.7441
+        },
+        {
+          "time": 127.3,
+          "end": 127.6,
+          "text": "你",
+          "probability": 0.8651
+        },
+        {
+          "time": 127.3,
+          "end": 127.6,
+          "text": "我",
+          "probability": 0.3275
+        },
+        {
+          "time": 127.48,
+          "end": 127.78,
+          "text": "贴",
+          "probability": 0.903
+        },
+        {
+          "time": 128.22,
+          "end": 128.52,
+          "text": "你",
+          "probability": 0.7858
+        },
+        {
+          "time": 128.28,
+          "end": 128.58,
+          "text": "我",
+          "probability": 0.3895
+        },
+        {
+          "time": 128.48,
+          "end": 128.82,
+          "text": "贴",
+          "probability": 0.9747
+        },
+        {
+          "time": 128.76,
+          "end": 129.06,
+          "text": "你",
+          "probability": 0.8547
+        },
+        {
+          "time": 128.76,
+          "end": 129.06,
+          "text": "我",
+          "probability": 0.2523
+        },
+        {
+          "time": 128.76,
+          "end": 129.06,
+          "text": "贴",
+          "probability": 0.9896
+        },
+        {
+          "time": 128.84,
+          "end": 129.14,
+          "text": "你",
+          "probability": 0.8923
+        },
+        {
+          "time": 129.22,
+          "end": 129.52,
+          "text": "我",
+          "probability": 0.1591
+        }
+      ]
+    },
+    {
+      "time": 130.68,
+      "end": 131.48,
+      "text": "贴你我",
+      "words": [
+        {
+          "time": 130.68,
+          "end": 130.98,
+          "text": "贴",
+          "probability": 0.9914
+        },
+        {
+          "time": 130.7,
+          "end": 131.0,
+          "text": "你",
+          "probability": 0.8975
+        },
+        {
+          "time": 131.18,
+          "end": 131.48,
+          "text": "我",
+          "probability": 0.256
+        }
+      ]
+    },
+    {
+      "time": 132.9,
+      "end": 139.06,
+      "text": "贴你我贴你我贴你我贴你我贴你我贴你",
+      "words": [
+        {
+          "time": 132.9,
+          "end": 133.2,
+          "text": "贴",
+          "probability": 0.9952
+        },
+        {
+          "time": 133.2,
+          "end": 133.5,
+          "text": "你",
+          "probability": 0.899
+        },
+        {
+          "time": 133.22,
+          "end": 133.52,
+          "text": "我",
+          "probability": 0.5325
+        },
+        {
+          "time": 134.14,
+          "end": 134.44,
+          "text": "贴",
+          "probability": 0.9964
+        },
+        {
+          "time": 134.14,
+          "end": 134.44,
+          "text": "你",
+          "probability": 0.9041
+        },
+        {
+          "time": 134.14,
+          "end": 134.44,
+          "text": "我",
+          "probability": 0.6986
+        },
+        {
+          "time": 134.34,
+          "end": 134.86,
+          "text": "贴",
+          "probability": 0.9969
+        },
+        {
+          "time": 134.56,
+          "end": 134.86,
+          "text": "你",
+          "probability": 0.9114
+        },
+        {
+          "time": 134.56,
+          "end": 134.86,
+          "text": "我",
+          "probability": 0.7756
+        },
+        {
+          "time": 135.52,
+          "end": 135.82,
+          "text": "贴",
+          "probability": 0.9965
+        },
+        {
+          "time": 135.52,
+          "end": 135.82,
+          "text": "你",
+          "probability": 0.9098
+        },
+        {
+          "time": 135.52,
+          "end": 135.82,
+          "text": "我",
+          "probability": 0.7311
+        },
+        {
+          "time": 135.58,
+          "end": 136.94,
+          "text": "贴",
+          "probability": 0.9971
+        },
+        {
+          "time": 136.64,
+          "end": 136.94,
+          "text": "你",
+          "probability": 0.9018
+        },
+        {
+          "time": 136.64,
+          "end": 136.94,
+          "text": "我",
+          "probability": 0.7124
+        },
+        {
+          "time": 138.04,
+          "end": 138.34,
+          "text": "贴",
+          "probability": 0.9974
+        },
+        {
+          "time": 138.76,
+          "end": 139.06,
+          "text": "你",
+          "probability": 0.896
+        }
+      ]
+    },
+    {
+      "time": 139.16,
+      "end": 142.0,
+      "text": "我贴你我贴你我贴你我贴你我贴你",
+      "words": [
+        {
+          "time": 139.16,
+          "end": 139.46,
+          "text": "我",
+          "probability": 0.6867
+        },
+        {
+          "time": 139.46,
+          "end": 139.76,
+          "text": "贴",
+          "probability": 0.9972
+        },
+        {
+          "time": 139.64,
+          "end": 139.94,
+          "text": "你",
+          "probability": 0.9105
+        },
+        {
+          "time": 139.86,
+          "end": 140.16,
+          "text": "我",
+          "probability": 0.7711
+        },
+        {
+          "time": 141.26,
+          "end": 141.56,
+          "text": "贴",
+          "probability": 0.9962
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "你",
+          "probability": 0.9192
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "我",
+          "probability": 0.7598
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "贴",
+          "probability": 0.9936
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "你",
+          "probability": 0.9265
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "我",
+          "probability": 0.7617
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "贴",
+          "probability": 0.988
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "你",
+          "probability": 0.9345
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "我",
+          "probability": 0.6594
+        },
+        {
+          "time": 141.62,
+          "end": 141.92,
+          "text": "贴",
+          "probability": 0.9744
+        },
+        {
+          "time": 141.7,
+          "end": 142.0,
+          "text": "你",
+          "probability": 0.9381
+        }
+      ]
+    },
+    {
+      "time": 143.6,
+      "end": 145.16,
+      "text": "Land L",
+      "words": [
+        {
+          "time": 143.6,
+          "end": 143.9,
+          "text": "L",
+          "probability": 0.3868
+        },
+        {
+          "time": 144.42,
+          "end": 144.72,
+          "text": "and",
+          "probability": 0.4157
+        },
+        {
+          "time": 144.86,
+          "end": 145.16,
+          "text": " L",
+          "probability": 0.275
+        }
+      ]
+    },
+    {
+      "time": 146.38,
+      "end": 146.68,
+      "text": "oss",
+      "words": [
+        {
+          "time": 146.38,
+          "end": 146.68,
+          "text": "oss",
+          "probability": 0.4657
+        }
+      ]
+    },
+    {
+      "time": 151.18,
+      "end": 157.92,
+      "text": "Every time I close my eyesI always think of youMay",
+      "words": [
+        {
+          "time": 151.18,
+          "end": 151.48,
+          "text": "Every",
+          "probability": 0.9434
+        },
+        {
+          "time": 151.7,
+          "end": 152.0,
+          "text": " time",
+          "probability": 0.9882
+        },
+        {
+          "time": 152.28,
+          "end": 152.58,
+          "text": " I",
+          "probability": 0.881
+        },
+        {
+          "time": 152.7,
+          "end": 153.0,
+          "text": " close",
+          "probability": 0.9993
+        },
+        {
+          "time": 153.02,
+          "end": 153.32,
+          "text": " my",
+          "probability": 0.9998
+        },
+        {
+          "time": 153.42,
+          "end": 153.72,
+          "text": " eyes",
+          "probability": 0.9999
+        },
+        {
+          "time": 153.98,
+          "end": 154.28,
+          "text": "I",
+          "probability": 0.9863
+        },
+        {
+          "time": 154.58,
+          "end": 154.88,
+          "text": " always",
+          "probability": 0.9995
+        },
+        {
+          "time": 155.02,
+          "end": 155.32,
+          "text": " think",
+          "probability": 0.9996
+        },
+        {
+          "time": 155.54,
+          "end": 155.84,
+          "text": " of",
+          "probability": 0.9992
+        },
+        {
+          "time": 156.26,
+          "end": 156.56,
+          "text": " you",
+          "probability": 0.8326
+        },
+        {
+          "time": 157.62,
+          "end": 157.92,
+          "text": "May",
+          "probability": 0.9507
+        }
+      ]
+    },
+    {
+      "time": 157.96,
+      "end": 164.5,
+      "text": "my nation and countrymenTurn to the Lord24",
+      "words": [
+        {
+          "time": 157.96,
+          "end": 158.26,
+          "text": " my",
+          "probability": 0.9996
+        },
+        {
+          "time": 158.68,
+          "end": 158.98,
+          "text": " nation",
+          "probability": 0.9997
+        },
+        {
+          "time": 159.38,
+          "end": 159.68,
+          "text": " and",
+          "probability": 0.9654
+        },
+        {
+          "time": 159.86,
+          "end": 160.16,
+          "text": " country",
+          "probability": 0.998
+        },
+        {
+          "time": 160.38,
+          "end": 160.68,
+          "text": "men",
+          "probability": 0.9237
+        },
+        {
+          "time": 160.98,
+          "end": 161.28,
+          "text": "Turn",
+          "probability": 0.9319
+        },
+        {
+          "time": 161.74,
+          "end": 162.04,
+          "text": " to",
+          "probability": 0.9999
+        },
+        {
+          "time": 162.14,
+          "end": 162.44,
+          "text": " the",
+          "probability": 0.9997
+        },
+        {
+          "time": 163.1,
+          "end": 163.4,
+          "text": " Lord",
+          "probability": 0.9962
+        },
+        {
+          "time": 164.2,
+          "end": 164.5,
+          "text": "24",
+          "probability": 0.4639
+        }
+      ]
+    },
+    {
+      "time": 165.34,
+      "end": 171.24,
+      "text": "hours day and nightI always cry for youMay",
+      "words": [
+        {
+          "time": 165.34,
+          "end": 165.64,
+          "text": " hours",
+          "probability": 0.9974
+        },
+        {
+          "time": 165.94,
+          "end": 166.24,
+          "text": " day",
+          "probability": 0.5071
+        },
+        {
+          "time": 166.38,
+          "end": 166.68,
+          "text": " and",
+          "probability": 0.9631
+        },
+        {
+          "time": 166.6,
+          "end": 166.9,
+          "text": " night",
+          "probability": 0.9914
+        },
+        {
+          "time": 167.16,
+          "end": 167.46,
+          "text": "I",
+          "probability": 0.9981
+        },
+        {
+          "time": 167.9,
+          "end": 168.2,
+          "text": " always",
+          "probability": 0.9996
+        },
+        {
+          "time": 168.4,
+          "end": 168.7,
+          "text": " cry",
+          "probability": 0.5145
+        },
+        {
+          "time": 168.82,
+          "end": 169.12,
+          "text": " for",
+          "probability": 0.9995
+        },
+        {
+          "time": 169.48,
+          "end": 169.78,
+          "text": " you",
+          "probability": 0.9996
+        },
+        {
+          "time": 170.94,
+          "end": 171.24,
+          "text": "May",
+          "probability": 0.327
+        }
+      ]
+    },
+    {
+      "time": 171.26,
+      "end": 176.86,
+      "text": "the fear of everyone come to view the Eastland",
+      "words": [
+        {
+          "time": 171.26,
+          "end": 171.56,
+          "text": " the",
+          "probability": 0.9647
+        },
+        {
+          "time": 171.7,
+          "end": 172.0,
+          "text": " fear",
+          "probability": 0.8443
+        },
+        {
+          "time": 172.2,
+          "end": 172.5,
+          "text": " of",
+          "probability": 0.9818
+        },
+        {
+          "time": 172.98,
+          "end": 173.28,
+          "text": " everyone",
+          "probability": 0.1033
+        },
+        {
+          "time": 173.72,
+          "end": 174.02,
+          "text": " come",
+          "probability": 0.8928
+        },
+        {
+          "time": 174.22,
+          "end": 174.52,
+          "text": " to",
+          "probability": 0.8434
+        },
+        {
+          "time": 174.8,
+          "end": 175.1,
+          "text": " view",
+          "probability": 0.7168
+        },
+        {
+          "time": 175.14,
+          "end": 175.44,
+          "text": " the",
+          "probability": 0.4662
+        },
+        {
+          "time": 175.74,
+          "end": 176.04,
+          "text": " East",
+          "probability": 0.5693
+        },
+        {
+          "time": 176.56,
+          "end": 176.86,
+          "text": "land",
+          "probability": 0.6232
+        }
+      ]
+    },
+    {
+      "time": 177.48,
+      "end": 177.78,
+      "text": "China",
+      "words": [
+        {
+          "time": 177.48,
+          "end": 177.78,
+          "text": " China",
+          "probability": 0.2408
+        }
+      ]
+    },
+    {
+      "time": 181.34,
+      "end": 181.64,
+      "text": "中国",
+      "words": [
+        {
+          "time": 181.34,
+          "end": 181.64,
+          "text": "中国",
+          "probability": 0.9478
+        }
+      ]
+    },
+    {
+      "time": 183.0,
+      "end": 183.3,
+      "text": "中国",
+      "words": [
+        {
+          "time": 183.0,
+          "end": 183.3,
+          "text": "中国",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 184.54,
+      "end": 184.84,
+      "text": "中国",
+      "words": [
+        {
+          "time": 184.54,
+          "end": 184.84,
+          "text": "中国",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 187.14,
+      "end": 193.04,
+      "text": "我为你祝福为你祷告向世界宣告",
+      "words": [
+        {
+          "time": 187.14,
+          "end": 187.44,
+          "text": "我",
+          "probability": 0.9722
+        },
+        {
+          "time": 187.66,
+          "end": 187.96,
+          "text": "为",
+          "probability": 0.9985
+        },
+        {
+          "time": 187.92,
+          "end": 188.22,
+          "text": "你",
+          "probability": 0.9524
+        },
+        {
+          "time": 188.2,
+          "end": 188.62,
+          "text": "祝",
+          "probability": 0.9298
+        },
+        {
+          "time": 188.72,
+          "end": 189.02,
+          "text": "福",
+          "probability": 0.9996
+        },
+        {
+          "time": 189.3,
+          "end": 189.6,
+          "text": "为",
+          "probability": 0.9993
+        },
+        {
+          "time": 189.68,
+          "end": 189.98,
+          "text": "你",
+          "probability": 0.9998
+        },
+        {
+          "time": 189.9,
+          "end": 190.34,
+          "text": "祷",
+          "probability": 0.9946
+        },
+        {
+          "time": 190.34,
+          "end": 190.64,
+          "text": "告",
+          "probability": 0.9993
+        },
+        {
+          "time": 190.9,
+          "end": 191.2,
+          "text": "向",
+          "probability": 0.6564
+        },
+        {
+          "time": 191.62,
+          "end": 191.92,
+          "text": "世界",
+          "probability": 0.9907
+        },
+        {
+          "time": 192.1,
+          "end": 192.54,
+          "text": "宣",
+          "probability": 0.9884
+        },
+        {
+          "time": 192.74,
+          "end": 193.04,
+          "text": "告",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 194.2,
+      "end": 198.42,
+      "text": "耶稣耶稣耶稣",
+      "words": [
+        {
+          "time": 194.2,
+          "end": 194.5,
+          "text": "耶",
+          "probability": 0.8639
+        },
+        {
+          "time": 194.5,
+          "end": 195.18,
+          "text": "稣",
+          "probability": 0.9951
+        },
+        {
+          "time": 195.9,
+          "end": 196.2,
+          "text": "耶",
+          "probability": 0.9995
+        },
+        {
+          "time": 196.26,
+          "end": 196.86,
+          "text": "稣",
+          "probability": 0.9996
+        },
+        {
+          "time": 197.62,
+          "end": 197.92,
+          "text": "耶",
+          "probability": 0.9997
+        },
+        {
+          "time": 197.94,
+          "end": 198.42,
+          "text": "稣",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 200.42,
+      "end": 206.18,
+      "text": "恳求你怜悯一直彻底为中国为",
+      "words": [
+        {
+          "time": 200.42,
+          "end": 200.84,
+          "text": "恳",
+          "probability": 0.806
+        },
+        {
+          "time": 200.98,
+          "end": 201.28,
+          "text": "求",
+          "probability": 0.9879
+        },
+        {
+          "time": 201.28,
+          "end": 201.58,
+          "text": "你",
+          "probability": 0.9455
+        },
+        {
+          "time": 201.58,
+          "end": 202.02,
+          "text": "怜",
+          "probability": 0.4127
+        },
+        {
+          "time": 202.1,
+          "end": 202.4,
+          "text": "悯",
+          "probability": 0.9393
+        },
+        {
+          "time": 202.92,
+          "end": 203.22,
+          "text": "一直",
+          "probability": 0.5027
+        },
+        {
+          "time": 203.2,
+          "end": 203.62,
+          "text": "彻",
+          "probability": 0.3543
+        },
+        {
+          "time": 203.76,
+          "end": 204.06,
+          "text": "底",
+          "probability": 0.9944
+        },
+        {
+          "time": 204.24,
+          "end": 204.54,
+          "text": "为",
+          "probability": 0.9863
+        },
+        {
+          "time": 204.86,
+          "end": 205.16,
+          "text": "中国",
+          "probability": 0.9942
+        },
+        {
+          "time": 205.88,
+          "end": 206.18,
+          "text": "为",
+          "probability": 0.9804
+        }
+      ]
+    },
+    {
+      "time": 206.68,
+      "end": 206.98,
+      "text": "中国",
+      "words": [
+        {
+          "time": 206.68,
+          "end": 206.98,
+          "text": "中国",
+          "probability": 0.9985
+        }
+      ]
+    },
+    {
+      "time": 208.4,
+      "end": 209.68,
+      "text": "祝福",
+      "words": [
+        {
+          "time": 208.4,
+          "end": 208.88,
+          "text": "祝",
+          "probability": 0.9904
+        },
+        {
+          "time": 209.38,
+          "end": 209.68,
+          "text": "福",
+          "probability": 0.9985
+        }
+      ]
+    },
+    {
+      "time": 216.26,
+      "end": 216.56,
+      "text": "中国",
+      "words": [
+        {
+          "time": 216.26,
+          "end": 216.56,
+          "text": "中国",
+          "probability": 0.9784
+        }
+      ]
+    },
+    {
+      "time": 218.14,
+      "end": 219.92,
+      "text": "中国中国",
+      "words": [
+        {
+          "time": 218.14,
+          "end": 218.44,
+          "text": "中国",
+          "probability": 0.9729
+        },
+        {
+          "time": 219.62,
+          "end": 219.92,
+          "text": "中国",
+          "probability": 0.8947
+        }
+      ]
+    },
+    {
+      "time": 222.16,
+      "end": 227.94,
+      "text": "我为你祝福为你祷告向世界宣告",
+      "words": [
+        {
+          "time": 222.16,
+          "end": 222.46,
+          "text": "我",
+          "probability": 0.8926
+        },
+        {
+          "time": 222.66,
+          "end": 222.96,
+          "text": "为",
+          "probability": 0.9721
+        },
+        {
+          "time": 222.92,
+          "end": 223.22,
+          "text": "你",
+          "probability": 0.9964
+        },
+        {
+          "time": 223.18,
+          "end": 223.6,
+          "text": "祝",
+          "probability": 0.9905
+        },
+        {
+          "time": 223.68,
+          "end": 223.98,
+          "text": "福",
+          "probability": 0.9998
+        },
+        {
+          "time": 224.28,
+          "end": 224.58,
+          "text": "为",
+          "probability": 0.9936
+        },
+        {
+          "time": 224.68,
+          "end": 224.98,
+          "text": "你",
+          "probability": 0.999
+        },
+        {
+          "time": 224.86,
+          "end": 225.26,
+          "text": "祷",
+          "probability": 0.8977
+        },
+        {
+          "time": 225.3,
+          "end": 225.6,
+          "text": "告",
+          "probability": 0.8839
+        },
+        {
+          "time": 225.92,
+          "end": 226.22,
+          "text": "向",
+          "probability": 0.6728
+        },
+        {
+          "time": 226.58,
+          "end": 226.88,
+          "text": "世界",
+          "probability": 0.8746
+        },
+        {
+          "time": 227.06,
+          "end": 227.46,
+          "text": "宣",
+          "probability": 0.4533
+        },
+        {
+          "time": 227.64,
+          "end": 227.94,
+          "text": "告",
+          "probability": 0.8602
+        }
+      ]
+    },
+    {
+      "time": 229.2,
+      "end": 235.84,
+      "text": "耶稣耶稣耶稣恳",
+      "words": [
+        {
+          "time": 229.2,
+          "end": 229.5,
+          "text": "耶",
+          "probability": 0.9872
+        },
+        {
+          "time": 229.58,
+          "end": 230.2,
+          "text": "稣",
+          "probability": 0.9941
+        },
+        {
+          "time": 230.92,
+          "end": 231.22,
+          "text": "耶",
+          "probability": 0.9996
+        },
+        {
+          "time": 231.3,
+          "end": 232.22,
+          "text": "稣",
+          "probability": 0.9994
+        },
+        {
+          "time": 232.6,
+          "end": 232.9,
+          "text": "耶",
+          "probability": 0.999
+        },
+        {
+          "time": 232.96,
+          "end": 234.14,
+          "text": "稣",
+          "probability": 0.9992
+        },
+        {
+          "time": 233.9,
+          "end": 235.84,
+          "text": "恳",
+          "probability": 0.2678
+        }
+      ]
+    },
+    {
+      "time": 236.0,
+      "end": 240.26,
+      "text": "求你愿意一切这里为中国",
+      "words": [
+        {
+          "time": 236.0,
+          "end": 236.3,
+          "text": "求",
+          "probability": 0.965
+        },
+        {
+          "time": 236.3,
+          "end": 236.6,
+          "text": "你",
+          "probability": 0.6904
+        },
+        {
+          "time": 236.62,
+          "end": 237.1,
+          "text": "愿",
+          "probability": 0.9038
+        },
+        {
+          "time": 237.28,
+          "end": 237.58,
+          "text": "意",
+          "probability": 0.9928
+        },
+        {
+          "time": 237.72,
+          "end": 238.02,
+          "text": "一",
+          "probability": 0.6408
+        },
+        {
+          "time": 237.92,
+          "end": 238.22,
+          "text": "切",
+          "probability": 0.9243
+        },
+        {
+          "time": 238.5,
+          "end": 238.8,
+          "text": "这里",
+          "probability": 0.2619
+        },
+        {
+          "time": 239.28,
+          "end": 239.58,
+          "text": "为",
+          "probability": 0.9936
+        },
+        {
+          "time": 239.96,
+          "end": 240.26,
+          "text": "中国",
+          "probability": 0.9912
+        }
+      ]
+    },
+    {
+      "time": 241.74,
+      "end": 243.1,
+      "text": "祝福",
+      "words": [
+        {
+          "time": 241.74,
+          "end": 242.4,
+          "text": "祝",
+          "probability": 0.9885
+        },
+        {
+          "time": 242.8,
+          "end": 243.1,
+          "text": "福",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 258.08,
+      "end": 258.38,
+      "text": "好",
+      "words": [
+        {
+          "time": 258.08,
+          "end": 258.38,
+          "text": "好",
+          "probability": 0.0602
+        }
+      ]
+    }
+  ]
+}

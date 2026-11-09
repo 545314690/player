@@ -1,0 +1,165 @@
+{
+  "id": "sf67e052cd398",
+  "file": "247最美的礼物.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "29883",
+    "url": "https://www.izanmei.cc/song/29883.html",
+    "audio": "https://play.izanm.org/song/p/29883.mp3",
+    "offset": 0.025,
+    "scale": 1.0,
+    "residual": 0.001,
+    "coverage": 0.999713,
+    "windows": [
+      {
+        "localStart": 21.872,
+        "sourceStart": 21.896,
+        "offset": 0.025,
+        "coefficient": 0.993401
+      },
+      {
+        "localStart": 54.679,
+        "sourceStart": 54.705,
+        "offset": 0.025,
+        "coefficient": 0.992083
+      },
+      {
+        "localStart": 87.487,
+        "sourceStart": 87.513,
+        "offset": 0.025,
+        "coefficient": 0.990835
+      },
+      {
+        "localStart": 120.296,
+        "sourceStart": 120.32,
+        "offset": 0.025,
+        "coefficient": 0.991864
+      },
+      {
+        "localStart": 153.103,
+        "sourceStart": 153.128,
+        "offset": 0.025,
+        "coefficient": 0.990529
+      },
+      {
+        "localStart": 185.911,
+        "sourceStart": 185.936,
+        "offset": 0.025,
+        "coefficient": 0.990224
+      },
+      {
+        "localStart": 218.719,
+        "sourceStart": 218.744,
+        "offset": 0.025,
+        "coefficient": 0.988827
+      },
+      {
+        "localStart": 246.059,
+        "sourceStart": 246.084,
+        "offset": 0.025,
+        "coefficient": 0.98537
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "38755",
+      "offset": 34.276,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.65458,
+      "windows": [
+        {
+          "localStart": 21.872,
+          "sourceStart": 56.672,
+          "offset": 34.8,
+          "coefficient": 0.096581
+        },
+        {
+          "localStart": 54.679,
+          "sourceStart": 88.834,
+          "offset": 34.154,
+          "coefficient": 0.075391
+        },
+        {
+          "localStart": 87.487,
+          "sourceStart": 123.269,
+          "offset": 35.781,
+          "coefficient": 0.061722
+        },
+        {
+          "localStart": 120.296,
+          "sourceStart": 154.689,
+          "offset": 34.3935,
+          "coefficient": 0.068157
+        },
+        {
+          "localStart": 153.103,
+          "sourceStart": 186.932,
+          "offset": 33.829,
+          "coefficient": 0.068273
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "29883",
+      "offset": 0.025,
+      "scale": 1.0,
+      "residual": 0.001,
+      "coverage": 0.999713,
+      "windows": [
+        {
+          "localStart": 21.872,
+          "sourceStart": 21.896,
+          "offset": 0.025,
+          "coefficient": 0.993401
+        },
+        {
+          "localStart": 54.679,
+          "sourceStart": 54.705,
+          "offset": 0.025,
+          "coefficient": 0.992083
+        },
+        {
+          "localStart": 87.487,
+          "sourceStart": 87.513,
+          "offset": 0.025,
+          "coefficient": 0.990835
+        },
+        {
+          "localStart": 120.296,
+          "sourceStart": 120.32,
+          "offset": 0.025,
+          "coefficient": 0.991864
+        },
+        {
+          "localStart": 153.103,
+          "sourceStart": 153.128,
+          "offset": 0.025,
+          "coefficient": 0.990529
+        },
+        {
+          "localStart": 185.911,
+          "sourceStart": 185.936,
+          "offset": 0.025,
+          "coefficient": 0.990224
+        },
+        {
+          "localStart": 218.719,
+          "sourceStart": 218.744,
+          "offset": 0.025,
+          "coefficient": 0.988827
+        },
+        {
+          "localStart": 246.059,
+          "sourceStart": 246.084,
+          "offset": 0.025,
+          "coefficient": 0.98537
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

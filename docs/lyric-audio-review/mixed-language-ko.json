@@ -1,0 +1,455 @@
+{
+  "id": "s9c49ec74ef19",
+  "file": "112-.mp3",
+  "language": "ko",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "ac177566a9e77bf73d5f65e95e4a27d533e5c5fc006c05ac12caad435a2bb153",
+  "fullDuration": 211.905306,
+  "lines": [
+    {
+      "time": 8.12,
+      "end": 12.4,
+      "text": "이 시각 세계였습니다.",
+      "words": [
+        {
+          "time": 8.12,
+          "end": 8.42,
+          "text": " 이",
+          "probability": 0.053
+        },
+        {
+          "time": 8.44,
+          "end": 8.74,
+          "text": " 시",
+          "probability": 0.1475
+        },
+        {
+          "time": 8.94,
+          "end": 9.24,
+          "text": "각",
+          "probability": 0.2797
+        },
+        {
+          "time": 9.36,
+          "end": 9.66,
+          "text": " 세계",
+          "probability": 0.549
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "였습니다",
+          "probability": 0.7653
+        },
+        {
+          "time": 12.1,
+          "end": 12.4,
+          "text": ".",
+          "probability": 0.9695
+        }
+      ]
+    },
+    {
+      "time": 30.24,
+      "end": 37.06,
+      "text": "오, 찬양 주, 할렐루야, 할렐루",
+      "words": [
+        {
+          "time": 30.24,
+          "end": 30.54,
+          "text": " 오",
+          "probability": 0.0855
+        },
+        {
+          "time": 30.34,
+          "end": 30.64,
+          "text": ",",
+          "probability": 0.5231
+        },
+        {
+          "time": 30.66,
+          "end": 31.14,
+          "text": " 찬",
+          "probability": 0.345
+        },
+        {
+          "time": 31.1,
+          "end": 31.4,
+          "text": "양",
+          "probability": 0.108
+        },
+        {
+          "time": 31.46,
+          "end": 31.76,
+          "text": " 주",
+          "probability": 0.4653
+        },
+        {
+          "time": 31.78,
+          "end": 32.08,
+          "text": ",",
+          "probability": 0.4862
+        },
+        {
+          "time": 32.1,
+          "end": 33.04,
+          "text": " 할렐루",
+          "probability": 0.8178
+        },
+        {
+          "time": 33.0,
+          "end": 33.3,
+          "text": "야",
+          "probability": 0.9903
+        },
+        {
+          "time": 33.38,
+          "end": 33.68,
+          "text": ",",
+          "probability": 0.4592
+        },
+        {
+          "time": 34.06,
+          "end": 37.06,
+          "text": " 할렐루",
+          "probability": 0.8881
+        }
+      ]
+    },
+    {
+      "time": 37.46,
+      "end": 43.2,
+      "text": "야 오, 오, 오, 오, 찬양 주, 할렐루야 오",
+      "words": [
+        {
+          "time": 37.46,
+          "end": 37.76,
+          "text": "야",
+          "probability": 0.9995
+        },
+        {
+          "time": 38.72,
+          "end": 39.02,
+          "text": " 오",
+          "probability": 0.9634
+        },
+        {
+          "time": 38.92,
+          "end": 39.22,
+          "text": ",",
+          "probability": 0.9634
+        },
+        {
+          "time": 39.2,
+          "end": 39.5,
+          "text": " 오",
+          "probability": 0.8057
+        },
+        {
+          "time": 39.34,
+          "end": 39.64,
+          "text": ",",
+          "probability": 0.995
+        },
+        {
+          "time": 39.6,
+          "end": 39.9,
+          "text": " 오",
+          "probability": 0.9369
+        },
+        {
+          "time": 39.6,
+          "end": 39.9,
+          "text": ",",
+          "probability": 0.8769
+        },
+        {
+          "time": 39.88,
+          "end": 40.18,
+          "text": " 오",
+          "probability": 0.546
+        },
+        {
+          "time": 40.24,
+          "end": 40.54,
+          "text": ",",
+          "probability": 0.6879
+        },
+        {
+          "time": 40.24,
+          "end": 40.74,
+          "text": " 찬",
+          "probability": 0.8973
+        },
+        {
+          "time": 40.74,
+          "end": 41.04,
+          "text": "양",
+          "probability": 0.9963
+        },
+        {
+          "time": 41.1,
+          "end": 41.4,
+          "text": " 주",
+          "probability": 0.9984
+        },
+        {
+          "time": 41.48,
+          "end": 41.78,
+          "text": ",",
+          "probability": 0.9993
+        },
+        {
+          "time": 41.8,
+          "end": 42.6,
+          "text": " 할렐루",
+          "probability": 0.9972
+        },
+        {
+          "time": 42.6,
+          "end": 42.9,
+          "text": "야",
+          "probability": 0.9999
+        },
+        {
+          "time": 43.04,
+          "end": 43.34,
+          "text": " 오",
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "time": 43.2,
+      "end": 49.84,
+      "text": ", 찬양 주, 할렐루야, 할렐루",
+      "words": [
+        {
+          "time": 43.2,
+          "end": 43.5,
+          "text": ",",
+          "probability": 0.9996
+        },
+        {
+          "time": 43.48,
+          "end": 44.02,
+          "text": " 찬",
+          "probability": 0.9974
+        },
+        {
+          "time": 43.94,
+          "end": 44.24,
+          "text": "양",
+          "probability": 0.9988
+        },
+        {
+          "time": 44.3,
+          "end": 44.6,
+          "text": " 주",
+          "probability": 0.999
+        },
+        {
+          "time": 44.7,
+          "end": 45.0,
+          "text": ",",
+          "probability": 0.9999
+        },
+        {
+          "time": 44.96,
+          "end": 45.78,
+          "text": " 할렐루",
+          "probability": 0.998
+        },
+        {
+          "time": 45.84,
+          "end": 46.14,
+          "text": "야",
+          "probability": 0.9998
+        },
+        {
+          "time": 45.96,
+          "end": 46.26,
+          "text": ",",
+          "probability": 0.997
+        },
+        {
+          "time": 46.92,
+          "end": 49.84,
+          "text": " 할렐루",
+          "probability": 0.9903
+        }
+      ]
+    },
+    {
+      "time": 50.12,
+      "end": 50.42,
+      "text": "야",
+      "words": [
+        {
+          "time": 50.12,
+          "end": 50.42,
+          "text": "야",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 59.46,
+      "end": 62.34,
+      "text": "이 시각 세계였습니다",
+      "words": [
+        {
+          "time": 59.46,
+          "end": 59.76,
+          "text": " 이",
+          "probability": 0.0645
+        },
+        {
+          "time": 59.76,
+          "end": 60.06,
+          "text": " 시",
+          "probability": 0.1594
+        },
+        {
+          "time": 60.3,
+          "end": 60.6,
+          "text": "각",
+          "probability": 0.2873
+        },
+        {
+          "time": 60.74,
+          "end": 61.04,
+          "text": " 세계",
+          "probability": 0.3617
+        },
+        {
+          "time": 62.04,
+          "end": 62.34,
+          "text": "였습니다",
+          "probability": 0.7892
+        }
+      ]
+    },
+    {
+      "time": 63.7,
+      "end": 64.0,
+      "text": ".",
+      "words": [
+        {
+          "time": 63.7,
+          "end": 64.0,
+          "text": ".",
+          "probability": 0.9776
+        }
+      ]
+    },
+    {
+      "time": 91.4,
+      "end": 96.92,
+      "text": "찬양의 주, 할렐루",
+      "words": [
+        {
+          "time": 91.4,
+          "end": 91.86,
+          "text": " 찬",
+          "probability": 0.0748
+        },
+        {
+          "time": 92.1,
+          "end": 92.4,
+          "text": "양",
+          "probability": 0.0986
+        },
+        {
+          "time": 92.1,
+          "end": 92.4,
+          "text": "의",
+          "probability": 0.0852
+        },
+        {
+          "time": 92.24,
+          "end": 92.54,
+          "text": " 주",
+          "probability": 0.1455
+        },
+        {
+          "time": 92.64,
+          "end": 92.94,
+          "text": ",",
+          "probability": 0.1286
+        },
+        {
+          "time": 92.9,
+          "end": 96.92,
+          "text": " 할렐루",
+          "probability": 0.4439
+        }
+      ]
+    },
+    {
+      "time": 96.94,
+      "end": 97.24,
+      "text": "야",
+      "words": [
+        {
+          "time": 96.94,
+          "end": 97.24,
+          "text": "야",
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "time": 111.96,
+      "end": 112.74,
+      "text": "아멘",
+      "words": [
+        {
+          "time": 111.96,
+          "end": 112.74,
+          "text": " 아멘",
+          "probability": 0.1285
+        }
+      ]
+    },
+    {
+      "time": 143.86,
+      "end": 144.16,
+      "text": "아멘",
+      "words": [
+        {
+          "time": 143.86,
+          "end": 144.16,
+          "text": " 아멘",
+          "probability": 0.1362
+        }
+      ]
+    },
+    {
+      "time": 172.98,
+      "end": 173.68,
+      "text": "아멘",
+      "words": [
+        {
+          "time": 172.98,
+          "end": 173.68,
+          "text": " 아멘",
+          "probability": 0.1686
+        }
+      ]
+    },
+    {
+      "time": 202.16,
+      "end": 202.6,
+      "text": "아멘",
+      "words": [
+        {
+          "time": 202.16,
+          "end": 202.6,
+          "text": " 아멘",
+          "probability": 0.0889
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "s5b73ece2b320",
+  "file": "073-我.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 39.36,
+      "tags": {
+        "Singing": 0.00563,
+        "Choir": 0.00046,
+        "Speech": 0.01794,
+        "Piano": 0.04092,
+        "Electric piano": 0.00696,
+        "Music": 0.65688,
+        "Musical instrument": 0.16882
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.65688
+        },
+        {
+          "label": "Violin, fiddle",
+          "score": 0.17048
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.16882
+        },
+        {
+          "label": "Bowed string instrument",
+          "score": 0.08307
+        },
+        {
+          "label": "Wind instrument, woodwind instrument",
+          "score": 0.07158
+        }
+      ]
+    },
+    {
+      "time": 85.27,
+      "tags": {
+        "Singing": 0.00892,
+        "Choir": 0.00137,
+        "Speech": 0.01249,
+        "Piano": 0.04597,
+        "Electric piano": 0.04835,
+        "Music": 0.73483,
+        "Musical instrument": 0.06491
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.73483
+        },
+        {
+          "label": "Background music",
+          "score": 0.16622
+        },
+        {
+          "label": "Video game music",
+          "score": 0.09678
+        },
+        {
+          "label": "Theme music",
+          "score": 0.08834
+        },
+        {
+          "label": "Soundtrack music",
+          "score": 0.06869
+        }
+      ]
+    },
+    {
+      "time": 131.19,
+      "tags": {
+        "Singing": 0.00812,
+        "Choir": 0.00049,
+        "Speech": 0.01604,
+        "Piano": 0.04354,
+        "Electric piano": 0.00462,
+        "Music": 0.69563,
+        "Musical instrument": 0.30447
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.69563
+        },
+        {
+          "label": "Violin, fiddle",
+          "score": 0.36516
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.30447
+        },
+        {
+          "label": "Bowed string instrument",
+          "score": 0.14989
+        },
+        {
+          "label": "Wedding music",
+          "score": 0.11812
+        }
+      ]
+    },
+    {
+      "time": 177.11,
+      "tags": {
+        "Singing": 0.01076,
+        "Choir": 0.00091,
+        "Speech": 0.01332,
+        "Piano": 0.04104,
+        "Electric piano": 0.00763,
+        "Music": 0.69907,
+        "Musical instrument": 0.22661
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.69907
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.22661
+        },
+        {
+          "label": "Violin, fiddle",
+          "score": 0.21408
+        },
+        {
+          "label": "Bowed string instrument",
+          "score": 0.07295
+        },
+        {
+          "label": "Saxophone",
+          "score": 0.06907
+        }
+      ]
+    },
+    {
+      "time": 223.02,
+      "tags": {
+        "Singing": 0.00861,
+        "Choir": 0.00072,
+        "Speech": 0.0154,
+        "Piano": 0.04196,
+        "Electric piano": 0.00822,
+        "Music": 0.65427,
+        "Musical instrument": 0.2128
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.65427
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.2128
+        },
+        {
+          "label": "Violin, fiddle",
+          "score": 0.15927
+        },
+        {
+          "label": "Wedding music",
+          "score": 0.11231
+        },
+        {
+          "label": "Accordion",
+          "score": 0.08984
+        }
+      ]
+    },
+    {
+      "time": 268.94,
+      "tags": {
+        "Singing": 0.01176,
+        "Choir": 0.00254,
+        "Speech": 0.01524,
+        "Piano": 0.0816,
+        "Electric piano": 0.03529,
+        "Music": 0.65855,
+        "Musical instrument": 0.13957
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.65855
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.13957
+        },
+        {
+          "label": "Organ",
+          "score": 0.13208
+        },
+        {
+          "label": "Electronic organ",
+          "score": 0.10693
+        },
+        {
+          "label": "Piano",
+          "score": 0.0816
+        }
+      ]
+    }
+  ]
+}

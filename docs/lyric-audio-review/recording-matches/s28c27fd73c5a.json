@@ -1,0 +1,36 @@
+{
+  "id": "s28c27fd73c5a",
+  "file": "227-.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "31771",
+      "offset": -120.287,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.429755,
+      "windows": [
+        {
+          "localStart": 143.439,
+          "sourceStart": 21.688,
+          "offset": -121.751,
+          "coefficient": 0.100362
+        },
+        {
+          "localStart": 168.751,
+          "sourceStart": 49.011,
+          "offset": -119.74,
+          "coefficient": 0.124701
+        },
+        {
+          "localStart": 189.845,
+          "sourceStart": 71.391,
+          "offset": -118.454,
+          "coefficient": 0.096922
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

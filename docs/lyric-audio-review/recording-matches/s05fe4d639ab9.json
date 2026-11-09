@@ -1,0 +1,100 @@
+{
+  "id": "s05fe4d639ab9",
+  "file": "078-.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "22783",
+      "offset": 47.861,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.910494,
+      "windows": [
+        {
+          "localStart": 22.605,
+          "sourceStart": 70.592,
+          "offset": 47.987,
+          "coefficient": 0.068417
+        },
+        {
+          "localStart": 56.513,
+          "sourceStart": 106.199,
+          "offset": 49.686,
+          "coefficient": 0.078031
+        },
+        {
+          "localStart": 90.421,
+          "sourceStart": 136.556,
+          "offset": 46.1355,
+          "coefficient": 0.100785
+        },
+        {
+          "localStart": 124.329,
+          "sourceStart": 173.3,
+          "offset": 48.9715,
+          "coefficient": 0.092944
+        },
+        {
+          "localStart": 158.237,
+          "sourceStart": 206.065,
+          "offset": 47.828,
+          "coefficient": 0.045039
+        },
+        {
+          "localStart": 192.145,
+          "sourceStart": 238.542,
+          "offset": 46.3975,
+          "coefficient": 0.056388
+        },
+        {
+          "localStart": 226.053,
+          "sourceStart": 274.826,
+          "offset": 48.773,
+          "coefficient": 0.068159
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "45052",
+      "offset": -89.056,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.559306,
+      "windows": [
+        {
+          "localStart": 90.421,
+          "sourceStart": 2.299,
+          "offset": -88.1225,
+          "coefficient": 0.085587
+        },
+        {
+          "localStart": 124.329,
+          "sourceStart": 36.313,
+          "offset": -88.0155,
+          "coefficient": 0.089668
+        },
+        {
+          "localStart": 158.237,
+          "sourceStart": 67.361,
+          "offset": -90.876,
+          "coefficient": 0.047071
+        },
+        {
+          "localStart": 192.145,
+          "sourceStart": 101.255,
+          "offset": -90.8895,
+          "coefficient": 0.050352
+        },
+        {
+          "localStart": 226.053,
+          "sourceStart": 136.693,
+          "offset": -89.36,
+          "coefficient": 0.077151
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

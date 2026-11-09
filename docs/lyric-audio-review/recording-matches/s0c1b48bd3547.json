@@ -1,0 +1,122 @@
+{
+  "id": "s0c1b48bd3547",
+  "file": "009不知道前方的路还有多远版本二.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "22503",
+      "offset": -48.7845,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.705391,
+      "windows": [
+        {
+          "localStart": 52.989,
+          "sourceStart": 3.195,
+          "offset": -49.794,
+          "coefficient": 0.065561
+        },
+        {
+          "localStart": 72.859,
+          "sourceStart": 22.666,
+          "offset": -50.193,
+          "coefficient": 0.073555
+        },
+        {
+          "localStart": 92.731,
+          "sourceStart": 45.612,
+          "offset": -47.1185,
+          "coefficient": 0.044619
+        },
+        {
+          "localStart": 112.602,
+          "sourceStart": 62.16,
+          "offset": -50.4415,
+          "coefficient": 0.059842
+        },
+        {
+          "localStart": 132.472,
+          "sourceStart": 84.167,
+          "offset": -48.305,
+          "coefficient": 0.068745
+        },
+        {
+          "localStart": 149.031,
+          "sourceStart": 100.189,
+          "offset": -48.842,
+          "coefficient": 0.065364
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "6445",
+      "offset": 21.0205,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.627119,
+      "windows": [
+        {
+          "localStart": 13.247,
+          "sourceStart": 32.679,
+          "offset": 19.432,
+          "coefficient": 0.057259
+        },
+        {
+          "localStart": 33.118,
+          "sourceStart": 55.685,
+          "offset": 22.567,
+          "coefficient": 0.066457
+        },
+        {
+          "localStart": 52.989,
+          "sourceStart": 75.436,
+          "offset": 22.448,
+          "coefficient": 0.082986
+        },
+        {
+          "localStart": 72.859,
+          "sourceStart": 94.908,
+          "offset": 22.0485,
+          "coefficient": 0.053392
+        },
+        {
+          "localStart": 92.731,
+          "sourceStart": 112.004,
+          "offset": 19.274,
+          "coefficient": 0.079607
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "24828",
+      "offset": -94.234,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.28995,
+      "windows": [
+        {
+          "localStart": 92.731,
+          "sourceStart": 0.369,
+          "offset": -92.3615,
+          "coefficient": 0.028173
+        },
+        {
+          "localStart": 112.602,
+          "sourceStart": 17.329,
+          "offset": -95.272,
+          "coefficient": 0.052791
+        },
+        {
+          "localStart": 132.472,
+          "sourceStart": 39.624,
+          "offset": -92.848,
+          "coefficient": 0.06237
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

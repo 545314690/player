@@ -1,0 +1,728 @@
+{
+  "id": "s89010e64b166",
+  "file": "032_.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "9c2661836efb0015dbfae7c53503d245418c4c3fc4512126dab960c53e58e1c6",
+  "fullDuration": 112.739875,
+  "lines": [
+    {
+      "time": 23.54,
+      "end": 24.62,
+      "text": "《高山连",
+      "words": [
+        {
+          "time": 23.54,
+          "end": 23.84,
+          "text": "《",
+          "probability": 0.1377
+        },
+        {
+          "time": 23.56,
+          "end": 23.86,
+          "text": "高",
+          "probability": 0.0842
+        },
+        {
+          "time": 23.98,
+          "end": 24.28,
+          "text": "山",
+          "probability": 0.7368
+        },
+        {
+          "time": 23.98,
+          "end": 24.62,
+          "text": "连",
+          "probability": 0.0815
+        }
+      ]
+    },
+    {
+      "time": 28.86,
+      "end": 34.38,
+      "text": "》伴着圣灵走永不再回来赞美",
+      "words": [
+        {
+          "time": 28.86,
+          "end": 29.16,
+          "text": "》",
+          "probability": 0.0757
+        },
+        {
+          "time": 29.88,
+          "end": 30.28,
+          "text": "伴",
+          "probability": 0.0569
+        },
+        {
+          "time": 30.34,
+          "end": 30.64,
+          "text": "着",
+          "probability": 0.5789
+        },
+        {
+          "time": 30.82,
+          "end": 31.2,
+          "text": "圣",
+          "probability": 0.4291
+        },
+        {
+          "time": 31.06,
+          "end": 31.42,
+          "text": "灵",
+          "probability": 0.9765
+        },
+        {
+          "time": 31.44,
+          "end": 31.74,
+          "text": "走",
+          "probability": 0.6606
+        },
+        {
+          "time": 31.86,
+          "end": 32.16,
+          "text": "永",
+          "probability": 0.9894
+        },
+        {
+          "time": 32.14,
+          "end": 32.44,
+          "text": "不",
+          "probability": 0.9957
+        },
+        {
+          "time": 32.36,
+          "end": 32.66,
+          "text": "再",
+          "probability": 0.9944
+        },
+        {
+          "time": 32.6,
+          "end": 32.9,
+          "text": "回",
+          "probability": 0.9808
+        },
+        {
+          "time": 33.4,
+          "end": 33.7,
+          "text": "来",
+          "probability": 0.9999
+        },
+        {
+          "time": 33.8,
+          "end": 34.16,
+          "text": "赞",
+          "probability": 0.8714
+        },
+        {
+          "time": 34.08,
+          "end": 34.38,
+          "text": "美",
+          "probability": 0.6653
+        }
+      ]
+    },
+    {
+      "time": 34.52,
+      "end": 36.62,
+      "text": "这个飞旋的时代",
+      "words": [
+        {
+          "time": 34.52,
+          "end": 34.82,
+          "text": "这个",
+          "probability": 0.9921
+        },
+        {
+          "time": 34.78,
+          "end": 35.16,
+          "text": "飞",
+          "probability": 0.8987
+        },
+        {
+          "time": 35.04,
+          "end": 35.42,
+          "text": "旋",
+          "probability": 0.89
+        },
+        {
+          "time": 35.36,
+          "end": 35.66,
+          "text": "的",
+          "probability": 0.9899
+        },
+        {
+          "time": 35.64,
+          "end": 35.94,
+          "text": "时",
+          "probability": 0.9953
+        },
+        {
+          "time": 36.32,
+          "end": 36.62,
+          "text": "代",
+          "probability": 0.9945
+        }
+      ]
+    },
+    {
+      "time": 37.92,
+      "end": 43.88,
+      "text": "让我们正常的彼此相爱耶和华是我们",
+      "words": [
+        {
+          "time": 37.92,
+          "end": 38.22,
+          "text": "让",
+          "probability": 0.9474
+        },
+        {
+          "time": 38.56,
+          "end": 38.86,
+          "text": "我们",
+          "probability": 0.9951
+        },
+        {
+          "time": 38.9,
+          "end": 39.2,
+          "text": "正",
+          "probability": 0.3759
+        },
+        {
+          "time": 39.2,
+          "end": 39.5,
+          "text": "常",
+          "probability": 0.9726
+        },
+        {
+          "time": 39.48,
+          "end": 39.78,
+          "text": "的",
+          "probability": 0.5464
+        },
+        {
+          "time": 39.88,
+          "end": 40.26,
+          "text": "彼",
+          "probability": 0.8144
+        },
+        {
+          "time": 40.2,
+          "end": 40.5,
+          "text": "此",
+          "probability": 0.9995
+        },
+        {
+          "time": 40.66,
+          "end": 40.96,
+          "text": "相",
+          "probability": 0.9988
+        },
+        {
+          "time": 41.48,
+          "end": 41.78,
+          "text": "爱",
+          "probability": 0.996
+        },
+        {
+          "time": 42.0,
+          "end": 42.3,
+          "text": "耶",
+          "probability": 0.7137
+        },
+        {
+          "time": 42.2,
+          "end": 42.5,
+          "text": "和",
+          "probability": 0.9885
+        },
+        {
+          "time": 42.5,
+          "end": 42.92,
+          "text": "华",
+          "probability": 0.9282
+        },
+        {
+          "time": 42.98,
+          "end": 43.28,
+          "text": "是",
+          "probability": 0.9733
+        },
+        {
+          "time": 43.58,
+          "end": 43.88,
+          "text": "我们",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 43.98,
+      "end": 49.84,
+      "text": "的生的远率朱长一座作曲的长城",
+      "words": [
+        {
+          "time": 43.98,
+          "end": 44.28,
+          "text": "的",
+          "probability": 0.7409
+        },
+        {
+          "time": 44.3,
+          "end": 44.6,
+          "text": "生",
+          "probability": 0.2694
+        },
+        {
+          "time": 44.58,
+          "end": 44.88,
+          "text": "的",
+          "probability": 0.6887
+        },
+        {
+          "time": 44.74,
+          "end": 45.14,
+          "text": "远",
+          "probability": 0.4596
+        },
+        {
+          "time": 45.18,
+          "end": 45.48,
+          "text": "率",
+          "probability": 0.5623
+        },
+        {
+          "time": 46.0,
+          "end": 46.48,
+          "text": "朱",
+          "probability": 0.2546
+        },
+        {
+          "time": 46.62,
+          "end": 46.92,
+          "text": "长",
+          "probability": 0.6507
+        },
+        {
+          "time": 47.04,
+          "end": 47.34,
+          "text": "一",
+          "probability": 0.5753
+        },
+        {
+          "time": 47.28,
+          "end": 47.64,
+          "text": "座",
+          "probability": 0.7584
+        },
+        {
+          "time": 47.58,
+          "end": 47.88,
+          "text": "作",
+          "probability": 0.752
+        },
+        {
+          "time": 48.12,
+          "end": 48.42,
+          "text": "曲",
+          "probability": 0.9015
+        },
+        {
+          "time": 48.38,
+          "end": 48.68,
+          "text": "的",
+          "probability": 0.9956
+        },
+        {
+          "time": 48.76,
+          "end": 49.06,
+          "text": "长",
+          "probability": 0.7762
+        },
+        {
+          "time": 49.54,
+          "end": 49.84,
+          "text": "城",
+          "probability": 0.6008
+        }
+      ]
+    },
+    {
+      "time": 50.18,
+      "end": 52.86,
+      "text": "福音的机制扬起来",
+      "words": [
+        {
+          "time": 50.18,
+          "end": 50.48,
+          "text": "福",
+          "probability": 0.3956
+        },
+        {
+          "time": 50.56,
+          "end": 50.86,
+          "text": "音",
+          "probability": 0.9796
+        },
+        {
+          "time": 50.8,
+          "end": 51.1,
+          "text": "的",
+          "probability": 0.9899
+        },
+        {
+          "time": 51.02,
+          "end": 51.32,
+          "text": "机",
+          "probability": 0.3967
+        },
+        {
+          "time": 51.28,
+          "end": 51.58,
+          "text": "制",
+          "probability": 0.4536
+        },
+        {
+          "time": 51.5,
+          "end": 51.88,
+          "text": "扬",
+          "probability": 0.57
+        },
+        {
+          "time": 51.82,
+          "end": 52.12,
+          "text": "起",
+          "probability": 0.994
+        },
+        {
+          "time": 52.56,
+          "end": 52.86,
+          "text": "来",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 80.68,
+      "end": 89.7,
+      "text": "优优独播剧场——",
+      "words": [
+        {
+          "time": 80.68,
+          "end": 88.26,
+          "text": "优",
+          "probability": 0.1022
+        },
+        {
+          "time": 88.5,
+          "end": 89.36,
+          "text": "优",
+          "probability": 0.9951
+        },
+        {
+          "time": 89.56,
+          "end": 89.88,
+          "text": "独",
+          "probability": 0.9899
+        },
+        {
+          "time": 89.6,
+          "end": 89.9,
+          "text": "播",
+          "probability": 0.9651
+        },
+        {
+          "time": 89.62,
+          "end": 89.94,
+          "text": "剧",
+          "probability": 0.983
+        },
+        {
+          "time": 89.66,
+          "end": 89.96,
+          "text": "场",
+          "probability": 0.968
+        },
+        {
+          "time": 89.68,
+          "end": 89.98,
+          "text": "——",
+          "probability": 0.9929
+        }
+      ]
+    },
+    {
+      "time": 89.7,
+      "end": 95.38,
+      "text": "YoYo Television Series Exclusive跟我们真诚的彼此相爱耶",
+      "words": [
+        {
+          "time": 89.7,
+          "end": 90.0,
+          "text": "Yo",
+          "probability": 0.981
+        },
+        {
+          "time": 89.72,
+          "end": 90.02,
+          "text": "Yo",
+          "probability": 0.9892
+        },
+        {
+          "time": 89.74,
+          "end": 90.04,
+          "text": " Television",
+          "probability": 0.9905
+        },
+        {
+          "time": 89.76,
+          "end": 90.06,
+          "text": " Series",
+          "probability": 0.9711
+        },
+        {
+          "time": 89.78,
+          "end": 90.08,
+          "text": " Exc",
+          "probability": 0.9753
+        },
+        {
+          "time": 89.8,
+          "end": 90.1,
+          "text": "lusive",
+          "probability": 0.9923
+        },
+        {
+          "time": 91.02,
+          "end": 91.32,
+          "text": "跟",
+          "probability": 0.1629
+        },
+        {
+          "time": 91.6,
+          "end": 91.9,
+          "text": "我们",
+          "probability": 0.9846
+        },
+        {
+          "time": 92.0,
+          "end": 92.3,
+          "text": "真",
+          "probability": 0.9272
+        },
+        {
+          "time": 92.24,
+          "end": 92.6,
+          "text": "诚",
+          "probability": 0.3895
+        },
+        {
+          "time": 92.62,
+          "end": 92.92,
+          "text": "的",
+          "probability": 0.596
+        },
+        {
+          "time": 93.02,
+          "end": 93.4,
+          "text": "彼",
+          "probability": 0.9633
+        },
+        {
+          "time": 93.34,
+          "end": 93.64,
+          "text": "此",
+          "probability": 0.9996
+        },
+        {
+          "time": 93.7,
+          "end": 94.0,
+          "text": "相",
+          "probability": 0.9995
+        },
+        {
+          "time": 94.6,
+          "end": 94.9,
+          "text": "爱",
+          "probability": 0.9973
+        },
+        {
+          "time": 95.14,
+          "end": 95.44,
+          "text": "耶",
+          "probability": 0.5221
+        }
+      ]
+    },
+    {
+      "time": 95.38,
+      "end": 101.02,
+      "text": "和华是我们得上的远率朱长一座作",
+      "words": [
+        {
+          "time": 95.38,
+          "end": 95.68,
+          "text": "和",
+          "probability": 0.9919
+        },
+        {
+          "time": 95.7,
+          "end": 96.12,
+          "text": "华",
+          "probability": 0.8859
+        },
+        {
+          "time": 96.16,
+          "end": 96.46,
+          "text": "是",
+          "probability": 0.9455
+        },
+        {
+          "time": 96.76,
+          "end": 97.06,
+          "text": "我们",
+          "probability": 0.9973
+        },
+        {
+          "time": 97.12,
+          "end": 97.42,
+          "text": "得",
+          "probability": 0.5062
+        },
+        {
+          "time": 97.42,
+          "end": 97.72,
+          "text": "上",
+          "probability": 0.7974
+        },
+        {
+          "time": 97.66,
+          "end": 97.96,
+          "text": "的",
+          "probability": 0.9853
+        },
+        {
+          "time": 97.84,
+          "end": 98.22,
+          "text": "远",
+          "probability": 0.4917
+        },
+        {
+          "time": 98.28,
+          "end": 98.58,
+          "text": "率",
+          "probability": 0.6601
+        },
+        {
+          "time": 99.14,
+          "end": 99.56,
+          "text": "朱",
+          "probability": 0.1498
+        },
+        {
+          "time": 99.74,
+          "end": 100.04,
+          "text": "长",
+          "probability": 0.3526
+        },
+        {
+          "time": 100.18,
+          "end": 100.48,
+          "text": "一",
+          "probability": 0.9319
+        },
+        {
+          "time": 100.44,
+          "end": 100.8,
+          "text": "座",
+          "probability": 0.9234
+        },
+        {
+          "time": 100.72,
+          "end": 101.02,
+          "text": "作",
+          "probability": 0.7631
+        }
+      ]
+    },
+    {
+      "time": 101.28,
+      "end": 106.2,
+      "text": "曲的长城福音的旗帜扬起来",
+      "words": [
+        {
+          "time": 101.28,
+          "end": 101.58,
+          "text": "曲",
+          "probability": 0.5496
+        },
+        {
+          "time": 101.52,
+          "end": 101.82,
+          "text": "的",
+          "probability": 0.9951
+        },
+        {
+          "time": 101.92,
+          "end": 102.22,
+          "text": "长",
+          "probability": 0.7578
+        },
+        {
+          "time": 102.72,
+          "end": 103.02,
+          "text": "城",
+          "probability": 0.5788
+        },
+        {
+          "time": 103.38,
+          "end": 103.68,
+          "text": "福",
+          "probability": 0.3635
+        },
+        {
+          "time": 103.72,
+          "end": 104.02,
+          "text": "音",
+          "probability": 0.9796
+        },
+        {
+          "time": 104.0,
+          "end": 104.3,
+          "text": "的",
+          "probability": 0.995
+        },
+        {
+          "time": 104.18,
+          "end": 104.54,
+          "text": "旗",
+          "probability": 0.5825
+        },
+        {
+          "time": 104.42,
+          "end": 104.78,
+          "text": "帜",
+          "probability": 0.8694
+        },
+        {
+          "time": 104.68,
+          "end": 105.02,
+          "text": "扬",
+          "probability": 0.5663
+        },
+        {
+          "time": 104.98,
+          "end": 105.28,
+          "text": "起",
+          "probability": 0.9942
+        },
+        {
+          "time": 105.9,
+          "end": 106.2,
+          "text": "来",
+          "probability": 0.9972
+        }
+      ]
+    }
+  ]
+}

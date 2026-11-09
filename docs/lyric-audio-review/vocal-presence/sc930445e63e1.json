@@ -1,0 +1,213 @@
+{
+  "id": "sc930445e63e1",
+  "file": "069弹琴歌唱赞美你.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 37.37,
+      "tags": {
+        "Singing": 0.16314,
+        "Choir": 0.0022,
+        "Speech": 0.27887,
+        "Piano": 0.001,
+        "Electric piano": 0.00065,
+        "Music": 0.86825,
+        "Musical instrument": 0.04568
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.86825
+        },
+        {
+          "label": "Speech",
+          "score": 0.27887
+        },
+        {
+          "label": "Singing",
+          "score": 0.16314
+        },
+        {
+          "label": "Crowd",
+          "score": 0.14822
+        },
+        {
+          "label": "Music of Bollywood",
+          "score": 0.06185
+        }
+      ]
+    },
+    {
+      "time": 80.98,
+      "tags": {
+        "Singing": 0.22002,
+        "Choir": 0.03628,
+        "Speech": 0.01828,
+        "Piano": 0.00115,
+        "Electric piano": 0.00082,
+        "Music": 0.85484,
+        "Musical instrument": 0.03661
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.85484
+        },
+        {
+          "label": "Singing",
+          "score": 0.22002
+        },
+        {
+          "label": "Christian music",
+          "score": 0.13508
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.09478
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.0689
+        }
+      ]
+    },
+    {
+      "time": 124.58,
+      "tags": {
+        "Singing": 0.12733,
+        "Choir": 0.03854,
+        "Speech": 0.01068,
+        "Piano": 0.00109,
+        "Electric piano": 0.00056,
+        "Music": 0.80795,
+        "Musical instrument": 0.02596
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.80795
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.15836
+        },
+        {
+          "label": "Singing",
+          "score": 0.12733
+        },
+        {
+          "label": "Christian music",
+          "score": 0.11259
+        },
+        {
+          "label": "Ska",
+          "score": 0.11084
+        }
+      ]
+    },
+    {
+      "time": 168.18,
+      "tags": {
+        "Singing": 0.02505,
+        "Choir": 0.00055,
+        "Speech": 0.02355,
+        "Piano": 0.0035,
+        "Electric piano": 0.00289,
+        "Music": 0.8083,
+        "Musical instrument": 0.08006
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.8083
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.08006
+        },
+        {
+          "label": "Flamenco",
+          "score": 0.07538
+        },
+        {
+          "label": "Skateboard",
+          "score": 0.06589
+        },
+        {
+          "label": "Salsa music",
+          "score": 0.06405
+        }
+      ]
+    },
+    {
+      "time": 211.79,
+      "tags": {
+        "Singing": 0.0235,
+        "Choir": 0.00037,
+        "Speech": 0.02432,
+        "Piano": 0.00674,
+        "Electric piano": 0.00378,
+        "Music": 0.85491,
+        "Musical instrument": 0.31251
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.85491
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.31251
+        },
+        {
+          "label": "Plucked string instrument",
+          "score": 0.20157
+        },
+        {
+          "label": "Guitar",
+          "score": 0.1843
+        },
+        {
+          "label": "Flamenco",
+          "score": 0.17684
+        }
+      ]
+    },
+    {
+      "time": 255.39,
+      "tags": {
+        "Singing": 0.17967,
+        "Choir": 0.01593,
+        "Speech": 0.02726,
+        "Piano": 0.0005,
+        "Electric piano": 0.0003,
+        "Music": 0.86912,
+        "Musical instrument": 0.04976
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.86912
+        },
+        {
+          "label": "Singing",
+          "score": 0.17967
+        },
+        {
+          "label": "Ska",
+          "score": 0.14571
+        },
+        {
+          "label": "Pop music",
+          "score": 0.09303
+        },
+        {
+          "label": "Rock and roll",
+          "score": 0.08781
+        }
+      ]
+    }
+  ]
+}

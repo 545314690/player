@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "20116",
+  "waveform": {
+    "source": "20116",
+    "url": "https://www.izanmei.cc/song/20116.html",
+    "audio": "https://play.izanm.org/song/p/20116.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 20.346,
+        "sourceStart": 20.346,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 50.865,
+        "sourceStart": 50.865,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 81.385,
+        "sourceStart": 81.385,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 111.904,
+        "sourceStart": 111.904,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 142.423,
+        "sourceStart": 142.423,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 172.943,
+        "sourceStart": 172.943,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 203.463,
+        "sourceStart": 203.463,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 228.895,
+        "sourceStart": 228.895,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "s44c89da4e353",
+  "file": "312恳求圣灵降临.mp3",
+  "fullDuration": 254.327938,
+  "recordingHash": "437ea6dc0fc5c2381e785120deb17cb7b347a1e980dd816925ce3c9075d75ecf",
+  "lines": []
+}

@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "4042",
+  "waveform": {
+    "source": "4042",
+    "url": "https://www.izanmei.cc/song/4042.html",
+    "audio": "https://play.izanm.org/song/p/4042.mp3",
+    "offset": -0.008972,
+    "scale": 0.999993678,
+    "residual": 0.000608,
+    "coverage": 0.999957,
+    "windows": [
+      {
+        "localStart": 16.614,
+        "sourceStart": 16.605,
+        "offset": -0.0095,
+        "coefficient": 0.972761
+      },
+      {
+        "localStart": 41.536,
+        "sourceStart": 41.527,
+        "offset": -0.0095,
+        "coefficient": 0.967253
+      },
+      {
+        "localStart": 66.459,
+        "sourceStart": 66.449,
+        "offset": -0.0095,
+        "coefficient": 0.961562
+      },
+      {
+        "localStart": 91.38,
+        "sourceStart": 91.371,
+        "offset": -0.0095,
+        "coefficient": 0.949186
+      },
+      {
+        "localStart": 116.303,
+        "sourceStart": 116.293,
+        "offset": -0.0095,
+        "coefficient": 0.980969
+      },
+      {
+        "localStart": 141.225,
+        "sourceStart": 141.215,
+        "offset": -0.0095,
+        "coefficient": 0.97261
+      },
+      {
+        "localStart": 166.147,
+        "sourceStart": 166.137,
+        "offset": -0.0095,
+        "coefficient": 0.974584
+      },
+      {
+        "localStart": 186.916,
+        "sourceStart": 186.906,
+        "offset": -0.0095,
+        "coefficient": 0.958482
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "s120b7f752cae",
+  "file": "030感恩的泪_女声.mp3",
+  "fullDuration": 207.811375,
+  "recordingHash": "373807269291a09011f9c51b68ff0ee314ec46096609b2ce0299858ef01e58f5",
+  "lines": []
+}

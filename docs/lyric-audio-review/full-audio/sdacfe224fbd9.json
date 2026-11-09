@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "35398",
+  "waveform": {
+    "source": "35398",
+    "url": "https://www.izanmei.cc/song/35398.html",
+    "audio": "https://play.izanm.org/song/p/35398.mp3",
+    "offset": 0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 21.115,
+        "sourceStart": 21.115,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 52.788,
+        "sourceStart": 52.788,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 84.461,
+        "sourceStart": 84.461,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 116.134,
+        "sourceStart": 116.134,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 147.807,
+        "sourceStart": 147.807,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 179.48,
+        "sourceStart": 179.48,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 211.153,
+        "sourceStart": 211.153,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 237.547,
+        "sourceStart": 237.547,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "sdacfe224fbd9",
+  "file": "305每一次我赞美主.mp3",
+  "fullDuration": 263.943875,
+  "recordingHash": "33a3c2f796ca61bb8abf933ce15470dd0e9bdb12a47c0311d4120325344df9c3",
+  "lines": []
+}

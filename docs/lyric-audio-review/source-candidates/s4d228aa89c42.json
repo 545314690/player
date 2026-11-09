@@ -1,0 +1,73 @@
+{
+  "id": "s4d228aa89c42",
+  "file": "237-愿.mp3",
+  "query": "愿你崇高",
+  "metadata": {
+    "id": "s4d228aa89c42",
+    "file": "237-愿.mp3",
+    "title": "愿你崇高",
+    "artist": "祝瑞莲",
+    "album": "求圣灵运行",
+    "providerId": 39443764,
+    "providerTitle": "愿你崇高",
+    "providerDuration": 478506,
+    "providerArtist": [
+      "祝瑞莲"
+    ]
+  },
+  "candidates": [
+    {
+      "id": "9732",
+      "title": "愿你崇高",
+      "artist": "祝瑞莲",
+      "album": "求圣灵运行",
+      "songbookOverlap": 0.9184
+    },
+    {
+      "id": "5536",
+      "title": "愿祢崇高",
+      "artist": "客西马尼",
+      "album": "感恩",
+      "songbookOverlap": 0.8776
+    },
+    {
+      "id": "1588",
+      "title": "愿你崇高",
+      "artist": "天韵合唱团",
+      "album": "溪边的树",
+      "songbookOverlap": 0.8367
+    },
+    {
+      "id": "20320",
+      "title": "愿你崇高/美哉主耶稣",
+      "artist": "天韵合唱团",
+      "album": "祢是我一切",
+      "songbookOverlap": 0.8367
+    },
+    {
+      "id": "31474",
+      "title": "愿你崇高",
+      "artist": "新心音乐",
+      "album": "心的归属",
+      "rank": 4
+    },
+    {
+      "id": "54688",
+      "title": "愿你崇高",
+      "artist": "同在音乐",
+      "album": "诗篇灵修音乐III-等候耶和华",
+      "rank": 4,
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "id": "46365",
+      "title": "愿你崇高",
+      "artist": "时雨MIKA",
+      "album": "那造我的主",
+      "rank": 4,
+      "error": "curl: (28) SSL connection timeout\n"
+    }
+  ],
+  "totalCandidates": 9,
+  "expanded": true
+}

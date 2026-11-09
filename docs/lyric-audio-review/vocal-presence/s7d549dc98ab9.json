@@ -1,0 +1,213 @@
+{
+  "id": "s7d549dc98ab9",
+  "file": "049你们要赞美耶和华_欢快.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 24.47,
+      "tags": {
+        "Singing": 0.12731,
+        "Choir": 0.01511,
+        "Speech": 0.00792,
+        "Piano": 0.00083,
+        "Electric piano": 0.00046,
+        "Music": 0.85371,
+        "Musical instrument": 0.03856
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.85371
+        },
+        {
+          "label": "Soul music",
+          "score": 0.13652
+        },
+        {
+          "label": "Singing",
+          "score": 0.12731
+        },
+        {
+          "label": "Christian music",
+          "score": 0.12309
+        },
+        {
+          "label": "Independent music",
+          "score": 0.10845
+        }
+      ]
+    },
+    {
+      "time": 53.02,
+      "tags": {
+        "Singing": 0.13639,
+        "Choir": 0.02357,
+        "Speech": 0.006,
+        "Piano": 0.00171,
+        "Electric piano": 0.0007,
+        "Music": 0.8742,
+        "Musical instrument": 0.02208
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.8742
+        },
+        {
+          "label": "Christian music",
+          "score": 0.30759
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.14197
+        },
+        {
+          "label": "Singing",
+          "score": 0.13639
+        },
+        {
+          "label": "Soul music",
+          "score": 0.11305
+        }
+      ]
+    },
+    {
+      "time": 81.58,
+      "tags": {
+        "Singing": 0.1168,
+        "Choir": 0.01715,
+        "Speech": 0.0057,
+        "Piano": 0.00216,
+        "Electric piano": 0.00115,
+        "Music": 0.86734,
+        "Musical instrument": 0.02307
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.86734
+        },
+        {
+          "label": "Christian music",
+          "score": 0.3122
+        },
+        {
+          "label": "Soul music",
+          "score": 0.18657
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.15445
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.13046
+        }
+      ]
+    },
+    {
+      "time": 110.13,
+      "tags": {
+        "Singing": 0.14894,
+        "Choir": 0.01041,
+        "Speech": 0.03204,
+        "Piano": 0.00145,
+        "Electric piano": 0.00077,
+        "Music": 0.86024,
+        "Musical instrument": 0.04282
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.86024
+        },
+        {
+          "label": "Christian music",
+          "score": 0.1738
+        },
+        {
+          "label": "Singing",
+          "score": 0.14894
+        },
+        {
+          "label": "Psychedelic rock",
+          "score": 0.1265
+        },
+        {
+          "label": "Independent music",
+          "score": 0.11678
+        }
+      ]
+    },
+    {
+      "time": 138.68,
+      "tags": {
+        "Singing": 0.11369,
+        "Choir": 0.01286,
+        "Speech": 0.00983,
+        "Piano": 0.00078,
+        "Electric piano": 0.00041,
+        "Music": 0.84944,
+        "Musical instrument": 0.03063
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.84944
+        },
+        {
+          "label": "Christian music",
+          "score": 0.17533
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.16042
+        },
+        {
+          "label": "Pop music",
+          "score": 0.14244
+        },
+        {
+          "label": "Singing",
+          "score": 0.11369
+        }
+      ]
+    },
+    {
+      "time": 167.23,
+      "tags": {
+        "Singing": 0.20945,
+        "Choir": 0.11721,
+        "Speech": 0.00397,
+        "Piano": 0.00083,
+        "Electric piano": 0.0003,
+        "Music": 0.88884,
+        "Musical instrument": 0.03296
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.88884
+        },
+        {
+          "label": "Christian music",
+          "score": 0.39277
+        },
+        {
+          "label": "Singing",
+          "score": 0.20945
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.15057
+        },
+        {
+          "label": "Choir",
+          "score": 0.11721
+        }
+      ]
+    }
+  ]
+}

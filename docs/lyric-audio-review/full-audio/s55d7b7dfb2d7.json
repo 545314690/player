@@ -1,0 +1,1209 @@
+{
+  "id": "s55d7b7dfb2d7",
+  "file": "060-男声.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "8814b001e6c76bf6d51d265bb9360140ba234d7bdf4d044ee8a90b3848c82185",
+  "fullDuration": 133.448571,
+  "lines": [
+    {
+      "time": 1.4,
+      "end": 2.1,
+      "text": "《词曲:王八战",
+      "words": [
+        {
+          "time": 1.4,
+          "end": 1.7,
+          "text": "《",
+          "probability": 0.078
+        },
+        {
+          "time": 1.5,
+          "end": 1.8,
+          "text": "词",
+          "probability": 0.0352
+        },
+        {
+          "time": 1.52,
+          "end": 1.82,
+          "text": "曲",
+          "probability": 0.2092
+        },
+        {
+          "time": 1.52,
+          "end": 1.82,
+          "text": ":",
+          "probability": 0.3402
+        },
+        {
+          "time": 1.52,
+          "end": 1.82,
+          "text": "王",
+          "probability": 0.0531
+        },
+        {
+          "time": 1.52,
+          "end": 1.82,
+          "text": "八",
+          "probability": 0.0362
+        },
+        {
+          "time": 1.62,
+          "end": 2.1,
+          "text": "战",
+          "probability": 0.031
+        }
+      ]
+    },
+    {
+      "time": 9.2,
+      "end": 14.8,
+      "text": "》在世家上我救出生命",
+      "words": [
+        {
+          "time": 9.2,
+          "end": 9.5,
+          "text": "》",
+          "probability": 0.5694
+        },
+        {
+          "time": 10.56,
+          "end": 10.86,
+          "text": "在",
+          "probability": 0.7042
+        },
+        {
+          "time": 11.16,
+          "end": 11.46,
+          "text": "世",
+          "probability": 0.7562
+        },
+        {
+          "time": 11.48,
+          "end": 11.78,
+          "text": "家",
+          "probability": 0.5675
+        },
+        {
+          "time": 11.84,
+          "end": 12.14,
+          "text": "上",
+          "probability": 0.9732
+        },
+        {
+          "time": 12.42,
+          "end": 12.72,
+          "text": "我",
+          "probability": 0.7578
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": "救",
+          "probability": 0.9433
+        },
+        {
+          "time": 13.14,
+          "end": 13.44,
+          "text": "出",
+          "probability": 0.3714
+        },
+        {
+          "time": 13.58,
+          "end": 13.88,
+          "text": "生",
+          "probability": 0.7454
+        },
+        {
+          "time": 14.5,
+          "end": 14.8,
+          "text": "命",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 15.48,
+      "end": 21.42,
+      "text": "靠住世家恶罪的喜劲付我",
+      "words": [
+        {
+          "time": 15.48,
+          "end": 16.08,
+          "text": "靠",
+          "probability": 0.9765
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "住",
+          "probability": 0.4505
+        },
+        {
+          "time": 16.44,
+          "end": 16.74,
+          "text": "世",
+          "probability": 0.9602
+        },
+        {
+          "time": 16.82,
+          "end": 17.12,
+          "text": "家",
+          "probability": 0.9519
+        },
+        {
+          "time": 17.34,
+          "end": 17.74,
+          "text": "恶",
+          "probability": 0.5595
+        },
+        {
+          "time": 17.68,
+          "end": 18.0,
+          "text": "罪",
+          "probability": 0.6636
+        },
+        {
+          "time": 18.08,
+          "end": 18.38,
+          "text": "的",
+          "probability": 0.7315
+        },
+        {
+          "time": 18.56,
+          "end": 18.86,
+          "text": "喜",
+          "probability": 0.5111
+        },
+        {
+          "time": 19.12,
+          "end": 19.78,
+          "text": "劲",
+          "probability": 0.1802
+        },
+        {
+          "time": 20.5,
+          "end": 20.8,
+          "text": "付",
+          "probability": 0.2554
+        },
+        {
+          "time": 21.16,
+          "end": 21.46,
+          "text": "我",
+          "probability": 0.9868
+        }
+      ]
+    },
+    {
+      "time": 21.42,
+      "end": 27.3,
+      "text": "重担安慰我伤心荣耀归",
+      "words": [
+        {
+          "time": 21.42,
+          "end": 21.72,
+          "text": "重",
+          "probability": 0.5402
+        },
+        {
+          "time": 21.68,
+          "end": 22.14,
+          "text": "担",
+          "probability": 0.7193
+        },
+        {
+          "time": 22.32,
+          "end": 22.62,
+          "text": "安",
+          "probability": 0.9604
+        },
+        {
+          "time": 22.62,
+          "end": 22.92,
+          "text": "慰",
+          "probability": 0.9844
+        },
+        {
+          "time": 23.06,
+          "end": 23.36,
+          "text": "我",
+          "probability": 0.9944
+        },
+        {
+          "time": 23.46,
+          "end": 24.06,
+          "text": "伤",
+          "probability": 0.7997
+        },
+        {
+          "time": 24.3,
+          "end": 24.6,
+          "text": "心",
+          "probability": 0.9763
+        },
+        {
+          "time": 25.36,
+          "end": 26.36,
+          "text": "荣",
+          "probability": 0.524
+        },
+        {
+          "time": 26.32,
+          "end": 26.7,
+          "text": "耀",
+          "probability": 0.9981
+        },
+        {
+          "time": 26.66,
+          "end": 27.3,
+          "text": "归",
+          "probability": 0.5774
+        }
+      ]
+    },
+    {
+      "time": 27.42,
+      "end": 28.26,
+      "text": "主命",
+      "words": [
+        {
+          "time": 27.42,
+          "end": 27.72,
+          "text": "主",
+          "probability": 0.2206
+        },
+        {
+          "time": 27.96,
+          "end": 28.26,
+          "text": "命",
+          "probability": 0.5346
+        }
+      ]
+    },
+    {
+      "time": 30.62,
+      "end": 33.28,
+      "text": "荣耀贵主民",
+      "words": [
+        {
+          "time": 30.62,
+          "end": 31.28,
+          "text": "荣",
+          "probability": 0.497
+        },
+        {
+          "time": 31.2,
+          "end": 31.58,
+          "text": "耀",
+          "probability": 0.9623
+        },
+        {
+          "time": 31.58,
+          "end": 32.12,
+          "text": "贵",
+          "probability": 0.3241
+        },
+        {
+          "time": 32.34,
+          "end": 32.64,
+          "text": "主",
+          "probability": 0.5958
+        },
+        {
+          "time": 32.98,
+          "end": 33.28,
+          "text": "民",
+          "probability": 0.3561
+        }
+      ]
+    },
+    {
+      "time": 35.28,
+      "end": 38.16,
+      "text": "荣耀贵主民",
+      "words": [
+        {
+          "time": 35.28,
+          "end": 36.16,
+          "text": "荣",
+          "probability": 0.9994
+        },
+        {
+          "time": 36.16,
+          "end": 36.46,
+          "text": "耀",
+          "probability": 0.9999
+        },
+        {
+          "time": 36.46,
+          "end": 37.0,
+          "text": "贵",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.22,
+          "end": 37.52,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 37.86,
+          "end": 38.16,
+          "text": "民",
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "time": 40.28,
+      "end": 46.12,
+      "text": "主宝贝雪将我最喜记荣",
+      "words": [
+        {
+          "time": 40.28,
+          "end": 40.58,
+          "text": "主",
+          "probability": 0.5638
+        },
+        {
+          "time": 40.8,
+          "end": 41.26,
+          "text": "宝",
+          "probability": 0.5934
+        },
+        {
+          "time": 41.2,
+          "end": 41.5,
+          "text": "贝",
+          "probability": 0.6106
+        },
+        {
+          "time": 41.6,
+          "end": 41.9,
+          "text": "雪",
+          "probability": 0.6926
+        },
+        {
+          "time": 42.16,
+          "end": 42.46,
+          "text": "将",
+          "probability": 0.8153
+        },
+        {
+          "time": 42.46,
+          "end": 42.76,
+          "text": "我",
+          "probability": 0.9797
+        },
+        {
+          "time": 42.88,
+          "end": 43.18,
+          "text": "最",
+          "probability": 0.7778
+        },
+        {
+          "time": 43.34,
+          "end": 43.64,
+          "text": "喜",
+          "probability": 0.3955
+        },
+        {
+          "time": 44.04,
+          "end": 44.34,
+          "text": "记",
+          "probability": 0.1561
+        },
+        {
+          "time": 45.28,
+          "end": 46.16,
+          "text": "荣",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 46.12,
+      "end": 48.34,
+      "text": "耀贵主民",
+      "words": [
+        {
+          "time": 46.12,
+          "end": 46.48,
+          "text": "耀",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.5,
+          "end": 46.98,
+          "text": "贵",
+          "probability": 0.9999
+        },
+        {
+          "time": 47.2,
+          "end": 47.5,
+          "text": "主",
+          "probability": 0.9997
+        },
+        {
+          "time": 48.04,
+          "end": 48.34,
+          "text": "民",
+          "probability": 0.9953
+        }
+      ]
+    },
+    {
+      "time": 50.42,
+      "end": 56.02,
+      "text": "不惊好不惰的罪全是有主",
+      "words": [
+        {
+          "time": 50.42,
+          "end": 50.72,
+          "text": "不",
+          "probability": 0.5841
+        },
+        {
+          "time": 50.78,
+          "end": 51.2,
+          "text": "惊",
+          "probability": 0.3643
+        },
+        {
+          "time": 51.14,
+          "end": 51.44,
+          "text": "好",
+          "probability": 0.2829
+        },
+        {
+          "time": 51.6,
+          "end": 51.9,
+          "text": "不",
+          "probability": 0.174
+        },
+        {
+          "time": 52.02,
+          "end": 52.42,
+          "text": "惰",
+          "probability": 0.5712
+        },
+        {
+          "time": 52.36,
+          "end": 52.66,
+          "text": "的",
+          "probability": 0.4466
+        },
+        {
+          "time": 52.66,
+          "end": 53.14,
+          "text": "罪",
+          "probability": 0.4428
+        },
+        {
+          "time": 53.4,
+          "end": 53.7,
+          "text": "全",
+          "probability": 0.7365
+        },
+        {
+          "time": 53.96,
+          "end": 54.26,
+          "text": "是",
+          "probability": 0.7342
+        },
+        {
+          "time": 55.36,
+          "end": 55.66,
+          "text": "有",
+          "probability": 0.8419
+        },
+        {
+          "time": 55.74,
+          "end": 56.04,
+          "text": "主",
+          "probability": 0.5734
+        }
+      ]
+    },
+    {
+      "time": 56.02,
+      "end": 62.46,
+      "text": "事长住在我心里如此吗我是",
+      "words": [
+        {
+          "time": 56.02,
+          "end": 56.32,
+          "text": "事",
+          "probability": 0.6986
+        },
+        {
+          "time": 56.58,
+          "end": 56.88,
+          "text": "长",
+          "probability": 0.3013
+        },
+        {
+          "time": 56.96,
+          "end": 57.26,
+          "text": "住",
+          "probability": 0.405
+        },
+        {
+          "time": 57.28,
+          "end": 57.58,
+          "text": "在",
+          "probability": 0.9994
+        },
+        {
+          "time": 57.78,
+          "end": 58.08,
+          "text": "我",
+          "probability": 0.9994
+        },
+        {
+          "time": 58.36,
+          "end": 58.66,
+          "text": "心",
+          "probability": 0.9992
+        },
+        {
+          "time": 59.18,
+          "end": 59.48,
+          "text": "里",
+          "probability": 0.6503
+        },
+        {
+          "time": 60.62,
+          "end": 60.92,
+          "text": "如此",
+          "probability": 0.9803
+        },
+        {
+          "time": 61.1,
+          "end": 61.4,
+          "text": "吗",
+          "probability": 0.2658
+        },
+        {
+          "time": 62.16,
+          "end": 62.46,
+          "text": "我是",
+          "probability": 0.3979
+        }
+      ]
+    },
+    {
+      "time": 62.72,
+      "end": 67.96,
+      "text": "在不悲荣耀归主命",
+      "words": [
+        {
+          "time": 62.72,
+          "end": 63.02,
+          "text": "在",
+          "probability": 0.6519
+        },
+        {
+          "time": 63.22,
+          "end": 63.52,
+          "text": "不",
+          "probability": 0.9457
+        },
+        {
+          "time": 63.76,
+          "end": 64.66,
+          "text": "悲",
+          "probability": 0.4544
+        },
+        {
+          "time": 65.14,
+          "end": 66.0,
+          "text": "荣",
+          "probability": 0.5173
+        },
+        {
+          "time": 65.94,
+          "end": 66.32,
+          "text": "耀",
+          "probability": 0.9975
+        },
+        {
+          "time": 66.28,
+          "end": 66.9,
+          "text": "归",
+          "probability": 0.5361
+        },
+        {
+          "time": 67.06,
+          "end": 67.36,
+          "text": "主",
+          "probability": 0.303
+        },
+        {
+          "time": 67.66,
+          "end": 67.96,
+          "text": "命",
+          "probability": 0.4883
+        }
+      ]
+    },
+    {
+      "time": 70.0,
+      "end": 72.86,
+      "text": "荣耀归主命",
+      "words": [
+        {
+          "time": 70.0,
+          "end": 70.88,
+          "text": "荣",
+          "probability": 0.9208
+        },
+        {
+          "time": 70.84,
+          "end": 71.2,
+          "text": "耀",
+          "probability": 0.9999
+        },
+        {
+          "time": 71.2,
+          "end": 71.74,
+          "text": "归",
+          "probability": 0.9999
+        },
+        {
+          "time": 71.92,
+          "end": 72.22,
+          "text": "主",
+          "probability": 0.9988
+        },
+        {
+          "time": 72.56,
+          "end": 72.86,
+          "text": "命",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 74.9,
+      "end": 77.86,
+      "text": "荣耀归主命",
+      "words": [
+        {
+          "time": 74.9,
+          "end": 75.78,
+          "text": "荣",
+          "probability": 0.8525
+        },
+        {
+          "time": 75.74,
+          "end": 76.06,
+          "text": "耀",
+          "probability": 0.9998
+        },
+        {
+          "time": 76.08,
+          "end": 76.56,
+          "text": "归",
+          "probability": 1.0
+        },
+        {
+          "time": 76.8,
+          "end": 77.1,
+          "text": "主",
+          "probability": 0.9993
+        },
+        {
+          "time": 77.56,
+          "end": 77.86,
+          "text": "命",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 80.0,
+      "end": 85.74,
+      "text": "主宝贝雪将我最喜记荣",
+      "words": [
+        {
+          "time": 80.0,
+          "end": 80.3,
+          "text": "主",
+          "probability": 0.8102
+        },
+        {
+          "time": 80.44,
+          "end": 80.88,
+          "text": "宝",
+          "probability": 0.4169
+        },
+        {
+          "time": 80.8,
+          "end": 81.14,
+          "text": "贝",
+          "probability": 0.9281
+        },
+        {
+          "time": 81.22,
+          "end": 81.52,
+          "text": "雪",
+          "probability": 0.6874
+        },
+        {
+          "time": 81.78,
+          "end": 82.08,
+          "text": "将",
+          "probability": 0.9267
+        },
+        {
+          "time": 82.12,
+          "end": 82.42,
+          "text": "我",
+          "probability": 0.9982
+        },
+        {
+          "time": 82.5,
+          "end": 82.8,
+          "text": "最",
+          "probability": 0.579
+        },
+        {
+          "time": 82.96,
+          "end": 83.26,
+          "text": "喜",
+          "probability": 0.3782
+        },
+        {
+          "time": 83.64,
+          "end": 83.94,
+          "text": "记",
+          "probability": 0.1066
+        },
+        {
+          "time": 84.9,
+          "end": 85.78,
+          "text": "荣",
+          "probability": 0.9957
+        }
+      ]
+    },
+    {
+      "time": 85.74,
+      "end": 87.8,
+      "text": "耀归主兵",
+      "words": [
+        {
+          "time": 85.74,
+          "end": 86.14,
+          "text": "耀",
+          "probability": 0.9455
+        },
+        {
+          "time": 86.08,
+          "end": 86.64,
+          "text": "归",
+          "probability": 0.4517
+        },
+        {
+          "time": 86.9,
+          "end": 87.2,
+          "text": "主",
+          "probability": 0.2811
+        },
+        {
+          "time": 87.3,
+          "end": 87.8,
+          "text": "兵",
+          "probability": 0.1547
+        }
+      ]
+    },
+    {
+      "time": 89.78,
+      "end": 95.64,
+      "text": "主宝贝雪将我全是法大主",
+      "words": [
+        {
+          "time": 89.78,
+          "end": 90.08,
+          "text": "主",
+          "probability": 0.9978
+        },
+        {
+          "time": 90.32,
+          "end": 90.72,
+          "text": "宝",
+          "probability": 0.9999
+        },
+        {
+          "time": 90.68,
+          "end": 90.98,
+          "text": "贝",
+          "probability": 1.0
+        },
+        {
+          "time": 91.18,
+          "end": 91.48,
+          "text": "雪",
+          "probability": 0.9998
+        },
+        {
+          "time": 91.64,
+          "end": 91.94,
+          "text": "将",
+          "probability": 0.9989
+        },
+        {
+          "time": 91.94,
+          "end": 92.24,
+          "text": "我",
+          "probability": 0.9998
+        },
+        {
+          "time": 92.34,
+          "end": 92.64,
+          "text": "全",
+          "probability": 0.7408
+        },
+        {
+          "time": 92.9,
+          "end": 93.2,
+          "text": "是",
+          "probability": 0.2584
+        },
+        {
+          "time": 93.64,
+          "end": 93.94,
+          "text": "法",
+          "probability": 0.8678
+        },
+        {
+          "time": 94.94,
+          "end": 95.24,
+          "text": "大",
+          "probability": 0.756
+        },
+        {
+          "time": 95.34,
+          "end": 95.64,
+          "text": "主",
+          "probability": 0.5589
+        }
+      ]
+    },
+    {
+      "time": 95.66,
+      "end": 101.2,
+      "text": "恩典我心生快乐赞美我主",
+      "words": [
+        {
+          "time": 95.66,
+          "end": 95.96,
+          "text": "恩",
+          "probability": 0.8652
+        },
+        {
+          "time": 95.88,
+          "end": 96.34,
+          "text": "典",
+          "probability": 0.73
+        },
+        {
+          "time": 96.68,
+          "end": 96.98,
+          "text": "我",
+          "probability": 0.8923
+        },
+        {
+          "time": 96.86,
+          "end": 97.16,
+          "text": "心",
+          "probability": 0.7196
+        },
+        {
+          "time": 97.24,
+          "end": 97.54,
+          "text": "生",
+          "probability": 0.8778
+        },
+        {
+          "time": 97.92,
+          "end": 98.22,
+          "text": "快",
+          "probability": 0.9978
+        },
+        {
+          "time": 98.86,
+          "end": 99.16,
+          "text": "乐",
+          "probability": 0.9998
+        },
+        {
+          "time": 99.7,
+          "end": 100.24,
+          "text": "赞",
+          "probability": 0.7415
+        },
+        {
+          "time": 100.3,
+          "end": 100.6,
+          "text": "美",
+          "probability": 0.9342
+        },
+        {
+          "time": 100.58,
+          "end": 100.88,
+          "text": "我",
+          "probability": 0.161
+        },
+        {
+          "time": 100.9,
+          "end": 101.2,
+          "text": "主",
+          "probability": 0.9756
+        }
+      ]
+    },
+    {
+      "time": 101.48,
+      "end": 107.44,
+      "text": "师将接近我荣耀归主兵",
+      "words": [
+        {
+          "time": 101.48,
+          "end": 101.78,
+          "text": "师",
+          "probability": 0.1703
+        },
+        {
+          "time": 101.82,
+          "end": 102.12,
+          "text": "将",
+          "probability": 0.8404
+        },
+        {
+          "time": 102.18,
+          "end": 102.48,
+          "text": "接",
+          "probability": 0.5752
+        },
+        {
+          "time": 102.82,
+          "end": 103.12,
+          "text": "近",
+          "probability": 0.9704
+        },
+        {
+          "time": 103.76,
+          "end": 104.06,
+          "text": "我",
+          "probability": 0.9908
+        },
+        {
+          "time": 104.64,
+          "end": 105.54,
+          "text": "荣",
+          "probability": 0.8514
+        },
+        {
+          "time": 105.48,
+          "end": 105.84,
+          "text": "耀",
+          "probability": 0.9998
+        },
+        {
+          "time": 105.84,
+          "end": 106.38,
+          "text": "归",
+          "probability": 0.9998
+        },
+        {
+          "time": 106.62,
+          "end": 106.92,
+          "text": "主",
+          "probability": 0.9962
+        },
+        {
+          "time": 107.14,
+          "end": 107.44,
+          "text": "兵",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 109.76,
+      "end": 112.62,
+      "text": "荣耀贵主命",
+      "words": [
+        {
+          "time": 109.76,
+          "end": 110.5,
+          "text": "荣",
+          "probability": 0.7548
+        },
+        {
+          "time": 110.42,
+          "end": 110.8,
+          "text": "耀",
+          "probability": 0.9902
+        },
+        {
+          "time": 110.82,
+          "end": 111.28,
+          "text": "贵",
+          "probability": 0.3942
+        },
+        {
+          "time": 111.54,
+          "end": 111.84,
+          "text": "主",
+          "probability": 0.7164
+        },
+        {
+          "time": 112.32,
+          "end": 112.62,
+          "text": "命",
+          "probability": 0.4158
+        }
+      ]
+    },
+    {
+      "time": 114.48,
+      "end": 117.5,
+      "text": "荣耀贵主命",
+      "words": [
+        {
+          "time": 114.48,
+          "end": 115.14,
+          "text": "荣",
+          "probability": 0.9892
+        },
+        {
+          "time": 115.32,
+          "end": 115.68,
+          "text": "耀",
+          "probability": 0.9998
+        },
+        {
+          "time": 115.62,
+          "end": 116.2,
+          "text": "贵",
+          "probability": 0.9999
+        },
+        {
+          "time": 116.42,
+          "end": 116.72,
+          "text": "主",
+          "probability": 0.9997
+        },
+        {
+          "time": 117.2,
+          "end": 117.5,
+          "text": "命",
+          "probability": 0.9958
+        }
+      ]
+    },
+    {
+      "time": 119.46,
+      "end": 125.04,
+      "text": "主保命协奖我最心机荣",
+      "words": [
+        {
+          "time": 119.46,
+          "end": 119.76,
+          "text": "主",
+          "probability": 0.4005
+        },
+        {
+          "time": 120.12,
+          "end": 120.42,
+          "text": "保",
+          "probability": 0.2345
+        },
+        {
+          "time": 120.42,
+          "end": 120.72,
+          "text": "命",
+          "probability": 0.3239
+        },
+        {
+          "time": 120.66,
+          "end": 121.14,
+          "text": "协",
+          "probability": 0.292
+        },
+        {
+          "time": 121.2,
+          "end": 121.7,
+          "text": "奖",
+          "probability": 0.1681
+        },
+        {
+          "time": 121.66,
+          "end": 121.96,
+          "text": "我",
+          "probability": 0.249
+        },
+        {
+          "time": 122.1,
+          "end": 122.4,
+          "text": "最",
+          "probability": 0.4775
+        },
+        {
+          "time": 122.64,
+          "end": 122.94,
+          "text": "心",
+          "probability": 0.6604
+        },
+        {
+          "time": 123.2,
+          "end": 123.5,
+          "text": "机",
+          "probability": 0.1713
+        },
+        {
+          "time": 124.44,
+          "end": 125.04,
+          "text": "荣",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 125.32,
+      "end": 127.64,
+      "text": "耀贵主命",
+      "words": [
+        {
+          "time": 125.32,
+          "end": 125.7,
+          "text": "耀",
+          "probability": 0.9998
+        },
+        {
+          "time": 125.76,
+          "end": 126.24,
+          "text": "贵",
+          "probability": 0.9999
+        },
+        {
+          "time": 126.6,
+          "end": 126.9,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 127.34,
+          "end": 127.64,
+          "text": "命",
+          "probability": 0.9935
+        }
+      ]
+    }
+  ]
+}

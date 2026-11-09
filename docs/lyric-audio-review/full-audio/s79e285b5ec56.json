@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "4003",
+  "waveform": {
+    "source": "4003",
+    "url": "https://www.izanmei.cc/song/4003.html",
+    "audio": "https://play.izanm.org/song/p/4003.mp3",
+    "offset": 0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 15.748,
+        "sourceStart": 15.748,
+        "offset": 0.0,
+        "coefficient": 0.996421
+      },
+      {
+        "localStart": 39.371,
+        "sourceStart": 39.371,
+        "offset": 0.0,
+        "coefficient": 0.99763
+      },
+      {
+        "localStart": 62.995,
+        "sourceStart": 62.995,
+        "offset": 0.0,
+        "coefficient": 0.994478
+      },
+      {
+        "localStart": 86.618,
+        "sourceStart": 86.618,
+        "offset": 0.0,
+        "coefficient": 0.993483
+      },
+      {
+        "localStart": 110.241,
+        "sourceStart": 110.241,
+        "offset": 0.0,
+        "coefficient": 0.993674
+      },
+      {
+        "localStart": 133.864,
+        "sourceStart": 133.864,
+        "offset": 0.0,
+        "coefficient": 0.987316
+      },
+      {
+        "localStart": 157.487,
+        "sourceStart": 157.487,
+        "offset": 0.0,
+        "coefficient": 0.991721
+      },
+      {
+        "localStart": 177.173,
+        "sourceStart": 177.173,
+        "offset": 0.0,
+        "coefficient": 0.991683
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.98773,
+  "id": "s79e285b5ec56",
+  "file": "068田地里的庄稼.mp3",
+  "fullDuration": 197.12,
+  "recordingHash": "1784708a3dbc038bc7654c3dd4ac73a5cce9420550358634c4db0f4a9c719631",
+  "lines": []
+}

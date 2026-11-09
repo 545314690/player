@@ -1,0 +1,49 @@
+{
+  "s0f5f485ebe66": {
+    "type": "instrumental",
+    "title": "献上感恩",
+    "variant": "钢琴版",
+    "source": "https://www.izanmei.cc/album/give-thanks.html",
+    "basis": "Full waveform matches published Edward Shaw recording 24535; publisher album genre is 器乐/纯音乐; six independent sound-event samples identify piano with negligible singing."
+  },
+  "s913ccef151cc": {
+    "type": "instrumental",
+    "variant": "纯音乐",
+    "basis": "用户原文件明确标注纯音乐；全长识别没有可靠歌声词句，移除旧人声歌词，保留原始录音。"
+  },
+  "s93d5d713ff2c": {
+    "segmentReplacements": [
+      {
+        "time": 45.162,
+        "from": "hey ho 领受主的1慈爱2喜乐3恩膏",
+        "to": "hey ho 领受主的慈爱"
+      },
+      {
+        "time": 101.842,
+        "from": "hey ho 领受主的1慈爱2喜乐3恩膏",
+        "to": "hey ho 领受主的喜乐"
+      },
+      {
+        "time": 114.072,
+        "from": "hey ho 领受主的1慈爱2喜乐3恩膏",
+        "to": "hey ho 领受主的喜乐"
+      },
+      {
+        "time": 126.622,
+        "from": "hey ho 领受主的1慈爱2喜乐3恩膏",
+        "to": "hey ho 领受主的恩膏"
+      },
+      {
+        "time": 141.452,
+        "from": "hey ho 领受主的1慈爱2喜乐3恩膏",
+        "to": "hey ho 领受主的恩膏"
+      },
+      {
+        "time": 153.982,
+        "from": "hey ho 领受主的1慈爱2喜乐3恩膏",
+        "to": "hey ho 领受主的恩膏"
+      }
+    ],
+    "basis": "正式同录音LRC的1/2/3是分段替换标记；逐次对照全长识别45.96慈爱，102.70/114.66喜乐，127.46/142.48/154.38恩膏音节；保留正式时间戳。"
+  }
+}

@@ -1,0 +1,880 @@
+{
+  "id": "s8287c19209e2",
+  "file": "100.耶稣爱我万不错.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "7c91e6a395bbe596aa6a3bd99c047ccf5ce2b9ccbc3ec14953972998264bfa27",
+  "fullDuration": 109.325125,
+  "lines": [
+    {
+      "time": 1.82,
+      "end": 2.16,
+      "text": "主耶稣",
+      "words": [
+        {
+          "time": 1.82,
+          "end": 2.12,
+          "text": "主",
+          "probability": 0.6168
+        },
+        {
+          "time": 1.82,
+          "end": 2.12,
+          "text": "耶",
+          "probability": 0.9582
+        },
+        {
+          "time": 1.84,
+          "end": 2.16,
+          "text": "稣",
+          "probability": 0.9381
+        }
+      ]
+    },
+    {
+      "time": 31.36,
+      "end": 37.3,
+      "text": "天上荣门替我开把他消养引进来主耶",
+      "words": [
+        {
+          "time": 31.36,
+          "end": 31.66,
+          "text": "天",
+          "probability": 0.2329
+        },
+        {
+          "time": 31.72,
+          "end": 32.02,
+          "text": "上",
+          "probability": 0.9423
+        },
+        {
+          "time": 31.96,
+          "end": 32.34,
+          "text": "荣",
+          "probability": 0.2452
+        },
+        {
+          "time": 32.28,
+          "end": 32.68,
+          "text": "门",
+          "probability": 0.7036
+        },
+        {
+          "time": 32.6,
+          "end": 32.98,
+          "text": "替",
+          "probability": 0.9143
+        },
+        {
+          "time": 32.98,
+          "end": 33.28,
+          "text": "我",
+          "probability": 0.9945
+        },
+        {
+          "time": 33.38,
+          "end": 33.68,
+          "text": "开",
+          "probability": 0.9897
+        },
+        {
+          "time": 34.06,
+          "end": 34.36,
+          "text": "把",
+          "probability": 0.9718
+        },
+        {
+          "time": 34.24,
+          "end": 34.54,
+          "text": "他",
+          "probability": 0.8625
+        },
+        {
+          "time": 34.54,
+          "end": 34.84,
+          "text": "消",
+          "probability": 0.2297
+        },
+        {
+          "time": 34.8,
+          "end": 35.2,
+          "text": "养",
+          "probability": 0.6905
+        },
+        {
+          "time": 35.18,
+          "end": 35.48,
+          "text": "引",
+          "probability": 0.6306
+        },
+        {
+          "time": 35.5,
+          "end": 35.8,
+          "text": "进",
+          "probability": 0.9911
+        },
+        {
+          "time": 35.94,
+          "end": 36.24,
+          "text": "来",
+          "probability": 0.9998
+        },
+        {
+          "time": 36.5,
+          "end": 36.8,
+          "text": "主",
+          "probability": 0.9694
+        },
+        {
+          "time": 37.12,
+          "end": 37.42,
+          "text": "耶",
+          "probability": 0.9948
+        }
+      ]
+    },
+    {
+      "time": 37.3,
+      "end": 43.1,
+      "text": "稣爱我主耶稣爱我主耶稣爱",
+      "words": [
+        {
+          "time": 37.3,
+          "end": 37.72,
+          "text": "稣",
+          "probability": 0.9953
+        },
+        {
+          "time": 37.76,
+          "end": 38.06,
+          "text": "爱",
+          "probability": 0.9936
+        },
+        {
+          "time": 38.56,
+          "end": 38.86,
+          "text": "我",
+          "probability": 0.9996
+        },
+        {
+          "time": 39.04,
+          "end": 39.34,
+          "text": "主",
+          "probability": 0.992
+        },
+        {
+          "time": 39.64,
+          "end": 39.94,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 39.88,
+          "end": 40.3,
+          "text": "稣",
+          "probability": 0.9998
+        },
+        {
+          "time": 40.32,
+          "end": 40.62,
+          "text": "爱",
+          "probability": 0.9996
+        },
+        {
+          "time": 40.98,
+          "end": 41.28,
+          "text": "我",
+          "probability": 0.9999
+        },
+        {
+          "time": 41.56,
+          "end": 41.86,
+          "text": "主",
+          "probability": 0.9919
+        },
+        {
+          "time": 42.16,
+          "end": 42.46,
+          "text": "耶",
+          "probability": 0.9999
+        },
+        {
+          "time": 42.4,
+          "end": 42.8,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 42.8,
+          "end": 43.1,
+          "text": "爱",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 43.3,
+      "end": 49.4,
+      "text": "我有神书告诉我耶稣爱我永不忘永",
+      "words": [
+        {
+          "time": 43.3,
+          "end": 43.6,
+          "text": "我",
+          "probability": 0.9962
+        },
+        {
+          "time": 43.74,
+          "end": 44.04,
+          "text": "有",
+          "probability": 0.5401
+        },
+        {
+          "time": 44.08,
+          "end": 44.38,
+          "text": "神",
+          "probability": 0.5814
+        },
+        {
+          "time": 44.32,
+          "end": 44.68,
+          "text": "书",
+          "probability": 0.5282
+        },
+        {
+          "time": 44.86,
+          "end": 45.16,
+          "text": "告诉",
+          "probability": 0.9936
+        },
+        {
+          "time": 46.12,
+          "end": 46.42,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 46.56,
+          "end": 46.86,
+          "text": "耶",
+          "probability": 0.9964
+        },
+        {
+          "time": 46.82,
+          "end": 47.2,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 47.22,
+          "end": 47.52,
+          "text": "爱",
+          "probability": 0.9995
+        },
+        {
+          "time": 47.5,
+          "end": 47.8,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 47.8,
+          "end": 48.1,
+          "text": "永",
+          "probability": 0.9929
+        },
+        {
+          "time": 48.14,
+          "end": 48.44,
+          "text": "不",
+          "probability": 0.9979
+        },
+        {
+          "time": 48.46,
+          "end": 48.76,
+          "text": "忘",
+          "probability": 0.7679
+        },
+        {
+          "time": 49.1,
+          "end": 49.4,
+          "text": "永",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 49.44,
+      "end": 55.06,
+      "text": "不离开他消养白日糟粮他大酒黑夜睡",
+      "words": [
+        {
+          "time": 49.44,
+          "end": 49.74,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 49.7,
+          "end": 50.08,
+          "text": "离",
+          "probability": 0.9977
+        },
+        {
+          "time": 50.06,
+          "end": 50.36,
+          "text": "开",
+          "probability": 0.9998
+        },
+        {
+          "time": 50.36,
+          "end": 50.66,
+          "text": "他",
+          "probability": 0.9971
+        },
+        {
+          "time": 50.72,
+          "end": 51.02,
+          "text": "消",
+          "probability": 0.9978
+        },
+        {
+          "time": 51.0,
+          "end": 51.44,
+          "text": "养",
+          "probability": 0.9978
+        },
+        {
+          "time": 51.64,
+          "end": 51.94,
+          "text": "白",
+          "probability": 0.9503
+        },
+        {
+          "time": 52.08,
+          "end": 52.38,
+          "text": "日",
+          "probability": 0.9938
+        },
+        {
+          "time": 52.24,
+          "end": 52.66,
+          "text": "糟",
+          "probability": 0.4175
+        },
+        {
+          "time": 52.54,
+          "end": 52.92,
+          "text": "粮",
+          "probability": 0.2318
+        },
+        {
+          "time": 52.94,
+          "end": 53.24,
+          "text": "他",
+          "probability": 0.6453
+        },
+        {
+          "time": 53.26,
+          "end": 53.56,
+          "text": "大",
+          "probability": 0.7447
+        },
+        {
+          "time": 53.64,
+          "end": 53.94,
+          "text": "酒",
+          "probability": 0.5138
+        },
+        {
+          "time": 54.2,
+          "end": 54.5,
+          "text": "黑",
+          "probability": 0.999
+        },
+        {
+          "time": 54.48,
+          "end": 54.78,
+          "text": "夜",
+          "probability": 0.9997
+        },
+        {
+          "time": 54.76,
+          "end": 55.06,
+          "text": "睡",
+          "probability": 0.9924
+        }
+      ]
+    },
+    {
+      "time": 55.06,
+      "end": 60.76,
+      "text": "觉住看守主耶稣爱我主耶稣爱",
+      "words": [
+        {
+          "time": 55.06,
+          "end": 55.36,
+          "text": "觉",
+          "probability": 0.9889
+        },
+        {
+          "time": 55.32,
+          "end": 55.62,
+          "text": "住",
+          "probability": 0.5823
+        },
+        {
+          "time": 55.62,
+          "end": 55.92,
+          "text": "看",
+          "probability": 0.9752
+        },
+        {
+          "time": 56.02,
+          "end": 56.32,
+          "text": "守",
+          "probability": 0.969
+        },
+        {
+          "time": 56.82,
+          "end": 57.12,
+          "text": "主",
+          "probability": 0.9912
+        },
+        {
+          "time": 57.32,
+          "end": 57.62,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 57.56,
+          "end": 57.94,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 58.0,
+          "end": 58.3,
+          "text": "爱",
+          "probability": 0.999
+        },
+        {
+          "time": 58.8,
+          "end": 59.1,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 59.3,
+          "end": 59.6,
+          "text": "主",
+          "probability": 0.9464
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "耶",
+          "probability": 0.9772
+        },
+        {
+          "time": 60.04,
+          "end": 60.44,
+          "text": "稣",
+          "probability": 0.9867
+        },
+        {
+          "time": 60.46,
+          "end": 60.76,
+          "text": "爱",
+          "probability": 0.9459
+        }
+      ]
+    },
+    {
+      "time": 61.02,
+      "end": 66.38,
+      "text": "我主耶稣爱我有神主告诉我",
+      "words": [
+        {
+          "time": 61.02,
+          "end": 61.32,
+          "text": "我",
+          "probability": 0.9984
+        },
+        {
+          "time": 61.68,
+          "end": 61.98,
+          "text": "主",
+          "probability": 0.9881
+        },
+        {
+          "time": 62.26,
+          "end": 62.56,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 62.5,
+          "end": 62.86,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 62.9,
+          "end": 63.2,
+          "text": "爱",
+          "probability": 0.9989
+        },
+        {
+          "time": 63.42,
+          "end": 63.72,
+          "text": "我",
+          "probability": 0.9957
+        },
+        {
+          "time": 63.84,
+          "end": 64.14,
+          "text": "有",
+          "probability": 0.677
+        },
+        {
+          "time": 64.14,
+          "end": 64.44,
+          "text": "神",
+          "probability": 0.7257
+        },
+        {
+          "time": 64.46,
+          "end": 64.76,
+          "text": "主",
+          "probability": 0.6466
+        },
+        {
+          "time": 64.96,
+          "end": 65.26,
+          "text": "告诉",
+          "probability": 0.357
+        },
+        {
+          "time": 66.08,
+          "end": 66.38,
+          "text": "我",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 70.86,
+      "end": 71.16,
+      "text": "耶",
+      "words": [
+        {
+          "time": 70.86,
+          "end": 71.16,
+          "text": "耶",
+          "probability": 0.8566
+        }
+      ]
+    },
+    {
+      "time": 86.44,
+      "end": 92.24,
+      "text": "稣爱我万不错您有神书告诉我但小孩子",
+      "words": [
+        {
+          "time": 86.44,
+          "end": 86.82,
+          "text": "稣",
+          "probability": 0.9993
+        },
+        {
+          "time": 86.86,
+          "end": 87.16,
+          "text": "爱",
+          "probability": 0.9979
+        },
+        {
+          "time": 87.14,
+          "end": 87.44,
+          "text": "我",
+          "probability": 0.9995
+        },
+        {
+          "time": 87.42,
+          "end": 87.72,
+          "text": "万",
+          "probability": 0.475
+        },
+        {
+          "time": 87.72,
+          "end": 88.02,
+          "text": "不",
+          "probability": 0.9833
+        },
+        {
+          "time": 88.14,
+          "end": 88.44,
+          "text": "错",
+          "probability": 0.7805
+        },
+        {
+          "time": 88.72,
+          "end": 89.02,
+          "text": "您",
+          "probability": 0.2661
+        },
+        {
+          "time": 89.0,
+          "end": 89.3,
+          "text": "有",
+          "probability": 0.9349
+        },
+        {
+          "time": 89.28,
+          "end": 89.58,
+          "text": "神",
+          "probability": 0.533
+        },
+        {
+          "time": 89.52,
+          "end": 89.88,
+          "text": "书",
+          "probability": 0.4477
+        },
+        {
+          "time": 90.02,
+          "end": 90.32,
+          "text": "告诉",
+          "probability": 0.9895
+        },
+        {
+          "time": 90.68,
+          "end": 90.98,
+          "text": "我",
+          "probability": 0.9999
+        },
+        {
+          "time": 91.16,
+          "end": 91.46,
+          "text": "但",
+          "probability": 0.5994
+        },
+        {
+          "time": 91.46,
+          "end": 91.76,
+          "text": "小",
+          "probability": 0.9985
+        },
+        {
+          "time": 91.94,
+          "end": 92.24,
+          "text": "孩子",
+          "probability": 0.9432
+        }
+      ]
+    },
+    {
+      "time": 92.4,
+      "end": 98.16,
+      "text": "主母样我虽然若出强壮主耶稣爱我",
+      "words": [
+        {
+          "time": 92.4,
+          "end": 92.7,
+          "text": "主",
+          "probability": 0.4098
+        },
+        {
+          "time": 92.7,
+          "end": 93.0,
+          "text": "母",
+          "probability": 0.4587
+        },
+        {
+          "time": 93.08,
+          "end": 93.38,
+          "text": "样",
+          "probability": 0.806
+        },
+        {
+          "time": 93.62,
+          "end": 93.92,
+          "text": "我",
+          "probability": 0.9991
+        },
+        {
+          "time": 93.86,
+          "end": 94.26,
+          "text": "虽",
+          "probability": 0.9988
+        },
+        {
+          "time": 94.3,
+          "end": 94.6,
+          "text": "然",
+          "probability": 0.9091
+        },
+        {
+          "time": 94.5,
+          "end": 94.88,
+          "text": "若",
+          "probability": 0.5888
+        },
+        {
+          "time": 94.86,
+          "end": 95.16,
+          "text": "出",
+          "probability": 0.4997
+        },
+        {
+          "time": 95.08,
+          "end": 95.46,
+          "text": "强",
+          "probability": 0.607
+        },
+        {
+          "time": 95.4,
+          "end": 95.8,
+          "text": "壮",
+          "probability": 0.638
+        },
+        {
+          "time": 96.16,
+          "end": 96.46,
+          "text": "主",
+          "probability": 0.9898
+        },
+        {
+          "time": 96.7,
+          "end": 97.0,
+          "text": "耶",
+          "probability": 0.9982
+        },
+        {
+          "time": 96.88,
+          "end": 97.3,
+          "text": "稣",
+          "probability": 0.9941
+        },
+        {
+          "time": 97.32,
+          "end": 97.62,
+          "text": "爱",
+          "probability": 0.9984
+        },
+        {
+          "time": 97.86,
+          "end": 98.16,
+          "text": "我",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 98.56,
+      "end": 104.62,
+      "text": "主耶稣爱我主耶稣爱我有神书告诉",
+      "words": [
+        {
+          "time": 98.56,
+          "end": 98.86,
+          "text": "主",
+          "probability": 0.9778
+        },
+        {
+          "time": 99.16,
+          "end": 99.46,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 99.36,
+          "end": 99.76,
+          "text": "稣",
+          "probability": 0.9998
+        },
+        {
+          "time": 99.78,
+          "end": 100.08,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 100.36,
+          "end": 100.66,
+          "text": "我",
+          "probability": 0.9999
+        },
+        {
+          "time": 101.0,
+          "end": 101.3,
+          "text": "主",
+          "probability": 0.9835
+        },
+        {
+          "time": 101.58,
+          "end": 101.88,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 101.8,
+          "end": 102.18,
+          "text": "稣",
+          "probability": 1.0
+        },
+        {
+          "time": 102.2,
+          "end": 102.5,
+          "text": "爱",
+          "probability": 0.9997
+        },
+        {
+          "time": 102.68,
+          "end": 102.98,
+          "text": "我",
+          "probability": 0.9928
+        },
+        {
+          "time": 103.16,
+          "end": 103.46,
+          "text": "有",
+          "probability": 0.9577
+        },
+        {
+          "time": 103.46,
+          "end": 103.76,
+          "text": "神",
+          "probability": 0.9989
+        },
+        {
+          "time": 103.72,
+          "end": 104.06,
+          "text": "书",
+          "probability": 0.9991
+        },
+        {
+          "time": 104.32,
+          "end": 104.62,
+          "text": "告诉",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 105.12,
+      "end": 105.42,
+      "text": "我",
+      "words": [
+        {
+          "time": 105.12,
+          "end": 105.42,
+          "text": "我",
+          "probability": 0.9999
+        }
+      ]
+    }
+  ]
+}

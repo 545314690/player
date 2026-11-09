@@ -1,0 +1,213 @@
+{
+  "id": "s954e08f013ee",
+  "file": "055-流行唱法.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 27.45,
+      "tags": {
+        "Singing": 0.2598,
+        "Choir": 0.01799,
+        "Speech": 0.00668,
+        "Piano": 0.01968,
+        "Electric piano": 0.00536,
+        "Music": 0.8541,
+        "Musical instrument": 0.04022
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.8541
+        },
+        {
+          "label": "Singing",
+          "score": 0.2598
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.23494
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.12875
+        },
+        {
+          "label": "Christian music",
+          "score": 0.11686
+        }
+      ]
+    },
+    {
+      "time": 59.48,
+      "tags": {
+        "Singing": 0.18386,
+        "Choir": 0.0199,
+        "Speech": 0.01429,
+        "Piano": 0.01206,
+        "Electric piano": 0.00329,
+        "Music": 0.80097,
+        "Musical instrument": 0.03396
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.80097
+        },
+        {
+          "label": "Singing",
+          "score": 0.18386
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.1316
+        },
+        {
+          "label": "Christian music",
+          "score": 0.12223
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.11988
+        }
+      ]
+    },
+    {
+      "time": 91.51,
+      "tags": {
+        "Singing": 0.00398,
+        "Choir": 0.00098,
+        "Speech": 0.01948,
+        "Piano": 0.09716,
+        "Electric piano": 0.04763,
+        "Music": 0.53328,
+        "Musical instrument": 0.13577
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.53328
+        },
+        {
+          "label": "Marimba, xylophone",
+          "score": 0.47671
+        },
+        {
+          "label": "Glockenspiel",
+          "score": 0.35117
+        },
+        {
+          "label": "Mallet percussion",
+          "score": 0.34478
+        },
+        {
+          "label": "Vibraphone",
+          "score": 0.24264
+        }
+      ]
+    },
+    {
+      "time": 123.54,
+      "tags": {
+        "Singing": 0.17131,
+        "Choir": 0.01085,
+        "Speech": 0.00854,
+        "Piano": 0.00368,
+        "Electric piano": 0.00126,
+        "Music": 0.80933,
+        "Musical instrument": 0.02348
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.80933
+        },
+        {
+          "label": "Christian music",
+          "score": 0.18011
+        },
+        {
+          "label": "Singing",
+          "score": 0.17131
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.16991
+        },
+        {
+          "label": "Soul music",
+          "score": 0.15664
+        }
+      ]
+    },
+    {
+      "time": 155.57,
+      "tags": {
+        "Singing": 0.20317,
+        "Choir": 0.01269,
+        "Speech": 0.00446,
+        "Piano": 0.00116,
+        "Electric piano": 0.00032,
+        "Music": 0.84094,
+        "Musical instrument": 0.01658
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.84094
+        },
+        {
+          "label": "Singing",
+          "score": 0.20317
+        },
+        {
+          "label": "Music of Bollywood",
+          "score": 0.14572
+        },
+        {
+          "label": "Music of Asia",
+          "score": 0.13163
+        },
+        {
+          "label": "Christian music",
+          "score": 0.12377
+        }
+      ]
+    },
+    {
+      "time": 187.6,
+      "tags": {
+        "Singing": 0.13172,
+        "Choir": 0.01079,
+        "Speech": 0.03703,
+        "Piano": 0.02359,
+        "Electric piano": 0.01334,
+        "Music": 0.80628,
+        "Musical instrument": 0.05445
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.80628
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.20843
+        },
+        {
+          "label": "Singing",
+          "score": 0.13172
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.1065
+        },
+        {
+          "label": "Christian music",
+          "score": 0.06597
+        }
+      ]
+    }
+  ]
+}

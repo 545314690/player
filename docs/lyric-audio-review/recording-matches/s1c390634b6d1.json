@@ -1,0 +1,125 @@
+{
+  "id": "s1c390634b6d1",
+  "file": "148.将这山地赏赐给我们.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "10285",
+    "url": "https://www.izanmei.cc/song/10285.html",
+    "audio": "https://play.izanm.org/song/p/10285.mp3",
+    "offset": 0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 25.702,
+        "sourceStart": 25.702,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 64.256,
+        "sourceStart": 64.256,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 102.809,
+        "sourceStart": 102.809,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 141.363,
+        "sourceStart": 141.363,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 179.917,
+        "sourceStart": 179.917,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 218.47,
+        "sourceStart": 218.47,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 257.024,
+        "sourceStart": 257.024,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 289.152,
+        "sourceStart": 289.152,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "10285",
+      "offset": 0.0,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 25.702,
+          "sourceStart": 25.702,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 64.256,
+          "sourceStart": 64.256,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 102.809,
+          "sourceStart": 102.809,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 141.363,
+          "sourceStart": 141.363,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 179.917,
+          "sourceStart": 179.917,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 218.47,
+          "sourceStart": 218.47,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 257.024,
+          "sourceStart": 257.024,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 289.152,
+          "sourceStart": 289.152,
+          "offset": 0.0,
+          "coefficient": 1.0
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "sb790939cb162",
+  "file": "029-.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "21794",
+    "url": "https://www.izanmei.cc/song/21794.html",
+    "audio": "https://play.izanm.org/song/p/21794.mp3",
+    "offset": 0.025246,
+    "scale": 1.000000056,
+    "residual": 0.00075,
+    "coverage": 0.999485,
+    "windows": [
+      {
+        "localStart": 12.159,
+        "sourceStart": 12.184,
+        "offset": 0.025,
+        "coefficient": 0.988577
+      },
+      {
+        "localStart": 30.396,
+        "sourceStart": 30.421,
+        "offset": 0.025,
+        "coefficient": 0.986191
+      },
+      {
+        "localStart": 48.634,
+        "sourceStart": 48.659,
+        "offset": 0.025,
+        "coefficient": 0.989298
+      },
+      {
+        "localStart": 66.871,
+        "sourceStart": 66.897,
+        "offset": 0.025,
+        "coefficient": 0.98563
+      },
+      {
+        "localStart": 85.109,
+        "sourceStart": 85.135,
+        "offset": 0.025,
+        "coefficient": 0.987697
+      },
+      {
+        "localStart": 103.347,
+        "sourceStart": 103.372,
+        "offset": 0.025,
+        "coefficient": 0.985425
+      },
+      {
+        "localStart": 121.585,
+        "sourceStart": 121.61,
+        "offset": 0.025,
+        "coefficient": 0.981635
+      },
+      {
+        "localStart": 136.783,
+        "sourceStart": 136.808,
+        "offset": 0.025,
+        "coefficient": 0.982671
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "21794",
+      "offset": 0.025246,
+      "scale": 1.000000056,
+      "residual": 0.00075,
+      "coverage": 0.999485,
+      "windows": [
+        {
+          "localStart": 12.159,
+          "sourceStart": 12.184,
+          "offset": 0.025,
+          "coefficient": 0.988577
+        },
+        {
+          "localStart": 30.396,
+          "sourceStart": 30.421,
+          "offset": 0.025,
+          "coefficient": 0.986191
+        },
+        {
+          "localStart": 48.634,
+          "sourceStart": 48.659,
+          "offset": 0.025,
+          "coefficient": 0.989298
+        },
+        {
+          "localStart": 66.871,
+          "sourceStart": 66.897,
+          "offset": 0.025,
+          "coefficient": 0.98563
+        },
+        {
+          "localStart": 85.109,
+          "sourceStart": 85.135,
+          "offset": 0.025,
+          "coefficient": 0.987697
+        },
+        {
+          "localStart": 103.347,
+          "sourceStart": 103.372,
+          "offset": 0.025,
+          "coefficient": 0.985425
+        },
+        {
+          "localStart": 121.585,
+          "sourceStart": 121.61,
+          "offset": 0.025,
+          "coefficient": 0.981635
+        },
+        {
+          "localStart": 136.783,
+          "sourceStart": 136.808,
+          "offset": 0.025,
+          "coefficient": 0.982671
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

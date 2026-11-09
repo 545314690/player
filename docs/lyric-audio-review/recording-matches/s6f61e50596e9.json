@@ -1,0 +1,125 @@
+{
+  "id": "s6f61e50596e9",
+  "file": "122主使软弱变刚强_通俗女.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "7150",
+    "url": "https://www.izanmei.cc/song/7150.html",
+    "audio": "https://play.izanm.org/song/p/7150.mp3",
+    "offset": -0.055697,
+    "scale": 0.999994409,
+    "residual": 0.000407,
+    "coverage": 0.999796,
+    "windows": [
+      {
+        "localStart": 23.103,
+        "sourceStart": 23.047,
+        "offset": -0.056,
+        "coefficient": 0.990139
+      },
+      {
+        "localStart": 57.758,
+        "sourceStart": 57.702,
+        "offset": -0.056,
+        "coefficient": 0.986702
+      },
+      {
+        "localStart": 92.413,
+        "sourceStart": 92.357,
+        "offset": -0.056,
+        "coefficient": 0.989114
+      },
+      {
+        "localStart": 127.068,
+        "sourceStart": 127.012,
+        "offset": -0.056,
+        "coefficient": 0.979371
+      },
+      {
+        "localStart": 161.724,
+        "sourceStart": 161.667,
+        "offset": -0.056,
+        "coefficient": 0.983448
+      },
+      {
+        "localStart": 196.379,
+        "sourceStart": 196.322,
+        "offset": -0.056,
+        "coefficient": 0.979381
+      },
+      {
+        "localStart": 231.034,
+        "sourceStart": 230.977,
+        "offset": -0.056,
+        "coefficient": 0.977761
+      },
+      {
+        "localStart": 259.913,
+        "sourceStart": 259.856,
+        "offset": -0.056,
+        "coefficient": 0.988019
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "7150",
+      "offset": -0.055697,
+      "scale": 0.999994409,
+      "residual": 0.000407,
+      "coverage": 0.999796,
+      "windows": [
+        {
+          "localStart": 23.103,
+          "sourceStart": 23.047,
+          "offset": -0.056,
+          "coefficient": 0.990139
+        },
+        {
+          "localStart": 57.758,
+          "sourceStart": 57.702,
+          "offset": -0.056,
+          "coefficient": 0.986702
+        },
+        {
+          "localStart": 92.413,
+          "sourceStart": 92.357,
+          "offset": -0.056,
+          "coefficient": 0.989114
+        },
+        {
+          "localStart": 127.068,
+          "sourceStart": 127.012,
+          "offset": -0.056,
+          "coefficient": 0.979371
+        },
+        {
+          "localStart": 161.724,
+          "sourceStart": 161.667,
+          "offset": -0.056,
+          "coefficient": 0.983448
+        },
+        {
+          "localStart": 196.379,
+          "sourceStart": 196.322,
+          "offset": -0.056,
+          "coefficient": 0.979381
+        },
+        {
+          "localStart": 231.034,
+          "sourceStart": 230.977,
+          "offset": -0.056,
+          "coefficient": 0.977761
+        },
+        {
+          "localStart": 259.913,
+          "sourceStart": 259.856,
+          "offset": -0.056,
+          "coefficient": 0.988019
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

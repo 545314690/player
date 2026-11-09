@@ -1,0 +1,1551 @@
+{
+  "id": "s503f7eb56933",
+  "file": "164哈利路亚赞美主.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "bec7721254a4f24bc06d55c754b1a13ca49626366bcb9e6c9b186f709a902df5",
+  "fullDuration": 151.666939,
+  "lines": [
+    {
+      "time": 10.96,
+      "end": 15.46,
+      "text": "哈利路雅赞美主",
+      "words": [
+        {
+          "time": 10.96,
+          "end": 11.26,
+          "text": "哈",
+          "probability": 0.1073
+        },
+        {
+          "time": 11.66,
+          "end": 11.96,
+          "text": "利",
+          "probability": 0.4654
+        },
+        {
+          "time": 12.38,
+          "end": 12.68,
+          "text": "路",
+          "probability": 0.3224
+        },
+        {
+          "time": 12.98,
+          "end": 13.48,
+          "text": "雅",
+          "probability": 0.2356
+        },
+        {
+          "time": 13.74,
+          "end": 14.08,
+          "text": "赞",
+          "probability": 0.1804
+        },
+        {
+          "time": 14.76,
+          "end": 15.06,
+          "text": "美",
+          "probability": 0.1597
+        },
+        {
+          "time": 15.16,
+          "end": 15.46,
+          "text": "主",
+          "probability": 0.0962
+        }
+      ]
+    },
+    {
+      "time": 16.68,
+      "end": 22.44,
+      "text": "哈利路雅赞美中哈",
+      "words": [
+        {
+          "time": 16.68,
+          "end": 16.98,
+          "text": "哈",
+          "probability": 0.2766
+        },
+        {
+          "time": 17.32,
+          "end": 17.62,
+          "text": "利",
+          "probability": 0.4663
+        },
+        {
+          "time": 17.98,
+          "end": 18.28,
+          "text": "路",
+          "probability": 0.304
+        },
+        {
+          "time": 18.52,
+          "end": 18.92,
+          "text": "雅",
+          "probability": 0.2161
+        },
+        {
+          "time": 19.28,
+          "end": 19.62,
+          "text": "赞",
+          "probability": 0.0632
+        },
+        {
+          "time": 20.3,
+          "end": 20.6,
+          "text": "美",
+          "probability": 0.0284
+        },
+        {
+          "time": 20.66,
+          "end": 20.96,
+          "text": "中",
+          "probability": 0.0814
+        },
+        {
+          "time": 22.14,
+          "end": 22.44,
+          "text": "哈",
+          "probability": 0.9839
+        }
+      ]
+    },
+    {
+      "time": 22.86,
+      "end": 28.66,
+      "text": "利路雅赞美中哈利路雅赞美",
+      "words": [
+        {
+          "time": 22.86,
+          "end": 23.16,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 23.54,
+          "end": 23.84,
+          "text": "路",
+          "probability": 0.9996
+        },
+        {
+          "time": 24.1,
+          "end": 24.6,
+          "text": "雅",
+          "probability": 0.9998
+        },
+        {
+          "time": 24.8,
+          "end": 25.1,
+          "text": "赞",
+          "probability": 0.9994
+        },
+        {
+          "time": 25.74,
+          "end": 26.04,
+          "text": "美",
+          "probability": 0.9997
+        },
+        {
+          "time": 26.04,
+          "end": 26.34,
+          "text": "中",
+          "probability": 0.9925
+        },
+        {
+          "time": 26.76,
+          "end": 27.06,
+          "text": "哈",
+          "probability": 0.9939
+        },
+        {
+          "time": 27.06,
+          "end": 27.36,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 27.38,
+          "end": 27.68,
+          "text": "路",
+          "probability": 0.9996
+        },
+        {
+          "time": 27.68,
+          "end": 28.0,
+          "text": "雅",
+          "probability": 0.9999
+        },
+        {
+          "time": 27.96,
+          "end": 28.34,
+          "text": "赞",
+          "probability": 0.9937
+        },
+        {
+          "time": 28.36,
+          "end": 28.66,
+          "text": "美",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 28.98,
+      "end": 30.3,
+      "text": "中哈利路雅赞美中",
+      "words": [
+        {
+          "time": 28.98,
+          "end": 29.28,
+          "text": "中",
+          "probability": 0.6115
+        },
+        {
+          "time": 29.44,
+          "end": 29.74,
+          "text": "哈",
+          "probability": 0.8437
+        },
+        {
+          "time": 29.7,
+          "end": 30.0,
+          "text": "利",
+          "probability": 0.9995
+        },
+        {
+          "time": 29.72,
+          "end": 30.02,
+          "text": "路",
+          "probability": 0.9977
+        },
+        {
+          "time": 29.72,
+          "end": 30.02,
+          "text": "雅",
+          "probability": 0.9998
+        },
+        {
+          "time": 29.72,
+          "end": 30.02,
+          "text": "赞",
+          "probability": 0.9996
+        },
+        {
+          "time": 29.72,
+          "end": 30.02,
+          "text": "美",
+          "probability": 0.9997
+        },
+        {
+          "time": 30.0,
+          "end": 30.3,
+          "text": "中",
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "time": 31.58,
+      "end": 31.88,
+      "text": "哈",
+      "words": [
+        {
+          "time": 31.58,
+          "end": 31.88,
+          "text": "哈",
+          "probability": 0.9898
+        }
+      ]
+    },
+    {
+      "time": 35.76,
+      "end": 41.52,
+      "text": "利路雅赞美中哈利路",
+      "words": [
+        {
+          "time": 35.76,
+          "end": 36.06,
+          "text": "利",
+          "probability": 0.9999
+        },
+        {
+          "time": 36.42,
+          "end": 36.72,
+          "text": "路",
+          "probability": 0.9994
+        },
+        {
+          "time": 36.92,
+          "end": 37.32,
+          "text": "雅",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.5,
+          "end": 37.88,
+          "text": "赞",
+          "probability": 0.9999
+        },
+        {
+          "time": 38.42,
+          "end": 38.72,
+          "text": "美",
+          "probability": 0.9997
+        },
+        {
+          "time": 38.78,
+          "end": 39.08,
+          "text": "中",
+          "probability": 0.9988
+        },
+        {
+          "time": 40.0,
+          "end": 40.3,
+          "text": "哈",
+          "probability": 0.7124
+        },
+        {
+          "time": 40.58,
+          "end": 40.88,
+          "text": "利",
+          "probability": 0.9999
+        },
+        {
+          "time": 41.22,
+          "end": 41.52,
+          "text": "路",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 41.76,
+      "end": 47.36,
+      "text": "雅赞美中Hallelujah, let",
+      "words": [
+        {
+          "time": 41.76,
+          "end": 42.12,
+          "text": "雅",
+          "probability": 0.9999
+        },
+        {
+          "time": 42.34,
+          "end": 42.72,
+          "text": "赞",
+          "probability": 0.9999
+        },
+        {
+          "time": 43.18,
+          "end": 43.48,
+          "text": "美",
+          "probability": 0.9998
+        },
+        {
+          "time": 43.54,
+          "end": 43.84,
+          "text": "中",
+          "probability": 0.9993
+        },
+        {
+          "time": 44.82,
+          "end": 45.12,
+          "text": "H",
+          "probability": 0.474
+        },
+        {
+          "time": 45.26,
+          "end": 45.56,
+          "text": "all",
+          "probability": 0.9897
+        },
+        {
+          "time": 46.32,
+          "end": 46.62,
+          "text": "elujah",
+          "probability": 0.971
+        },
+        {
+          "time": 46.9,
+          "end": 47.2,
+          "text": ",",
+          "probability": 0.4047
+        },
+        {
+          "time": 47.08,
+          "end": 47.38,
+          "text": " let",
+          "probability": 0.1019
+        }
+      ]
+    },
+    {
+      "time": 47.36,
+      "end": 52.24,
+      "text": "'s have a JewHallelujah, let's have a Jesus我的主",
+      "words": [
+        {
+          "time": 47.36,
+          "end": 47.66,
+          "text": "'s",
+          "probability": 0.5403
+        },
+        {
+          "time": 47.78,
+          "end": 48.08,
+          "text": " have",
+          "probability": 0.1059
+        },
+        {
+          "time": 48.0,
+          "end": 48.3,
+          "text": " a",
+          "probability": 0.3663
+        },
+        {
+          "time": 48.28,
+          "end": 48.58,
+          "text": " Jew",
+          "probability": 0.0484
+        },
+        {
+          "time": 48.94,
+          "end": 49.24,
+          "text": "H",
+          "probability": 0.9664
+        },
+        {
+          "time": 49.12,
+          "end": 49.42,
+          "text": "all",
+          "probability": 0.9995
+        },
+        {
+          "time": 49.62,
+          "end": 49.92,
+          "text": "elujah",
+          "probability": 0.9995
+        },
+        {
+          "time": 49.9,
+          "end": 50.2,
+          "text": ",",
+          "probability": 0.9996
+        },
+        {
+          "time": 50.08,
+          "end": 50.38,
+          "text": " let",
+          "probability": 0.9878
+        },
+        {
+          "time": 50.08,
+          "end": 50.38,
+          "text": "'s",
+          "probability": 0.9981
+        },
+        {
+          "time": 50.34,
+          "end": 50.64,
+          "text": " have",
+          "probability": 0.9719
+        },
+        {
+          "time": 50.4,
+          "end": 50.7,
+          "text": " a",
+          "probability": 0.9037
+        },
+        {
+          "time": 50.94,
+          "end": 51.24,
+          "text": " Jesus",
+          "probability": 0.3441
+        },
+        {
+          "time": 51.52,
+          "end": 51.82,
+          "text": "我的",
+          "probability": 0.8067
+        },
+        {
+          "time": 51.94,
+          "end": 52.24,
+          "text": "主",
+          "probability": 0.9309
+        }
+      ]
+    },
+    {
+      "time": 53.68,
+      "end": 59.24,
+      "text": "我向我的主高举双手向",
+      "words": [
+        {
+          "time": 53.68,
+          "end": 53.98,
+          "text": "我",
+          "probability": 0.8258
+        },
+        {
+          "time": 54.38,
+          "end": 54.68,
+          "text": "向",
+          "probability": 0.9527
+        },
+        {
+          "time": 55.04,
+          "end": 55.34,
+          "text": "我的",
+          "probability": 0.9639
+        },
+        {
+          "time": 55.46,
+          "end": 55.76,
+          "text": "主",
+          "probability": 0.9967
+        },
+        {
+          "time": 56.1,
+          "end": 56.4,
+          "text": "高",
+          "probability": 0.9001
+        },
+        {
+          "time": 56.48,
+          "end": 57.04,
+          "text": "举",
+          "probability": 0.6799
+        },
+        {
+          "time": 57.34,
+          "end": 57.7,
+          "text": "双",
+          "probability": 0.7807
+        },
+        {
+          "time": 57.84,
+          "end": 58.14,
+          "text": "手",
+          "probability": 0.9989
+        },
+        {
+          "time": 58.94,
+          "end": 59.24,
+          "text": "向",
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "time": 59.56,
+      "end": 65.56,
+      "text": "我的主去紧紧拜我向我的主高",
+      "words": [
+        {
+          "time": 59.56,
+          "end": 59.86,
+          "text": "我的",
+          "probability": 0.9951
+        },
+        {
+          "time": 60.04,
+          "end": 60.34,
+          "text": "主",
+          "probability": 0.9993
+        },
+        {
+          "time": 60.6,
+          "end": 60.9,
+          "text": "去",
+          "probability": 0.2988
+        },
+        {
+          "time": 61.08,
+          "end": 61.52,
+          "text": "紧",
+          "probability": 0.4246
+        },
+        {
+          "time": 61.64,
+          "end": 62.08,
+          "text": "紧",
+          "probability": 0.9871
+        },
+        {
+          "time": 62.24,
+          "end": 62.54,
+          "text": "拜",
+          "probability": 0.2423
+        },
+        {
+          "time": 62.84,
+          "end": 63.14,
+          "text": "我",
+          "probability": 0.9783
+        },
+        {
+          "time": 63.48,
+          "end": 63.78,
+          "text": "向",
+          "probability": 0.9998
+        },
+        {
+          "time": 64.22,
+          "end": 64.52,
+          "text": "我的",
+          "probability": 0.9988
+        },
+        {
+          "time": 64.64,
+          "end": 64.94,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 65.26,
+          "end": 65.56,
+          "text": "高",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 65.64,
+      "end": 70.5,
+      "text": "举双手向我的主敬拜",
+      "words": [
+        {
+          "time": 65.64,
+          "end": 66.24,
+          "text": "举",
+          "probability": 0.9992
+        },
+        {
+          "time": 66.46,
+          "end": 66.82,
+          "text": "双",
+          "probability": 0.997
+        },
+        {
+          "time": 66.92,
+          "end": 67.22,
+          "text": "手",
+          "probability": 0.9999
+        },
+        {
+          "time": 68.0,
+          "end": 68.3,
+          "text": "向",
+          "probability": 0.998
+        },
+        {
+          "time": 68.66,
+          "end": 68.96,
+          "text": "我的",
+          "probability": 0.998
+        },
+        {
+          "time": 69.1,
+          "end": 69.4,
+          "text": "主",
+          "probability": 0.9982
+        },
+        {
+          "time": 69.56,
+          "end": 70.08,
+          "text": "敬",
+          "probability": 0.3336
+        },
+        {
+          "time": 70.2,
+          "end": 70.5,
+          "text": "拜",
+          "probability": 0.9946
+        }
+      ]
+    },
+    {
+      "time": 74.54,
+      "end": 80.1,
+      "text": "Hallelujah, let's say to youHallelujah",
+      "words": [
+        {
+          "time": 74.54,
+          "end": 74.84,
+          "text": "H",
+          "probability": 0.4112
+        },
+        {
+          "time": 75.0,
+          "end": 75.3,
+          "text": "all",
+          "probability": 0.9817
+        },
+        {
+          "time": 75.72,
+          "end": 76.02,
+          "text": "elujah",
+          "probability": 0.963
+        },
+        {
+          "time": 76.4,
+          "end": 76.7,
+          "text": ",",
+          "probability": 0.3314
+        },
+        {
+          "time": 76.6,
+          "end": 76.9,
+          "text": " let",
+          "probability": 0.3712
+        },
+        {
+          "time": 76.96,
+          "end": 77.26,
+          "text": "'s",
+          "probability": 0.6312
+        },
+        {
+          "time": 77.32,
+          "end": 77.62,
+          "text": " say",
+          "probability": 0.0929
+        },
+        {
+          "time": 77.72,
+          "end": 78.02,
+          "text": " to",
+          "probability": 0.4407
+        },
+        {
+          "time": 78.04,
+          "end": 78.34,
+          "text": " you",
+          "probability": 0.6935
+        },
+        {
+          "time": 78.92,
+          "end": 79.22,
+          "text": "H",
+          "probability": 0.9322
+        },
+        {
+          "time": 79.32,
+          "end": 79.62,
+          "text": "all",
+          "probability": 0.999
+        },
+        {
+          "time": 79.8,
+          "end": 80.1,
+          "text": "elujah",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 80.44,
+      "end": 86.28,
+      "text": ", let's say to youHallelujah, let's say",
+      "words": [
+        {
+          "time": 80.44,
+          "end": 80.74,
+          "text": ",",
+          "probability": 0.9997
+        },
+        {
+          "time": 80.98,
+          "end": 81.28,
+          "text": " let",
+          "probability": 0.9958
+        },
+        {
+          "time": 81.3,
+          "end": 81.6,
+          "text": "'s",
+          "probability": 0.9998
+        },
+        {
+          "time": 81.68,
+          "end": 81.98,
+          "text": " say",
+          "probability": 0.9902
+        },
+        {
+          "time": 82.04,
+          "end": 82.34,
+          "text": " to",
+          "probability": 0.9992
+        },
+        {
+          "time": 83.02,
+          "end": 83.32,
+          "text": " you",
+          "probability": 0.9984
+        },
+        {
+          "time": 83.3,
+          "end": 83.6,
+          "text": "H",
+          "probability": 0.9894
+        },
+        {
+          "time": 83.66,
+          "end": 83.96,
+          "text": "all",
+          "probability": 0.9995
+        },
+        {
+          "time": 84.22,
+          "end": 84.52,
+          "text": "elujah",
+          "probability": 0.9995
+        },
+        {
+          "time": 84.78,
+          "end": 85.08,
+          "text": ",",
+          "probability": 1.0
+        },
+        {
+          "time": 85.32,
+          "end": 85.62,
+          "text": " let",
+          "probability": 0.9955
+        },
+        {
+          "time": 85.6,
+          "end": 85.9,
+          "text": "'s",
+          "probability": 0.9998
+        },
+        {
+          "time": 86.04,
+          "end": 86.34,
+          "text": " say",
+          "probability": 0.9965
+        }
+      ]
+    },
+    {
+      "time": 86.28,
+      "end": 89.4,
+      "text": "to youHallelujah, let's say to youHallelujah, let's say to youHallelujah, let's say to you",
+      "words": [
+        {
+          "time": 86.28,
+          "end": 86.58,
+          "text": " to",
+          "probability": 0.9996
+        },
+        {
+          "time": 86.64,
+          "end": 86.94,
+          "text": " you",
+          "probability": 0.9988
+        },
+        {
+          "time": 87.04,
+          "end": 87.34,
+          "text": "H",
+          "probability": 0.9925
+        },
+        {
+          "time": 87.22,
+          "end": 87.52,
+          "text": "all",
+          "probability": 0.9995
+        },
+        {
+          "time": 87.7,
+          "end": 88.0,
+          "text": "elujah",
+          "probability": 0.9996
+        },
+        {
+          "time": 87.94,
+          "end": 88.24,
+          "text": ",",
+          "probability": 0.9966
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": " let",
+          "probability": 0.4869
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": "'s",
+          "probability": 0.9989
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": " say",
+          "probability": 0.929
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": " to",
+          "probability": 0.958
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": " you",
+          "probability": 0.9791
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": "H",
+          "probability": 0.4604
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": "all",
+          "probability": 0.9992
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": "elujah",
+          "probability": 0.9989
+        },
+        {
+          "time": 88.02,
+          "end": 88.32,
+          "text": ",",
+          "probability": 0.9948
+        },
+        {
+          "time": 88.12,
+          "end": 88.42,
+          "text": " let",
+          "probability": 0.8389
+        },
+        {
+          "time": 88.12,
+          "end": 88.42,
+          "text": "'s",
+          "probability": 0.9984
+        },
+        {
+          "time": 88.26,
+          "end": 88.56,
+          "text": " say",
+          "probability": 0.9148
+        },
+        {
+          "time": 88.68,
+          "end": 88.98,
+          "text": " to",
+          "probability": 0.9272
+        },
+        {
+          "time": 88.68,
+          "end": 88.98,
+          "text": " you",
+          "probability": 0.9555
+        },
+        {
+          "time": 88.68,
+          "end": 88.98,
+          "text": "H",
+          "probability": 0.2611
+        },
+        {
+          "time": 88.68,
+          "end": 88.98,
+          "text": "all",
+          "probability": 0.9991
+        },
+        {
+          "time": 88.68,
+          "end": 88.98,
+          "text": "elujah",
+          "probability": 0.9984
+        },
+        {
+          "time": 88.68,
+          "end": 88.98,
+          "text": ",",
+          "probability": 0.9907
+        },
+        {
+          "time": 88.68,
+          "end": 88.98,
+          "text": " let",
+          "probability": 0.9655
+        },
+        {
+          "time": 88.84,
+          "end": 89.14,
+          "text": "'s",
+          "probability": 0.9991
+        },
+        {
+          "time": 88.94,
+          "end": 89.24,
+          "text": " say",
+          "probability": 0.9707
+        },
+        {
+          "time": 88.94,
+          "end": 89.24,
+          "text": " to",
+          "probability": 0.9834
+        },
+        {
+          "time": 89.1,
+          "end": 89.4,
+          "text": " you",
+          "probability": 0.9666
+        }
+      ]
+    },
+    {
+      "time": 91.5,
+      "end": 97.06,
+      "text": "我想我的主高举双手想我的",
+      "words": [
+        {
+          "time": 91.5,
+          "end": 91.8,
+          "text": "我想",
+          "probability": 0.6884
+        },
+        {
+          "time": 92.56,
+          "end": 92.86,
+          "text": "我的",
+          "probability": 0.5493
+        },
+        {
+          "time": 93.02,
+          "end": 93.32,
+          "text": "主",
+          "probability": 0.7821
+        },
+        {
+          "time": 93.64,
+          "end": 93.94,
+          "text": "高",
+          "probability": 0.75
+        },
+        {
+          "time": 94.0,
+          "end": 94.48,
+          "text": "举",
+          "probability": 0.1619
+        },
+        {
+          "time": 94.74,
+          "end": 95.12,
+          "text": "双",
+          "probability": 0.5443
+        },
+        {
+          "time": 95.18,
+          "end": 95.48,
+          "text": "手",
+          "probability": 0.9618
+        },
+        {
+          "time": 96.18,
+          "end": 96.48,
+          "text": "想",
+          "probability": 0.4833
+        },
+        {
+          "time": 96.76,
+          "end": 97.06,
+          "text": "我的",
+          "probability": 0.9922
+        }
+      ]
+    },
+    {
+      "time": 97.3,
+      "end": 103.06,
+      "text": "主去寂寂我想我的主高举",
+      "words": [
+        {
+          "time": 97.3,
+          "end": 97.6,
+          "text": "主",
+          "probability": 0.9971
+        },
+        {
+          "time": 97.86,
+          "end": 98.16,
+          "text": "去",
+          "probability": 0.8269
+        },
+        {
+          "time": 98.32,
+          "end": 98.76,
+          "text": "寂",
+          "probability": 0.1076
+        },
+        {
+          "time": 98.72,
+          "end": 99.22,
+          "text": "寂",
+          "probability": 0.8528
+        },
+        {
+          "time": 99.94,
+          "end": 100.24,
+          "text": "我想",
+          "probability": 0.4962
+        },
+        {
+          "time": 101.16,
+          "end": 101.46,
+          "text": "我的",
+          "probability": 0.998
+        },
+        {
+          "time": 101.58,
+          "end": 101.88,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 102.14,
+          "end": 102.44,
+          "text": "高",
+          "probability": 0.9968
+        },
+        {
+          "time": 102.52,
+          "end": 103.06,
+          "text": "举",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 103.28,
+      "end": 109.3,
+      "text": "双手向我的主静拔我向",
+      "words": [
+        {
+          "time": 103.28,
+          "end": 103.64,
+          "text": "双",
+          "probability": 0.9947
+        },
+        {
+          "time": 103.62,
+          "end": 103.92,
+          "text": "手",
+          "probability": 0.9976
+        },
+        {
+          "time": 104.82,
+          "end": 105.12,
+          "text": "向",
+          "probability": 0.7985
+        },
+        {
+          "time": 105.48,
+          "end": 105.78,
+          "text": "我的",
+          "probability": 0.9555
+        },
+        {
+          "time": 105.84,
+          "end": 106.14,
+          "text": "主",
+          "probability": 0.5585
+        },
+        {
+          "time": 106.28,
+          "end": 106.84,
+          "text": "静",
+          "probability": 0.1237
+        },
+        {
+          "time": 106.84,
+          "end": 107.32,
+          "text": "拔",
+          "probability": 0.188
+        },
+        {
+          "time": 108.42,
+          "end": 108.72,
+          "text": "我",
+          "probability": 0.8913
+        },
+        {
+          "time": 109.0,
+          "end": 109.3,
+          "text": "向",
+          "probability": 0.9941
+        }
+      ]
+    },
+    {
+      "time": 109.7,
+      "end": 115.74,
+      "text": "我的主高举双手向我的主曲击",
+      "words": [
+        {
+          "time": 109.7,
+          "end": 110.0,
+          "text": "我的",
+          "probability": 0.9945
+        },
+        {
+          "time": 110.1,
+          "end": 110.4,
+          "text": "主",
+          "probability": 0.9963
+        },
+        {
+          "time": 110.72,
+          "end": 111.02,
+          "text": "高",
+          "probability": 0.889
+        },
+        {
+          "time": 111.08,
+          "end": 111.48,
+          "text": "举",
+          "probability": 0.8405
+        },
+        {
+          "time": 111.8,
+          "end": 112.18,
+          "text": "双",
+          "probability": 0.9496
+        },
+        {
+          "time": 112.18,
+          "end": 112.48,
+          "text": "手",
+          "probability": 0.9965
+        },
+        {
+          "time": 113.26,
+          "end": 113.56,
+          "text": "向",
+          "probability": 0.9988
+        },
+        {
+          "time": 113.84,
+          "end": 114.14,
+          "text": "我的",
+          "probability": 0.9975
+        },
+        {
+          "time": 114.32,
+          "end": 114.62,
+          "text": "主",
+          "probability": 0.9991
+        },
+        {
+          "time": 114.78,
+          "end": 115.08,
+          "text": "曲",
+          "probability": 0.4036
+        },
+        {
+          "time": 115.24,
+          "end": 115.76,
+          "text": "击",
+          "probability": 0.1886
+        }
+      ]
+    },
+    {
+      "time": 115.74,
+      "end": 121.92,
+      "text": "击拔我向我的主高举双手向",
+      "words": [
+        {
+          "time": 115.74,
+          "end": 116.16,
+          "text": "击",
+          "probability": 0.9283
+        },
+        {
+          "time": 116.3,
+          "end": 116.68,
+          "text": "拔",
+          "probability": 0.7086
+        },
+        {
+          "time": 116.88,
+          "end": 117.18,
+          "text": "我",
+          "probability": 0.9927
+        },
+        {
+          "time": 117.42,
+          "end": 117.72,
+          "text": "向",
+          "probability": 0.9998
+        },
+        {
+          "time": 118.12,
+          "end": 118.42,
+          "text": "我的",
+          "probability": 0.9973
+        },
+        {
+          "time": 118.46,
+          "end": 118.76,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 119.06,
+          "end": 119.36,
+          "text": "高",
+          "probability": 0.9992
+        },
+        {
+          "time": 119.46,
+          "end": 119.9,
+          "text": "举",
+          "probability": 0.9996
+        },
+        {
+          "time": 120.18,
+          "end": 120.56,
+          "text": "双",
+          "probability": 0.9995
+        },
+        {
+          "time": 120.62,
+          "end": 120.92,
+          "text": "手",
+          "probability": 0.9996
+        },
+        {
+          "time": 121.62,
+          "end": 121.92,
+          "text": "向",
+          "probability": 0.9921
+        }
+      ]
+    },
+    {
+      "time": 122.22,
+      "end": 124.08,
+      "text": "我的主静拔",
+      "words": [
+        {
+          "time": 122.22,
+          "end": 122.52,
+          "text": "我的",
+          "probability": 0.998
+        },
+        {
+          "time": 122.68,
+          "end": 122.98,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 123.16,
+          "end": 123.54,
+          "text": "静",
+          "probability": 0.8491
+        },
+        {
+          "time": 123.66,
+          "end": 124.08,
+          "text": "拔",
+          "probability": 0.9963
+        }
+      ]
+    },
+    {
+      "time": 127.26,
+      "end": 133.0,
+      "text": "我向我的主高举双手向我的",
+      "words": [
+        {
+          "time": 127.26,
+          "end": 127.56,
+          "text": "我",
+          "probability": 0.9734
+        },
+        {
+          "time": 127.86,
+          "end": 128.16,
+          "text": "向",
+          "probability": 0.9997
+        },
+        {
+          "time": 128.56,
+          "end": 128.86,
+          "text": "我的",
+          "probability": 0.9983
+        },
+        {
+          "time": 128.9,
+          "end": 129.2,
+          "text": "主",
+          "probability": 1.0
+        },
+        {
+          "time": 129.5,
+          "end": 129.8,
+          "text": "高",
+          "probability": 0.9989
+        },
+        {
+          "time": 129.9,
+          "end": 130.42,
+          "text": "举",
+          "probability": 0.9997
+        },
+        {
+          "time": 130.64,
+          "end": 131.0,
+          "text": "双",
+          "probability": 0.9997
+        },
+        {
+          "time": 131.04,
+          "end": 131.34,
+          "text": "手",
+          "probability": 0.9999
+        },
+        {
+          "time": 132.12,
+          "end": 132.42,
+          "text": "向",
+          "probability": 0.7037
+        },
+        {
+          "time": 132.7,
+          "end": 133.0,
+          "text": "我的",
+          "probability": 0.9184
+        }
+      ]
+    },
+    {
+      "time": 133.06,
+      "end": 138.58,
+      "text": "主曲自己摆向我的主高曲",
+      "words": [
+        {
+          "time": 133.06,
+          "end": 133.36,
+          "text": "主",
+          "probability": 0.4384
+        },
+        {
+          "time": 133.54,
+          "end": 133.84,
+          "text": "曲",
+          "probability": 0.2278
+        },
+        {
+          "time": 134.42,
+          "end": 134.72,
+          "text": "自己",
+          "probability": 0.5252
+        },
+        {
+          "time": 135.12,
+          "end": 135.52,
+          "text": "摆",
+          "probability": 0.6536
+        },
+        {
+          "time": 135.76,
+          "end": 136.06,
+          "text": "向",
+          "probability": 0.9591
+        },
+        {
+          "time": 136.8,
+          "end": 137.1,
+          "text": "我的",
+          "probability": 0.9946
+        },
+        {
+          "time": 137.24,
+          "end": 137.54,
+          "text": "主",
+          "probability": 0.9703
+        },
+        {
+          "time": 137.86,
+          "end": 138.16,
+          "text": "高",
+          "probability": 0.6947
+        },
+        {
+          "time": 138.28,
+          "end": 138.58,
+          "text": "曲",
+          "probability": 0.662
+        }
+      ]
+    },
+    {
+      "time": 138.96,
+      "end": 142.96,
+      "text": "上手向我的主经摆",
+      "words": [
+        {
+          "time": 138.96,
+          "end": 139.26,
+          "text": "上",
+          "probability": 0.1716
+        },
+        {
+          "time": 139.38,
+          "end": 139.68,
+          "text": "手",
+          "probability": 0.6642
+        },
+        {
+          "time": 140.32,
+          "end": 140.62,
+          "text": "向",
+          "probability": 0.9995
+        },
+        {
+          "time": 141.0,
+          "end": 141.3,
+          "text": "我的",
+          "probability": 0.9957
+        },
+        {
+          "time": 141.36,
+          "end": 141.66,
+          "text": "主",
+          "probability": 0.9956
+        },
+        {
+          "time": 141.92,
+          "end": 142.22,
+          "text": "经",
+          "probability": 0.1179
+        },
+        {
+          "time": 142.44,
+          "end": 142.96,
+          "text": "摆",
+          "probability": 0.2536
+        }
+      ]
+    }
+  ]
+}

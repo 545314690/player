@@ -1,0 +1,1458 @@
+{
+  "id": "secb686854b0d",
+  "file": "088-唯.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "caa14eb7aafc1082a4922a29cdd0f2efac2a1bcf856aacdbb9f46922e1a3469e",
+  "fullDuration": 123.756375,
+  "lines": [
+    {
+      "time": 3.78,
+      "end": 9.66,
+      "text": "而是我脱罪恶,为有祈祷的保险",
+      "words": [
+        {
+          "time": 3.78,
+          "end": 4.08,
+          "text": "而",
+          "probability": 0.0911
+        },
+        {
+          "time": 4.44,
+          "end": 4.74,
+          "text": "是我",
+          "probability": 0.9027
+        },
+        {
+          "time": 4.9,
+          "end": 5.3,
+          "text": "脱",
+          "probability": 0.9243
+        },
+        {
+          "time": 5.32,
+          "end": 5.78,
+          "text": "罪",
+          "probability": 0.9943
+        },
+        {
+          "time": 5.82,
+          "end": 6.42,
+          "text": "恶",
+          "probability": 0.7069
+        },
+        {
+          "time": 6.18,
+          "end": 6.48,
+          "text": ",",
+          "probability": 0.3494
+        },
+        {
+          "time": 6.7,
+          "end": 7.0,
+          "text": "为",
+          "probability": 0.3178
+        },
+        {
+          "time": 6.96,
+          "end": 7.26,
+          "text": "有",
+          "probability": 0.1681
+        },
+        {
+          "time": 6.96,
+          "end": 7.36,
+          "text": "祈",
+          "probability": 0.1953
+        },
+        {
+          "time": 7.28,
+          "end": 7.58,
+          "text": "祷",
+          "probability": 0.4756
+        },
+        {
+          "time": 7.98,
+          "end": 8.28,
+          "text": "的",
+          "probability": 0.9215
+        },
+        {
+          "time": 8.62,
+          "end": 8.92,
+          "text": "保",
+          "probability": 0.6196
+        },
+        {
+          "time": 9.22,
+          "end": 9.66,
+          "text": "险",
+          "probability": 0.9698
+        }
+      ]
+    },
+    {
+      "time": 9.76,
+      "end": 15.78,
+      "text": "。而是我的平安,为有祈祷的保",
+      "words": [
+        {
+          "time": 9.76,
+          "end": 10.06,
+          "text": "。",
+          "probability": 0.7569
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "而",
+          "probability": 0.9905
+        },
+        {
+          "time": 10.96,
+          "end": 11.26,
+          "text": "是",
+          "probability": 0.6003
+        },
+        {
+          "time": 11.74,
+          "end": 12.04,
+          "text": "我的",
+          "probability": 0.9997
+        },
+        {
+          "time": 12.26,
+          "end": 12.56,
+          "text": "平",
+          "probability": 0.9996
+        },
+        {
+          "time": 12.84,
+          "end": 13.14,
+          "text": "安",
+          "probability": 0.9996
+        },
+        {
+          "time": 13.18,
+          "end": 13.48,
+          "text": ",",
+          "probability": 0.9996
+        },
+        {
+          "time": 13.54,
+          "end": 13.84,
+          "text": "为",
+          "probability": 0.9967
+        },
+        {
+          "time": 13.76,
+          "end": 14.06,
+          "text": "有",
+          "probability": 0.9757
+        },
+        {
+          "time": 13.86,
+          "end": 14.2,
+          "text": "祈",
+          "probability": 0.9953
+        },
+        {
+          "time": 14.06,
+          "end": 14.46,
+          "text": "祷",
+          "probability": 0.993
+        },
+        {
+          "time": 14.84,
+          "end": 15.14,
+          "text": "的",
+          "probability": 0.9981
+        },
+        {
+          "time": 15.48,
+          "end": 15.78,
+          "text": "保",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 16.04,
+      "end": 21.58,
+      "text": "险。主在释迦有些吸我",
+      "words": [
+        {
+          "time": 16.04,
+          "end": 16.5,
+          "text": "险",
+          "probability": 0.9986
+        },
+        {
+          "time": 16.2,
+          "end": 16.5,
+          "text": "。",
+          "probability": 0.9972
+        },
+        {
+          "time": 17.1,
+          "end": 17.4,
+          "text": "主",
+          "probability": 0.4829
+        },
+        {
+          "time": 17.86,
+          "end": 18.16,
+          "text": "在",
+          "probability": 0.9559
+        },
+        {
+          "time": 18.22,
+          "end": 18.64,
+          "text": "释",
+          "probability": 0.7434
+        },
+        {
+          "time": 18.62,
+          "end": 19.04,
+          "text": "迦",
+          "probability": 0.9956
+        },
+        {
+          "time": 19.14,
+          "end": 19.44,
+          "text": "有",
+          "probability": 0.3044
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "些",
+          "probability": 0.4991
+        },
+        {
+          "time": 20.4,
+          "end": 20.7,
+          "text": "吸",
+          "probability": 0.2435
+        },
+        {
+          "time": 21.28,
+          "end": 21.58,
+          "text": "我",
+          "probability": 0.6597
+        }
+      ]
+    },
+    {
+      "time": 21.62,
+      "end": 27.36,
+      "text": "醉了情节是我洁白入血唯",
+      "words": [
+        {
+          "time": 21.62,
+          "end": 22.04,
+          "text": "醉",
+          "probability": 0.6158
+        },
+        {
+          "time": 22.12,
+          "end": 22.42,
+          "text": "了",
+          "probability": 0.3653
+        },
+        {
+          "time": 22.54,
+          "end": 22.84,
+          "text": "情",
+          "probability": 0.4809
+        },
+        {
+          "time": 23.14,
+          "end": 23.44,
+          "text": "节",
+          "probability": 0.643
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "是我",
+          "probability": 0.2802
+        },
+        {
+          "time": 25.02,
+          "end": 25.42,
+          "text": "洁",
+          "probability": 0.4701
+        },
+        {
+          "time": 25.56,
+          "end": 25.86,
+          "text": "白",
+          "probability": 0.869
+        },
+        {
+          "time": 25.94,
+          "end": 26.24,
+          "text": "入",
+          "probability": 0.2354
+        },
+        {
+          "time": 26.44,
+          "end": 26.74,
+          "text": "血",
+          "probability": 0.4132
+        },
+        {
+          "time": 27.1,
+          "end": 27.46,
+          "text": "唯",
+          "probability": 0.7654
+        }
+      ]
+    },
+    {
+      "time": 27.36,
+      "end": 33.12,
+      "text": "有着耶稣的保险而救赎我罪",
+      "words": [
+        {
+          "time": 27.36,
+          "end": 27.66,
+          "text": "有",
+          "probability": 0.9474
+        },
+        {
+          "time": 27.52,
+          "end": 27.82,
+          "text": "着",
+          "probability": 0.0551
+        },
+        {
+          "time": 27.76,
+          "end": 28.06,
+          "text": "耶",
+          "probability": 0.9821
+        },
+        {
+          "time": 28.0,
+          "end": 28.4,
+          "text": "稣",
+          "probability": 0.992
+        },
+        {
+          "time": 28.62,
+          "end": 28.92,
+          "text": "的",
+          "probability": 0.9866
+        },
+        {
+          "time": 29.1,
+          "end": 29.4,
+          "text": "保",
+          "probability": 0.3262
+        },
+        {
+          "time": 29.72,
+          "end": 30.38,
+          "text": "险",
+          "probability": 0.8198
+        },
+        {
+          "time": 31.2,
+          "end": 31.5,
+          "text": "而",
+          "probability": 0.5078
+        },
+        {
+          "time": 31.48,
+          "end": 31.78,
+          "text": "救",
+          "probability": 0.8606
+        },
+        {
+          "time": 31.84,
+          "end": 32.18,
+          "text": "赎",
+          "probability": 0.9523
+        },
+        {
+          "time": 32.4,
+          "end": 32.7,
+          "text": "我",
+          "probability": 0.9991
+        },
+        {
+          "time": 32.72,
+          "end": 33.12,
+          "text": "罪",
+          "probability": 0.7713
+        }
+      ]
+    },
+    {
+      "time": 33.38,
+      "end": 39.0,
+      "text": "人唯有着耶稣的保险而是我",
+      "words": [
+        {
+          "time": 33.38,
+          "end": 33.68,
+          "text": "人",
+          "probability": 0.9863
+        },
+        {
+          "time": 34.12,
+          "end": 34.42,
+          "text": "唯",
+          "probability": 0.9691
+        },
+        {
+          "time": 34.3,
+          "end": 34.6,
+          "text": "有",
+          "probability": 0.9878
+        },
+        {
+          "time": 34.44,
+          "end": 34.74,
+          "text": "着",
+          "probability": 0.9957
+        },
+        {
+          "time": 34.64,
+          "end": 34.94,
+          "text": "耶",
+          "probability": 0.9992
+        },
+        {
+          "time": 34.9,
+          "end": 35.3,
+          "text": "稣",
+          "probability": 0.9994
+        },
+        {
+          "time": 35.42,
+          "end": 35.72,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 36.18,
+          "end": 36.48,
+          "text": "保",
+          "probability": 0.9996
+        },
+        {
+          "time": 36.6,
+          "end": 37.2,
+          "text": "险",
+          "probability": 0.9998
+        },
+        {
+          "time": 38.08,
+          "end": 38.38,
+          "text": "而",
+          "probability": 0.8813
+        },
+        {
+          "time": 38.7,
+          "end": 39.0,
+          "text": "是我",
+          "probability": 0.552
+        }
+      ]
+    },
+    {
+      "time": 39.26,
+      "end": 44.8,
+      "text": "今真神唯有着耶稣的保险主",
+      "words": [
+        {
+          "time": 39.26,
+          "end": 39.56,
+          "text": "今",
+          "probability": 0.3156
+        },
+        {
+          "time": 39.64,
+          "end": 39.94,
+          "text": "真",
+          "probability": 0.5184
+        },
+        {
+          "time": 40.22,
+          "end": 40.52,
+          "text": "神",
+          "probability": 0.5807
+        },
+        {
+          "time": 40.88,
+          "end": 41.18,
+          "text": "唯",
+          "probability": 0.9989
+        },
+        {
+          "time": 41.08,
+          "end": 41.38,
+          "text": "有",
+          "probability": 0.9988
+        },
+        {
+          "time": 41.26,
+          "end": 41.56,
+          "text": "着",
+          "probability": 0.9993
+        },
+        {
+          "time": 41.46,
+          "end": 41.76,
+          "text": "耶",
+          "probability": 0.9998
+        },
+        {
+          "time": 41.72,
+          "end": 42.1,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 42.24,
+          "end": 42.54,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 43.02,
+          "end": 43.32,
+          "text": "保",
+          "probability": 0.9996
+        },
+        {
+          "time": 43.4,
+          "end": 43.86,
+          "text": "险",
+          "probability": 0.9999
+        },
+        {
+          "time": 44.5,
+          "end": 44.8,
+          "text": "主",
+          "probability": 0.6821
+        }
+      ]
+    },
+    {
+      "time": 45.22,
+      "end": 51.52,
+      "text": "在释迦流血吸我醉的心血使",
+      "words": [
+        {
+          "time": 45.22,
+          "end": 45.52,
+          "text": "在",
+          "probability": 0.9789
+        },
+        {
+          "time": 45.58,
+          "end": 46.0,
+          "text": "释",
+          "probability": 0.7641
+        },
+        {
+          "time": 45.96,
+          "end": 46.4,
+          "text": "迦",
+          "probability": 0.9917
+        },
+        {
+          "time": 46.5,
+          "end": 46.8,
+          "text": "流",
+          "probability": 0.9405
+        },
+        {
+          "time": 47.04,
+          "end": 47.34,
+          "text": "血",
+          "probability": 0.5763
+        },
+        {
+          "time": 47.82,
+          "end": 48.12,
+          "text": "吸",
+          "probability": 0.2657
+        },
+        {
+          "time": 48.66,
+          "end": 48.96,
+          "text": "我",
+          "probability": 0.5492
+        },
+        {
+          "time": 49.04,
+          "end": 49.46,
+          "text": "醉",
+          "probability": 0.155
+        },
+        {
+          "time": 49.52,
+          "end": 49.82,
+          "text": "的",
+          "probability": 0.5222
+        },
+        {
+          "time": 49.86,
+          "end": 50.16,
+          "text": "心",
+          "probability": 0.2851
+        },
+        {
+          "time": 50.4,
+          "end": 50.7,
+          "text": "血",
+          "probability": 0.6707
+        },
+        {
+          "time": 51.22,
+          "end": 51.52,
+          "text": "使",
+          "probability": 0.2976
+        }
+      ]
+    },
+    {
+      "time": 52.1,
+      "end": 58.3,
+      "text": "我揭摆路血唯有主耶稣的帮血主",
+      "words": [
+        {
+          "time": 52.1,
+          "end": 52.4,
+          "text": "我",
+          "probability": 0.9601
+        },
+        {
+          "time": 52.4,
+          "end": 52.8,
+          "text": "揭",
+          "probability": 0.2659
+        },
+        {
+          "time": 52.84,
+          "end": 53.26,
+          "text": "摆",
+          "probability": 0.1859
+        },
+        {
+          "time": 53.3,
+          "end": 53.6,
+          "text": "路",
+          "probability": 0.2404
+        },
+        {
+          "time": 53.88,
+          "end": 54.18,
+          "text": "血",
+          "probability": 0.2044
+        },
+        {
+          "time": 54.48,
+          "end": 54.82,
+          "text": "唯",
+          "probability": 0.335
+        },
+        {
+          "time": 54.72,
+          "end": 55.02,
+          "text": "有",
+          "probability": 0.6697
+        },
+        {
+          "time": 54.92,
+          "end": 55.22,
+          "text": "主",
+          "probability": 0.2446
+        },
+        {
+          "time": 55.16,
+          "end": 55.46,
+          "text": "耶",
+          "probability": 0.9946
+        },
+        {
+          "time": 55.36,
+          "end": 55.82,
+          "text": "稣",
+          "probability": 0.9778
+        },
+        {
+          "time": 55.96,
+          "end": 56.26,
+          "text": "的",
+          "probability": 0.978
+        },
+        {
+          "time": 56.36,
+          "end": 57.06,
+          "text": "帮",
+          "probability": 0.1352
+        },
+        {
+          "time": 57.2,
+          "end": 57.5,
+          "text": "血",
+          "probability": 0.5924
+        },
+        {
+          "time": 58.0,
+          "end": 58.3,
+          "text": "主",
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "time": 58.88,
+      "end": 64.48,
+      "text": "在释迦流血吸我醉的心血",
+      "words": [
+        {
+          "time": 58.88,
+          "end": 59.18,
+          "text": "在",
+          "probability": 0.9995
+        },
+        {
+          "time": 59.28,
+          "end": 59.7,
+          "text": "释",
+          "probability": 1.0
+        },
+        {
+          "time": 59.7,
+          "end": 60.08,
+          "text": "迦",
+          "probability": 1.0
+        },
+        {
+          "time": 60.24,
+          "end": 60.54,
+          "text": "流",
+          "probability": 0.9999
+        },
+        {
+          "time": 60.78,
+          "end": 61.08,
+          "text": "血",
+          "probability": 0.9996
+        },
+        {
+          "time": 61.62,
+          "end": 61.92,
+          "text": "吸",
+          "probability": 0.9945
+        },
+        {
+          "time": 62.38,
+          "end": 62.68,
+          "text": "我",
+          "probability": 0.9977
+        },
+        {
+          "time": 62.78,
+          "end": 63.2,
+          "text": "醉",
+          "probability": 0.9943
+        },
+        {
+          "time": 63.26,
+          "end": 63.56,
+          "text": "的",
+          "probability": 0.9957
+        },
+        {
+          "time": 63.64,
+          "end": 63.94,
+          "text": "心",
+          "probability": 0.9961
+        },
+        {
+          "time": 64.18,
+          "end": 64.48,
+          "text": "血",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 64.94,
+      "end": 70.82,
+      "text": "使我揭摆路血唯有主耶稣的帮",
+      "words": [
+        {
+          "time": 64.94,
+          "end": 65.24,
+          "text": "使",
+          "probability": 0.9986
+        },
+        {
+          "time": 65.84,
+          "end": 66.14,
+          "text": "我",
+          "probability": 0.9978
+        },
+        {
+          "time": 66.16,
+          "end": 66.54,
+          "text": "揭",
+          "probability": 0.9428
+        },
+        {
+          "time": 66.46,
+          "end": 66.76,
+          "text": "摆",
+          "probability": 0.999
+        },
+        {
+          "time": 67.04,
+          "end": 67.34,
+          "text": "路",
+          "probability": 0.999
+        },
+        {
+          "time": 67.56,
+          "end": 67.86,
+          "text": "血",
+          "probability": 0.9997
+        },
+        {
+          "time": 68.3,
+          "end": 68.6,
+          "text": "唯",
+          "probability": 0.9968
+        },
+        {
+          "time": 68.48,
+          "end": 68.78,
+          "text": "有",
+          "probability": 0.99
+        },
+        {
+          "time": 68.68,
+          "end": 68.98,
+          "text": "主",
+          "probability": 0.9988
+        },
+        {
+          "time": 68.92,
+          "end": 69.22,
+          "text": "耶",
+          "probability": 0.9999
+        },
+        {
+          "time": 69.14,
+          "end": 69.56,
+          "text": "稣",
+          "probability": 0.9995
+        },
+        {
+          "time": 69.68,
+          "end": 69.98,
+          "text": "的",
+          "probability": 0.9998
+        },
+        {
+          "time": 70.14,
+          "end": 70.82,
+          "text": "帮",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 70.94,
+      "end": 75.1,
+      "text": "血唯有主耶稣的保",
+      "words": [
+        {
+          "time": 70.94,
+          "end": 71.24,
+          "text": "血",
+          "probability": 0.9989
+        },
+        {
+          "time": 71.8,
+          "end": 72.18,
+          "text": "唯",
+          "probability": 0.7576
+        },
+        {
+          "time": 72.22,
+          "end": 72.52,
+          "text": "有",
+          "probability": 0.9991
+        },
+        {
+          "time": 72.54,
+          "end": 72.84,
+          "text": "主",
+          "probability": 0.9923
+        },
+        {
+          "time": 72.82,
+          "end": 73.12,
+          "text": "耶",
+          "probability": 0.9987
+        },
+        {
+          "time": 73.1,
+          "end": 73.64,
+          "text": "稣",
+          "probability": 0.994
+        },
+        {
+          "time": 73.98,
+          "end": 74.28,
+          "text": "的",
+          "probability": 0.9948
+        },
+        {
+          "time": 74.8,
+          "end": 75.1,
+          "text": "保",
+          "probability": 0.4863
+        }
+      ]
+    },
+    {
+      "time": 76.36,
+      "end": 76.66,
+      "text": "水",
+      "words": [
+        {
+          "time": 76.36,
+          "end": 76.66,
+          "text": "水",
+          "probability": 0.1989
+        }
+      ]
+    },
+    {
+      "time": 90.58,
+      "end": 96.3,
+      "text": "哈雷路亚唯有主耶稣的保水唯有主耶稣的保水",
+      "words": [
+        {
+          "time": 90.58,
+          "end": 90.88,
+          "text": "哈",
+          "probability": 0.8037
+        },
+        {
+          "time": 90.66,
+          "end": 91.0,
+          "text": "雷",
+          "probability": 0.5547
+        },
+        {
+          "time": 90.86,
+          "end": 91.16,
+          "text": "路",
+          "probability": 0.5497
+        },
+        {
+          "time": 91.0,
+          "end": 91.34,
+          "text": "亚",
+          "probability": 0.9388
+        },
+        {
+          "time": 91.32,
+          "end": 91.66,
+          "text": "唯",
+          "probability": 0.9894
+        },
+        {
+          "time": 91.58,
+          "end": 91.88,
+          "text": "有",
+          "probability": 0.9999
+        },
+        {
+          "time": 91.78,
+          "end": 92.08,
+          "text": "主",
+          "probability": 0.9996
+        },
+        {
+          "time": 92.04,
+          "end": 92.34,
+          "text": "耶",
+          "probability": 1.0
+        },
+        {
+          "time": 92.18,
+          "end": 92.52,
+          "text": "稣",
+          "probability": 0.9998
+        },
+        {
+          "time": 92.34,
+          "end": 92.64,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 92.52,
+          "end": 92.82,
+          "text": "保",
+          "probability": 0.9963
+        },
+        {
+          "time": 92.76,
+          "end": 93.06,
+          "text": "水",
+          "probability": 0.9958
+        },
+        {
+          "time": 93.08,
+          "end": 94.9,
+          "text": "唯",
+          "probability": 0.9938
+        },
+        {
+          "time": 94.8,
+          "end": 95.1,
+          "text": "有",
+          "probability": 0.9999
+        },
+        {
+          "time": 95.02,
+          "end": 95.32,
+          "text": "主",
+          "probability": 0.9965
+        },
+        {
+          "time": 95.24,
+          "end": 95.54,
+          "text": "耶",
+          "probability": 1.0
+        },
+        {
+          "time": 95.4,
+          "end": 95.74,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 95.56,
+          "end": 95.86,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 95.76,
+          "end": 96.06,
+          "text": "保",
+          "probability": 0.9985
+        },
+        {
+          "time": 96.0,
+          "end": 96.3,
+          "text": "水",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 97.96,
+      "end": 101.46,
+      "text": "唯有耶稣的宝血能成为我们众人的赎家",
+      "words": [
+        {
+          "time": 97.96,
+          "end": 98.3,
+          "text": "唯",
+          "probability": 0.9901
+        },
+        {
+          "time": 98.14,
+          "end": 98.44,
+          "text": "有",
+          "probability": 0.9993
+        },
+        {
+          "time": 98.38,
+          "end": 98.68,
+          "text": "耶",
+          "probability": 0.9993
+        },
+        {
+          "time": 98.56,
+          "end": 98.86,
+          "text": "稣",
+          "probability": 0.9992
+        },
+        {
+          "time": 98.7,
+          "end": 99.0,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 98.82,
+          "end": 99.2,
+          "text": "宝",
+          "probability": 0.9118
+        },
+        {
+          "time": 99.14,
+          "end": 99.44,
+          "text": "血",
+          "probability": 0.7095
+        },
+        {
+          "time": 99.4,
+          "end": 99.7,
+          "text": "能",
+          "probability": 0.9978
+        },
+        {
+          "time": 99.62,
+          "end": 99.92,
+          "text": "成",
+          "probability": 0.9999
+        },
+        {
+          "time": 99.76,
+          "end": 100.06,
+          "text": "为",
+          "probability": 0.9998
+        },
+        {
+          "time": 99.98,
+          "end": 100.28,
+          "text": "我们",
+          "probability": 0.9989
+        },
+        {
+          "time": 100.22,
+          "end": 100.6,
+          "text": "众",
+          "probability": 0.9779
+        },
+        {
+          "time": 100.48,
+          "end": 100.78,
+          "text": "人",
+          "probability": 0.999
+        },
+        {
+          "time": 100.62,
+          "end": 100.92,
+          "text": "的",
+          "probability": 0.9995
+        },
+        {
+          "time": 100.78,
+          "end": 101.16,
+          "text": "赎",
+          "probability": 0.6354
+        },
+        {
+          "time": 101.16,
+          "end": 101.46,
+          "text": "家",
+          "probability": 0.2301
+        }
+      ]
+    },
+    {
+      "time": 103.6,
+      "end": 106.6,
+      "text": "是他将我们从黑暗中引领出来",
+      "words": [
+        {
+          "time": 103.6,
+          "end": 103.9,
+          "text": "是",
+          "probability": 0.9478
+        },
+        {
+          "time": 103.72,
+          "end": 104.02,
+          "text": "他",
+          "probability": 0.6186
+        },
+        {
+          "time": 104.0,
+          "end": 104.3,
+          "text": "将",
+          "probability": 0.9991
+        },
+        {
+          "time": 104.28,
+          "end": 104.58,
+          "text": "我们",
+          "probability": 0.9994
+        },
+        {
+          "time": 104.58,
+          "end": 104.88,
+          "text": "从",
+          "probability": 0.7911
+        },
+        {
+          "time": 104.9,
+          "end": 105.2,
+          "text": "黑",
+          "probability": 0.9844
+        },
+        {
+          "time": 105.02,
+          "end": 105.38,
+          "text": "暗",
+          "probability": 0.9994
+        },
+        {
+          "time": 105.36,
+          "end": 105.66,
+          "text": "中",
+          "probability": 0.9997
+        },
+        {
+          "time": 105.64,
+          "end": 105.94,
+          "text": "引",
+          "probability": 0.9637
+        },
+        {
+          "time": 105.82,
+          "end": 106.18,
+          "text": "领",
+          "probability": 0.9997
+        },
+        {
+          "time": 106.3,
+          "end": 106.6,
+          "text": "出来",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 109.86,
+      "end": 111.6,
+      "text": "从此我们不在黑暗",
+      "words": [
+        {
+          "time": 109.86,
+          "end": 110.16,
+          "text": "从",
+          "probability": 0.997
+        },
+        {
+          "time": 110.1,
+          "end": 110.4,
+          "text": "此",
+          "probability": 0.9999
+        },
+        {
+          "time": 110.36,
+          "end": 110.66,
+          "text": "我们",
+          "probability": 0.9994
+        },
+        {
+          "time": 110.54,
+          "end": 110.84,
+          "text": "不",
+          "probability": 0.9989
+        },
+        {
+          "time": 110.74,
+          "end": 111.04,
+          "text": "在",
+          "probability": 0.9639
+        },
+        {
+          "time": 111.06,
+          "end": 111.36,
+          "text": "黑",
+          "probability": 0.9985
+        },
+        {
+          "time": 111.24,
+          "end": 111.6,
+          "text": "暗",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 112.84,
+      "end": 116.8,
+      "text": "是圣洁的国度是君尊的祭祀",
+      "words": [
+        {
+          "time": 112.84,
+          "end": 113.14,
+          "text": "是",
+          "probability": 0.9991
+        },
+        {
+          "time": 113.08,
+          "end": 113.48,
+          "text": "圣",
+          "probability": 0.9984
+        },
+        {
+          "time": 113.36,
+          "end": 113.72,
+          "text": "洁",
+          "probability": 0.9946
+        },
+        {
+          "time": 113.56,
+          "end": 113.86,
+          "text": "的",
+          "probability": 0.9992
+        },
+        {
+          "time": 113.74,
+          "end": 114.04,
+          "text": "国",
+          "probability": 0.9984
+        },
+        {
+          "time": 113.98,
+          "end": 114.28,
+          "text": "度",
+          "probability": 0.9877
+        },
+        {
+          "time": 115.26,
+          "end": 115.56,
+          "text": "是",
+          "probability": 0.9993
+        },
+        {
+          "time": 115.56,
+          "end": 115.86,
+          "text": "君",
+          "probability": 0.9407
+        },
+        {
+          "time": 115.8,
+          "end": 116.16,
+          "text": "尊",
+          "probability": 0.9586
+        },
+        {
+          "time": 116.02,
+          "end": 116.32,
+          "text": "的",
+          "probability": 0.9982
+        },
+        {
+          "time": 116.2,
+          "end": 116.56,
+          "text": "祭",
+          "probability": 0.5097
+        },
+        {
+          "time": 116.48,
+          "end": 116.8,
+          "text": "祀",
+          "probability": 0.9493
+        }
+      ]
+    },
+    {
+      "time": 118.22,
+      "end": 119.56,
+      "text": "是上帝的儿女",
+      "words": [
+        {
+          "time": 118.22,
+          "end": 118.52,
+          "text": "是",
+          "probability": 0.9944
+        },
+        {
+          "time": 118.5,
+          "end": 118.8,
+          "text": "上",
+          "probability": 0.9887
+        },
+        {
+          "time": 118.72,
+          "end": 119.08,
+          "text": "帝",
+          "probability": 0.9998
+        },
+        {
+          "time": 118.9,
+          "end": 119.2,
+          "text": "的",
+          "probability": 0.9994
+        },
+        {
+          "time": 119.08,
+          "end": 119.38,
+          "text": "儿",
+          "probability": 0.9962
+        },
+        {
+          "time": 119.26,
+          "end": 119.56,
+          "text": "女",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 121.18,
+      "end": 123.22,
+      "text": "我们是光明之子",
+      "words": [
+        {
+          "time": 121.18,
+          "end": 121.48,
+          "text": "我们",
+          "probability": 0.9884
+        },
+        {
+          "time": 121.56,
+          "end": 121.86,
+          "text": "是",
+          "probability": 0.9958
+        },
+        {
+          "time": 122.06,
+          "end": 122.36,
+          "text": "光",
+          "probability": 0.9751
+        },
+        {
+          "time": 122.32,
+          "end": 122.62,
+          "text": "明",
+          "probability": 0.9993
+        },
+        {
+          "time": 122.64,
+          "end": 122.94,
+          "text": "之",
+          "probability": 0.9968
+        },
+        {
+          "time": 122.92,
+          "end": 123.22,
+          "text": "子",
+          "probability": 0.9997
+        }
+      ]
+    }
+  ]
+}

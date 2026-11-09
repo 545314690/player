@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "4047",
+  "waveform": {
+    "source": "4047",
+    "url": "https://www.izanmei.cc/song/4047.html",
+    "audio": "https://play.izanm.org/song/p/4047.mp3",
+    "offset": -0.009348,
+    "scale": 0.999996549,
+    "residual": 0.000607,
+    "coverage": 0.99996,
+    "windows": [
+      {
+        "localStart": 18.714,
+        "sourceStart": 18.704,
+        "offset": -0.0095,
+        "coefficient": 0.987923
+      },
+      {
+        "localStart": 46.785,
+        "sourceStart": 46.776,
+        "offset": -0.0095,
+        "coefficient": 0.976867
+      },
+      {
+        "localStart": 74.856,
+        "sourceStart": 74.847,
+        "offset": -0.0095,
+        "coefficient": 0.975166
+      },
+      {
+        "localStart": 102.928,
+        "sourceStart": 102.918,
+        "offset": -0.0095,
+        "coefficient": 0.982879
+      },
+      {
+        "localStart": 131.0,
+        "sourceStart": 130.99,
+        "offset": -0.0095,
+        "coefficient": 0.985517
+      },
+      {
+        "localStart": 159.071,
+        "sourceStart": 159.061,
+        "offset": -0.0095,
+        "coefficient": 0.974974
+      },
+      {
+        "localStart": 187.142,
+        "sourceStart": 187.132,
+        "offset": -0.0095,
+        "coefficient": 0.981179
+      },
+      {
+        "localStart": 210.535,
+        "sourceStart": 210.525,
+        "offset": -0.0095,
+        "coefficient": 0.976958
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.97895,
+  "id": "sd7fad048532a",
+  "file": "057人的生命只有一次.mp3",
+  "fullDuration": 234.0475,
+  "recordingHash": "225426c897fcc80b5acc42fd84f620303b54e79d727061308e3470462a237de6",
+  "lines": []
+}

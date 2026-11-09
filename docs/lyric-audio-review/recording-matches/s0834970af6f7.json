@@ -1,0 +1,125 @@
+{
+  "id": "s0834970af6f7",
+  "file": "132在他没有难成的事.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "6636",
+    "url": "https://www.izanmei.cc/song/6636.html",
+    "audio": "https://play.izanm.org/song/p/6636.mp3",
+    "offset": 0.050593,
+    "scale": 0.999999251,
+    "residual": 0.000578,
+    "coverage": 0.999688,
+    "windows": [
+      {
+        "localStart": 19.962,
+        "sourceStart": 20.012,
+        "offset": 0.0505,
+        "coefficient": 0.93631
+      },
+      {
+        "localStart": 49.904,
+        "sourceStart": 49.955,
+        "offset": 0.0505,
+        "coefficient": 0.90715
+      },
+      {
+        "localStart": 79.847,
+        "sourceStart": 79.897,
+        "offset": 0.0505,
+        "coefficient": 0.932556
+      },
+      {
+        "localStart": 109.79,
+        "sourceStart": 109.841,
+        "offset": 0.0505,
+        "coefficient": 0.938122
+      },
+      {
+        "localStart": 139.732,
+        "sourceStart": 139.783,
+        "offset": 0.0505,
+        "coefficient": 0.919585
+      },
+      {
+        "localStart": 169.675,
+        "sourceStart": 169.726,
+        "offset": 0.0505,
+        "coefficient": 0.946484
+      },
+      {
+        "localStart": 199.618,
+        "sourceStart": 199.668,
+        "offset": 0.0505,
+        "coefficient": 0.921108
+      },
+      {
+        "localStart": 224.571,
+        "sourceStart": 224.621,
+        "offset": 0.0505,
+        "coefficient": 0.901755
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "6636",
+      "offset": 0.050593,
+      "scale": 0.999999251,
+      "residual": 0.000578,
+      "coverage": 0.999688,
+      "windows": [
+        {
+          "localStart": 19.962,
+          "sourceStart": 20.012,
+          "offset": 0.0505,
+          "coefficient": 0.93631
+        },
+        {
+          "localStart": 49.904,
+          "sourceStart": 49.955,
+          "offset": 0.0505,
+          "coefficient": 0.90715
+        },
+        {
+          "localStart": 79.847,
+          "sourceStart": 79.897,
+          "offset": 0.0505,
+          "coefficient": 0.932556
+        },
+        {
+          "localStart": 109.79,
+          "sourceStart": 109.841,
+          "offset": 0.0505,
+          "coefficient": 0.938122
+        },
+        {
+          "localStart": 139.732,
+          "sourceStart": 139.783,
+          "offset": 0.0505,
+          "coefficient": 0.919585
+        },
+        {
+          "localStart": 169.675,
+          "sourceStart": 169.726,
+          "offset": 0.0505,
+          "coefficient": 0.946484
+        },
+        {
+          "localStart": 199.618,
+          "sourceStart": 199.668,
+          "offset": 0.0505,
+          "coefficient": 0.921108
+        },
+        {
+          "localStart": 224.571,
+          "sourceStart": 224.621,
+          "offset": 0.0505,
+          "coefficient": 0.901755
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

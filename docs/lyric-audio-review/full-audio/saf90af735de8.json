@@ -1,0 +1,6215 @@
+{
+  "id": "saf90af735de8",
+  "file": "144 我们一起祷告吧合唱.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "5017ad1679dbbf0a38b464b1b30015fca6760cbe061c5ca57ae2477d240d56d3",
+  "fullDuration": 541.074286,
+  "lines": [
+    {
+      "time": 3.84,
+      "end": 5.12,
+      "text": "作词 :王宗盛作曲 :王宗盛",
+      "words": [
+        {
+          "time": 3.84,
+          "end": 4.14,
+          "text": "作",
+          "probability": 0.0501
+        },
+        {
+          "time": 3.84,
+          "end": 4.14,
+          "text": "词",
+          "probability": 0.5225
+        },
+        {
+          "time": 3.84,
+          "end": 4.14,
+          "text": " :",
+          "probability": 0.6097
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": "王",
+          "probability": 0.0216
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": "宗",
+          "probability": 0.0429
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": "盛",
+          "probability": 0.4865
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": "作",
+          "probability": 0.5029
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": "曲",
+          "probability": 0.6573
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": " :",
+          "probability": 0.9428
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": "王",
+          "probability": 0.6834
+        },
+        {
+          "time": 3.88,
+          "end": 4.18,
+          "text": "宗",
+          "probability": 0.9514
+        },
+        {
+          "time": 4.82,
+          "end": 5.12,
+          "text": "盛",
+          "probability": 0.9909
+        }
+      ]
+    },
+    {
+      "time": 7.22,
+      "end": 7.64,
+      "text": "作曲 :王宗",
+      "words": [
+        {
+          "time": 7.22,
+          "end": 7.52,
+          "text": "作",
+          "probability": 0.3998
+        },
+        {
+          "time": 7.22,
+          "end": 7.52,
+          "text": "曲",
+          "probability": 0.7869
+        },
+        {
+          "time": 7.22,
+          "end": 7.52,
+          "text": " :",
+          "probability": 0.9717
+        },
+        {
+          "time": 7.34,
+          "end": 7.64,
+          "text": "王",
+          "probability": 0.8821
+        },
+        {
+          "time": 7.34,
+          "end": 7.64,
+          "text": "宗",
+          "probability": 0.9793
+        }
+      ]
+    },
+    {
+      "time": 12.58,
+      "end": 14.62,
+      "text": "盛作曲 :王宗盛作曲 :王宗盛作曲 :",
+      "words": [
+        {
+          "time": 12.58,
+          "end": 12.88,
+          "text": "盛",
+          "probability": 0.9959
+        },
+        {
+          "time": 12.58,
+          "end": 12.88,
+          "text": "作",
+          "probability": 0.5047
+        },
+        {
+          "time": 12.58,
+          "end": 12.88,
+          "text": "曲",
+          "probability": 0.7584
+        },
+        {
+          "time": 12.58,
+          "end": 12.88,
+          "text": " :",
+          "probability": 0.9806
+        },
+        {
+          "time": 12.6,
+          "end": 12.9,
+          "text": "王",
+          "probability": 0.934
+        },
+        {
+          "time": 12.6,
+          "end": 12.9,
+          "text": "宗",
+          "probability": 0.9877
+        },
+        {
+          "time": 12.74,
+          "end": 13.04,
+          "text": "盛",
+          "probability": 0.9974
+        },
+        {
+          "time": 12.74,
+          "end": 13.04,
+          "text": "作",
+          "probability": 0.5251
+        },
+        {
+          "time": 12.74,
+          "end": 13.04,
+          "text": "曲",
+          "probability": 0.7663
+        },
+        {
+          "time": 12.74,
+          "end": 13.04,
+          "text": " :",
+          "probability": 0.9833
+        },
+        {
+          "time": 13.12,
+          "end": 13.42,
+          "text": "王",
+          "probability": 0.9546
+        },
+        {
+          "time": 13.12,
+          "end": 13.42,
+          "text": "宗",
+          "probability": 0.9907
+        },
+        {
+          "time": 14.24,
+          "end": 14.56,
+          "text": "盛",
+          "probability": 0.9982
+        },
+        {
+          "time": 14.26,
+          "end": 14.56,
+          "text": "作",
+          "probability": 0.5314
+        },
+        {
+          "time": 14.26,
+          "end": 14.56,
+          "text": "曲",
+          "probability": 0.8018
+        },
+        {
+          "time": 14.32,
+          "end": 14.62,
+          "text": " :",
+          "probability": 0.9852
+        }
+      ]
+    },
+    {
+      "time": 17.44,
+      "end": 18.3,
+      "text": "王宗盛",
+      "words": [
+        {
+          "time": 17.44,
+          "end": 17.74,
+          "text": "王",
+          "probability": 0.9637
+        },
+        {
+          "time": 17.44,
+          "end": 18.16,
+          "text": "宗",
+          "probability": 0.9914
+        },
+        {
+          "time": 18.0,
+          "end": 18.3,
+          "text": "盛",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 20.26,
+      "end": 22.14,
+      "text": "作曲 :王宗盛一喜躺躺躺",
+      "words": [
+        {
+          "time": 20.26,
+          "end": 20.56,
+          "text": "作",
+          "probability": 0.4664
+        },
+        {
+          "time": 20.26,
+          "end": 20.56,
+          "text": "曲",
+          "probability": 0.8589
+        },
+        {
+          "time": 20.26,
+          "end": 20.56,
+          "text": " :",
+          "probability": 0.9843
+        },
+        {
+          "time": 20.26,
+          "end": 20.56,
+          "text": "王",
+          "probability": 0.9683
+        },
+        {
+          "time": 20.26,
+          "end": 20.56,
+          "text": "宗",
+          "probability": 0.9914
+        },
+        {
+          "time": 20.26,
+          "end": 20.56,
+          "text": "盛",
+          "probability": 0.9989
+        },
+        {
+          "time": 20.26,
+          "end": 20.56,
+          "text": "一",
+          "probability": 0.5067
+        },
+        {
+          "time": 20.52,
+          "end": 20.82,
+          "text": "喜",
+          "probability": 0.4909
+        },
+        {
+          "time": 20.72,
+          "end": 21.04,
+          "text": "躺",
+          "probability": 0.1424
+        },
+        {
+          "time": 21.0,
+          "end": 21.3,
+          "text": "躺",
+          "probability": 0.6439
+        },
+        {
+          "time": 21.28,
+          "end": 22.14,
+          "text": "躺",
+          "probability": 0.917
+        }
+      ]
+    },
+    {
+      "time": 23.88,
+      "end": 25.88,
+      "text": "来到主的恩贱",
+      "words": [
+        {
+          "time": 23.88,
+          "end": 24.18,
+          "text": "来",
+          "probability": 0.4456
+        },
+        {
+          "time": 24.12,
+          "end": 24.42,
+          "text": "到",
+          "probability": 0.9447
+        },
+        {
+          "time": 24.3,
+          "end": 24.6,
+          "text": "主",
+          "probability": 0.2166
+        },
+        {
+          "time": 24.64,
+          "end": 24.94,
+          "text": "的",
+          "probability": 0.3427
+        },
+        {
+          "time": 25.02,
+          "end": 25.32,
+          "text": "恩",
+          "probability": 0.6111
+        },
+        {
+          "time": 25.26,
+          "end": 25.88,
+          "text": "贱",
+          "probability": 0.265
+        }
+      ]
+    },
+    {
+      "time": 28.34,
+      "end": 30.4,
+      "text": "聚习醉吧",
+      "words": [
+        {
+          "time": 28.34,
+          "end": 28.72,
+          "text": "聚",
+          "probability": 0.181
+        },
+        {
+          "time": 28.68,
+          "end": 29.14,
+          "text": "习",
+          "probability": 0.2203
+        },
+        {
+          "time": 29.18,
+          "end": 29.62,
+          "text": "醉",
+          "probability": 0.418
+        },
+        {
+          "time": 30.1,
+          "end": 30.4,
+          "text": "吧",
+          "probability": 0.926
+        }
+      ]
+    },
+    {
+      "time": 32.34,
+      "end": 32.64,
+      "text": "是",
+      "words": [
+        {
+          "time": 32.34,
+          "end": 32.64,
+          "text": "是",
+          "probability": 0.1646
+        }
+      ]
+    },
+    {
+      "time": 34.46,
+      "end": 35.82,
+      "text": "灭灭的主",
+      "words": [
+        {
+          "time": 34.46,
+          "end": 34.88,
+          "text": "灭",
+          "probability": 0.217
+        },
+        {
+          "time": 34.88,
+          "end": 35.18,
+          "text": "灭",
+          "probability": 0.2756
+        },
+        {
+          "time": 35.12,
+          "end": 35.42,
+          "text": "的",
+          "probability": 0.5811
+        },
+        {
+          "time": 35.52,
+          "end": 35.82,
+          "text": "主",
+          "probability": 0.6637
+        }
+      ]
+    },
+    {
+      "time": 37.98,
+      "end": 43.8,
+      "text": "我们向着天举起双手",
+      "words": [
+        {
+          "time": 37.98,
+          "end": 38.28,
+          "text": "我们",
+          "probability": 0.749
+        },
+        {
+          "time": 38.34,
+          "end": 38.64,
+          "text": "向",
+          "probability": 0.5658
+        },
+        {
+          "time": 38.88,
+          "end": 39.18,
+          "text": "着",
+          "probability": 0.6751
+        },
+        {
+          "time": 39.6,
+          "end": 39.9,
+          "text": "天",
+          "probability": 0.593
+        },
+        {
+          "time": 40.88,
+          "end": 42.54,
+          "text": "举",
+          "probability": 0.9256
+        },
+        {
+          "time": 42.58,
+          "end": 42.88,
+          "text": "起",
+          "probability": 0.9581
+        },
+        {
+          "time": 42.98,
+          "end": 43.4,
+          "text": "双",
+          "probability": 0.9248
+        },
+        {
+          "time": 43.5,
+          "end": 43.8,
+          "text": "手",
+          "probability": 0.9674
+        }
+      ]
+    },
+    {
+      "time": 44.52,
+      "end": 44.82,
+      "text": "我们",
+      "words": [
+        {
+          "time": 44.52,
+          "end": 44.82,
+          "text": "我们",
+          "probability": 0.6536
+        }
+      ]
+    },
+    {
+      "time": 48.22,
+      "end": 49.98,
+      "text": "一起好好吧",
+      "words": [
+        {
+          "time": 48.22,
+          "end": 48.52,
+          "text": "一起",
+          "probability": 0.8115
+        },
+        {
+          "time": 48.54,
+          "end": 48.84,
+          "text": "好好",
+          "probability": 0.5263
+        },
+        {
+          "time": 49.68,
+          "end": 49.98,
+          "text": "吧",
+          "probability": 0.3183
+        }
+      ]
+    },
+    {
+      "time": 51.52,
+      "end": 53.26,
+      "text": "来到主根前",
+      "words": [
+        {
+          "time": 51.52,
+          "end": 51.82,
+          "text": "来",
+          "probability": 0.6077
+        },
+        {
+          "time": 51.72,
+          "end": 52.02,
+          "text": "到",
+          "probability": 0.6435
+        },
+        {
+          "time": 51.94,
+          "end": 52.24,
+          "text": "主",
+          "probability": 0.8317
+        },
+        {
+          "time": 52.42,
+          "end": 52.72,
+          "text": "根",
+          "probability": 0.4972
+        },
+        {
+          "time": 52.96,
+          "end": 53.26,
+          "text": "前",
+          "probability": 0.5931
+        }
+      ]
+    },
+    {
+      "time": 55.62,
+      "end": 59.52,
+      "text": "续细追伴 是",
+      "words": [
+        {
+          "time": 55.62,
+          "end": 56.04,
+          "text": "续",
+          "probability": 0.1176
+        },
+        {
+          "time": 56.04,
+          "end": 56.44,
+          "text": "细",
+          "probability": 0.2613
+        },
+        {
+          "time": 56.56,
+          "end": 56.86,
+          "text": "追",
+          "probability": 0.6252
+        },
+        {
+          "time": 57.0,
+          "end": 58.32,
+          "text": "伴",
+          "probability": 0.3236
+        },
+        {
+          "time": 59.22,
+          "end": 59.52,
+          "text": " 是",
+          "probability": 0.2948
+        }
+      ]
+    },
+    {
+      "time": 61.54,
+      "end": 62.92,
+      "text": "烈灵的主",
+      "words": [
+        {
+          "time": 61.54,
+          "end": 61.98,
+          "text": "烈",
+          "probability": 0.2162
+        },
+        {
+          "time": 61.92,
+          "end": 62.24,
+          "text": "灵",
+          "probability": 0.6198
+        },
+        {
+          "time": 62.16,
+          "end": 62.46,
+          "text": "的",
+          "probability": 0.9566
+        },
+        {
+          "time": 62.62,
+          "end": 62.92,
+          "text": "主",
+          "probability": 0.5997
+        }
+      ]
+    },
+    {
+      "time": 64.98,
+      "end": 66.1,
+      "text": "我们想着这",
+      "words": [
+        {
+          "time": 64.98,
+          "end": 65.28,
+          "text": "我们",
+          "probability": 0.9001
+        },
+        {
+          "time": 65.26,
+          "end": 65.56,
+          "text": "想",
+          "probability": 0.7016
+        },
+        {
+          "time": 65.76,
+          "end": 66.06,
+          "text": "着",
+          "probability": 0.819
+        },
+        {
+          "time": 65.8,
+          "end": 66.1,
+          "text": "这",
+          "probability": 0.2386
+        }
+      ]
+    },
+    {
+      "time": 68.02,
+      "end": 70.58,
+      "text": "天举起双手",
+      "words": [
+        {
+          "time": 68.02,
+          "end": 68.32,
+          "text": "天",
+          "probability": 0.8699
+        },
+        {
+          "time": 69.12,
+          "end": 69.54,
+          "text": "举",
+          "probability": 0.5002
+        },
+        {
+          "time": 69.56,
+          "end": 69.86,
+          "text": "起",
+          "probability": 0.8122
+        },
+        {
+          "time": 69.94,
+          "end": 70.38,
+          "text": "双",
+          "probability": 0.9626
+        },
+        {
+          "time": 70.28,
+          "end": 70.58,
+          "text": "手",
+          "probability": 0.8564
+        }
+      ]
+    },
+    {
+      "time": 72.4,
+      "end": 72.94,
+      "text": "我们 一",
+      "words": [
+        {
+          "time": 72.4,
+          "end": 72.7,
+          "text": "我们",
+          "probability": 0.9037
+        },
+        {
+          "time": 72.64,
+          "end": 72.94,
+          "text": " 一",
+          "probability": 0.4688
+        }
+      ]
+    },
+    {
+      "time": 75.2,
+      "end": 80.16,
+      "text": "起来到宝宝来到更谢",
+      "words": [
+        {
+          "time": 75.2,
+          "end": 75.5,
+          "text": "起",
+          "probability": 0.9904
+        },
+        {
+          "time": 75.38,
+          "end": 75.68,
+          "text": "来",
+          "probability": 0.1625
+        },
+        {
+          "time": 75.56,
+          "end": 75.86,
+          "text": "到",
+          "probability": 0.4357
+        },
+        {
+          "time": 75.88,
+          "end": 76.18,
+          "text": "宝",
+          "probability": 0.142
+        },
+        {
+          "time": 76.5,
+          "end": 76.8,
+          "text": "宝",
+          "probability": 0.8753
+        },
+        {
+          "time": 77.5,
+          "end": 77.8,
+          "text": "来",
+          "probability": 0.9367
+        },
+        {
+          "time": 78.88,
+          "end": 79.18,
+          "text": "到",
+          "probability": 0.9502
+        },
+        {
+          "time": 79.08,
+          "end": 79.38,
+          "text": "更",
+          "probability": 0.143
+        },
+        {
+          "time": 79.86,
+          "end": 80.16,
+          "text": "谢",
+          "probability": 0.2251
+        }
+      ]
+    },
+    {
+      "time": 82.52,
+      "end": 84.6,
+      "text": "聚系最奔",
+      "words": [
+        {
+          "time": 82.52,
+          "end": 82.9,
+          "text": "聚",
+          "probability": 0.302
+        },
+        {
+          "time": 82.98,
+          "end": 83.28,
+          "text": "系",
+          "probability": 0.1633
+        },
+        {
+          "time": 83.46,
+          "end": 83.76,
+          "text": "最",
+          "probability": 0.2385
+        },
+        {
+          "time": 83.8,
+          "end": 84.6,
+          "text": "奔",
+          "probability": 0.1191
+        }
+      ]
+    },
+    {
+      "time": 85.94,
+      "end": 89.68,
+      "text": "祈祷聚系最奔祈祷聚系最奔祈祷聚",
+      "words": [
+        {
+          "time": 85.94,
+          "end": 86.56,
+          "text": "祈",
+          "probability": 0.1084
+        },
+        {
+          "time": 87.58,
+          "end": 88.16,
+          "text": "祷",
+          "probability": 0.2798
+        },
+        {
+          "time": 88.3,
+          "end": 88.66,
+          "text": "聚",
+          "probability": 0.4123
+        },
+        {
+          "time": 88.7,
+          "end": 89.0,
+          "text": "系",
+          "probability": 0.7197
+        },
+        {
+          "time": 88.7,
+          "end": 89.0,
+          "text": "最",
+          "probability": 0.3092
+        },
+        {
+          "time": 88.7,
+          "end": 89.0,
+          "text": "奔",
+          "probability": 0.9921
+        },
+        {
+          "time": 88.7,
+          "end": 89.0,
+          "text": "祈",
+          "probability": 0.717
+        },
+        {
+          "time": 88.7,
+          "end": 89.0,
+          "text": "祷",
+          "probability": 0.9894
+        },
+        {
+          "time": 88.7,
+          "end": 89.0,
+          "text": "聚",
+          "probability": 0.7603
+        },
+        {
+          "time": 89.02,
+          "end": 89.32,
+          "text": "系",
+          "probability": 0.7813
+        },
+        {
+          "time": 89.02,
+          "end": 89.32,
+          "text": "最",
+          "probability": 0.4627
+        },
+        {
+          "time": 89.06,
+          "end": 89.36,
+          "text": "奔",
+          "probability": 0.9963
+        },
+        {
+          "time": 89.06,
+          "end": 89.36,
+          "text": "祈",
+          "probability": 0.9274
+        },
+        {
+          "time": 89.06,
+          "end": 89.36,
+          "text": "祷",
+          "probability": 0.9933
+        },
+        {
+          "time": 89.16,
+          "end": 89.68,
+          "text": "聚",
+          "probability": 0.9536
+        }
+      ]
+    },
+    {
+      "time": 92.22,
+      "end": 93.38,
+      "text": "系最奔祈祷聚系最奔祈祷聚系最奔祈祷聚系",
+      "words": [
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "系",
+          "probability": 0.972
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "最",
+          "probability": 0.5603
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "奔",
+          "probability": 0.9984
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "祈",
+          "probability": 0.9596
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "祷",
+          "probability": 0.9939
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "聚",
+          "probability": 0.7519
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "系",
+          "probability": 0.979
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "最",
+          "probability": 0.8991
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "奔",
+          "probability": 0.9993
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "祈",
+          "probability": 0.9794
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "祷",
+          "probability": 0.9945
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "聚",
+          "probability": 0.9681
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "系",
+          "probability": 0.962
+        },
+        {
+          "time": 92.54,
+          "end": 92.84,
+          "text": "最",
+          "probability": 0.8614
+        },
+        {
+          "time": 92.92,
+          "end": 93.38,
+          "text": "奔",
+          "probability": 0.9993
+        },
+        {
+          "time": 93.08,
+          "end": 93.38,
+          "text": "祈",
+          "probability": 0.9873
+        },
+        {
+          "time": 93.08,
+          "end": 93.38,
+          "text": "祷",
+          "probability": 0.9948
+        },
+        {
+          "time": 93.08,
+          "end": 93.38,
+          "text": "聚",
+          "probability": 0.386
+        },
+        {
+          "time": 93.08,
+          "end": 93.38,
+          "text": "系",
+          "probability": 0.9581
+        }
+      ]
+    },
+    {
+      "time": 95.32,
+      "end": 100.96,
+      "text": "最奔祈祷聚系最奔祈祷聚系最奔祈祷求你打开天",
+      "words": [
+        {
+          "time": 95.32,
+          "end": 95.62,
+          "text": "最",
+          "probability": 0.814
+        },
+        {
+          "time": 95.32,
+          "end": 95.62,
+          "text": "奔",
+          "probability": 0.9994
+        },
+        {
+          "time": 95.64,
+          "end": 95.94,
+          "text": "祈",
+          "probability": 0.9916
+        },
+        {
+          "time": 95.64,
+          "end": 95.94,
+          "text": "祷",
+          "probability": 0.9962
+        },
+        {
+          "time": 95.64,
+          "end": 96.06,
+          "text": "聚",
+          "probability": 0.964
+        },
+        {
+          "time": 96.0,
+          "end": 96.3,
+          "text": "系",
+          "probability": 0.9471
+        },
+        {
+          "time": 96.48,
+          "end": 96.78,
+          "text": "最",
+          "probability": 0.9156
+        },
+        {
+          "time": 96.48,
+          "end": 96.92,
+          "text": "奔",
+          "probability": 0.9995
+        },
+        {
+          "time": 96.86,
+          "end": 97.16,
+          "text": "祈",
+          "probability": 0.9896
+        },
+        {
+          "time": 96.86,
+          "end": 97.16,
+          "text": "祷",
+          "probability": 0.9956
+        },
+        {
+          "time": 96.86,
+          "end": 97.16,
+          "text": "聚",
+          "probability": 0.9524
+        },
+        {
+          "time": 96.86,
+          "end": 97.16,
+          "text": "系",
+          "probability": 0.9377
+        },
+        {
+          "time": 96.86,
+          "end": 97.16,
+          "text": "最",
+          "probability": 0.9081
+        },
+        {
+          "time": 96.86,
+          "end": 97.44,
+          "text": "奔",
+          "probability": 0.9995
+        },
+        {
+          "time": 97.66,
+          "end": 98.04,
+          "text": "祈",
+          "probability": 0.9826
+        },
+        {
+          "time": 97.84,
+          "end": 98.98,
+          "text": "祷",
+          "probability": 0.994
+        },
+        {
+          "time": 99.12,
+          "end": 99.42,
+          "text": "求",
+          "probability": 0.4172
+        },
+        {
+          "time": 99.36,
+          "end": 99.66,
+          "text": "你",
+          "probability": 0.6554
+        },
+        {
+          "time": 99.6,
+          "end": 99.9,
+          "text": "打",
+          "probability": 0.9313
+        },
+        {
+          "time": 100.3,
+          "end": 100.6,
+          "text": "开",
+          "probability": 0.6807
+        },
+        {
+          "time": 100.66,
+          "end": 100.96,
+          "text": "天",
+          "probability": 0.7137
+        }
+      ]
+    },
+    {
+      "time": 101.0,
+      "end": 106.86,
+      "text": "上门叫风飞的雨自愿充",
+      "words": [
+        {
+          "time": 101.0,
+          "end": 101.3,
+          "text": "上",
+          "probability": 0.9435
+        },
+        {
+          "time": 101.26,
+          "end": 101.86,
+          "text": "门",
+          "probability": 0.958
+        },
+        {
+          "time": 101.96,
+          "end": 102.26,
+          "text": "叫",
+          "probability": 0.3698
+        },
+        {
+          "time": 102.34,
+          "end": 102.64,
+          "text": "风",
+          "probability": 0.1845
+        },
+        {
+          "time": 102.74,
+          "end": 103.16,
+          "text": "飞",
+          "probability": 0.3213
+        },
+        {
+          "time": 103.2,
+          "end": 103.5,
+          "text": "的",
+          "probability": 0.4914
+        },
+        {
+          "time": 103.74,
+          "end": 104.04,
+          "text": "雨",
+          "probability": 0.1307
+        },
+        {
+          "time": 105.22,
+          "end": 105.52,
+          "text": "自",
+          "probability": 0.6697
+        },
+        {
+          "time": 105.56,
+          "end": 106.42,
+          "text": "愿",
+          "probability": 0.9724
+        },
+        {
+          "time": 106.44,
+          "end": 106.86,
+          "text": "充",
+          "probability": 0.6
+        }
+      ]
+    },
+    {
+      "time": 106.86,
+      "end": 109.42,
+      "text": "满整个大地",
+      "words": [
+        {
+          "time": 106.86,
+          "end": 107.28,
+          "text": "满",
+          "probability": 0.8979
+        },
+        {
+          "time": 107.34,
+          "end": 107.64,
+          "text": "整",
+          "probability": 0.3609
+        },
+        {
+          "time": 108.14,
+          "end": 108.44,
+          "text": "个",
+          "probability": 0.8661
+        },
+        {
+          "time": 108.6,
+          "end": 108.9,
+          "text": "大",
+          "probability": 0.9222
+        },
+        {
+          "time": 109.12,
+          "end": 109.42,
+          "text": "地",
+          "probability": 0.959
+        }
+      ]
+    },
+    {
+      "time": 112.26,
+      "end": 118.7,
+      "text": "求你感到主将领共一地死交",
+      "words": [
+        {
+          "time": 112.26,
+          "end": 112.56,
+          "text": "求",
+          "probability": 0.9096
+        },
+        {
+          "time": 112.58,
+          "end": 112.88,
+          "text": "你",
+          "probability": 0.8309
+        },
+        {
+          "time": 112.86,
+          "end": 113.16,
+          "text": "感",
+          "probability": 0.4379
+        },
+        {
+          "time": 113.52,
+          "end": 113.82,
+          "text": "到",
+          "probability": 0.9707
+        },
+        {
+          "time": 113.84,
+          "end": 114.14,
+          "text": "主",
+          "probability": 0.8505
+        },
+        {
+          "time": 114.2,
+          "end": 114.5,
+          "text": "将",
+          "probability": 0.7267
+        },
+        {
+          "time": 114.44,
+          "end": 114.96,
+          "text": "领",
+          "probability": 0.8881
+        },
+        {
+          "time": 115.12,
+          "end": 115.42,
+          "text": "共",
+          "probability": 0.222
+        },
+        {
+          "time": 115.76,
+          "end": 116.06,
+          "text": "一",
+          "probability": 0.3246
+        },
+        {
+          "time": 116.36,
+          "end": 116.66,
+          "text": "地",
+          "probability": 0.4191
+        },
+        {
+          "time": 117.1,
+          "end": 117.4,
+          "text": "死",
+          "probability": 0.3754
+        },
+        {
+          "time": 118.4,
+          "end": 118.7,
+          "text": "交",
+          "probability": 0.4741
+        }
+      ]
+    },
+    {
+      "time": 118.78,
+      "end": 122.52,
+      "text": "换在我们的身上",
+      "words": [
+        {
+          "time": 118.78,
+          "end": 119.46,
+          "text": "换",
+          "probability": 0.9076
+        },
+        {
+          "time": 119.82,
+          "end": 120.12,
+          "text": "在",
+          "probability": 0.9926
+        },
+        {
+          "time": 120.72,
+          "end": 121.02,
+          "text": "我们",
+          "probability": 0.9918
+        },
+        {
+          "time": 121.32,
+          "end": 121.62,
+          "text": "的",
+          "probability": 0.9593
+        },
+        {
+          "time": 121.76,
+          "end": 122.06,
+          "text": "身",
+          "probability": 0.6323
+        },
+        {
+          "time": 122.22,
+          "end": 122.52,
+          "text": "上",
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "time": 126.12,
+      "end": 126.42,
+      "text": "我们",
+      "words": [
+        {
+          "time": 126.12,
+          "end": 126.42,
+          "text": "我们",
+          "probability": 0.7112
+        }
+      ]
+    },
+    {
+      "time": 127.88,
+      "end": 132.9,
+      "text": "一起祷告宝来到主更谢",
+      "words": [
+        {
+          "time": 127.88,
+          "end": 128.18,
+          "text": "一起",
+          "probability": 0.8984
+        },
+        {
+          "time": 128.08,
+          "end": 128.42,
+          "text": "祷",
+          "probability": 0.8223
+        },
+        {
+          "time": 128.28,
+          "end": 128.58,
+          "text": "告",
+          "probability": 0.9965
+        },
+        {
+          "time": 128.62,
+          "end": 130.34,
+          "text": "宝",
+          "probability": 0.4013
+        },
+        {
+          "time": 131.08,
+          "end": 131.38,
+          "text": "来",
+          "probability": 0.2867
+        },
+        {
+          "time": 131.3,
+          "end": 131.6,
+          "text": "到",
+          "probability": 0.3849
+        },
+        {
+          "time": 131.48,
+          "end": 131.78,
+          "text": "主",
+          "probability": 0.2708
+        },
+        {
+          "time": 131.86,
+          "end": 132.16,
+          "text": "更",
+          "probability": 0.28
+        },
+        {
+          "time": 132.6,
+          "end": 132.9,
+          "text": "谢",
+          "probability": 0.1785
+        }
+      ]
+    },
+    {
+      "time": 135.16,
+      "end": 139.06,
+      "text": "举起嘴巴吃",
+      "words": [
+        {
+          "time": 135.16,
+          "end": 135.58,
+          "text": "举",
+          "probability": 0.2586
+        },
+        {
+          "time": 135.56,
+          "end": 135.86,
+          "text": "起",
+          "probability": 0.3349
+        },
+        {
+          "time": 135.98,
+          "end": 136.42,
+          "text": "嘴",
+          "probability": 0.5388
+        },
+        {
+          "time": 137.28,
+          "end": 137.58,
+          "text": "巴",
+          "probability": 0.7903
+        },
+        {
+          "time": 138.76,
+          "end": 139.06,
+          "text": "吃",
+          "probability": 0.0846
+        }
+      ]
+    },
+    {
+      "time": 140.98,
+      "end": 142.36,
+      "text": "灭命的主",
+      "words": [
+        {
+          "time": 140.98,
+          "end": 141.36,
+          "text": "灭",
+          "probability": 0.2322
+        },
+        {
+          "time": 141.38,
+          "end": 141.68,
+          "text": "命",
+          "probability": 0.1309
+        },
+        {
+          "time": 141.58,
+          "end": 141.88,
+          "text": "的",
+          "probability": 0.8613
+        },
+        {
+          "time": 142.06,
+          "end": 142.36,
+          "text": "主",
+          "probability": 0.5377
+        }
+      ]
+    },
+    {
+      "time": 144.38,
+      "end": 146.16,
+      "text": "我们向着天",
+      "words": [
+        {
+          "time": 144.38,
+          "end": 144.68,
+          "text": "我们",
+          "probability": 0.5965
+        },
+        {
+          "time": 144.7,
+          "end": 145.0,
+          "text": "向",
+          "probability": 0.3621
+        },
+        {
+          "time": 145.14,
+          "end": 145.44,
+          "text": "着",
+          "probability": 0.8402
+        },
+        {
+          "time": 145.86,
+          "end": 146.16,
+          "text": "天",
+          "probability": 0.7466
+        }
+      ]
+    },
+    {
+      "time": 148.4,
+      "end": 150.12,
+      "text": "举起双手",
+      "words": [
+        {
+          "time": 148.4,
+          "end": 148.86,
+          "text": "举",
+          "probability": 0.9897
+        },
+        {
+          "time": 148.82,
+          "end": 149.12,
+          "text": "起",
+          "probability": 0.9936
+        },
+        {
+          "time": 149.24,
+          "end": 149.64,
+          "text": "双",
+          "probability": 0.6988
+        },
+        {
+          "time": 149.82,
+          "end": 150.12,
+          "text": "手",
+          "probability": 0.9419
+        }
+      ]
+    },
+    {
+      "time": 152.4,
+      "end": 152.7,
+      "text": "我们",
+      "words": [
+        {
+          "time": 152.4,
+          "end": 152.7,
+          "text": "我们",
+          "probability": 0.643
+        }
+      ]
+    },
+    {
+      "time": 154.44,
+      "end": 156.06,
+      "text": "一起打到宝",
+      "words": [
+        {
+          "time": 154.44,
+          "end": 154.74,
+          "text": "一起",
+          "probability": 0.8465
+        },
+        {
+          "time": 154.66,
+          "end": 154.96,
+          "text": "打",
+          "probability": 0.3715
+        },
+        {
+          "time": 154.92,
+          "end": 155.22,
+          "text": "到",
+          "probability": 0.2827
+        },
+        {
+          "time": 155.2,
+          "end": 156.06,
+          "text": "宝",
+          "probability": 0.2842
+        }
+      ]
+    },
+    {
+      "time": 157.56,
+      "end": 158.76,
+      "text": "来到上帝的面",
+      "words": [
+        {
+          "time": 157.56,
+          "end": 157.86,
+          "text": "来",
+          "probability": 0.897
+        },
+        {
+          "time": 157.72,
+          "end": 158.02,
+          "text": "到",
+          "probability": 0.9541
+        },
+        {
+          "time": 157.88,
+          "end": 158.18,
+          "text": "上",
+          "probability": 0.6432
+        },
+        {
+          "time": 158.02,
+          "end": 158.36,
+          "text": "帝",
+          "probability": 0.993
+        },
+        {
+          "time": 158.18,
+          "end": 158.48,
+          "text": "的",
+          "probability": 0.94
+        },
+        {
+          "time": 158.46,
+          "end": 158.76,
+          "text": "面",
+          "probability": 0.9805
+        }
+      ]
+    },
+    {
+      "time": 160.68,
+      "end": 165.88,
+      "text": "前学习对伴是",
+      "words": [
+        {
+          "time": 160.68,
+          "end": 160.98,
+          "text": "前",
+          "probability": 0.9926
+        },
+        {
+          "time": 161.82,
+          "end": 162.12,
+          "text": "学",
+          "probability": 0.1744
+        },
+        {
+          "time": 162.12,
+          "end": 162.58,
+          "text": "习",
+          "probability": 0.9977
+        },
+        {
+          "time": 162.66,
+          "end": 162.96,
+          "text": "对",
+          "probability": 0.4342
+        },
+        {
+          "time": 163.08,
+          "end": 164.66,
+          "text": "伴",
+          "probability": 0.7183
+        },
+        {
+          "time": 165.58,
+          "end": 165.88,
+          "text": "是",
+          "probability": 0.4924
+        }
+      ]
+    },
+    {
+      "time": 167.66,
+      "end": 168.88,
+      "text": "列宾的主",
+      "words": [
+        {
+          "time": 167.66,
+          "end": 167.96,
+          "text": "列",
+          "probability": 0.5355
+        },
+        {
+          "time": 167.96,
+          "end": 168.3,
+          "text": "宾",
+          "probability": 0.5633
+        },
+        {
+          "time": 168.2,
+          "end": 168.5,
+          "text": "的",
+          "probability": 0.9799
+        },
+        {
+          "time": 168.58,
+          "end": 168.88,
+          "text": "主",
+          "probability": 0.9028
+        }
+      ]
+    },
+    {
+      "time": 171.06,
+      "end": 176.64,
+      "text": "我们向着天举起双手",
+      "words": [
+        {
+          "time": 171.06,
+          "end": 171.36,
+          "text": "我们",
+          "probability": 0.9741
+        },
+        {
+          "time": 171.4,
+          "end": 171.7,
+          "text": "向",
+          "probability": 0.8184
+        },
+        {
+          "time": 171.92,
+          "end": 172.22,
+          "text": "着",
+          "probability": 0.8998
+        },
+        {
+          "time": 172.42,
+          "end": 172.72,
+          "text": "天",
+          "probability": 0.3838
+        },
+        {
+          "time": 172.42,
+          "end": 175.54,
+          "text": "举",
+          "probability": 0.7351
+        },
+        {
+          "time": 175.52,
+          "end": 175.82,
+          "text": "起",
+          "probability": 0.9694
+        },
+        {
+          "time": 175.92,
+          "end": 176.38,
+          "text": "双",
+          "probability": 0.9164
+        },
+        {
+          "time": 176.34,
+          "end": 176.64,
+          "text": "手",
+          "probability": 0.949
+        }
+      ]
+    },
+    {
+      "time": 178.56,
+      "end": 185.0,
+      "text": "求你打开天上门交锋被你耳里自",
+      "words": [
+        {
+          "time": 178.56,
+          "end": 178.86,
+          "text": "求",
+          "probability": 0.9403
+        },
+        {
+          "time": 178.82,
+          "end": 179.12,
+          "text": "你",
+          "probability": 0.8223
+        },
+        {
+          "time": 179.08,
+          "end": 179.38,
+          "text": "打",
+          "probability": 0.8802
+        },
+        {
+          "time": 179.78,
+          "end": 180.08,
+          "text": "开",
+          "probability": 0.7949
+        },
+        {
+          "time": 180.16,
+          "end": 180.46,
+          "text": "天",
+          "probability": 0.9785
+        },
+        {
+          "time": 180.48,
+          "end": 180.78,
+          "text": "上",
+          "probability": 0.985
+        },
+        {
+          "time": 180.72,
+          "end": 181.34,
+          "text": "门",
+          "probability": 0.9713
+        },
+        {
+          "time": 181.46,
+          "end": 181.76,
+          "text": "交",
+          "probability": 0.6549
+        },
+        {
+          "time": 181.76,
+          "end": 182.16,
+          "text": "锋",
+          "probability": 0.2982
+        },
+        {
+          "time": 182.26,
+          "end": 182.56,
+          "text": "被",
+          "probability": 0.1882
+        },
+        {
+          "time": 182.82,
+          "end": 183.12,
+          "text": "你",
+          "probability": 0.5486
+        },
+        {
+          "time": 183.0,
+          "end": 183.3,
+          "text": "耳",
+          "probability": 0.1507
+        },
+        {
+          "time": 183.56,
+          "end": 183.86,
+          "text": "里",
+          "probability": 0.1303
+        },
+        {
+          "time": 184.7,
+          "end": 185.0,
+          "text": "自",
+          "probability": 0.798
+        }
+      ]
+    },
+    {
+      "time": 185.26,
+      "end": 188.9,
+      "text": "然充满整个大地",
+      "words": [
+        {
+          "time": 185.26,
+          "end": 185.56,
+          "text": "然",
+          "probability": 0.4925
+        },
+        {
+          "time": 185.9,
+          "end": 186.32,
+          "text": "充",
+          "probability": 0.1553
+        },
+        {
+          "time": 186.34,
+          "end": 186.74,
+          "text": "满",
+          "probability": 0.9416
+        },
+        {
+          "time": 186.84,
+          "end": 187.14,
+          "text": "整",
+          "probability": 0.3145
+        },
+        {
+          "time": 187.68,
+          "end": 187.98,
+          "text": "个",
+          "probability": 0.8822
+        },
+        {
+          "time": 188.12,
+          "end": 188.42,
+          "text": "大",
+          "probability": 0.5963
+        },
+        {
+          "time": 188.6,
+          "end": 188.9,
+          "text": "地",
+          "probability": 0.7351
+        }
+      ]
+    },
+    {
+      "time": 191.66,
+      "end": 198.1,
+      "text": "求你感到主教领光临的书交",
+      "words": [
+        {
+          "time": 191.66,
+          "end": 191.96,
+          "text": "求",
+          "probability": 0.6257
+        },
+        {
+          "time": 192.0,
+          "end": 192.3,
+          "text": "你",
+          "probability": 0.9886
+        },
+        {
+          "time": 192.3,
+          "end": 192.6,
+          "text": "感",
+          "probability": 0.3494
+        },
+        {
+          "time": 192.92,
+          "end": 193.22,
+          "text": "到",
+          "probability": 0.8714
+        },
+        {
+          "time": 193.32,
+          "end": 193.62,
+          "text": "主",
+          "probability": 0.7481
+        },
+        {
+          "time": 193.64,
+          "end": 193.94,
+          "text": "教",
+          "probability": 0.6077
+        },
+        {
+          "time": 193.88,
+          "end": 194.36,
+          "text": "领",
+          "probability": 0.339
+        },
+        {
+          "time": 194.58,
+          "end": 194.88,
+          "text": "光",
+          "probability": 0.2153
+        },
+        {
+          "time": 194.98,
+          "end": 195.68,
+          "text": "临",
+          "probability": 0.5033
+        },
+        {
+          "time": 195.92,
+          "end": 196.22,
+          "text": "的",
+          "probability": 0.2971
+        },
+        {
+          "time": 196.32,
+          "end": 196.64,
+          "text": "书",
+          "probability": 0.0997
+        },
+        {
+          "time": 197.8,
+          "end": 198.1,
+          "text": "交",
+          "probability": 0.5918
+        }
+      ]
+    },
+    {
+      "time": 198.26,
+      "end": 203.94,
+      "text": "换在我们的时尚求你打开天上门",
+      "words": [
+        {
+          "time": 198.26,
+          "end": 198.94,
+          "text": "换",
+          "probability": 0.903
+        },
+        {
+          "time": 199.2,
+          "end": 199.5,
+          "text": "在",
+          "probability": 0.6486
+        },
+        {
+          "time": 200.28,
+          "end": 200.58,
+          "text": "我们",
+          "probability": 0.9373
+        },
+        {
+          "time": 200.96,
+          "end": 201.26,
+          "text": "的",
+          "probability": 0.5792
+        },
+        {
+          "time": 201.3,
+          "end": 201.6,
+          "text": "时",
+          "probability": 0.1715
+        },
+        {
+          "time": 201.44,
+          "end": 201.76,
+          "text": "尚",
+          "probability": 0.1865
+        },
+        {
+          "time": 201.7,
+          "end": 202.0,
+          "text": "求",
+          "probability": 0.6512
+        },
+        {
+          "time": 202.46,
+          "end": 202.76,
+          "text": "你",
+          "probability": 0.9993
+        },
+        {
+          "time": 202.62,
+          "end": 202.92,
+          "text": "打",
+          "probability": 0.9985
+        },
+        {
+          "time": 202.82,
+          "end": 203.12,
+          "text": "开",
+          "probability": 0.9996
+        },
+        {
+          "time": 203.04,
+          "end": 203.34,
+          "text": "天",
+          "probability": 0.9983
+        },
+        {
+          "time": 203.26,
+          "end": 203.56,
+          "text": "上",
+          "probability": 0.9988
+        },
+        {
+          "time": 203.48,
+          "end": 203.94,
+          "text": "门",
+          "probability": 0.9888
+        }
+      ]
+    },
+    {
+      "time": 207.74,
+      "end": 213.48,
+      "text": "将崩溃的恩兵自愿重快真",
+      "words": [
+        {
+          "time": 207.74,
+          "end": 208.04,
+          "text": "将",
+          "probability": 0.3055
+        },
+        {
+          "time": 208.04,
+          "end": 208.42,
+          "text": "崩",
+          "probability": 0.1751
+        },
+        {
+          "time": 208.46,
+          "end": 208.86,
+          "text": "溃",
+          "probability": 0.9071
+        },
+        {
+          "time": 208.98,
+          "end": 209.28,
+          "text": "的",
+          "probability": 0.5903
+        },
+        {
+          "time": 209.32,
+          "end": 209.62,
+          "text": "恩",
+          "probability": 0.6813
+        },
+        {
+          "time": 209.6,
+          "end": 210.56,
+          "text": "兵",
+          "probability": 0.4979
+        },
+        {
+          "time": 211.0,
+          "end": 211.3,
+          "text": "自",
+          "probability": 0.8958
+        },
+        {
+          "time": 211.38,
+          "end": 212.1,
+          "text": "愿",
+          "probability": 0.94
+        },
+        {
+          "time": 212.24,
+          "end": 212.54,
+          "text": "重",
+          "probability": 0.2307
+        },
+        {
+          "time": 212.66,
+          "end": 212.96,
+          "text": "快",
+          "probability": 0.3066
+        },
+        {
+          "time": 213.18,
+          "end": 213.48,
+          "text": "真",
+          "probability": 0.2653
+        }
+      ]
+    },
+    {
+      "time": 213.74,
+      "end": 215.26,
+      "text": "乐大力",
+      "words": [
+        {
+          "time": 213.74,
+          "end": 214.04,
+          "text": "乐",
+          "probability": 0.2305
+        },
+        {
+          "time": 214.36,
+          "end": 214.66,
+          "text": "大",
+          "probability": 0.7618
+        },
+        {
+          "time": 214.96,
+          "end": 215.26,
+          "text": "力",
+          "probability": 0.2958
+        }
+      ]
+    },
+    {
+      "time": 217.86,
+      "end": 224.4,
+      "text": "终于看到主将领固一与死照",
+      "words": [
+        {
+          "time": 217.86,
+          "end": 218.3,
+          "text": "终",
+          "probability": 0.7008
+        },
+        {
+          "time": 218.3,
+          "end": 218.6,
+          "text": "于",
+          "probability": 0.9737
+        },
+        {
+          "time": 218.9,
+          "end": 219.2,
+          "text": "看到",
+          "probability": 0.5288
+        },
+        {
+          "time": 219.54,
+          "end": 219.84,
+          "text": "主",
+          "probability": 0.8705
+        },
+        {
+          "time": 219.9,
+          "end": 220.2,
+          "text": "将",
+          "probability": 0.927
+        },
+        {
+          "time": 220.14,
+          "end": 220.58,
+          "text": "领",
+          "probability": 0.7703
+        },
+        {
+          "time": 220.76,
+          "end": 221.16,
+          "text": "固",
+          "probability": 0.1637
+        },
+        {
+          "time": 221.58,
+          "end": 221.88,
+          "text": "一",
+          "probability": 0.2997
+        },
+        {
+          "time": 222.06,
+          "end": 222.54,
+          "text": "与",
+          "probability": 0.1096
+        },
+        {
+          "time": 222.82,
+          "end": 223.12,
+          "text": "死",
+          "probability": 0.8568
+        },
+        {
+          "time": 224.1,
+          "end": 224.4,
+          "text": "照",
+          "probability": 0.3242
+        }
+      ]
+    },
+    {
+      "time": 224.56,
+      "end": 228.52,
+      "text": "顾在我们的身上",
+      "words": [
+        {
+          "time": 224.56,
+          "end": 224.98,
+          "text": "顾",
+          "probability": 0.1354
+        },
+        {
+          "time": 225.38,
+          "end": 225.68,
+          "text": "在",
+          "probability": 0.9592
+        },
+        {
+          "time": 226.5,
+          "end": 226.8,
+          "text": "我们",
+          "probability": 0.9929
+        },
+        {
+          "time": 227.14,
+          "end": 227.44,
+          "text": "的",
+          "probability": 0.6905
+        },
+        {
+          "time": 227.48,
+          "end": 227.78,
+          "text": "身",
+          "probability": 0.8712
+        },
+        {
+          "time": 228.22,
+          "end": 228.52,
+          "text": "上",
+          "probability": 0.9971
+        }
+      ]
+    },
+    {
+      "time": 234.7,
+      "end": 238.46,
+      "text": "亲爱的弟兄姊妹我们真的知道神在这里",
+      "words": [
+        {
+          "time": 234.7,
+          "end": 235.0,
+          "text": "亲",
+          "probability": 0.9122
+        },
+        {
+          "time": 234.76,
+          "end": 235.06,
+          "text": "爱",
+          "probability": 0.9896
+        },
+        {
+          "time": 234.82,
+          "end": 235.12,
+          "text": "的",
+          "probability": 0.9995
+        },
+        {
+          "time": 234.94,
+          "end": 235.24,
+          "text": "弟",
+          "probability": 0.9934
+        },
+        {
+          "time": 235.04,
+          "end": 235.34,
+          "text": "兄",
+          "probability": 0.902
+        },
+        {
+          "time": 235.18,
+          "end": 235.48,
+          "text": "姊",
+          "probability": 0.9785
+        },
+        {
+          "time": 235.36,
+          "end": 235.66,
+          "text": "妹",
+          "probability": 0.9963
+        },
+        {
+          "time": 236.82,
+          "end": 237.12,
+          "text": "我们",
+          "probability": 0.9977
+        },
+        {
+          "time": 237.0,
+          "end": 237.3,
+          "text": "真的",
+          "probability": 0.5248
+        },
+        {
+          "time": 237.34,
+          "end": 237.64,
+          "text": "知道",
+          "probability": 0.9988
+        },
+        {
+          "time": 237.56,
+          "end": 237.86,
+          "text": "神",
+          "probability": 0.9409
+        },
+        {
+          "time": 237.76,
+          "end": 238.06,
+          "text": "在",
+          "probability": 0.9993
+        },
+        {
+          "time": 238.16,
+          "end": 238.46,
+          "text": "这里",
+          "probability": 0.9951
+        }
+      ]
+    },
+    {
+      "time": 239.92,
+      "end": 245.46,
+      "text": "因为我们的神祂是以以色列的赞美为宝座的当我们在这里同情合意",
+      "words": [
+        {
+          "time": 239.92,
+          "end": 240.22,
+          "text": "因为",
+          "probability": 0.9963
+        },
+        {
+          "time": 240.1,
+          "end": 240.4,
+          "text": "我们",
+          "probability": 0.9995
+        },
+        {
+          "time": 240.22,
+          "end": 240.52,
+          "text": "的",
+          "probability": 0.9996
+        },
+        {
+          "time": 240.42,
+          "end": 240.72,
+          "text": "神",
+          "probability": 0.9999
+        },
+        {
+          "time": 240.6,
+          "end": 240.9,
+          "text": "祂",
+          "probability": 0.9083
+        },
+        {
+          "time": 240.74,
+          "end": 241.04,
+          "text": "是",
+          "probability": 0.9992
+        },
+        {
+          "time": 240.92,
+          "end": 241.22,
+          "text": "以",
+          "probability": 0.9992
+        },
+        {
+          "time": 241.06,
+          "end": 241.36,
+          "text": "以",
+          "probability": 0.9957
+        },
+        {
+          "time": 241.2,
+          "end": 241.5,
+          "text": "色",
+          "probability": 0.9129
+        },
+        {
+          "time": 241.3,
+          "end": 241.6,
+          "text": "列",
+          "probability": 0.9966
+        },
+        {
+          "time": 241.44,
+          "end": 241.74,
+          "text": "的",
+          "probability": 0.9782
+        },
+        {
+          "time": 241.58,
+          "end": 241.94,
+          "text": "赞",
+          "probability": 0.9701
+        },
+        {
+          "time": 241.78,
+          "end": 242.08,
+          "text": "美",
+          "probability": 0.4515
+        },
+        {
+          "time": 241.96,
+          "end": 242.26,
+          "text": "为",
+          "probability": 0.941
+        },
+        {
+          "time": 242.1,
+          "end": 242.48,
+          "text": "宝",
+          "probability": 0.9993
+        },
+        {
+          "time": 242.34,
+          "end": 242.7,
+          "text": "座",
+          "probability": 0.9993
+        },
+        {
+          "time": 242.6,
+          "end": 242.9,
+          "text": "的",
+          "probability": 0.9977
+        },
+        {
+          "time": 243.18,
+          "end": 243.48,
+          "text": "当",
+          "probability": 0.9862
+        },
+        {
+          "time": 244.0,
+          "end": 244.3,
+          "text": "我们",
+          "probability": 0.9999
+        },
+        {
+          "time": 244.14,
+          "end": 244.44,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 244.42,
+          "end": 244.72,
+          "text": "这里",
+          "probability": 0.9993
+        },
+        {
+          "time": 244.64,
+          "end": 244.94,
+          "text": "同",
+          "probability": 0.621
+        },
+        {
+          "time": 244.82,
+          "end": 245.12,
+          "text": "情",
+          "probability": 0.9924
+        },
+        {
+          "time": 245.0,
+          "end": 245.3,
+          "text": "合",
+          "probability": 0.8543
+        },
+        {
+          "time": 245.18,
+          "end": 245.48,
+          "text": "意",
+          "probability": 0.511
+        }
+      ]
+    },
+    {
+      "time": 245.46,
+      "end": 249.0,
+      "text": "呼求祂的圣名我们真的知道祂在我们中间",
+      "words": [
+        {
+          "time": 245.46,
+          "end": 245.76,
+          "text": "呼",
+          "probability": 0.9549
+        },
+        {
+          "time": 245.56,
+          "end": 245.86,
+          "text": "求",
+          "probability": 0.8633
+        },
+        {
+          "time": 245.68,
+          "end": 245.98,
+          "text": "祂",
+          "probability": 0.9937
+        },
+        {
+          "time": 245.78,
+          "end": 246.08,
+          "text": "的",
+          "probability": 0.9944
+        },
+        {
+          "time": 245.92,
+          "end": 246.28,
+          "text": "圣",
+          "probability": 0.9581
+        },
+        {
+          "time": 246.16,
+          "end": 246.46,
+          "text": "名",
+          "probability": 0.596
+        },
+        {
+          "time": 247.08,
+          "end": 247.38,
+          "text": "我们",
+          "probability": 0.9997
+        },
+        {
+          "time": 247.26,
+          "end": 247.56,
+          "text": "真的",
+          "probability": 0.9989
+        },
+        {
+          "time": 247.56,
+          "end": 247.86,
+          "text": "知道",
+          "probability": 0.9995
+        },
+        {
+          "time": 247.72,
+          "end": 248.08,
+          "text": "祂",
+          "probability": 0.8406
+        },
+        {
+          "time": 247.98,
+          "end": 248.28,
+          "text": "在",
+          "probability": 0.9996
+        },
+        {
+          "time": 248.22,
+          "end": 248.52,
+          "text": "我们",
+          "probability": 0.9997
+        },
+        {
+          "time": 248.42,
+          "end": 248.72,
+          "text": "中",
+          "probability": 0.9949
+        },
+        {
+          "time": 248.7,
+          "end": 249.0,
+          "text": "间",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 250.82,
+      "end": 252.74,
+      "text": "我们也知道祂是听祷告的主",
+      "words": [
+        {
+          "time": 250.82,
+          "end": 251.12,
+          "text": "我们",
+          "probability": 0.9966
+        },
+        {
+          "time": 250.98,
+          "end": 251.28,
+          "text": "也",
+          "probability": 0.9998
+        },
+        {
+          "time": 251.2,
+          "end": 251.5,
+          "text": "知道",
+          "probability": 0.9988
+        },
+        {
+          "time": 251.36,
+          "end": 251.7,
+          "text": "祂",
+          "probability": 0.8816
+        },
+        {
+          "time": 251.54,
+          "end": 251.84,
+          "text": "是",
+          "probability": 0.9958
+        },
+        {
+          "time": 251.74,
+          "end": 252.04,
+          "text": "听",
+          "probability": 0.9658
+        },
+        {
+          "time": 251.96,
+          "end": 252.26,
+          "text": "祷",
+          "probability": 0.9929
+        },
+        {
+          "time": 252.14,
+          "end": 252.44,
+          "text": "告",
+          "probability": 0.9996
+        },
+        {
+          "time": 252.28,
+          "end": 252.58,
+          "text": "的",
+          "probability": 0.998
+        },
+        {
+          "time": 252.44,
+          "end": 252.74,
+          "text": "主",
+          "probability": 0.7934
+        }
+      ]
+    },
+    {
+      "time": 254.44,
+      "end": 257.56,
+      "text": "我们也真的相信今天晚上祂在这里要成就大事",
+      "words": [
+        {
+          "time": 254.44,
+          "end": 254.74,
+          "text": "我们",
+          "probability": 0.9988
+        },
+        {
+          "time": 254.58,
+          "end": 254.88,
+          "text": "也",
+          "probability": 0.9999
+        },
+        {
+          "time": 254.74,
+          "end": 255.04,
+          "text": "真的",
+          "probability": 0.9969
+        },
+        {
+          "time": 255.22,
+          "end": 255.52,
+          "text": "相信",
+          "probability": 0.9989
+        },
+        {
+          "time": 255.5,
+          "end": 255.8,
+          "text": "今天",
+          "probability": 0.9958
+        },
+        {
+          "time": 255.74,
+          "end": 256.04,
+          "text": "晚上",
+          "probability": 0.9986
+        },
+        {
+          "time": 255.9,
+          "end": 256.22,
+          "text": "祂",
+          "probability": 0.9814
+        },
+        {
+          "time": 256.04,
+          "end": 256.34,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 256.24,
+          "end": 256.54,
+          "text": "这里",
+          "probability": 0.9991
+        },
+        {
+          "time": 256.38,
+          "end": 256.68,
+          "text": "要",
+          "probability": 0.8379
+        },
+        {
+          "time": 256.58,
+          "end": 256.88,
+          "text": "成",
+          "probability": 0.9948
+        },
+        {
+          "time": 256.72,
+          "end": 257.02,
+          "text": "就",
+          "probability": 0.9974
+        },
+        {
+          "time": 256.94,
+          "end": 257.24,
+          "text": "大",
+          "probability": 0.9996
+        },
+        {
+          "time": 257.26,
+          "end": 257.56,
+          "text": "事",
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "time": 264.26,
+      "end": 267.78,
+      "text": "真的不在于今天晚上神在的台上带领",
+      "words": [
+        {
+          "time": 264.26,
+          "end": 264.56,
+          "text": "真的",
+          "probability": 0.9862
+        },
+        {
+          "time": 264.48,
+          "end": 264.78,
+          "text": "不",
+          "probability": 0.9812
+        },
+        {
+          "time": 264.64,
+          "end": 264.94,
+          "text": "在",
+          "probability": 0.8788
+        },
+        {
+          "time": 264.78,
+          "end": 265.08,
+          "text": "于",
+          "probability": 0.9988
+        },
+        {
+          "time": 265.0,
+          "end": 265.3,
+          "text": "今天",
+          "probability": 0.8786
+        },
+        {
+          "time": 265.44,
+          "end": 265.74,
+          "text": "晚上",
+          "probability": 0.9998
+        },
+        {
+          "time": 266.32,
+          "end": 266.62,
+          "text": "神",
+          "probability": 0.9983
+        },
+        {
+          "time": 266.56,
+          "end": 266.86,
+          "text": "在",
+          "probability": 0.6975
+        },
+        {
+          "time": 266.7,
+          "end": 267.0,
+          "text": "的",
+          "probability": 0.3682
+        },
+        {
+          "time": 266.82,
+          "end": 267.12,
+          "text": "台",
+          "probability": 0.9974
+        },
+        {
+          "time": 266.98,
+          "end": 267.28,
+          "text": "上",
+          "probability": 0.999
+        },
+        {
+          "time": 267.16,
+          "end": 267.54,
+          "text": "带",
+          "probability": 0.9744
+        },
+        {
+          "time": 267.4,
+          "end": 267.78,
+          "text": "领",
+          "probability": 0.9915
+        }
+      ]
+    },
+    {
+      "time": 269.82,
+      "end": 272.94,
+      "text": "谁在台上其实并不重要重要的是上帝在这里",
+      "words": [
+        {
+          "time": 269.82,
+          "end": 270.12,
+          "text": "谁",
+          "probability": 0.9907
+        },
+        {
+          "time": 269.94,
+          "end": 270.24,
+          "text": "在",
+          "probability": 0.9991
+        },
+        {
+          "time": 270.08,
+          "end": 270.38,
+          "text": "台",
+          "probability": 0.9998
+        },
+        {
+          "time": 270.24,
+          "end": 270.54,
+          "text": "上",
+          "probability": 0.9981
+        },
+        {
+          "time": 270.48,
+          "end": 270.78,
+          "text": "其实",
+          "probability": 0.9731
+        },
+        {
+          "time": 270.7,
+          "end": 271.04,
+          "text": "并",
+          "probability": 0.9994
+        },
+        {
+          "time": 270.88,
+          "end": 271.18,
+          "text": "不",
+          "probability": 0.9991
+        },
+        {
+          "time": 271.22,
+          "end": 271.52,
+          "text": "重要",
+          "probability": 0.9998
+        },
+        {
+          "time": 271.48,
+          "end": 271.78,
+          "text": "重要",
+          "probability": 0.9886
+        },
+        {
+          "time": 271.7,
+          "end": 272.0,
+          "text": "的是",
+          "probability": 0.9994
+        },
+        {
+          "time": 271.96,
+          "end": 272.26,
+          "text": "上",
+          "probability": 0.9986
+        },
+        {
+          "time": 272.1,
+          "end": 272.42,
+          "text": "帝",
+          "probability": 0.9998
+        },
+        {
+          "time": 272.28,
+          "end": 272.58,
+          "text": "在",
+          "probability": 0.9993
+        },
+        {
+          "time": 272.64,
+          "end": 272.94,
+          "text": "这里",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 274.78,
+      "end": 277.0,
+      "text": "他要把我们每一个人带到他的面前",
+      "words": [
+        {
+          "time": 274.78,
+          "end": 275.08,
+          "text": "他",
+          "probability": 0.747
+        },
+        {
+          "time": 274.9,
+          "end": 275.2,
+          "text": "要",
+          "probability": 0.9993
+        },
+        {
+          "time": 275.0,
+          "end": 275.3,
+          "text": "把",
+          "probability": 0.9996
+        },
+        {
+          "time": 275.18,
+          "end": 275.48,
+          "text": "我们",
+          "probability": 0.9999
+        },
+        {
+          "time": 275.34,
+          "end": 275.64,
+          "text": "每",
+          "probability": 0.9968
+        },
+        {
+          "time": 275.48,
+          "end": 275.78,
+          "text": "一个",
+          "probability": 0.9961
+        },
+        {
+          "time": 275.6,
+          "end": 275.9,
+          "text": "人",
+          "probability": 0.9999
+        },
+        {
+          "time": 275.76,
+          "end": 276.08,
+          "text": "带",
+          "probability": 0.9918
+        },
+        {
+          "time": 275.88,
+          "end": 276.18,
+          "text": "到",
+          "probability": 0.9987
+        },
+        {
+          "time": 276.04,
+          "end": 276.34,
+          "text": "他的",
+          "probability": 0.9772
+        },
+        {
+          "time": 276.24,
+          "end": 276.54,
+          "text": "面",
+          "probability": 0.9997
+        },
+        {
+          "time": 276.7,
+          "end": 277.0,
+          "text": "前",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 280.12,
+      "end": 283.12,
+      "text": "因为我们能知道我们的祷告可以摇动神的手",
+      "words": [
+        {
+          "time": 280.12,
+          "end": 280.42,
+          "text": "因为",
+          "probability": 0.8682
+        },
+        {
+          "time": 280.3,
+          "end": 280.6,
+          "text": "我们",
+          "probability": 0.9997
+        },
+        {
+          "time": 280.42,
+          "end": 280.72,
+          "text": "能",
+          "probability": 0.4438
+        },
+        {
+          "time": 280.72,
+          "end": 281.02,
+          "text": "知道",
+          "probability": 0.9906
+        },
+        {
+          "time": 281.0,
+          "end": 281.3,
+          "text": "我们",
+          "probability": 0.9979
+        },
+        {
+          "time": 281.12,
+          "end": 281.42,
+          "text": "的",
+          "probability": 0.9944
+        },
+        {
+          "time": 281.24,
+          "end": 281.58,
+          "text": "祷",
+          "probability": 0.9985
+        },
+        {
+          "time": 281.5,
+          "end": 281.8,
+          "text": "告",
+          "probability": 0.9988
+        },
+        {
+          "time": 281.88,
+          "end": 282.18,
+          "text": "可以",
+          "probability": 0.5318
+        },
+        {
+          "time": 282.06,
+          "end": 282.36,
+          "text": "摇",
+          "probability": 0.9419
+        },
+        {
+          "time": 282.22,
+          "end": 282.52,
+          "text": "动",
+          "probability": 0.9993
+        },
+        {
+          "time": 282.44,
+          "end": 282.74,
+          "text": "神",
+          "probability": 0.9906
+        },
+        {
+          "time": 282.58,
+          "end": 282.88,
+          "text": "的",
+          "probability": 0.9933
+        },
+        {
+          "time": 282.82,
+          "end": 283.12,
+          "text": "手",
+          "probability": 0.6995
+        }
+      ]
+    },
+    {
+      "time": 284.44,
+      "end": 289.96,
+      "text": "因为以利亚与我们是一样性情的人他曾经祷告你就三年",
+      "words": [
+        {
+          "time": 284.44,
+          "end": 284.74,
+          "text": "因为",
+          "probability": 0.9972
+        },
+        {
+          "time": 284.62,
+          "end": 284.92,
+          "text": "以",
+          "probability": 0.9284
+        },
+        {
+          "time": 284.76,
+          "end": 285.06,
+          "text": "利",
+          "probability": 0.9709
+        },
+        {
+          "time": 284.9,
+          "end": 285.26,
+          "text": "亚",
+          "probability": 0.9981
+        },
+        {
+          "time": 285.12,
+          "end": 285.44,
+          "text": "与",
+          "probability": 0.6398
+        },
+        {
+          "time": 285.3,
+          "end": 285.6,
+          "text": "我们",
+          "probability": 0.9996
+        },
+        {
+          "time": 285.5,
+          "end": 285.8,
+          "text": "是",
+          "probability": 0.6223
+        },
+        {
+          "time": 285.72,
+          "end": 286.02,
+          "text": "一",
+          "probability": 0.9152
+        },
+        {
+          "time": 285.84,
+          "end": 286.14,
+          "text": "样",
+          "probability": 0.9999
+        },
+        {
+          "time": 286.06,
+          "end": 286.36,
+          "text": "性",
+          "probability": 0.9623
+        },
+        {
+          "time": 286.24,
+          "end": 286.54,
+          "text": "情",
+          "probability": 0.976
+        },
+        {
+          "time": 286.54,
+          "end": 286.84,
+          "text": "的人",
+          "probability": 0.9985
+        },
+        {
+          "time": 287.54,
+          "end": 287.84,
+          "text": "他",
+          "probability": 0.8136
+        },
+        {
+          "time": 287.72,
+          "end": 288.02,
+          "text": "曾",
+          "probability": 0.9999
+        },
+        {
+          "time": 287.92,
+          "end": 288.22,
+          "text": "经",
+          "probability": 0.999
+        },
+        {
+          "time": 288.08,
+          "end": 288.46,
+          "text": "祷",
+          "probability": 0.9981
+        },
+        {
+          "time": 288.48,
+          "end": 288.78,
+          "text": "告",
+          "probability": 0.9999
+        },
+        {
+          "time": 289.22,
+          "end": 289.52,
+          "text": "你就",
+          "probability": 0.4584
+        },
+        {
+          "time": 289.58,
+          "end": 289.88,
+          "text": "三",
+          "probability": 0.9992
+        },
+        {
+          "time": 289.78,
+          "end": 290.08,
+          "text": "年",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 289.96,
+      "end": 295.4,
+      "text": "零六个月不下在地上他又祷告天就降下雨来",
+      "words": [
+        {
+          "time": 289.96,
+          "end": 290.28,
+          "text": "零",
+          "probability": 0.9599
+        },
+        {
+          "time": 290.12,
+          "end": 290.42,
+          "text": "六",
+          "probability": 0.9978
+        },
+        {
+          "time": 290.26,
+          "end": 290.56,
+          "text": "个",
+          "probability": 0.9963
+        },
+        {
+          "time": 290.36,
+          "end": 290.66,
+          "text": "月",
+          "probability": 1.0
+        },
+        {
+          "time": 290.56,
+          "end": 290.86,
+          "text": "不",
+          "probability": 0.4988
+        },
+        {
+          "time": 290.72,
+          "end": 291.02,
+          "text": "下",
+          "probability": 0.9986
+        },
+        {
+          "time": 290.86,
+          "end": 291.16,
+          "text": "在",
+          "probability": 0.967
+        },
+        {
+          "time": 291.04,
+          "end": 291.34,
+          "text": "地",
+          "probability": 0.9998
+        },
+        {
+          "time": 291.36,
+          "end": 291.66,
+          "text": "上",
+          "probability": 0.9999
+        },
+        {
+          "time": 292.58,
+          "end": 292.88,
+          "text": "他",
+          "probability": 0.9925
+        },
+        {
+          "time": 292.76,
+          "end": 293.06,
+          "text": "又",
+          "probability": 0.997
+        },
+        {
+          "time": 292.9,
+          "end": 293.26,
+          "text": "祷",
+          "probability": 0.9999
+        },
+        {
+          "time": 293.22,
+          "end": 293.52,
+          "text": "告",
+          "probability": 1.0
+        },
+        {
+          "time": 294.16,
+          "end": 294.46,
+          "text": "天",
+          "probability": 0.9997
+        },
+        {
+          "time": 294.34,
+          "end": 294.64,
+          "text": "就",
+          "probability": 0.9847
+        },
+        {
+          "time": 294.58,
+          "end": 294.88,
+          "text": "降",
+          "probability": 0.9997
+        },
+        {
+          "time": 294.82,
+          "end": 295.12,
+          "text": "下",
+          "probability": 0.9998
+        },
+        {
+          "time": 295.02,
+          "end": 295.32,
+          "text": "雨",
+          "probability": 0.9975
+        },
+        {
+          "time": 295.2,
+          "end": 295.5,
+          "text": "来",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 295.4,
+      "end": 296.76,
+      "text": "地也生出土产",
+      "words": [
+        {
+          "time": 295.4,
+          "end": 295.7,
+          "text": "地",
+          "probability": 0.575
+        },
+        {
+          "time": 295.58,
+          "end": 295.88,
+          "text": "也",
+          "probability": 0.9794
+        },
+        {
+          "time": 295.74,
+          "end": 296.04,
+          "text": "生",
+          "probability": 0.9803
+        },
+        {
+          "time": 295.98,
+          "end": 296.28,
+          "text": "出",
+          "probability": 0.9928
+        },
+        {
+          "time": 296.16,
+          "end": 296.46,
+          "text": "土",
+          "probability": 0.9816
+        },
+        {
+          "time": 296.36,
+          "end": 296.76,
+          "text": "产",
+          "probability": 0.7089
+        }
+      ]
+    },
+    {
+      "time": 298.54,
+      "end": 304.1,
+      "text": "真的亲爱的弟兄姊妹今天晚上在这里你的可梦有多少神的充满就有",
+      "words": [
+        {
+          "time": 298.54,
+          "end": 298.84,
+          "text": "真的",
+          "probability": 0.9679
+        },
+        {
+          "time": 298.7,
+          "end": 299.0,
+          "text": "亲",
+          "probability": 0.9968
+        },
+        {
+          "time": 298.8,
+          "end": 299.1,
+          "text": "爱",
+          "probability": 0.9981
+        },
+        {
+          "time": 298.88,
+          "end": 299.18,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 299.0,
+          "end": 299.3,
+          "text": "弟",
+          "probability": 0.9979
+        },
+        {
+          "time": 299.16,
+          "end": 299.46,
+          "text": "兄",
+          "probability": 0.9989
+        },
+        {
+          "time": 299.32,
+          "end": 299.66,
+          "text": "姊",
+          "probability": 0.9766
+        },
+        {
+          "time": 299.52,
+          "end": 299.82,
+          "text": "妹",
+          "probability": 0.9999
+        },
+        {
+          "time": 300.96,
+          "end": 301.26,
+          "text": "今天",
+          "probability": 0.9984
+        },
+        {
+          "time": 301.18,
+          "end": 301.48,
+          "text": "晚上",
+          "probability": 1.0
+        },
+        {
+          "time": 301.4,
+          "end": 301.7,
+          "text": "在",
+          "probability": 0.9997
+        },
+        {
+          "time": 301.68,
+          "end": 301.98,
+          "text": "这里",
+          "probability": 0.9997
+        },
+        {
+          "time": 301.96,
+          "end": 302.26,
+          "text": "你的",
+          "probability": 0.9928
+        },
+        {
+          "time": 302.16,
+          "end": 302.46,
+          "text": "可",
+          "probability": 0.3491
+        },
+        {
+          "time": 302.28,
+          "end": 302.6,
+          "text": "梦",
+          "probability": 0.297
+        },
+        {
+          "time": 302.46,
+          "end": 302.76,
+          "text": "有",
+          "probability": 0.9999
+        },
+        {
+          "time": 302.74,
+          "end": 303.04,
+          "text": "多少",
+          "probability": 0.9999
+        },
+        {
+          "time": 303.04,
+          "end": 303.34,
+          "text": "神",
+          "probability": 0.9986
+        },
+        {
+          "time": 303.16,
+          "end": 303.46,
+          "text": "的",
+          "probability": 0.9997
+        },
+        {
+          "time": 303.28,
+          "end": 303.64,
+          "text": "充",
+          "probability": 0.9897
+        },
+        {
+          "time": 303.46,
+          "end": 303.8,
+          "text": "满",
+          "probability": 0.9999
+        },
+        {
+          "time": 303.64,
+          "end": 303.94,
+          "text": "就",
+          "probability": 0.8233
+        },
+        {
+          "time": 303.8,
+          "end": 304.1,
+          "text": "有",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 304.2,
+      "end": 308.42,
+      "text": "多少你的宣求有多少神的荣耀就在这里彰显多少",
+      "words": [
+        {
+          "time": 304.2,
+          "end": 304.5,
+          "text": "多少",
+          "probability": 1.0
+        },
+        {
+          "time": 305.28,
+          "end": 305.58,
+          "text": "你的",
+          "probability": 0.9978
+        },
+        {
+          "time": 305.44,
+          "end": 305.82,
+          "text": "宣",
+          "probability": 0.2473
+        },
+        {
+          "time": 305.7,
+          "end": 306.0,
+          "text": "求",
+          "probability": 0.1081
+        },
+        {
+          "time": 305.86,
+          "end": 306.16,
+          "text": "有",
+          "probability": 0.9996
+        },
+        {
+          "time": 306.14,
+          "end": 306.44,
+          "text": "多少",
+          "probability": 1.0
+        },
+        {
+          "time": 306.36,
+          "end": 306.66,
+          "text": "神",
+          "probability": 0.9982
+        },
+        {
+          "time": 306.48,
+          "end": 306.78,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 306.62,
+          "end": 306.94,
+          "text": "荣",
+          "probability": 0.9989
+        },
+        {
+          "time": 306.76,
+          "end": 307.12,
+          "text": "耀",
+          "probability": 0.9993
+        },
+        {
+          "time": 306.96,
+          "end": 307.26,
+          "text": "就",
+          "probability": 0.9958
+        },
+        {
+          "time": 307.08,
+          "end": 307.38,
+          "text": "在",
+          "probability": 1.0
+        },
+        {
+          "time": 307.3,
+          "end": 307.6,
+          "text": "这里",
+          "probability": 0.9998
+        },
+        {
+          "time": 307.48,
+          "end": 307.84,
+          "text": "彰",
+          "probability": 0.9451
+        },
+        {
+          "time": 307.68,
+          "end": 308.02,
+          "text": "显",
+          "probability": 0.9994
+        },
+        {
+          "time": 308.12,
+          "end": 308.42,
+          "text": "多少",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 309.72,
+      "end": 315.86,
+      "text": "所以真的让我们每一个人好不好让我们一生地敞开心我们毫无保留来到上帝的面前真的",
+      "words": [
+        {
+          "time": 309.72,
+          "end": 310.02,
+          "text": "所以",
+          "probability": 0.9963
+        },
+        {
+          "time": 309.88,
+          "end": 310.18,
+          "text": "真的",
+          "probability": 0.994
+        },
+        {
+          "time": 310.04,
+          "end": 310.34,
+          "text": "让",
+          "probability": 0.9948
+        },
+        {
+          "time": 310.18,
+          "end": 310.48,
+          "text": "我们",
+          "probability": 0.9995
+        },
+        {
+          "time": 310.32,
+          "end": 310.62,
+          "text": "每",
+          "probability": 0.997
+        },
+        {
+          "time": 310.52,
+          "end": 310.82,
+          "text": "一个",
+          "probability": 0.9991
+        },
+        {
+          "time": 310.64,
+          "end": 310.94,
+          "text": "人",
+          "probability": 0.9998
+        },
+        {
+          "time": 310.88,
+          "end": 311.18,
+          "text": "好不好",
+          "probability": 0.977
+        },
+        {
+          "time": 311.08,
+          "end": 311.38,
+          "text": "让",
+          "probability": 0.6862
+        },
+        {
+          "time": 311.24,
+          "end": 311.54,
+          "text": "我们",
+          "probability": 0.999
+        },
+        {
+          "time": 311.34,
+          "end": 311.64,
+          "text": "一",
+          "probability": 0.7794
+        },
+        {
+          "time": 311.5,
+          "end": 311.8,
+          "text": "生",
+          "probability": 0.6205
+        },
+        {
+          "time": 311.66,
+          "end": 311.96,
+          "text": "地",
+          "probability": 0.8294
+        },
+        {
+          "time": 311.78,
+          "end": 312.12,
+          "text": "敞",
+          "probability": 0.9905
+        },
+        {
+          "time": 312.02,
+          "end": 312.32,
+          "text": "开",
+          "probability": 0.9999
+        },
+        {
+          "time": 312.24,
+          "end": 312.54,
+          "text": "心",
+          "probability": 0.9991
+        },
+        {
+          "time": 312.84,
+          "end": 313.14,
+          "text": "我们",
+          "probability": 0.9996
+        },
+        {
+          "time": 313.02,
+          "end": 313.38,
+          "text": "毫",
+          "probability": 0.9996
+        },
+        {
+          "time": 313.22,
+          "end": 313.52,
+          "text": "无",
+          "probability": 0.9988
+        },
+        {
+          "time": 313.4,
+          "end": 313.7,
+          "text": "保",
+          "probability": 0.9994
+        },
+        {
+          "time": 313.56,
+          "end": 313.86,
+          "text": "留",
+          "probability": 0.9991
+        },
+        {
+          "time": 313.68,
+          "end": 313.98,
+          "text": "来",
+          "probability": 0.9058
+        },
+        {
+          "time": 313.8,
+          "end": 314.1,
+          "text": "到",
+          "probability": 0.9994
+        },
+        {
+          "time": 313.98,
+          "end": 314.28,
+          "text": "上",
+          "probability": 0.9994
+        },
+        {
+          "time": 314.1,
+          "end": 314.4,
+          "text": "帝",
+          "probability": 0.9996
+        },
+        {
+          "time": 314.24,
+          "end": 314.54,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 314.4,
+          "end": 314.7,
+          "text": "面",
+          "probability": 0.9989
+        },
+        {
+          "time": 314.78,
+          "end": 315.08,
+          "text": "前",
+          "probability": 0.9998
+        },
+        {
+          "time": 315.68,
+          "end": 315.98,
+          "text": "真的",
+          "probability": 0.5583
+        }
+      ]
+    },
+    {
+      "time": 315.86,
+      "end": 321.3,
+      "text": "赤露敞开把我们一切的需要都带在祂的面前也用心灵和诚实",
+      "words": [
+        {
+          "time": 315.86,
+          "end": 316.16,
+          "text": "赤",
+          "probability": 0.9367
+        },
+        {
+          "time": 315.98,
+          "end": 316.3,
+          "text": "露",
+          "probability": 0.3103
+        },
+        {
+          "time": 316.18,
+          "end": 316.5,
+          "text": "敞",
+          "probability": 0.9972
+        },
+        {
+          "time": 316.34,
+          "end": 316.64,
+          "text": "开",
+          "probability": 0.9974
+        },
+        {
+          "time": 316.36,
+          "end": 316.66,
+          "text": "把",
+          "probability": 0.5306
+        },
+        {
+          "time": 317.38,
+          "end": 317.68,
+          "text": "我们",
+          "probability": 0.9195
+        },
+        {
+          "time": 317.54,
+          "end": 317.84,
+          "text": "一",
+          "probability": 0.8849
+        },
+        {
+          "time": 317.62,
+          "end": 317.92,
+          "text": "切",
+          "probability": 0.9999
+        },
+        {
+          "time": 317.72,
+          "end": 318.02,
+          "text": "的",
+          "probability": 0.9796
+        },
+        {
+          "time": 318.0,
+          "end": 318.3,
+          "text": "需要",
+          "probability": 0.9914
+        },
+        {
+          "time": 318.22,
+          "end": 318.52,
+          "text": "都",
+          "probability": 0.6568
+        },
+        {
+          "time": 318.36,
+          "end": 318.7,
+          "text": "带",
+          "probability": 0.9667
+        },
+        {
+          "time": 318.5,
+          "end": 318.8,
+          "text": "在",
+          "probability": 0.6335
+        },
+        {
+          "time": 318.6,
+          "end": 318.9,
+          "text": "祂",
+          "probability": 0.7246
+        },
+        {
+          "time": 318.7,
+          "end": 319.0,
+          "text": "的",
+          "probability": 0.8813
+        },
+        {
+          "time": 318.88,
+          "end": 319.18,
+          "text": "面",
+          "probability": 0.9913
+        },
+        {
+          "time": 319.32,
+          "end": 319.62,
+          "text": "前",
+          "probability": 0.9945
+        },
+        {
+          "time": 319.76,
+          "end": 320.06,
+          "text": "也",
+          "probability": 0.2718
+        },
+        {
+          "time": 320.22,
+          "end": 320.52,
+          "text": "用",
+          "probability": 0.9743
+        },
+        {
+          "time": 320.4,
+          "end": 320.7,
+          "text": "心",
+          "probability": 0.9991
+        },
+        {
+          "time": 320.5,
+          "end": 320.84,
+          "text": "灵",
+          "probability": 0.9969
+        },
+        {
+          "time": 320.7,
+          "end": 321.0,
+          "text": "和",
+          "probability": 0.9978
+        },
+        {
+          "time": 320.88,
+          "end": 321.24,
+          "text": "诚",
+          "probability": 0.9919
+        },
+        {
+          "time": 321.1,
+          "end": 321.4,
+          "text": "实",
+          "probability": 0.9952
+        }
+      ]
+    },
+    {
+      "time": 321.3,
+      "end": 323.48,
+      "text": "向祂献上我们心灵诚实的敬拜",
+      "words": [
+        {
+          "time": 321.3,
+          "end": 321.6,
+          "text": "向",
+          "probability": 0.7895
+        },
+        {
+          "time": 321.38,
+          "end": 321.74,
+          "text": "祂",
+          "probability": 0.9483
+        },
+        {
+          "time": 321.56,
+          "end": 321.9,
+          "text": "献",
+          "probability": 0.9859
+        },
+        {
+          "time": 321.7,
+          "end": 322.0,
+          "text": "上",
+          "probability": 0.9635
+        },
+        {
+          "time": 321.9,
+          "end": 322.2,
+          "text": "我们",
+          "probability": 0.9256
+        },
+        {
+          "time": 322.06,
+          "end": 322.36,
+          "text": "心",
+          "probability": 0.9771
+        },
+        {
+          "time": 322.2,
+          "end": 322.52,
+          "text": "灵",
+          "probability": 0.9997
+        },
+        {
+          "time": 322.36,
+          "end": 322.7,
+          "text": "诚",
+          "probability": 0.8304
+        },
+        {
+          "time": 322.58,
+          "end": 322.88,
+          "text": "实",
+          "probability": 0.9996
+        },
+        {
+          "time": 322.7,
+          "end": 323.0,
+          "text": "的",
+          "probability": 0.9585
+        },
+        {
+          "time": 322.8,
+          "end": 323.18,
+          "text": "敬",
+          "probability": 0.9977
+        },
+        {
+          "time": 323.18,
+          "end": 323.48,
+          "text": "拜",
+          "probability": 0.9948
+        }
+      ]
+    },
+    {
+      "time": 324.76,
+      "end": 329.44,
+      "text": "我们真的知道神在我们中间我们在这里来寻求祂",
+      "words": [
+        {
+          "time": 324.76,
+          "end": 325.06,
+          "text": "我们",
+          "probability": 0.9913
+        },
+        {
+          "time": 324.92,
+          "end": 325.22,
+          "text": "真的",
+          "probability": 0.9738
+        },
+        {
+          "time": 325.18,
+          "end": 325.48,
+          "text": "知道",
+          "probability": 0.9968
+        },
+        {
+          "time": 325.4,
+          "end": 325.7,
+          "text": "神",
+          "probability": 0.9927
+        },
+        {
+          "time": 325.72,
+          "end": 326.02,
+          "text": "在",
+          "probability": 0.9987
+        },
+        {
+          "time": 325.92,
+          "end": 326.22,
+          "text": "我们",
+          "probability": 0.9998
+        },
+        {
+          "time": 326.1,
+          "end": 326.4,
+          "text": "中",
+          "probability": 0.9932
+        },
+        {
+          "time": 326.44,
+          "end": 326.74,
+          "text": "间",
+          "probability": 0.9995
+        },
+        {
+          "time": 327.88,
+          "end": 328.18,
+          "text": "我们",
+          "probability": 0.9992
+        },
+        {
+          "time": 328.0,
+          "end": 328.3,
+          "text": "在",
+          "probability": 0.9969
+        },
+        {
+          "time": 328.18,
+          "end": 328.48,
+          "text": "这里",
+          "probability": 0.9929
+        },
+        {
+          "time": 328.32,
+          "end": 328.62,
+          "text": "来",
+          "probability": 0.9976
+        },
+        {
+          "time": 328.48,
+          "end": 328.82,
+          "text": "寻",
+          "probability": 0.9939
+        },
+        {
+          "time": 328.74,
+          "end": 329.04,
+          "text": "求",
+          "probability": 0.9814
+        },
+        {
+          "time": 328.9,
+          "end": 329.44,
+          "text": "祂",
+          "probability": 0.9712
+        }
+      ]
+    },
+    {
+      "time": 337.02,
+      "end": 337.32,
+      "text": "我们",
+      "words": [
+        {
+          "time": 337.02,
+          "end": 337.32,
+          "text": "我们",
+          "probability": 0.9496
+        }
+      ]
+    },
+    {
+      "time": 339.7,
+      "end": 344.64,
+      "text": "一起把高宝来帮助人前",
+      "words": [
+        {
+          "time": 339.7,
+          "end": 340.0,
+          "text": "一起",
+          "probability": 0.7428
+        },
+        {
+          "time": 339.96,
+          "end": 340.26,
+          "text": "把",
+          "probability": 0.1721
+        },
+        {
+          "time": 340.18,
+          "end": 340.48,
+          "text": "高",
+          "probability": 0.3099
+        },
+        {
+          "time": 340.5,
+          "end": 342.16,
+          "text": "宝",
+          "probability": 0.1186
+        },
+        {
+          "time": 342.9,
+          "end": 343.2,
+          "text": "来",
+          "probability": 0.716
+        },
+        {
+          "time": 343.12,
+          "end": 343.42,
+          "text": "帮",
+          "probability": 0.1166
+        },
+        {
+          "time": 343.34,
+          "end": 343.64,
+          "text": "助",
+          "probability": 0.8826
+        },
+        {
+          "time": 343.64,
+          "end": 343.94,
+          "text": "人",
+          "probability": 0.3786
+        },
+        {
+          "time": 344.34,
+          "end": 344.64,
+          "text": "前",
+          "probability": 0.3074
+        }
+      ]
+    },
+    {
+      "time": 346.94,
+      "end": 349.6,
+      "text": "聚息归麦",
+      "words": [
+        {
+          "time": 346.94,
+          "end": 347.36,
+          "text": "聚",
+          "probability": 0.2326
+        },
+        {
+          "time": 347.46,
+          "end": 347.76,
+          "text": "息",
+          "probability": 0.1449
+        },
+        {
+          "time": 347.8,
+          "end": 348.24,
+          "text": "归",
+          "probability": 0.0958
+        },
+        {
+          "time": 348.3,
+          "end": 349.6,
+          "text": "麦",
+          "probability": 0.1641
+        }
+      ]
+    },
+    {
+      "time": 350.82,
+      "end": 351.12,
+      "text": "是",
+      "words": [
+        {
+          "time": 350.82,
+          "end": 351.12,
+          "text": "是",
+          "probability": 0.3811
+        }
+      ]
+    },
+    {
+      "time": 352.7,
+      "end": 354.02,
+      "text": "灭泥的主",
+      "words": [
+        {
+          "time": 352.7,
+          "end": 353.1,
+          "text": "灭",
+          "probability": 0.1242
+        },
+        {
+          "time": 353.04,
+          "end": 353.36,
+          "text": "泥",
+          "probability": 0.6559
+        },
+        {
+          "time": 353.24,
+          "end": 353.54,
+          "text": "的",
+          "probability": 0.7866
+        },
+        {
+          "time": 353.72,
+          "end": 354.02,
+          "text": "主",
+          "probability": 0.874
+        }
+      ]
+    },
+    {
+      "time": 355.98,
+      "end": 358.04,
+      "text": "我还想着天",
+      "words": [
+        {
+          "time": 355.98,
+          "end": 356.28,
+          "text": "我",
+          "probability": 0.4788
+        },
+        {
+          "time": 356.12,
+          "end": 356.42,
+          "text": "还",
+          "probability": 0.2797
+        },
+        {
+          "time": 356.4,
+          "end": 356.7,
+          "text": "想",
+          "probability": 0.7876
+        },
+        {
+          "time": 356.84,
+          "end": 357.14,
+          "text": "着",
+          "probability": 0.8265
+        },
+        {
+          "time": 357.74,
+          "end": 358.04,
+          "text": "天",
+          "probability": 0.9044
+        }
+      ]
+    },
+    {
+      "time": 360.1,
+      "end": 361.66,
+      "text": "聚息闯首",
+      "words": [
+        {
+          "time": 360.1,
+          "end": 360.48,
+          "text": "聚",
+          "probability": 0.9763
+        },
+        {
+          "time": 360.62,
+          "end": 360.92,
+          "text": "息",
+          "probability": 0.87
+        },
+        {
+          "time": 360.9,
+          "end": 361.32,
+          "text": "闯",
+          "probability": 0.2276
+        },
+        {
+          "time": 361.36,
+          "end": 361.66,
+          "text": "首",
+          "probability": 0.199
+        }
+      ]
+    },
+    {
+      "time": 363.04,
+      "end": 363.34,
+      "text": "我们",
+      "words": [
+        {
+          "time": 363.04,
+          "end": 363.34,
+          "text": "我们",
+          "probability": 0.8941
+        }
+      ]
+    },
+    {
+      "time": 365.76,
+      "end": 366.74,
+      "text": "一起躺躺",
+      "words": [
+        {
+          "time": 365.76,
+          "end": 366.06,
+          "text": " 一",
+          "probability": 0.4896
+        },
+        {
+          "time": 365.98,
+          "end": 366.28,
+          "text": "起",
+          "probability": 0.8166
+        },
+        {
+          "time": 366.14,
+          "end": 366.46,
+          "text": "躺",
+          "probability": 0.0638
+        },
+        {
+          "time": 366.38,
+          "end": 366.74,
+          "text": "躺",
+          "probability": 0.9629
+        }
+      ]
+    },
+    {
+      "time": 369.04,
+      "end": 370.74,
+      "text": "来到这边前",
+      "words": [
+        {
+          "time": 369.04,
+          "end": 369.34,
+          "text": "来",
+          "probability": 0.9452
+        },
+        {
+          "time": 369.26,
+          "end": 369.56,
+          "text": "到",
+          "probability": 0.2896
+        },
+        {
+          "time": 369.46,
+          "end": 369.76,
+          "text": "这",
+          "probability": 0.1159
+        },
+        {
+          "time": 369.98,
+          "end": 370.28,
+          "text": "边",
+          "probability": 0.3545
+        },
+        {
+          "time": 370.44,
+          "end": 370.74,
+          "text": "前",
+          "probability": 0.7019
+        }
+      ]
+    },
+    {
+      "time": 373.1,
+      "end": 375.3,
+      "text": "举起腿白",
+      "words": [
+        {
+          "time": 373.1,
+          "end": 373.52,
+          "text": "举",
+          "probability": 0.3231
+        },
+        {
+          "time": 373.56,
+          "end": 373.86,
+          "text": "起",
+          "probability": 0.4435
+        },
+        {
+          "time": 373.96,
+          "end": 374.4,
+          "text": "腿",
+          "probability": 0.1351
+        },
+        {
+          "time": 375.0,
+          "end": 375.3,
+          "text": "白",
+          "probability": 0.1592
+        }
+      ]
+    },
+    {
+      "time": 376.84,
+      "end": 377.14,
+      "text": "是",
+      "words": [
+        {
+          "time": 376.84,
+          "end": 377.14,
+          "text": "是",
+          "probability": 0.3165
+        }
+      ]
+    },
+    {
+      "time": 378.84,
+      "end": 380.12,
+      "text": "烈灭的主",
+      "words": [
+        {
+          "time": 378.84,
+          "end": 379.28,
+          "text": "烈",
+          "probability": 0.3439
+        },
+        {
+          "time": 379.2,
+          "end": 379.52,
+          "text": "灭",
+          "probability": 0.3668
+        },
+        {
+          "time": 379.46,
+          "end": 379.76,
+          "text": "的",
+          "probability": 0.9704
+        },
+        {
+          "time": 379.82,
+          "end": 380.12,
+          "text": "主",
+          "probability": 0.571
+        }
+      ]
+    },
+    {
+      "time": 382.14,
+      "end": 387.8,
+      "text": "我们向着天举起双手",
+      "words": [
+        {
+          "time": 382.14,
+          "end": 382.44,
+          "text": "我们",
+          "probability": 0.6982
+        },
+        {
+          "time": 382.5,
+          "end": 382.8,
+          "text": "向",
+          "probability": 0.8374
+        },
+        {
+          "time": 382.78,
+          "end": 383.08,
+          "text": "着",
+          "probability": 0.9256
+        },
+        {
+          "time": 383.42,
+          "end": 383.72,
+          "text": "天",
+          "probability": 0.2021
+        },
+        {
+          "time": 383.42,
+          "end": 386.46,
+          "text": "举",
+          "probability": 0.782
+        },
+        {
+          "time": 386.4,
+          "end": 386.7,
+          "text": "起",
+          "probability": 0.9899
+        },
+        {
+          "time": 386.8,
+          "end": 387.28,
+          "text": "双",
+          "probability": 0.8828
+        },
+        {
+          "time": 387.5,
+          "end": 387.8,
+          "text": "手",
+          "probability": 0.9931
+        }
+      ]
+    },
+    {
+      "time": 389.3,
+      "end": 395.7,
+      "text": "旧地打开天上门将风沸沸沸自",
+      "words": [
+        {
+          "time": 389.3,
+          "end": 389.82,
+          "text": "旧",
+          "probability": 0.4939
+        },
+        {
+          "time": 389.74,
+          "end": 390.04,
+          "text": "地",
+          "probability": 0.9268
+        },
+        {
+          "time": 390.08,
+          "end": 390.38,
+          "text": "打",
+          "probability": 0.958
+        },
+        {
+          "time": 390.66,
+          "end": 390.96,
+          "text": "开",
+          "probability": 0.9988
+        },
+        {
+          "time": 391.02,
+          "end": 391.32,
+          "text": "天",
+          "probability": 0.9299
+        },
+        {
+          "time": 391.38,
+          "end": 391.68,
+          "text": "上",
+          "probability": 0.9604
+        },
+        {
+          "time": 391.6,
+          "end": 392.16,
+          "text": "门",
+          "probability": 0.6959
+        },
+        {
+          "time": 392.24,
+          "end": 392.54,
+          "text": "将",
+          "probability": 0.8738
+        },
+        {
+          "time": 392.68,
+          "end": 392.98,
+          "text": "风",
+          "probability": 0.4269
+        },
+        {
+          "time": 393.02,
+          "end": 393.4,
+          "text": "沸",
+          "probability": 0.3374
+        },
+        {
+          "time": 393.52,
+          "end": 393.82,
+          "text": "沸",
+          "probability": 0.1116
+        },
+        {
+          "time": 393.94,
+          "end": 394.24,
+          "text": "沸",
+          "probability": 0.3095
+        },
+        {
+          "time": 395.4,
+          "end": 395.7,
+          "text": "自",
+          "probability": 0.395
+        }
+      ]
+    },
+    {
+      "time": 395.8,
+      "end": 399.54,
+      "text": "愿充满整个大力",
+      "words": [
+        {
+          "time": 395.8,
+          "end": 396.54,
+          "text": "愿",
+          "probability": 0.9008
+        },
+        {
+          "time": 396.6,
+          "end": 397.04,
+          "text": "充",
+          "probability": 0.871
+        },
+        {
+          "time": 397.04,
+          "end": 397.44,
+          "text": "满",
+          "probability": 0.9971
+        },
+        {
+          "time": 397.56,
+          "end": 397.86,
+          "text": "整",
+          "probability": 0.317
+        },
+        {
+          "time": 398.3,
+          "end": 398.6,
+          "text": "个",
+          "probability": 0.5775
+        },
+        {
+          "time": 398.74,
+          "end": 399.04,
+          "text": "大",
+          "probability": 0.9056
+        },
+        {
+          "time": 399.24,
+          "end": 399.54,
+          "text": "力",
+          "probability": 0.6444
+        }
+      ]
+    },
+    {
+      "time": 402.16,
+      "end": 408.52,
+      "text": "终于看到主将领同意的死交",
+      "words": [
+        {
+          "time": 402.16,
+          "end": 402.6,
+          "text": "终",
+          "probability": 0.7228
+        },
+        {
+          "time": 402.56,
+          "end": 402.86,
+          "text": "于",
+          "probability": 0.9951
+        },
+        {
+          "time": 403.08,
+          "end": 403.38,
+          "text": "看到",
+          "probability": 0.8335
+        },
+        {
+          "time": 403.86,
+          "end": 404.16,
+          "text": "主",
+          "probability": 0.9093
+        },
+        {
+          "time": 404.18,
+          "end": 404.48,
+          "text": "将",
+          "probability": 0.8685
+        },
+        {
+          "time": 404.42,
+          "end": 404.92,
+          "text": "领",
+          "probability": 0.4506
+        },
+        {
+          "time": 405.12,
+          "end": 405.42,
+          "text": "同",
+          "probability": 0.1562
+        },
+        {
+          "time": 405.92,
+          "end": 406.22,
+          "text": "意",
+          "probability": 0.4781
+        },
+        {
+          "time": 406.4,
+          "end": 406.7,
+          "text": "的",
+          "probability": 0.7147
+        },
+        {
+          "time": 406.9,
+          "end": 407.2,
+          "text": "死",
+          "probability": 0.1532
+        },
+        {
+          "time": 408.22,
+          "end": 408.52,
+          "text": "交",
+          "probability": 0.9314
+        }
+      ]
+    },
+    {
+      "time": 408.66,
+      "end": 414.78,
+      "text": "换在我们的身上求你打开天上的门",
+      "words": [
+        {
+          "time": 408.66,
+          "end": 409.34,
+          "text": "换",
+          "probability": 0.9578
+        },
+        {
+          "time": 409.6,
+          "end": 409.9,
+          "text": "在",
+          "probability": 0.9972
+        },
+        {
+          "time": 410.46,
+          "end": 410.76,
+          "text": "我们",
+          "probability": 0.9973
+        },
+        {
+          "time": 411.22,
+          "end": 411.52,
+          "text": "的",
+          "probability": 0.9767
+        },
+        {
+          "time": 411.54,
+          "end": 411.84,
+          "text": "身",
+          "probability": 0.5706
+        },
+        {
+          "time": 411.96,
+          "end": 412.26,
+          "text": "上",
+          "probability": 0.7974
+        },
+        {
+          "time": 412.34,
+          "end": 412.64,
+          "text": "求",
+          "probability": 0.581
+        },
+        {
+          "time": 412.48,
+          "end": 412.78,
+          "text": "你",
+          "probability": 0.4732
+        },
+        {
+          "time": 412.62,
+          "end": 412.92,
+          "text": "打",
+          "probability": 0.9895
+        },
+        {
+          "time": 412.86,
+          "end": 413.16,
+          "text": "开",
+          "probability": 0.9994
+        },
+        {
+          "time": 413.12,
+          "end": 413.42,
+          "text": "天",
+          "probability": 0.9903
+        },
+        {
+          "time": 413.3,
+          "end": 413.6,
+          "text": "上",
+          "probability": 0.611
+        },
+        {
+          "time": 413.4,
+          "end": 413.7,
+          "text": "的",
+          "probability": 0.7499
+        },
+        {
+          "time": 413.56,
+          "end": 414.78,
+          "text": "门",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 414.92,
+      "end": 421.22,
+      "text": "求你打开天上门将同被逼黑自",
+      "words": [
+        {
+          "time": 414.92,
+          "end": 415.22,
+          "text": "求",
+          "probability": 0.9654
+        },
+        {
+          "time": 415.24,
+          "end": 415.54,
+          "text": "你",
+          "probability": 0.9983
+        },
+        {
+          "time": 415.56,
+          "end": 415.86,
+          "text": "打",
+          "probability": 0.999
+        },
+        {
+          "time": 416.18,
+          "end": 416.48,
+          "text": "开",
+          "probability": 0.9997
+        },
+        {
+          "time": 416.54,
+          "end": 416.84,
+          "text": "天",
+          "probability": 0.9997
+        },
+        {
+          "time": 416.86,
+          "end": 417.16,
+          "text": "上",
+          "probability": 0.994
+        },
+        {
+          "time": 417.14,
+          "end": 417.72,
+          "text": "门",
+          "probability": 0.5689
+        },
+        {
+          "time": 417.84,
+          "end": 418.14,
+          "text": "将",
+          "probability": 0.9257
+        },
+        {
+          "time": 418.18,
+          "end": 418.48,
+          "text": "同",
+          "probability": 0.5773
+        },
+        {
+          "time": 418.64,
+          "end": 418.94,
+          "text": "被",
+          "probability": 0.2202
+        },
+        {
+          "time": 418.96,
+          "end": 419.42,
+          "text": "逼",
+          "probability": 0.1821
+        },
+        {
+          "time": 420.08,
+          "end": 420.38,
+          "text": "黑",
+          "probability": 0.2269
+        },
+        {
+          "time": 420.92,
+          "end": 421.22,
+          "text": "自",
+          "probability": 0.5779
+        }
+      ]
+    },
+    {
+      "time": 421.22,
+      "end": 424.9,
+      "text": "愿充满任何大地",
+      "words": [
+        {
+          "time": 421.22,
+          "end": 421.98,
+          "text": "愿",
+          "probability": 0.941
+        },
+        {
+          "time": 422.06,
+          "end": 422.46,
+          "text": "充",
+          "probability": 0.512
+        },
+        {
+          "time": 422.46,
+          "end": 422.86,
+          "text": "满",
+          "probability": 0.9615
+        },
+        {
+          "time": 422.94,
+          "end": 423.24,
+          "text": "任",
+          "probability": 0.223
+        },
+        {
+          "time": 423.7,
+          "end": 424.0,
+          "text": "何",
+          "probability": 0.8811
+        },
+        {
+          "time": 424.18,
+          "end": 424.48,
+          "text": "大",
+          "probability": 0.9027
+        },
+        {
+          "time": 424.6,
+          "end": 424.9,
+          "text": "地",
+          "probability": 0.3608
+        }
+      ]
+    },
+    {
+      "time": 427.52,
+      "end": 433.74,
+      "text": "祝你看到主将领土一丝交",
+      "words": [
+        {
+          "time": 427.52,
+          "end": 427.96,
+          "text": "祝",
+          "probability": 0.4405
+        },
+        {
+          "time": 427.88,
+          "end": 428.18,
+          "text": "你",
+          "probability": 0.5561
+        },
+        {
+          "time": 428.72,
+          "end": 429.02,
+          "text": "看到",
+          "probability": 0.6097
+        },
+        {
+          "time": 429.16,
+          "end": 429.46,
+          "text": "主",
+          "probability": 0.8292
+        },
+        {
+          "time": 429.5,
+          "end": 429.8,
+          "text": "将",
+          "probability": 0.9146
+        },
+        {
+          "time": 429.74,
+          "end": 430.2,
+          "text": "领",
+          "probability": 0.4029
+        },
+        {
+          "time": 430.38,
+          "end": 430.68,
+          "text": "土",
+          "probability": 0.0924
+        },
+        {
+          "time": 431.12,
+          "end": 431.42,
+          "text": "一",
+          "probability": 0.3131
+        },
+        {
+          "time": 431.52,
+          "end": 432.52,
+          "text": "丝",
+          "probability": 0.5643
+        },
+        {
+          "time": 433.44,
+          "end": 433.74,
+          "text": "交",
+          "probability": 0.8722
+        }
+      ]
+    },
+    {
+      "time": 433.88,
+      "end": 440.0,
+      "text": "换在我们的身上求你打开天上的门",
+      "words": [
+        {
+          "time": 433.88,
+          "end": 434.58,
+          "text": "换",
+          "probability": 0.9027
+        },
+        {
+          "time": 434.8,
+          "end": 435.1,
+          "text": "在",
+          "probability": 0.9066
+        },
+        {
+          "time": 435.78,
+          "end": 436.08,
+          "text": "我们",
+          "probability": 0.9968
+        },
+        {
+          "time": 436.28,
+          "end": 436.58,
+          "text": "的",
+          "probability": 0.311
+        },
+        {
+          "time": 437.24,
+          "end": 437.54,
+          "text": "身",
+          "probability": 0.2096
+        },
+        {
+          "time": 437.5,
+          "end": 437.8,
+          "text": "上",
+          "probability": 0.6891
+        },
+        {
+          "time": 437.7,
+          "end": 438.0,
+          "text": "求",
+          "probability": 0.4469
+        },
+        {
+          "time": 437.92,
+          "end": 438.22,
+          "text": "你",
+          "probability": 0.9783
+        },
+        {
+          "time": 438.04,
+          "end": 438.34,
+          "text": "打",
+          "probability": 0.9209
+        },
+        {
+          "time": 438.24,
+          "end": 438.54,
+          "text": "开",
+          "probability": 0.9985
+        },
+        {
+          "time": 438.46,
+          "end": 438.76,
+          "text": "天",
+          "probability": 0.9945
+        },
+        {
+          "time": 438.64,
+          "end": 438.94,
+          "text": "上",
+          "probability": 0.8258
+        },
+        {
+          "time": 438.74,
+          "end": 439.04,
+          "text": "的",
+          "probability": 0.7358
+        },
+        {
+          "time": 438.88,
+          "end": 440.02,
+          "text": "门",
+          "probability": 0.9971
+        }
+      ]
+    },
+    {
+      "time": 440.0,
+      "end": 446.36,
+      "text": "求你打开天上门将崩溃的恩允自",
+      "words": [
+        {
+          "time": 440.0,
+          "end": 440.3,
+          "text": "求",
+          "probability": 0.789
+        },
+        {
+          "time": 440.38,
+          "end": 440.68,
+          "text": "你",
+          "probability": 0.9989
+        },
+        {
+          "time": 440.66,
+          "end": 440.96,
+          "text": "打",
+          "probability": 0.9934
+        },
+        {
+          "time": 441.28,
+          "end": 441.58,
+          "text": "开",
+          "probability": 0.9993
+        },
+        {
+          "time": 441.64,
+          "end": 441.94,
+          "text": "天",
+          "probability": 0.999
+        },
+        {
+          "time": 442.0,
+          "end": 442.3,
+          "text": "上",
+          "probability": 0.9962
+        },
+        {
+          "time": 442.26,
+          "end": 442.8,
+          "text": "门",
+          "probability": 0.6847
+        },
+        {
+          "time": 442.9,
+          "end": 443.2,
+          "text": "将",
+          "probability": 0.4991
+        },
+        {
+          "time": 443.22,
+          "end": 443.62,
+          "text": "崩",
+          "probability": 0.3344
+        },
+        {
+          "time": 443.62,
+          "end": 444.02,
+          "text": "溃",
+          "probability": 0.9188
+        },
+        {
+          "time": 444.1,
+          "end": 444.4,
+          "text": "的",
+          "probability": 0.5088
+        },
+        {
+          "time": 444.48,
+          "end": 444.78,
+          "text": "恩",
+          "probability": 0.2615
+        },
+        {
+          "time": 444.82,
+          "end": 445.36,
+          "text": "允",
+          "probability": 0.2177
+        },
+        {
+          "time": 446.06,
+          "end": 446.36,
+          "text": "自",
+          "probability": 0.5409
+        }
+      ]
+    },
+    {
+      "time": 446.42,
+      "end": 450.0,
+      "text": "愿充满真的大意",
+      "words": [
+        {
+          "time": 446.42,
+          "end": 447.08,
+          "text": "愿",
+          "probability": 0.9384
+        },
+        {
+          "time": 447.12,
+          "end": 447.54,
+          "text": "充",
+          "probability": 0.3419
+        },
+        {
+          "time": 447.54,
+          "end": 447.92,
+          "text": "满",
+          "probability": 0.956
+        },
+        {
+          "time": 448.4,
+          "end": 448.7,
+          "text": "真的",
+          "probability": 0.1086
+        },
+        {
+          "time": 449.26,
+          "end": 449.56,
+          "text": "大",
+          "probability": 0.3838
+        },
+        {
+          "time": 449.7,
+          "end": 450.0,
+          "text": "意",
+          "probability": 0.3233
+        }
+      ]
+    },
+    {
+      "time": 452.5,
+      "end": 458.82,
+      "text": "终于看到主将领共一地死交",
+      "words": [
+        {
+          "time": 452.5,
+          "end": 452.96,
+          "text": "终",
+          "probability": 0.6795
+        },
+        {
+          "time": 452.92,
+          "end": 453.22,
+          "text": "于",
+          "probability": 0.9967
+        },
+        {
+          "time": 453.62,
+          "end": 453.92,
+          "text": "看到",
+          "probability": 0.9755
+        },
+        {
+          "time": 454.2,
+          "end": 454.5,
+          "text": "主",
+          "probability": 0.8453
+        },
+        {
+          "time": 454.52,
+          "end": 454.82,
+          "text": "将",
+          "probability": 0.8643
+        },
+        {
+          "time": 454.8,
+          "end": 455.2,
+          "text": "领",
+          "probability": 0.7766
+        },
+        {
+          "time": 455.4,
+          "end": 455.7,
+          "text": "共",
+          "probability": 0.3351
+        },
+        {
+          "time": 455.92,
+          "end": 456.22,
+          "text": "一",
+          "probability": 0.2303
+        },
+        {
+          "time": 456.6,
+          "end": 456.9,
+          "text": "地",
+          "probability": 0.7066
+        },
+        {
+          "time": 457.38,
+          "end": 457.68,
+          "text": "死",
+          "probability": 0.1135
+        },
+        {
+          "time": 458.52,
+          "end": 458.82,
+          "text": "交",
+          "probability": 0.3961
+        }
+      ]
+    },
+    {
+      "time": 458.84,
+      "end": 464.42,
+      "text": "换在我们的身上再一次求你打开",
+      "words": [
+        {
+          "time": 458.84,
+          "end": 459.38,
+          "text": "换",
+          "probability": 0.5484
+        },
+        {
+          "time": 459.92,
+          "end": 460.22,
+          "text": "在",
+          "probability": 0.9982
+        },
+        {
+          "time": 460.68,
+          "end": 460.98,
+          "text": "我们",
+          "probability": 0.9899
+        },
+        {
+          "time": 461.36,
+          "end": 461.66,
+          "text": "的",
+          "probability": 0.9523
+        },
+        {
+          "time": 461.78,
+          "end": 462.08,
+          "text": "身",
+          "probability": 0.8916
+        },
+        {
+          "time": 462.26,
+          "end": 462.56,
+          "text": "上",
+          "probability": 0.8473
+        },
+        {
+          "time": 462.86,
+          "end": 463.16,
+          "text": "再",
+          "probability": 0.4422
+        },
+        {
+          "time": 463.14,
+          "end": 463.44,
+          "text": "一次",
+          "probability": 0.9731
+        },
+        {
+          "time": 463.38,
+          "end": 463.68,
+          "text": "求",
+          "probability": 0.7047
+        },
+        {
+          "time": 463.56,
+          "end": 463.86,
+          "text": "你",
+          "probability": 0.8644
+        },
+        {
+          "time": 463.72,
+          "end": 464.02,
+          "text": "打",
+          "probability": 0.9855
+        },
+        {
+          "time": 464.12,
+          "end": 464.42,
+          "text": "开",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 465.16,
+      "end": 471.46,
+      "text": "求你打开天上门将空拍地很雨自",
+      "words": [
+        {
+          "time": 465.16,
+          "end": 465.46,
+          "text": "求",
+          "probability": 0.9992
+        },
+        {
+          "time": 465.54,
+          "end": 465.84,
+          "text": "你",
+          "probability": 0.9993
+        },
+        {
+          "time": 465.86,
+          "end": 466.16,
+          "text": "打",
+          "probability": 0.9992
+        },
+        {
+          "time": 466.46,
+          "end": 466.76,
+          "text": "开",
+          "probability": 0.9995
+        },
+        {
+          "time": 466.82,
+          "end": 467.12,
+          "text": "天",
+          "probability": 0.5012
+        },
+        {
+          "time": 467.14,
+          "end": 467.44,
+          "text": "上",
+          "probability": 0.8529
+        },
+        {
+          "time": 467.38,
+          "end": 467.92,
+          "text": "门",
+          "probability": 0.6023
+        },
+        {
+          "time": 468.04,
+          "end": 468.34,
+          "text": "将",
+          "probability": 0.9381
+        },
+        {
+          "time": 468.38,
+          "end": 468.68,
+          "text": "空",
+          "probability": 0.6951
+        },
+        {
+          "time": 468.84,
+          "end": 469.14,
+          "text": "拍",
+          "probability": 0.2071
+        },
+        {
+          "time": 469.24,
+          "end": 469.54,
+          "text": "地",
+          "probability": 0.8938
+        },
+        {
+          "time": 469.58,
+          "end": 469.88,
+          "text": "很",
+          "probability": 0.1921
+        },
+        {
+          "time": 470.34,
+          "end": 470.64,
+          "text": "雨",
+          "probability": 0.2109
+        },
+        {
+          "time": 471.16,
+          "end": 471.46,
+          "text": "自",
+          "probability": 0.5193
+        }
+      ]
+    },
+    {
+      "time": 471.54,
+      "end": 475.16,
+      "text": "愿充满全个大地",
+      "words": [
+        {
+          "time": 471.54,
+          "end": 472.22,
+          "text": "愿",
+          "probability": 0.8115
+        },
+        {
+          "time": 472.28,
+          "end": 472.68,
+          "text": "充",
+          "probability": 0.795
+        },
+        {
+          "time": 472.68,
+          "end": 473.08,
+          "text": "满",
+          "probability": 0.9976
+        },
+        {
+          "time": 473.2,
+          "end": 473.5,
+          "text": "全",
+          "probability": 0.6467
+        },
+        {
+          "time": 473.86,
+          "end": 474.16,
+          "text": "个",
+          "probability": 0.4763
+        },
+        {
+          "time": 474.36,
+          "end": 474.66,
+          "text": "大",
+          "probability": 0.9833
+        },
+        {
+          "time": 474.86,
+          "end": 475.16,
+          "text": "地",
+          "probability": 0.967
+        }
+      ]
+    },
+    {
+      "time": 477.68,
+      "end": 484.02,
+      "text": "终于看到主将领功力的死交",
+      "words": [
+        {
+          "time": 477.68,
+          "end": 478.14,
+          "text": "终",
+          "probability": 0.7083
+        },
+        {
+          "time": 478.1,
+          "end": 478.4,
+          "text": "于",
+          "probability": 0.9895
+        },
+        {
+          "time": 478.8,
+          "end": 479.1,
+          "text": "看到",
+          "probability": 0.9862
+        },
+        {
+          "time": 479.4,
+          "end": 479.7,
+          "text": "主",
+          "probability": 0.8412
+        },
+        {
+          "time": 479.78,
+          "end": 480.08,
+          "text": "将",
+          "probability": 0.2042
+        },
+        {
+          "time": 480.08,
+          "end": 480.52,
+          "text": "领",
+          "probability": 0.2065
+        },
+        {
+          "time": 480.6,
+          "end": 480.9,
+          "text": "功",
+          "probability": 0.1141
+        },
+        {
+          "time": 481.2,
+          "end": 481.5,
+          "text": "力",
+          "probability": 0.3198
+        },
+        {
+          "time": 481.94,
+          "end": 482.24,
+          "text": "的",
+          "probability": 0.9524
+        },
+        {
+          "time": 482.52,
+          "end": 482.82,
+          "text": "死",
+          "probability": 0.4836
+        },
+        {
+          "time": 483.72,
+          "end": 484.02,
+          "text": "交",
+          "probability": 0.3777
+        }
+      ]
+    },
+    {
+      "time": 484.06,
+      "end": 488.08,
+      "text": "换在我们的身上",
+      "words": [
+        {
+          "time": 484.06,
+          "end": 484.78,
+          "text": "换",
+          "probability": 0.716
+        },
+        {
+          "time": 485.06,
+          "end": 485.36,
+          "text": "在",
+          "probability": 0.9964
+        },
+        {
+          "time": 485.88,
+          "end": 486.18,
+          "text": "我们",
+          "probability": 0.9987
+        },
+        {
+          "time": 486.7,
+          "end": 487.0,
+          "text": "的",
+          "probability": 0.9923
+        },
+        {
+          "time": 486.98,
+          "end": 487.28,
+          "text": "身",
+          "probability": 0.9855
+        },
+        {
+          "time": 487.78,
+          "end": 488.08,
+          "text": "上",
+          "probability": 0.9951
+        }
+      ]
+    },
+    {
+      "time": 489.94,
+      "end": 496.6,
+      "text": "交换在我们的身上交",
+      "words": [
+        {
+          "time": 489.94,
+          "end": 490.24,
+          "text": "交",
+          "probability": 0.8441
+        },
+        {
+          "time": 490.36,
+          "end": 491.14,
+          "text": "换",
+          "probability": 0.9986
+        },
+        {
+          "time": 491.42,
+          "end": 491.72,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 492.24,
+          "end": 492.54,
+          "text": "我们",
+          "probability": 0.9998
+        },
+        {
+          "time": 493.02,
+          "end": 493.32,
+          "text": "的",
+          "probability": 0.9998
+        },
+        {
+          "time": 493.3,
+          "end": 493.6,
+          "text": "身",
+          "probability": 0.9986
+        },
+        {
+          "time": 494.8,
+          "end": 495.1,
+          "text": "上",
+          "probability": 0.9998
+        },
+        {
+          "time": 496.3,
+          "end": 496.6,
+          "text": "交",
+          "probability": 0.7036
+        }
+      ]
+    },
+    {
+      "time": 497.08,
+      "end": 501.16,
+      "text": "换在我们的身上再次求主来交换",
+      "words": [
+        {
+          "time": 497.08,
+          "end": 497.46,
+          "text": "换",
+          "probability": 0.9999
+        },
+        {
+          "time": 497.62,
+          "end": 497.92,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 498.52,
+          "end": 498.82,
+          "text": "我们",
+          "probability": 0.9998
+        },
+        {
+          "time": 499.28,
+          "end": 499.58,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 499.54,
+          "end": 499.84,
+          "text": "身",
+          "probability": 0.9991
+        },
+        {
+          "time": 499.56,
+          "end": 499.86,
+          "text": "上",
+          "probability": 0.9998
+        },
+        {
+          "time": 499.64,
+          "end": 499.94,
+          "text": "再",
+          "probability": 0.6177
+        },
+        {
+          "time": 499.88,
+          "end": 500.18,
+          "text": "次",
+          "probability": 0.5617
+        },
+        {
+          "time": 500.04,
+          "end": 500.34,
+          "text": "求",
+          "probability": 0.1453
+        },
+        {
+          "time": 500.18,
+          "end": 500.48,
+          "text": "主",
+          "probability": 0.8586
+        },
+        {
+          "time": 500.36,
+          "end": 500.66,
+          "text": "来",
+          "probability": 0.6339
+        },
+        {
+          "time": 500.62,
+          "end": 500.92,
+          "text": "交",
+          "probability": 0.8823
+        },
+        {
+          "time": 500.82,
+          "end": 501.16,
+          "text": "换",
+          "probability": 0.9946
+        }
+      ]
+    },
+    {
+      "time": 502.64,
+      "end": 506.58,
+      "text": "交换在我们的身上",
+      "words": [
+        {
+          "time": 502.64,
+          "end": 502.94,
+          "text": "交",
+          "probability": 0.8043
+        },
+        {
+          "time": 503.02,
+          "end": 503.7,
+          "text": "换",
+          "probability": 0.6911
+        },
+        {
+          "time": 504.04,
+          "end": 504.34,
+          "text": "在",
+          "probability": 0.992
+        },
+        {
+          "time": 504.78,
+          "end": 505.08,
+          "text": "我们",
+          "probability": 0.9694
+        },
+        {
+          "time": 505.56,
+          "end": 505.86,
+          "text": "的",
+          "probability": 0.9616
+        },
+        {
+          "time": 505.9,
+          "end": 506.2,
+          "text": "身",
+          "probability": 0.9718
+        },
+        {
+          "time": 506.28,
+          "end": 506.58,
+          "text": "上",
+          "probability": 0.9874
+        }
+      ]
+    },
+    {
+      "time": 508.88,
+      "end": 512.24,
+      "text": "交换在我们的身上",
+      "words": [
+        {
+          "time": 508.88,
+          "end": 509.18,
+          "text": "交",
+          "probability": 0.9389
+        },
+        {
+          "time": 509.22,
+          "end": 509.78,
+          "text": "换",
+          "probability": 0.9993
+        },
+        {
+          "time": 510.36,
+          "end": 510.66,
+          "text": "在",
+          "probability": 0.9987
+        },
+        {
+          "time": 511.06,
+          "end": 511.36,
+          "text": "我们",
+          "probability": 0.9969
+        },
+        {
+          "time": 511.82,
+          "end": 512.12,
+          "text": "的",
+          "probability": 0.9907
+        },
+        {
+          "time": 511.94,
+          "end": 512.24,
+          "text": "身",
+          "probability": 0.9972
+        },
+        {
+          "time": 511.94,
+          "end": 512.24,
+          "text": "上",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 515.12,
+      "end": 519.5,
+      "text": "交换在我们的身上",
+      "words": [
+        {
+          "time": 515.12,
+          "end": 515.42,
+          "text": "交",
+          "probability": 0.9322
+        },
+        {
+          "time": 515.36,
+          "end": 516.26,
+          "text": "换",
+          "probability": 0.9995
+        },
+        {
+          "time": 516.42,
+          "end": 516.72,
+          "text": "在",
+          "probability": 0.9986
+        },
+        {
+          "time": 517.32,
+          "end": 517.62,
+          "text": "我们",
+          "probability": 0.9979
+        },
+        {
+          "time": 518.08,
+          "end": 518.38,
+          "text": "的",
+          "probability": 0.9982
+        },
+        {
+          "time": 518.4,
+          "end": 518.7,
+          "text": "身",
+          "probability": 0.9994
+        },
+        {
+          "time": 519.2,
+          "end": 519.5,
+          "text": "上",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 521.36,
+      "end": 525.62,
+      "text": "交换在我们的身上",
+      "words": [
+        {
+          "time": 521.36,
+          "end": 521.66,
+          "text": "交",
+          "probability": 0.8664
+        },
+        {
+          "time": 521.86,
+          "end": 522.5,
+          "text": "换",
+          "probability": 0.9996
+        },
+        {
+          "time": 522.78,
+          "end": 523.08,
+          "text": "在",
+          "probability": 0.9994
+        },
+        {
+          "time": 523.54,
+          "end": 523.84,
+          "text": "我们",
+          "probability": 0.999
+        },
+        {
+          "time": 524.28,
+          "end": 524.58,
+          "text": "的",
+          "probability": 0.9992
+        },
+        {
+          "time": 524.6,
+          "end": 524.9,
+          "text": "身",
+          "probability": 0.9993
+        },
+        {
+          "time": 525.32,
+          "end": 525.62,
+          "text": "上",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 527.64,
+      "end": 532.3,
+      "text": "召唤在我们的身上",
+      "words": [
+        {
+          "time": 527.64,
+          "end": 528.06,
+          "text": "召",
+          "probability": 0.5721
+        },
+        {
+          "time": 528.04,
+          "end": 528.5,
+          "text": "唤",
+          "probability": 0.9841
+        },
+        {
+          "time": 529.08,
+          "end": 529.38,
+          "text": "在",
+          "probability": 0.9779
+        },
+        {
+          "time": 530.02,
+          "end": 530.32,
+          "text": "我们",
+          "probability": 0.9935
+        },
+        {
+          "time": 530.84,
+          "end": 531.14,
+          "text": "的",
+          "probability": 0.9816
+        },
+        {
+          "time": 531.18,
+          "end": 531.48,
+          "text": "身",
+          "probability": 0.9754
+        },
+        {
+          "time": 532.0,
+          "end": 532.3,
+          "text": "上",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 534.36,
+      "end": 538.96,
+      "text": "召唤在我们的身上",
+      "words": [
+        {
+          "time": 534.36,
+          "end": 534.76,
+          "text": "召",
+          "probability": 0.9947
+        },
+        {
+          "time": 534.78,
+          "end": 535.2,
+          "text": "唤",
+          "probability": 0.9999
+        },
+        {
+          "time": 535.86,
+          "end": 536.16,
+          "text": "在",
+          "probability": 0.9997
+        },
+        {
+          "time": 536.74,
+          "end": 537.04,
+          "text": "我们",
+          "probability": 0.9995
+        },
+        {
+          "time": 537.48,
+          "end": 537.78,
+          "text": "的",
+          "probability": 0.9997
+        },
+        {
+          "time": 537.92,
+          "end": 538.22,
+          "text": "身",
+          "probability": 0.999
+        },
+        {
+          "time": 538.66,
+          "end": 538.96,
+          "text": "上",
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

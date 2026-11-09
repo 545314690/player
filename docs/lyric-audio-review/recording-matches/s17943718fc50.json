@@ -1,0 +1,76 @@
+{
+  "id": "s17943718fc50",
+  "file": "128在主爱中.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "51748",
+      "offset": -157.564,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.190568,
+      "windows": [
+        {
+          "localStart": 155.944,
+          "sourceStart": 0.363,
+          "offset": -155.5805,
+          "coefficient": 0.01001
+        },
+        {
+          "localStart": 183.464,
+          "sourceStart": 25.693,
+          "offset": -157.771,
+          "coefficient": 0.043806
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "40542",
+      "offset": -72.615,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.68336,
+      "windows": [
+        {
+          "localStart": 73.385,
+          "sourceStart": 1.863,
+          "offset": -71.5225,
+          "coefficient": 0.059883
+        },
+        {
+          "localStart": 100.905,
+          "sourceStart": 27.497,
+          "offset": -73.4085,
+          "coefficient": 0.03457
+        },
+        {
+          "localStart": 128.424,
+          "sourceStart": 56.574,
+          "offset": -71.8505,
+          "coefficient": 0.070838
+        },
+        {
+          "localStart": 155.944,
+          "sourceStart": 85.078,
+          "offset": -70.8665,
+          "coefficient": 0.04592
+        },
+        {
+          "localStart": 183.464,
+          "sourceStart": 112.112,
+          "offset": -71.352,
+          "coefficient": 0.068103
+        },
+        {
+          "localStart": 206.397,
+          "sourceStart": 133.726,
+          "offset": -72.6705,
+          "coefficient": 0.028162
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

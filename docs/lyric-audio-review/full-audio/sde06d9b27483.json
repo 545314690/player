@@ -1,0 +1,1072 @@
+{
+  "id": "sde06d9b27483",
+  "file": "009不知道前方的路还有多远.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "5ac5e466cbd7286565246364a3aa5f9fdaa9fcd8110610ea750afff7a7af82b8",
+  "fullDuration": 123.738125,
+  "lines": [
+    {
+      "time": 16.26,
+      "end": 22.08,
+      "text": "不知道前方的路还有多远",
+      "words": [
+        {
+          "time": 16.26,
+          "end": 16.56,
+          "text": "不知道",
+          "probability": 0.2993
+        },
+        {
+          "time": 17.64,
+          "end": 17.94,
+          "text": "前",
+          "probability": 0.3905
+        },
+        {
+          "time": 18.12,
+          "end": 18.42,
+          "text": "方",
+          "probability": 0.9946
+        },
+        {
+          "time": 18.34,
+          "end": 18.64,
+          "text": "的",
+          "probability": 0.9944
+        },
+        {
+          "time": 18.68,
+          "end": 18.98,
+          "text": "路",
+          "probability": 0.9991
+        },
+        {
+          "time": 19.72,
+          "end": 20.02,
+          "text": "还有",
+          "probability": 0.4898
+        },
+        {
+          "time": 20.72,
+          "end": 21.02,
+          "text": "多",
+          "probability": 0.9984
+        },
+        {
+          "time": 21.52,
+          "end": 22.08,
+          "text": "远",
+          "probability": 0.9962
+        }
+      ]
+    },
+    {
+      "time": 23.92,
+      "end": 29.64,
+      "text": "不知道有多少艰难和危险",
+      "words": [
+        {
+          "time": 23.92,
+          "end": 24.22,
+          "text": "不知道",
+          "probability": 0.625
+        },
+        {
+          "time": 25.4,
+          "end": 25.7,
+          "text": "有",
+          "probability": 0.9969
+        },
+        {
+          "time": 26.3,
+          "end": 26.6,
+          "text": "多少",
+          "probability": 0.9933
+        },
+        {
+          "time": 27.24,
+          "end": 27.7,
+          "text": "艰",
+          "probability": 0.842
+        },
+        {
+          "time": 27.84,
+          "end": 28.14,
+          "text": "难",
+          "probability": 0.9874
+        },
+        {
+          "time": 28.34,
+          "end": 28.64,
+          "text": "和",
+          "probability": 0.9884
+        },
+        {
+          "time": 28.76,
+          "end": 29.06,
+          "text": "危",
+          "probability": 0.9495
+        },
+        {
+          "time": 29.14,
+          "end": 29.64,
+          "text": "险",
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "time": 31.18,
+      "end": 38.56,
+      "text": "但我们的心愿一定不再改变",
+      "words": [
+        {
+          "time": 31.18,
+          "end": 31.48,
+          "text": "但",
+          "probability": 0.8792
+        },
+        {
+          "time": 31.72,
+          "end": 32.02,
+          "text": "我们",
+          "probability": 0.9935
+        },
+        {
+          "time": 32.08,
+          "end": 32.38,
+          "text": "的",
+          "probability": 0.9887
+        },
+        {
+          "time": 32.48,
+          "end": 32.78,
+          "text": "心",
+          "probability": 0.9763
+        },
+        {
+          "time": 32.92,
+          "end": 33.42,
+          "text": "愿",
+          "probability": 0.825
+        },
+        {
+          "time": 33.86,
+          "end": 34.16,
+          "text": "一定",
+          "probability": 0.9056
+        },
+        {
+          "time": 34.96,
+          "end": 35.26,
+          "text": "不",
+          "probability": 0.5385
+        },
+        {
+          "time": 35.5,
+          "end": 35.8,
+          "text": "再",
+          "probability": 0.9963
+        },
+        {
+          "time": 36.22,
+          "end": 36.52,
+          "text": "改",
+          "probability": 0.9993
+        },
+        {
+          "time": 36.8,
+          "end": 38.56,
+          "text": "变",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 38.76,
+      "end": 44.34,
+      "text": "开工没有回头见没有回头",
+      "words": [
+        {
+          "time": 38.76,
+          "end": 39.06,
+          "text": "开",
+          "probability": 0.9832
+        },
+        {
+          "time": 39.2,
+          "end": 39.5,
+          "text": "工",
+          "probability": 0.6366
+        },
+        {
+          "time": 39.94,
+          "end": 40.24,
+          "text": "没有",
+          "probability": 0.9984
+        },
+        {
+          "time": 40.62,
+          "end": 40.92,
+          "text": "回",
+          "probability": 0.9919
+        },
+        {
+          "time": 41.2,
+          "end": 41.5,
+          "text": "头",
+          "probability": 0.9995
+        },
+        {
+          "time": 41.58,
+          "end": 41.88,
+          "text": "见",
+          "probability": 0.5517
+        },
+        {
+          "time": 42.8,
+          "end": 43.1,
+          "text": "没有",
+          "probability": 0.9402
+        },
+        {
+          "time": 43.44,
+          "end": 43.74,
+          "text": "回",
+          "probability": 0.9994
+        },
+        {
+          "time": 44.04,
+          "end": 44.34,
+          "text": "头",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 44.64,
+      "end": 44.94,
+      "text": "见",
+      "words": [
+        {
+          "time": 44.64,
+          "end": 44.94,
+          "text": "见",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 46.42,
+      "end": 52.02,
+      "text": "来吧让我们齐心合力中国起流线",
+      "words": [
+        {
+          "time": 46.42,
+          "end": 46.72,
+          "text": "来",
+          "probability": 0.9993
+        },
+        {
+          "time": 46.8,
+          "end": 47.1,
+          "text": "吧",
+          "probability": 0.9987
+        },
+        {
+          "time": 47.16,
+          "end": 47.46,
+          "text": "让",
+          "probability": 0.7499
+        },
+        {
+          "time": 47.88,
+          "end": 48.18,
+          "text": "我们",
+          "probability": 0.9998
+        },
+        {
+          "time": 48.1,
+          "end": 48.46,
+          "text": "齐",
+          "probability": 0.3005
+        },
+        {
+          "time": 48.5,
+          "end": 48.8,
+          "text": "心",
+          "probability": 0.9932
+        },
+        {
+          "time": 48.88,
+          "end": 49.18,
+          "text": "合",
+          "probability": 0.849
+        },
+        {
+          "time": 49.22,
+          "end": 49.52,
+          "text": "力",
+          "probability": 0.7565
+        },
+        {
+          "time": 50.38,
+          "end": 50.68,
+          "text": "中国",
+          "probability": 0.3799
+        },
+        {
+          "time": 51.0,
+          "end": 51.3,
+          "text": "起",
+          "probability": 0.1489
+        },
+        {
+          "time": 51.44,
+          "end": 51.74,
+          "text": "流",
+          "probability": 0.8498
+        },
+        {
+          "time": 51.66,
+          "end": 52.04,
+          "text": "线",
+          "probability": 0.2852
+        }
+      ]
+    },
+    {
+      "time": 52.02,
+      "end": 57.68,
+      "text": "踏不要怕那道路难走",
+      "words": [
+        {
+          "time": 52.02,
+          "end": 53.24,
+          "text": "踏",
+          "probability": 0.1193
+        },
+        {
+          "time": 54.44,
+          "end": 54.74,
+          "text": "不要",
+          "probability": 0.5895
+        },
+        {
+          "time": 54.98,
+          "end": 55.28,
+          "text": "怕",
+          "probability": 0.948
+        },
+        {
+          "time": 55.38,
+          "end": 55.68,
+          "text": "那",
+          "probability": 0.9125
+        },
+        {
+          "time": 55.94,
+          "end": 56.24,
+          "text": "道",
+          "probability": 0.9919
+        },
+        {
+          "time": 56.4,
+          "end": 56.7,
+          "text": "路",
+          "probability": 0.995
+        },
+        {
+          "time": 56.82,
+          "end": 57.12,
+          "text": "难",
+          "probability": 0.8483
+        },
+        {
+          "time": 57.38,
+          "end": 57.68,
+          "text": "走",
+          "probability": 0.9817
+        }
+      ]
+    },
+    {
+      "time": 57.84,
+      "end": 59.9,
+      "text": "取这蜒蜒",
+      "words": [
+        {
+          "time": 57.84,
+          "end": 58.14,
+          "text": "取",
+          "probability": 0.277
+        },
+        {
+          "time": 58.34,
+          "end": 58.64,
+          "text": "这",
+          "probability": 0.491
+        },
+        {
+          "time": 58.7,
+          "end": 59.22,
+          "text": "蜒",
+          "probability": 0.4069
+        },
+        {
+          "time": 58.98,
+          "end": 59.9,
+          "text": "蜒",
+          "probability": 0.3177
+        }
+      ]
+    },
+    {
+      "time": 61.82,
+      "end": 69.0,
+      "text": "我们要付出些的代价将福音种子撒遍",
+      "words": [
+        {
+          "time": 61.82,
+          "end": 62.12,
+          "text": "我们",
+          "probability": 0.9978
+        },
+        {
+          "time": 62.2,
+          "end": 62.5,
+          "text": "要",
+          "probability": 0.9975
+        },
+        {
+          "time": 62.6,
+          "end": 62.9,
+          "text": "付",
+          "probability": 0.9822
+        },
+        {
+          "time": 63.06,
+          "end": 63.36,
+          "text": "出",
+          "probability": 0.9983
+        },
+        {
+          "time": 63.6,
+          "end": 63.9,
+          "text": "些",
+          "probability": 0.2569
+        },
+        {
+          "time": 64.14,
+          "end": 64.44,
+          "text": "的",
+          "probability": 0.621
+        },
+        {
+          "time": 64.48,
+          "end": 64.78,
+          "text": "代",
+          "probability": 0.9954
+        },
+        {
+          "time": 64.82,
+          "end": 65.28,
+          "text": "价",
+          "probability": 0.9694
+        },
+        {
+          "time": 65.36,
+          "end": 65.66,
+          "text": "将",
+          "probability": 0.9935
+        },
+        {
+          "time": 65.68,
+          "end": 65.98,
+          "text": "福",
+          "probability": 0.2956
+        },
+        {
+          "time": 66.04,
+          "end": 66.34,
+          "text": "音",
+          "probability": 0.9182
+        },
+        {
+          "time": 66.28,
+          "end": 66.58,
+          "text": "种",
+          "probability": 0.7726
+        },
+        {
+          "time": 66.62,
+          "end": 66.92,
+          "text": "子",
+          "probability": 0.9057
+        },
+        {
+          "time": 66.96,
+          "end": 67.3,
+          "text": "撒",
+          "probability": 0.8921
+        },
+        {
+          "time": 67.28,
+          "end": 69.0,
+          "text": "遍",
+          "probability": 0.4465
+        }
+      ]
+    },
+    {
+      "time": 69.26,
+      "end": 74.88,
+      "text": "不求以上的宝宙只求天上来几",
+      "words": [
+        {
+          "time": 69.26,
+          "end": 69.56,
+          "text": "不",
+          "probability": 0.6999
+        },
+        {
+          "time": 69.76,
+          "end": 70.06,
+          "text": "求",
+          "probability": 0.9976
+        },
+        {
+          "time": 70.5,
+          "end": 70.8,
+          "text": "以上",
+          "probability": 0.3696
+        },
+        {
+          "time": 70.82,
+          "end": 71.12,
+          "text": "的",
+          "probability": 0.9729
+        },
+        {
+          "time": 71.06,
+          "end": 71.54,
+          "text": "宝",
+          "probability": 0.5777
+        },
+        {
+          "time": 71.48,
+          "end": 71.96,
+          "text": "宙",
+          "probability": 0.4745
+        },
+        {
+          "time": 71.98,
+          "end": 72.28,
+          "text": "只",
+          "probability": 0.8535
+        },
+        {
+          "time": 72.58,
+          "end": 72.88,
+          "text": "求",
+          "probability": 0.9928
+        },
+        {
+          "time": 72.94,
+          "end": 73.24,
+          "text": "天",
+          "probability": 0.9988
+        },
+        {
+          "time": 73.52,
+          "end": 73.82,
+          "text": "上",
+          "probability": 0.9935
+        },
+        {
+          "time": 74.08,
+          "end": 74.38,
+          "text": "来",
+          "probability": 0.9886
+        },
+        {
+          "time": 74.38,
+          "end": 74.88,
+          "text": "几",
+          "probability": 0.4162
+        }
+      ]
+    },
+    {
+      "time": 75.02,
+      "end": 75.32,
+      "text": "年",
+      "words": [
+        {
+          "time": 75.02,
+          "end": 75.32,
+          "text": "年",
+          "probability": 0.9797
+        }
+      ]
+    },
+    {
+      "time": 76.88,
+      "end": 82.48,
+      "text": "来吧让我们既心合力冲过几流千",
+      "words": [
+        {
+          "time": 76.88,
+          "end": 77.18,
+          "text": "来",
+          "probability": 0.9972
+        },
+        {
+          "time": 77.32,
+          "end": 77.62,
+          "text": "吧",
+          "probability": 0.9947
+        },
+        {
+          "time": 77.66,
+          "end": 77.96,
+          "text": "让",
+          "probability": 0.6301
+        },
+        {
+          "time": 78.38,
+          "end": 78.68,
+          "text": "我们",
+          "probability": 0.9997
+        },
+        {
+          "time": 78.58,
+          "end": 78.94,
+          "text": "既",
+          "probability": 0.1379
+        },
+        {
+          "time": 78.96,
+          "end": 79.26,
+          "text": "心",
+          "probability": 0.3377
+        },
+        {
+          "time": 79.34,
+          "end": 79.64,
+          "text": "合",
+          "probability": 0.594
+        },
+        {
+          "time": 79.7,
+          "end": 80.0,
+          "text": "力",
+          "probability": 0.7185
+        },
+        {
+          "time": 80.58,
+          "end": 80.98,
+          "text": "冲",
+          "probability": 0.5864
+        },
+        {
+          "time": 81.1,
+          "end": 81.4,
+          "text": "过",
+          "probability": 0.772
+        },
+        {
+          "time": 81.46,
+          "end": 81.84,
+          "text": "几",
+          "probability": 0.154
+        },
+        {
+          "time": 81.9,
+          "end": 82.2,
+          "text": "流",
+          "probability": 0.8409
+        },
+        {
+          "time": 82.18,
+          "end": 82.48,
+          "text": "千",
+          "probability": 0.5642
+        }
+      ]
+    },
+    {
+      "time": 82.72,
+      "end": 83.02,
+      "text": "塔",
+      "words": [
+        {
+          "time": 82.72,
+          "end": 83.02,
+          "text": "塔",
+          "probability": 0.2899
+        }
+      ]
+    },
+    {
+      "time": 84.48,
+      "end": 90.44,
+      "text": "主要怕那道路难走去这万年",
+      "words": [
+        {
+          "time": 84.48,
+          "end": 84.78,
+          "text": "主",
+          "probability": 0.2401
+        },
+        {
+          "time": 85.0,
+          "end": 85.3,
+          "text": "要",
+          "probability": 0.9792
+        },
+        {
+          "time": 85.48,
+          "end": 85.78,
+          "text": "怕",
+          "probability": 0.7668
+        },
+        {
+          "time": 85.9,
+          "end": 86.2,
+          "text": "那",
+          "probability": 0.8729
+        },
+        {
+          "time": 86.4,
+          "end": 86.7,
+          "text": "道",
+          "probability": 0.9588
+        },
+        {
+          "time": 86.84,
+          "end": 87.14,
+          "text": "路",
+          "probability": 0.9768
+        },
+        {
+          "time": 87.28,
+          "end": 87.58,
+          "text": "难",
+          "probability": 0.5123
+        },
+        {
+          "time": 87.86,
+          "end": 88.16,
+          "text": "走",
+          "probability": 0.9245
+        },
+        {
+          "time": 88.28,
+          "end": 88.58,
+          "text": "去",
+          "probability": 0.541
+        },
+        {
+          "time": 88.8,
+          "end": 89.1,
+          "text": "这",
+          "probability": 0.8369
+        },
+        {
+          "time": 89.42,
+          "end": 89.72,
+          "text": "万",
+          "probability": 0.7303
+        },
+        {
+          "time": 90.14,
+          "end": 90.44,
+          "text": "年",
+          "probability": 0.3084
+        }
+      ]
+    },
+    {
+      "time": 92.36,
+      "end": 99.02,
+      "text": "我们要付出些的代价将福音种子撒遍",
+      "words": [
+        {
+          "time": 92.36,
+          "end": 92.66,
+          "text": "我们",
+          "probability": 0.9988
+        },
+        {
+          "time": 92.7,
+          "end": 93.0,
+          "text": "要",
+          "probability": 0.999
+        },
+        {
+          "time": 93.06,
+          "end": 93.36,
+          "text": "付",
+          "probability": 0.9944
+        },
+        {
+          "time": 93.56,
+          "end": 93.86,
+          "text": "出",
+          "probability": 0.9992
+        },
+        {
+          "time": 94.06,
+          "end": 94.36,
+          "text": "些",
+          "probability": 0.1296
+        },
+        {
+          "time": 94.62,
+          "end": 94.92,
+          "text": "的",
+          "probability": 0.4595
+        },
+        {
+          "time": 94.98,
+          "end": 95.28,
+          "text": "代",
+          "probability": 0.9982
+        },
+        {
+          "time": 95.3,
+          "end": 95.76,
+          "text": "价",
+          "probability": 0.964
+        },
+        {
+          "time": 95.82,
+          "end": 96.12,
+          "text": "将",
+          "probability": 0.94
+        },
+        {
+          "time": 96.16,
+          "end": 96.46,
+          "text": "福",
+          "probability": 0.1325
+        },
+        {
+          "time": 96.52,
+          "end": 96.82,
+          "text": "音",
+          "probability": 0.8647
+        },
+        {
+          "time": 96.78,
+          "end": 97.08,
+          "text": "种",
+          "probability": 0.2902
+        },
+        {
+          "time": 97.14,
+          "end": 97.44,
+          "text": "子",
+          "probability": 0.2935
+        },
+        {
+          "time": 97.46,
+          "end": 97.82,
+          "text": "撒",
+          "probability": 0.5527
+        },
+        {
+          "time": 97.78,
+          "end": 99.02,
+          "text": "遍",
+          "probability": 0.399
+        }
+      ]
+    },
+    {
+      "time": 99.76,
+      "end": 105.36,
+      "text": "不求一生的报酬只求天上来几",
+      "words": [
+        {
+          "time": 99.76,
+          "end": 100.06,
+          "text": "不",
+          "probability": 0.7539
+        },
+        {
+          "time": 100.2,
+          "end": 100.5,
+          "text": "求",
+          "probability": 0.887
+        },
+        {
+          "time": 100.62,
+          "end": 100.92,
+          "text": "一",
+          "probability": 0.6225
+        },
+        {
+          "time": 101.0,
+          "end": 101.3,
+          "text": "生",
+          "probability": 0.3714
+        },
+        {
+          "time": 101.26,
+          "end": 101.56,
+          "text": "的",
+          "probability": 0.7661
+        },
+        {
+          "time": 101.64,
+          "end": 101.94,
+          "text": "报",
+          "probability": 0.9674
+        },
+        {
+          "time": 101.94,
+          "end": 102.44,
+          "text": "酬",
+          "probability": 0.7413
+        },
+        {
+          "time": 102.54,
+          "end": 102.84,
+          "text": "只",
+          "probability": 0.775
+        },
+        {
+          "time": 103.1,
+          "end": 103.4,
+          "text": "求",
+          "probability": 0.9776
+        },
+        {
+          "time": 103.46,
+          "end": 103.76,
+          "text": "天",
+          "probability": 0.9954
+        },
+        {
+          "time": 104.02,
+          "end": 104.32,
+          "text": "上",
+          "probability": 0.9877
+        },
+        {
+          "time": 104.52,
+          "end": 104.82,
+          "text": "来",
+          "probability": 0.9988
+        },
+        {
+          "time": 104.86,
+          "end": 105.36,
+          "text": "几",
+          "probability": 0.3906
+        }
+      ]
+    },
+    {
+      "time": 105.64,
+      "end": 105.94,
+      "text": "年",
+      "words": [
+        {
+          "time": 105.64,
+          "end": 105.94,
+          "text": "年",
+          "probability": 0.7955
+        }
+      ]
+    },
+    {
+      "time": 122.42,
+      "end": 122.86,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 122.42,
+          "end": 122.72,
+          "text": "优",
+          "probability": 0.1093
+        },
+        {
+          "time": 122.48,
+          "end": 122.78,
+          "text": "优",
+          "probability": 0.9926
+        },
+        {
+          "time": 122.54,
+          "end": 122.84,
+          "text": "独",
+          "probability": 0.9916
+        },
+        {
+          "time": 122.54,
+          "end": 122.84,
+          "text": "播",
+          "probability": 0.9898
+        },
+        {
+          "time": 122.54,
+          "end": 122.86,
+          "text": "剧",
+          "probability": 0.9866
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": "场",
+          "probability": 0.9847
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": "——",
+          "probability": 0.9947
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": "Yo",
+          "probability": 0.9873
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": "Yo",
+          "probability": 0.9933
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": " Television",
+          "probability": 0.977
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": " Series",
+          "probability": 0.9917
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": " Exc",
+          "probability": 0.9927
+        },
+        {
+          "time": 122.56,
+          "end": 122.86,
+          "text": "lusive",
+          "probability": 0.9906
+        }
+      ]
+    }
+  ]
+}

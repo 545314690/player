@@ -1,0 +1,54 @@
+{
+  "id": "se83e7ec011da",
+  "file": "194-求主充满我.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "52199",
+      "offset": 59.058,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.693952,
+      "windows": [
+        {
+          "localStart": 20.566,
+          "sourceStart": 78.231,
+          "offset": 57.666,
+          "coefficient": 0.06818
+        },
+        {
+          "localStart": 51.414,
+          "sourceStart": 109.445,
+          "offset": 58.0305,
+          "coefficient": 0.194546
+        },
+        {
+          "localStart": 82.263,
+          "sourceStart": 139.417,
+          "offset": 57.1545,
+          "coefficient": 0.127719
+        },
+        {
+          "localStart": 113.111,
+          "sourceStart": 171.113,
+          "offset": 58.0025,
+          "coefficient": 0.078636
+        },
+        {
+          "localStart": 143.959,
+          "sourceStart": 204.597,
+          "offset": 60.6375,
+          "coefficient": 0.072258
+        },
+        {
+          "localStart": 174.808,
+          "sourceStart": 232.388,
+          "offset": 57.58,
+          "coefficient": 0.077751
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

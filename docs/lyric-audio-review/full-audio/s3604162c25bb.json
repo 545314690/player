@@ -1,0 +1,2716 @@
+{
+  "id": "s3604162c25bb",
+  "file": "016.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "6adecbd48b78abec6ad35feb5e4924091ff7fa6bc6233c178b708b52e642700c",
+  "fullDuration": 182.46525,
+  "lines": [
+    {
+      "time": 16.1,
+      "end": 21.26,
+      "text": "作词 :作曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :",
+      "words": [
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "作",
+          "probability": 0.0599
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "词",
+          "probability": 0.6238
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.4704
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "作",
+          "probability": 0.0409
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.7285
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.7126
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.1171
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.7778
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.8144
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.6909
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.8875
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.8345
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9051
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9182
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.8498
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9561
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9378
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.865
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9708
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9453
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.8769
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9786
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9481
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.8848
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9814
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.951
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.89
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9832
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9563
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.8964
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9854
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9558
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.8978
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9869
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9559
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.9068
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9883
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9537
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.9025
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "编",
+          "probability": 0.9894
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": "曲",
+          "probability": 0.9507
+        },
+        {
+          "time": 16.1,
+          "end": 16.4,
+          "text": " :",
+          "probability": 0.9055
+        },
+        {
+          "time": 16.12,
+          "end": 16.44,
+          "text": "编",
+          "probability": 0.9891
+        },
+        {
+          "time": 16.14,
+          "end": 16.44,
+          "text": "曲",
+          "probability": 0.9541
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9105
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9897
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9499
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.91
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.99
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9515
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.915
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9897
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9493
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.915
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9897
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9466
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9142
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9901
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9463
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9171
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9906
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9475
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9177
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9899
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9478
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9174
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9901
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9447
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9203
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9895
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.939
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9203
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9894
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9423
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9211
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9895
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9408
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9234
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "编",
+          "probability": 0.9893
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": "曲",
+          "probability": 0.9402
+        },
+        {
+          "time": 16.16,
+          "end": 16.46,
+          "text": " :",
+          "probability": 0.9237
+        },
+        {
+          "time": 16.44,
+          "end": 16.74,
+          "text": "编",
+          "probability": 0.9897
+        },
+        {
+          "time": 16.44,
+          "end": 16.74,
+          "text": "曲",
+          "probability": 0.9368
+        },
+        {
+          "time": 16.78,
+          "end": 17.08,
+          "text": " :",
+          "probability": 0.9254
+        },
+        {
+          "time": 16.78,
+          "end": 17.08,
+          "text": "编",
+          "probability": 0.9887
+        },
+        {
+          "time": 16.78,
+          "end": 17.08,
+          "text": "曲",
+          "probability": 0.9368
+        },
+        {
+          "time": 16.8,
+          "end": 17.1,
+          "text": " :",
+          "probability": 0.924
+        },
+        {
+          "time": 17.32,
+          "end": 17.62,
+          "text": "编",
+          "probability": 0.9888
+        },
+        {
+          "time": 17.34,
+          "end": 17.64,
+          "text": "曲",
+          "probability": 0.9368
+        },
+        {
+          "time": 17.46,
+          "end": 17.76,
+          "text": " :",
+          "probability": 0.9265
+        },
+        {
+          "time": 17.56,
+          "end": 17.9,
+          "text": "编",
+          "probability": 0.9884
+        },
+        {
+          "time": 17.6,
+          "end": 17.9,
+          "text": "曲",
+          "probability": 0.9356
+        },
+        {
+          "time": 17.64,
+          "end": 17.94,
+          "text": " :",
+          "probability": 0.9269
+        },
+        {
+          "time": 17.88,
+          "end": 18.18,
+          "text": "编",
+          "probability": 0.9889
+        },
+        {
+          "time": 17.88,
+          "end": 18.18,
+          "text": "曲",
+          "probability": 0.9354
+        },
+        {
+          "time": 18.1,
+          "end": 18.4,
+          "text": " :",
+          "probability": 0.9284
+        },
+        {
+          "time": 19.04,
+          "end": 19.34,
+          "text": "编",
+          "probability": 0.9887
+        },
+        {
+          "time": 19.04,
+          "end": 19.34,
+          "text": "曲",
+          "probability": 0.9348
+        },
+        {
+          "time": 19.04,
+          "end": 19.34,
+          "text": " :",
+          "probability": 0.9277
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "编",
+          "probability": 0.9886
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "曲",
+          "probability": 0.9365
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": " :",
+          "probability": 0.9334
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "编",
+          "probability": 0.9889
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "曲",
+          "probability": 0.9336
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": " :",
+          "probability": 0.9312
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "编",
+          "probability": 0.9891
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "曲",
+          "probability": 0.9371
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": " :",
+          "probability": 0.9348
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "编",
+          "probability": 0.9886
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "曲",
+          "probability": 0.9363
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": " :",
+          "probability": 0.934
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "编",
+          "probability": 0.9887
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "曲",
+          "probability": 0.9318
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": " :",
+          "probability": 0.934
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "编",
+          "probability": 0.9888
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": "曲",
+          "probability": 0.9384
+        },
+        {
+          "time": 19.5,
+          "end": 19.8,
+          "text": " :",
+          "probability": 0.9349
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "编",
+          "probability": 0.9893
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "曲",
+          "probability": 0.9324
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": " :",
+          "probability": 0.9355
+        },
+        {
+          "time": 20.92,
+          "end": 21.22,
+          "text": "编",
+          "probability": 0.9892
+        },
+        {
+          "time": 20.96,
+          "end": 21.26,
+          "text": "曲",
+          "probability": 0.9339
+        },
+        {
+          "time": 20.96,
+          "end": 21.26,
+          "text": " :",
+          "probability": 0.9404
+        }
+      ]
+    },
+    {
+      "time": 24.02,
+      "end": 24.7,
+      "text": "编曲 :编曲 :",
+      "words": [
+        {
+          "time": 24.02,
+          "end": 24.36,
+          "text": "编",
+          "probability": 0.9895
+        },
+        {
+          "time": 24.22,
+          "end": 24.52,
+          "text": "曲",
+          "probability": 0.9336
+        },
+        {
+          "time": 24.22,
+          "end": 24.52,
+          "text": " :",
+          "probability": 0.9407
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "编",
+          "probability": 0.9887
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "曲",
+          "probability": 0.9344
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": " :",
+          "probability": 0.9408
+        }
+      ]
+    },
+    {
+      "time": 26.68,
+      "end": 27.56,
+      "text": "编曲 :",
+      "words": [
+        {
+          "time": 26.68,
+          "end": 27.56,
+          "text": "编",
+          "probability": 0.9895
+        },
+        {
+          "time": 27.26,
+          "end": 27.56,
+          "text": "曲",
+          "probability": 0.936
+        },
+        {
+          "time": 27.26,
+          "end": 27.56,
+          "text": " :",
+          "probability": 0.9428
+        }
+      ]
+    },
+    {
+      "time": 58.8,
+      "end": 64.52,
+      "text": "优优独播剧场——YoYo Television Series Exclusive一生一种我",
+      "words": [
+        {
+          "time": 58.8,
+          "end": 59.42,
+          "text": "优",
+          "probability": 0.0724
+        },
+        {
+          "time": 59.54,
+          "end": 59.86,
+          "text": "优",
+          "probability": 0.9896
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "独",
+          "probability": 0.9895
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "播",
+          "probability": 0.9804
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "剧",
+          "probability": 0.9762
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "场",
+          "probability": 0.9841
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "——",
+          "probability": 0.9864
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "Yo",
+          "probability": 0.9888
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "Yo",
+          "probability": 0.9909
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": " Television",
+          "probability": 0.9726
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": " Series",
+          "probability": 0.98
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": " Exc",
+          "probability": 0.977
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "lusive",
+          "probability": 0.9889
+        },
+        {
+          "time": 61.06,
+          "end": 61.36,
+          "text": "一",
+          "probability": 0.4906
+        },
+        {
+          "time": 61.52,
+          "end": 61.82,
+          "text": "生",
+          "probability": 0.846
+        },
+        {
+          "time": 62.24,
+          "end": 62.54,
+          "text": "一",
+          "probability": 0.7
+        },
+        {
+          "time": 63.34,
+          "end": 63.64,
+          "text": "种",
+          "probability": 0.4005
+        },
+        {
+          "time": 64.22,
+          "end": 64.52,
+          "text": "我",
+          "probability": 0.1151
+        }
+      ]
+    },
+    {
+      "time": 64.78,
+      "end": 67.48,
+      "text": "保证的荣志",
+      "words": [
+        {
+          "time": 64.78,
+          "end": 65.08,
+          "text": "保",
+          "probability": 0.0522
+        },
+        {
+          "time": 65.36,
+          "end": 65.68,
+          "text": "证",
+          "probability": 0.4265
+        },
+        {
+          "time": 66.18,
+          "end": 66.48,
+          "text": "的",
+          "probability": 0.2216
+        },
+        {
+          "time": 66.9,
+          "end": 67.32,
+          "text": "荣",
+          "probability": 0.1826
+        },
+        {
+          "time": 67.18,
+          "end": 67.48,
+          "text": "志",
+          "probability": 0.0618
+        }
+      ]
+    },
+    {
+      "time": 92.8,
+      "end": 96.34,
+      "text": "一切都在你一切都",
+      "words": [
+        {
+          "time": 92.8,
+          "end": 93.1,
+          "text": "一",
+          "probability": 0.0246
+        },
+        {
+          "time": 92.8,
+          "end": 93.1,
+          "text": "切",
+          "probability": 0.0971
+        },
+        {
+          "time": 92.98,
+          "end": 93.28,
+          "text": "都",
+          "probability": 0.0615
+        },
+        {
+          "time": 93.3,
+          "end": 93.6,
+          "text": "在",
+          "probability": 0.0345
+        },
+        {
+          "time": 94.18,
+          "end": 94.48,
+          "text": "你",
+          "probability": 0.0919
+        },
+        {
+          "time": 94.92,
+          "end": 95.22,
+          "text": "一",
+          "probability": 0.1322
+        },
+        {
+          "time": 94.92,
+          "end": 95.22,
+          "text": "切",
+          "probability": 0.2268
+        },
+        {
+          "time": 96.04,
+          "end": 96.34,
+          "text": "都",
+          "probability": 0.3207
+        }
+      ]
+    },
+    {
+      "time": 98.54,
+      "end": 104.44,
+      "text": "在你一切都在你一",
+      "words": [
+        {
+          "time": 98.54,
+          "end": 98.84,
+          "text": "在",
+          "probability": 0.4109
+        },
+        {
+          "time": 100.0,
+          "end": 100.3,
+          "text": "你",
+          "probability": 0.6995
+        },
+        {
+          "time": 101.02,
+          "end": 101.32,
+          "text": "一",
+          "probability": 0.6756
+        },
+        {
+          "time": 101.34,
+          "end": 101.64,
+          "text": "切",
+          "probability": 0.6426
+        },
+        {
+          "time": 101.64,
+          "end": 101.94,
+          "text": "都",
+          "probability": 0.7365
+        },
+        {
+          "time": 102.98,
+          "end": 103.28,
+          "text": "在",
+          "probability": 0.6507
+        },
+        {
+          "time": 103.62,
+          "end": 103.92,
+          "text": "你",
+          "probability": 0.8194
+        },
+        {
+          "time": 104.36,
+          "end": 104.66,
+          "text": "一",
+          "probability": 0.8713
+        }
+      ]
+    },
+    {
+      "time": 104.44,
+      "end": 106.68,
+      "text": "切都在你一切都在",
+      "words": [
+        {
+          "time": 104.44,
+          "end": 104.74,
+          "text": "切",
+          "probability": 0.8658
+        },
+        {
+          "time": 105.7,
+          "end": 106.0,
+          "text": "都",
+          "probability": 0.8564
+        },
+        {
+          "time": 106.38,
+          "end": 106.68,
+          "text": "在",
+          "probability": 0.7669
+        },
+        {
+          "time": 106.38,
+          "end": 106.68,
+          "text": "你",
+          "probability": 0.7795
+        },
+        {
+          "time": 106.38,
+          "end": 106.68,
+          "text": "一",
+          "probability": 0.9296
+        },
+        {
+          "time": 106.38,
+          "end": 106.68,
+          "text": "切",
+          "probability": 0.9621
+        },
+        {
+          "time": 106.38,
+          "end": 106.68,
+          "text": "都",
+          "probability": 0.9082
+        },
+        {
+          "time": 106.38,
+          "end": 106.68,
+          "text": "在",
+          "probability": 0.8477
+        }
+      ]
+    },
+    {
+      "time": 107.9,
+      "end": 108.44,
+      "text": "你一切都在你",
+      "words": [
+        {
+          "time": 107.9,
+          "end": 108.2,
+          "text": "你",
+          "probability": 0.7402
+        },
+        {
+          "time": 107.9,
+          "end": 108.2,
+          "text": "一",
+          "probability": 0.9444
+        },
+        {
+          "time": 107.9,
+          "end": 108.2,
+          "text": "切",
+          "probability": 0.9868
+        },
+        {
+          "time": 107.9,
+          "end": 108.2,
+          "text": "都",
+          "probability": 0.9302
+        },
+        {
+          "time": 107.9,
+          "end": 108.2,
+          "text": "在",
+          "probability": 0.9141
+        },
+        {
+          "time": 108.14,
+          "end": 108.44,
+          "text": "你",
+          "probability": 0.7934
+        }
+      ]
+    },
+    {
+      "time": 111.26,
+      "end": 112.54,
+      "text": "一切",
+      "words": [
+        {
+          "time": 111.26,
+          "end": 111.56,
+          "text": "一",
+          "probability": 0.9515
+        },
+        {
+          "time": 112.24,
+          "end": 112.54,
+          "text": "切",
+          "probability": 0.9929
+        }
+      ]
+    },
+    {
+      "time": 115.54,
+      "end": 120.16,
+      "text": "都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在你一切都在",
+      "words": [
+        {
+          "time": 115.54,
+          "end": 115.84,
+          "text": "都",
+          "probability": 0.9437
+        },
+        {
+          "time": 116.98,
+          "end": 117.28,
+          "text": "在",
+          "probability": 0.9431
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "你",
+          "probability": 0.8464
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "一",
+          "probability": 0.9546
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "切",
+          "probability": 0.995
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "都",
+          "probability": 0.951
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "在",
+          "probability": 0.9586
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "你",
+          "probability": 0.8723
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "一",
+          "probability": 0.9579
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "切",
+          "probability": 0.9966
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "都",
+          "probability": 0.9566
+        },
+        {
+          "time": 117.86,
+          "end": 118.16,
+          "text": "在",
+          "probability": 0.9662
+        },
+        {
+          "time": 117.88,
+          "end": 118.18,
+          "text": "你",
+          "probability": 0.8851
+        },
+        {
+          "time": 117.88,
+          "end": 118.18,
+          "text": "一",
+          "probability": 0.9602
+        },
+        {
+          "time": 117.88,
+          "end": 118.18,
+          "text": "切",
+          "probability": 0.9976
+        },
+        {
+          "time": 117.88,
+          "end": 118.18,
+          "text": "都",
+          "probability": 0.9573
+        },
+        {
+          "time": 117.88,
+          "end": 118.18,
+          "text": "在",
+          "probability": 0.972
+        },
+        {
+          "time": 117.88,
+          "end": 118.18,
+          "text": "你",
+          "probability": 0.8954
+        },
+        {
+          "time": 118.9,
+          "end": 119.2,
+          "text": "一",
+          "probability": 0.9629
+        },
+        {
+          "time": 118.9,
+          "end": 119.2,
+          "text": "切",
+          "probability": 0.998
+        },
+        {
+          "time": 118.9,
+          "end": 119.2,
+          "text": "都",
+          "probability": 0.9583
+        },
+        {
+          "time": 118.9,
+          "end": 119.2,
+          "text": "在",
+          "probability": 0.9739
+        },
+        {
+          "time": 119.3,
+          "end": 119.6,
+          "text": "你",
+          "probability": 0.8971
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "一",
+          "probability": 0.9641
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "切",
+          "probability": 0.9982
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "都",
+          "probability": 0.9596
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "在",
+          "probability": 0.9762
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "你",
+          "probability": 0.9022
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "一",
+          "probability": 0.9651
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "切",
+          "probability": 0.9983
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "都",
+          "probability": 0.9584
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "在",
+          "probability": 0.9765
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "你",
+          "probability": 0.9026
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "一",
+          "probability": 0.966
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "切",
+          "probability": 0.9984
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "都",
+          "probability": 0.9573
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "在",
+          "probability": 0.9773
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "你",
+          "probability": 0.9052
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "一",
+          "probability": 0.9671
+        },
+        {
+          "time": 119.56,
+          "end": 119.86,
+          "text": "切",
+          "probability": 0.9985
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "都",
+          "probability": 0.958
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "在",
+          "probability": 0.9776
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "你",
+          "probability": 0.9083
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "一",
+          "probability": 0.9685
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "切",
+          "probability": 0.9985
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "都",
+          "probability": 0.9559
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "在",
+          "probability": 0.9772
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "你",
+          "probability": 0.9087
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "一",
+          "probability": 0.9693
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "切",
+          "probability": 0.9985
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "都",
+          "probability": 0.9534
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "在",
+          "probability": 0.9785
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "你",
+          "probability": 0.9106
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "一",
+          "probability": 0.9687
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "切",
+          "probability": 0.9984
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "都",
+          "probability": 0.952
+        },
+        {
+          "time": 119.58,
+          "end": 119.88,
+          "text": "在",
+          "probability": 0.9775
+        },
+        {
+          "time": 119.7,
+          "end": 120.0,
+          "text": "你",
+          "probability": 0.9116
+        },
+        {
+          "time": 119.7,
+          "end": 120.0,
+          "text": "一",
+          "probability": 0.9691
+        },
+        {
+          "time": 119.7,
+          "end": 120.0,
+          "text": "切",
+          "probability": 0.9984
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9491
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9779
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9137
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.969
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9984
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9475
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9777
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9142
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9677
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9983
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9449
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.978
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9158
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9666
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9982
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9441
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.977
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.914
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9664
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9982
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9409
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9764
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9108
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9647
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9981
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.94
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9756
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9122
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.964
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.998
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9382
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9756
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9112
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.962
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9979
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9343
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9745
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9102
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9603
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9978
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9313
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9743
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9089
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9595
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9976
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9284
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9741
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9062
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9581
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9976
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9255
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9734
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9071
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9555
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9974
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9247
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9729
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.908
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9546
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9973
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.924
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9713
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.9037
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9514
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9972
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9223
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9714
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.8987
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9493
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.997
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9168
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9706
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.8983
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9472
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9969
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9145
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9696
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.8979
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.945
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9967
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9118
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9689
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.8919
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9424
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9964
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.911
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.968
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.8906
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9381
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9961
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9085
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9677
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.885
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9361
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.996
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9047
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9665
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "你",
+          "probability": 0.8842
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "一",
+          "probability": 0.9309
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "切",
+          "probability": 0.9957
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "都",
+          "probability": 0.9045
+        },
+        {
+          "time": 119.76,
+          "end": 120.06,
+          "text": "在",
+          "probability": 0.9645
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "你",
+          "probability": 0.8805
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "一",
+          "probability": 0.9292
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "切",
+          "probability": 0.9954
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "都",
+          "probability": 0.8983
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "在",
+          "probability": 0.9637
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "你",
+          "probability": 0.8768
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "一",
+          "probability": 0.927
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "切",
+          "probability": 0.9953
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "都",
+          "probability": 0.8964
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "在",
+          "probability": 0.9614
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "你",
+          "probability": 0.8769
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "一",
+          "probability": 0.9203
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "切",
+          "probability": 0.9945
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "都",
+          "probability": 0.8936
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "在",
+          "probability": 0.9608
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "你",
+          "probability": 0.8693
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "一",
+          "probability": 0.9154
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "切",
+          "probability": 0.9944
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "都",
+          "probability": 0.8919
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "在",
+          "probability": 0.9601
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "你",
+          "probability": 0.8684
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "一",
+          "probability": 0.91
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "切",
+          "probability": 0.994
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "都",
+          "probability": 0.8887
+        },
+        {
+          "time": 119.86,
+          "end": 120.16,
+          "text": "在",
+          "probability": 0.957
+        }
+      ]
+    },
+    {
+      "time": 122.36,
+      "end": 125.22,
+      "text": "在这一切的幻灌",
+      "words": [
+        {
+          "time": 122.36,
+          "end": 122.66,
+          "text": "在",
+          "probability": 0.2108
+        },
+        {
+          "time": 122.92,
+          "end": 123.22,
+          "text": "这",
+          "probability": 0.1748
+        },
+        {
+          "time": 123.58,
+          "end": 123.88,
+          "text": "一",
+          "probability": 0.2624
+        },
+        {
+          "time": 123.78,
+          "end": 124.08,
+          "text": "切",
+          "probability": 0.0697
+        },
+        {
+          "time": 124.62,
+          "end": 124.92,
+          "text": "的",
+          "probability": 0.0754
+        },
+        {
+          "time": 124.82,
+          "end": 125.12,
+          "text": "幻",
+          "probability": 0.0266
+        },
+        {
+          "time": 124.92,
+          "end": 125.22,
+          "text": "灌",
+          "probability": 0.2296
+        }
+      ]
+    },
+    {
+      "time": 126.46,
+      "end": 130.72,
+      "text": "一切的幻灌在这一切的幻灌",
+      "words": [
+        {
+          "time": 126.46,
+          "end": 126.76,
+          "text": "一",
+          "probability": 0.1571
+        },
+        {
+          "time": 126.86,
+          "end": 127.16,
+          "text": "切",
+          "probability": 0.3686
+        },
+        {
+          "time": 128.1,
+          "end": 128.4,
+          "text": "的",
+          "probability": 0.3138
+        },
+        {
+          "time": 128.4,
+          "end": 128.7,
+          "text": "幻",
+          "probability": 0.2204
+        },
+        {
+          "time": 128.4,
+          "end": 128.7,
+          "text": "灌",
+          "probability": 0.9111
+        },
+        {
+          "time": 128.4,
+          "end": 128.7,
+          "text": "在",
+          "probability": 0.1082
+        },
+        {
+          "time": 128.4,
+          "end": 128.7,
+          "text": "这",
+          "probability": 0.8829
+        },
+        {
+          "time": 128.4,
+          "end": 128.7,
+          "text": "一",
+          "probability": 0.9732
+        },
+        {
+          "time": 128.4,
+          "end": 128.7,
+          "text": "切",
+          "probability": 0.9826
+        },
+        {
+          "time": 129.46,
+          "end": 129.76,
+          "text": "的",
+          "probability": 0.8296
+        },
+        {
+          "time": 129.86,
+          "end": 130.3,
+          "text": "幻",
+          "probability": 0.9514
+        },
+        {
+          "time": 130.36,
+          "end": 130.72,
+          "text": "灌",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 132.5,
+      "end": 134.08,
+      "text": "在这一",
+      "words": [
+        {
+          "time": 132.5,
+          "end": 132.8,
+          "text": "在",
+          "probability": 0.8843
+        },
+        {
+          "time": 133.22,
+          "end": 133.52,
+          "text": "这",
+          "probability": 0.9882
+        },
+        {
+          "time": 133.78,
+          "end": 134.08,
+          "text": "一",
+          "probability": 0.9827
+        }
+      ]
+    },
+    {
+      "time": 135.72,
+      "end": 141.78,
+      "text": "切的幻灌一切的幻灌我把这一",
+      "words": [
+        {
+          "time": 135.72,
+          "end": 136.02,
+          "text": "切",
+          "probability": 0.991
+        },
+        {
+          "time": 135.72,
+          "end": 136.02,
+          "text": "的",
+          "probability": 0.9541
+        },
+        {
+          "time": 135.72,
+          "end": 136.02,
+          "text": "幻",
+          "probability": 0.9848
+        },
+        {
+          "time": 135.72,
+          "end": 136.04,
+          "text": "灌",
+          "probability": 0.9992
+        },
+        {
+          "time": 136.74,
+          "end": 137.04,
+          "text": "一",
+          "probability": 0.7865
+        },
+        {
+          "time": 137.14,
+          "end": 137.44,
+          "text": "切",
+          "probability": 0.998
+        },
+        {
+          "time": 138.52,
+          "end": 138.82,
+          "text": "的",
+          "probability": 0.9063
+        },
+        {
+          "time": 139.02,
+          "end": 139.32,
+          "text": "幻",
+          "probability": 0.8637
+        },
+        {
+          "time": 139.22,
+          "end": 139.52,
+          "text": "灌",
+          "probability": 0.999
+        },
+        {
+          "time": 140.06,
+          "end": 140.36,
+          "text": "我",
+          "probability": 0.0495
+        },
+        {
+          "time": 140.46,
+          "end": 140.76,
+          "text": "把",
+          "probability": 0.1145
+        },
+        {
+          "time": 140.76,
+          "end": 141.06,
+          "text": "这",
+          "probability": 0.407
+        },
+        {
+          "time": 141.48,
+          "end": 141.78,
+          "text": "一",
+          "probability": 0.3884
+        }
+      ]
+    },
+    {
+      "time": 142.34,
+      "end": 143.28,
+      "text": "切的幻灌",
+      "words": [
+        {
+          "time": 142.34,
+          "end": 142.64,
+          "text": "切",
+          "probability": 0.8446
+        },
+        {
+          "time": 142.98,
+          "end": 143.28,
+          "text": "的",
+          "probability": 0.8151
+        },
+        {
+          "time": 142.98,
+          "end": 143.28,
+          "text": "幻",
+          "probability": 0.8573
+        },
+        {
+          "time": 142.98,
+          "end": 143.28,
+          "text": "灌",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 146.98,
+      "end": 147.7,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 146.98,
+          "end": 147.28,
+          "text": "Z",
+          "probability": 0.0587
+        },
+        {
+          "time": 147.0,
+          "end": 147.3,
+          "text": "ither",
+          "probability": 0.9843
+        },
+        {
+          "time": 147.04,
+          "end": 147.34,
+          "text": " Har",
+          "probability": 0.9826
+        },
+        {
+          "time": 147.4,
+          "end": 147.7,
+          "text": "p",
+          "probability": 0.9838
+        }
+      ]
+    },
+    {
+      "time": 181.56,
+      "end": 181.86,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "优",
+          "probability": 0.2833
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "优",
+          "probability": 0.9937
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "独",
+          "probability": 0.99
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "播",
+          "probability": 0.9898
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "剧",
+          "probability": 0.9887
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "场",
+          "probability": 0.9902
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "——",
+          "probability": 0.9946
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "Yo",
+          "probability": 0.9921
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "Yo",
+          "probability": 0.9945
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": " Television",
+          "probability": 0.9769
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": " Series",
+          "probability": 0.9896
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": " Exc",
+          "probability": 0.9934
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "lusive",
+          "probability": 0.9926
+        }
+      ]
+    }
+  ]
+}

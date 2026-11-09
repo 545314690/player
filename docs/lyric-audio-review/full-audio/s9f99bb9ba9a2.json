@@ -1,0 +1,1950 @@
+{
+  "id": "s9f99bb9ba9a2",
+  "file": "195.齐来赞美.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "79b316f4b725331e8ed8fb83b90cad2ffcd661e3ce8a573fb144452553b378a2",
+  "fullDuration": 223.373063,
+  "lines": [
+    {
+      "time": 4.82,
+      "end": 5.66,
+      "text": "Zither",
+      "words": [
+        {
+          "time": 4.82,
+          "end": 5.12,
+          "text": "Z",
+          "probability": 0.0974
+        },
+        {
+          "time": 5.36,
+          "end": 5.66,
+          "text": "ither",
+          "probability": 0.9876
+        }
+      ]
+    },
+    {
+      "time": 16.0,
+      "end": 16.32,
+      "text": "Harp",
+      "words": [
+        {
+          "time": 16.0,
+          "end": 16.3,
+          "text": " Har",
+          "probability": 0.9949
+        },
+        {
+          "time": 16.02,
+          "end": 16.32,
+          "text": "p",
+          "probability": 0.9956
+        }
+      ]
+    },
+    {
+      "time": 30.68,
+      "end": 36.26,
+      "text": "大山小山都要来赞美太阳月亮星星来",
+      "words": [
+        {
+          "time": 30.68,
+          "end": 30.98,
+          "text": "大",
+          "probability": 0.5147
+        },
+        {
+          "time": 30.88,
+          "end": 31.18,
+          "text": "山",
+          "probability": 0.809
+        },
+        {
+          "time": 31.18,
+          "end": 31.48,
+          "text": "小",
+          "probability": 0.9547
+        },
+        {
+          "time": 31.6,
+          "end": 31.9,
+          "text": "山",
+          "probability": 0.9892
+        },
+        {
+          "time": 32.0,
+          "end": 32.3,
+          "text": "都",
+          "probability": 0.8665
+        },
+        {
+          "time": 32.42,
+          "end": 32.72,
+          "text": "要",
+          "probability": 0.9901
+        },
+        {
+          "time": 32.82,
+          "end": 33.12,
+          "text": "来",
+          "probability": 0.847
+        },
+        {
+          "time": 32.98,
+          "end": 33.38,
+          "text": "赞",
+          "probability": 0.997
+        },
+        {
+          "time": 33.44,
+          "end": 33.74,
+          "text": "美",
+          "probability": 0.9978
+        },
+        {
+          "time": 33.98,
+          "end": 34.28,
+          "text": "太",
+          "probability": 0.9972
+        },
+        {
+          "time": 34.12,
+          "end": 34.46,
+          "text": "阳",
+          "probability": 0.9997
+        },
+        {
+          "time": 34.46,
+          "end": 34.76,
+          "text": "月",
+          "probability": 0.9921
+        },
+        {
+          "time": 34.88,
+          "end": 35.18,
+          "text": "亮",
+          "probability": 0.9999
+        },
+        {
+          "time": 35.26,
+          "end": 35.56,
+          "text": "星",
+          "probability": 0.8231
+        },
+        {
+          "time": 35.64,
+          "end": 35.94,
+          "text": "星",
+          "probability": 0.9995
+        },
+        {
+          "time": 36.04,
+          "end": 36.34,
+          "text": "来",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 36.26,
+      "end": 41.74,
+      "text": "赞美海洋与何流星来赞美耶和华",
+      "words": [
+        {
+          "time": 36.26,
+          "end": 36.66,
+          "text": "赞",
+          "probability": 1.0
+        },
+        {
+          "time": 36.7,
+          "end": 37.0,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.26,
+          "end": 37.56,
+          "text": "海",
+          "probability": 0.9829
+        },
+        {
+          "time": 37.42,
+          "end": 37.76,
+          "text": "洋",
+          "probability": 0.9686
+        },
+        {
+          "time": 37.7,
+          "end": 38.08,
+          "text": "与",
+          "probability": 0.5602
+        },
+        {
+          "time": 38.04,
+          "end": 38.34,
+          "text": "何",
+          "probability": 0.3767
+        },
+        {
+          "time": 38.36,
+          "end": 38.66,
+          "text": "流",
+          "probability": 0.8521
+        },
+        {
+          "time": 38.88,
+          "end": 39.18,
+          "text": "星",
+          "probability": 0.4755
+        },
+        {
+          "time": 39.08,
+          "end": 39.38,
+          "text": "来",
+          "probability": 0.9991
+        },
+        {
+          "time": 39.32,
+          "end": 39.74,
+          "text": "赞",
+          "probability": 0.9998
+        },
+        {
+          "time": 39.82,
+          "end": 40.12,
+          "text": "美",
+          "probability": 0.9998
+        },
+        {
+          "time": 40.2,
+          "end": 40.5,
+          "text": "耶",
+          "probability": 0.6056
+        },
+        {
+          "time": 40.52,
+          "end": 40.82,
+          "text": "和",
+          "probability": 0.995
+        },
+        {
+          "time": 40.82,
+          "end": 41.74,
+          "text": "华",
+          "probability": 0.7392
+        }
+      ]
+    },
+    {
+      "time": 43.82,
+      "end": 49.38,
+      "text": "大山小山都要来赞美太阳月亮星星来",
+      "words": [
+        {
+          "time": 43.82,
+          "end": 44.12,
+          "text": "大",
+          "probability": 0.9963
+        },
+        {
+          "time": 44.0,
+          "end": 44.3,
+          "text": "山",
+          "probability": 0.9977
+        },
+        {
+          "time": 44.32,
+          "end": 44.62,
+          "text": "小",
+          "probability": 0.9999
+        },
+        {
+          "time": 44.72,
+          "end": 45.02,
+          "text": "山",
+          "probability": 0.9992
+        },
+        {
+          "time": 45.12,
+          "end": 45.42,
+          "text": "都",
+          "probability": 0.9994
+        },
+        {
+          "time": 45.54,
+          "end": 45.84,
+          "text": "要",
+          "probability": 0.9998
+        },
+        {
+          "time": 45.94,
+          "end": 46.24,
+          "text": "来",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.12,
+          "end": 46.52,
+          "text": "赞",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.58,
+          "end": 46.88,
+          "text": "美",
+          "probability": 1.0
+        },
+        {
+          "time": 47.14,
+          "end": 47.44,
+          "text": "太",
+          "probability": 0.9986
+        },
+        {
+          "time": 47.26,
+          "end": 47.6,
+          "text": "阳",
+          "probability": 1.0
+        },
+        {
+          "time": 47.58,
+          "end": 47.88,
+          "text": "月",
+          "probability": 0.9999
+        },
+        {
+          "time": 48.0,
+          "end": 48.3,
+          "text": "亮",
+          "probability": 1.0
+        },
+        {
+          "time": 48.38,
+          "end": 48.68,
+          "text": "星",
+          "probability": 0.9999
+        },
+        {
+          "time": 48.76,
+          "end": 49.06,
+          "text": "星",
+          "probability": 0.9996
+        },
+        {
+          "time": 49.16,
+          "end": 49.46,
+          "text": "来",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 49.38,
+      "end": 55.56,
+      "text": "赞美万物要歌唱起来赞美耶和华",
+      "words": [
+        {
+          "time": 49.38,
+          "end": 49.76,
+          "text": "赞",
+          "probability": 1.0
+        },
+        {
+          "time": 49.86,
+          "end": 50.16,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 50.38,
+          "end": 50.68,
+          "text": "万",
+          "probability": 0.9619
+        },
+        {
+          "time": 50.6,
+          "end": 50.9,
+          "text": "物",
+          "probability": 0.9275
+        },
+        {
+          "time": 50.92,
+          "end": 51.22,
+          "text": "要",
+          "probability": 0.9636
+        },
+        {
+          "time": 51.16,
+          "end": 51.46,
+          "text": "歌",
+          "probability": 0.8933
+        },
+        {
+          "time": 51.48,
+          "end": 51.78,
+          "text": "唱",
+          "probability": 0.9886
+        },
+        {
+          "time": 52.02,
+          "end": 52.32,
+          "text": "起",
+          "probability": 0.3339
+        },
+        {
+          "time": 52.22,
+          "end": 52.52,
+          "text": "来",
+          "probability": 0.9992
+        },
+        {
+          "time": 52.46,
+          "end": 52.92,
+          "text": "赞",
+          "probability": 0.9999
+        },
+        {
+          "time": 52.96,
+          "end": 53.26,
+          "text": "美",
+          "probability": 0.9999
+        },
+        {
+          "time": 53.38,
+          "end": 53.68,
+          "text": "耶",
+          "probability": 0.9995
+        },
+        {
+          "time": 53.7,
+          "end": 54.0,
+          "text": "和",
+          "probability": 1.0
+        },
+        {
+          "time": 53.94,
+          "end": 55.56,
+          "text": "华",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 56.58,
+      "end": 62.1,
+      "text": "Hallelujah我要唱Hallelujah 我要",
+      "words": [
+        {
+          "time": 56.58,
+          "end": 56.88,
+          "text": "H",
+          "probability": 0.6236
+        },
+        {
+          "time": 56.76,
+          "end": 57.06,
+          "text": "all",
+          "probability": 0.9911
+        },
+        {
+          "time": 57.14,
+          "end": 57.44,
+          "text": "elujah",
+          "probability": 0.9574
+        },
+        {
+          "time": 58.38,
+          "end": 58.68,
+          "text": "我要",
+          "probability": 0.1909
+        },
+        {
+          "time": 58.98,
+          "end": 59.28,
+          "text": "唱",
+          "probability": 0.9717
+        },
+        {
+          "time": 59.84,
+          "end": 60.14,
+          "text": "H",
+          "probability": 0.6745
+        },
+        {
+          "time": 60.0,
+          "end": 60.3,
+          "text": "all",
+          "probability": 0.975
+        },
+        {
+          "time": 60.32,
+          "end": 60.62,
+          "text": "elujah",
+          "probability": 0.971
+        },
+        {
+          "time": 61.48,
+          "end": 61.78,
+          "text": " 我",
+          "probability": 0.5892
+        },
+        {
+          "time": 61.8,
+          "end": 62.1,
+          "text": "要",
+          "probability": 0.9906
+        }
+      ]
+    },
+    {
+      "time": 62.28,
+      "end": 67.48,
+      "text": "跳Hallelujah 我要大声我无在买",
+      "words": [
+        {
+          "time": 62.28,
+          "end": 62.58,
+          "text": "跳",
+          "probability": 0.9932
+        },
+        {
+          "time": 63.14,
+          "end": 63.44,
+          "text": "H",
+          "probability": 0.997
+        },
+        {
+          "time": 63.26,
+          "end": 63.56,
+          "text": "all",
+          "probability": 0.9996
+        },
+        {
+          "time": 63.62,
+          "end": 63.92,
+          "text": "elujah",
+          "probability": 0.9996
+        },
+        {
+          "time": 64.74,
+          "end": 65.04,
+          "text": " 我",
+          "probability": 0.9946
+        },
+        {
+          "time": 65.14,
+          "end": 65.44,
+          "text": "要",
+          "probability": 0.9997
+        },
+        {
+          "time": 65.48,
+          "end": 65.78,
+          "text": "大",
+          "probability": 0.5733
+        },
+        {
+          "time": 66.02,
+          "end": 66.32,
+          "text": "声",
+          "probability": 0.7743
+        },
+        {
+          "time": 66.4,
+          "end": 66.7,
+          "text": "我",
+          "probability": 0.215
+        },
+        {
+          "time": 66.58,
+          "end": 66.88,
+          "text": "无",
+          "probability": 0.2947
+        },
+        {
+          "time": 66.8,
+          "end": 67.1,
+          "text": "在",
+          "probability": 0.2958
+        },
+        {
+          "time": 66.96,
+          "end": 67.48,
+          "text": "买",
+          "probability": 0.1664
+        }
+      ]
+    },
+    {
+      "time": 69.7,
+      "end": 75.26,
+      "text": "Hallelujah 我要唱Hallelujah 我要",
+      "words": [
+        {
+          "time": 69.7,
+          "end": 70.0,
+          "text": "H",
+          "probability": 0.9975
+        },
+        {
+          "time": 69.86,
+          "end": 70.16,
+          "text": "all",
+          "probability": 0.9997
+        },
+        {
+          "time": 70.2,
+          "end": 70.5,
+          "text": "elujah",
+          "probability": 0.9993
+        },
+        {
+          "time": 71.34,
+          "end": 71.64,
+          "text": " 我",
+          "probability": 0.995
+        },
+        {
+          "time": 71.68,
+          "end": 71.98,
+          "text": "要",
+          "probability": 0.9998
+        },
+        {
+          "time": 72.08,
+          "end": 72.38,
+          "text": "唱",
+          "probability": 0.7014
+        },
+        {
+          "time": 73.0,
+          "end": 73.3,
+          "text": "H",
+          "probability": 0.9995
+        },
+        {
+          "time": 73.12,
+          "end": 73.42,
+          "text": "all",
+          "probability": 0.9997
+        },
+        {
+          "time": 73.5,
+          "end": 73.8,
+          "text": "elujah",
+          "probability": 0.999
+        },
+        {
+          "time": 74.58,
+          "end": 74.88,
+          "text": " 我",
+          "probability": 0.9918
+        },
+        {
+          "time": 74.96,
+          "end": 75.26,
+          "text": "要",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 75.38,
+      "end": 80.56,
+      "text": "跳Hallelujah 我要大声我无在买",
+      "words": [
+        {
+          "time": 75.38,
+          "end": 75.68,
+          "text": "跳",
+          "probability": 0.9999
+        },
+        {
+          "time": 76.3,
+          "end": 76.6,
+          "text": "H",
+          "probability": 0.9992
+        },
+        {
+          "time": 76.42,
+          "end": 76.72,
+          "text": "all",
+          "probability": 0.9998
+        },
+        {
+          "time": 76.78,
+          "end": 77.08,
+          "text": "elujah",
+          "probability": 0.9985
+        },
+        {
+          "time": 77.9,
+          "end": 78.2,
+          "text": " 我",
+          "probability": 0.9937
+        },
+        {
+          "time": 78.28,
+          "end": 78.58,
+          "text": "要",
+          "probability": 0.9998
+        },
+        {
+          "time": 78.64,
+          "end": 78.94,
+          "text": "大",
+          "probability": 0.9965
+        },
+        {
+          "time": 79.16,
+          "end": 79.46,
+          "text": "声",
+          "probability": 0.9989
+        },
+        {
+          "time": 79.54,
+          "end": 79.84,
+          "text": "我",
+          "probability": 0.9834
+        },
+        {
+          "time": 79.72,
+          "end": 80.02,
+          "text": "无",
+          "probability": 0.9969
+        },
+        {
+          "time": 79.96,
+          "end": 80.26,
+          "text": "在",
+          "probability": 0.9988
+        },
+        {
+          "time": 80.2,
+          "end": 80.56,
+          "text": "买",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 106.42,
+      "end": 111.92,
+      "text": "我要专心专心来爱他将我的心的心写",
+      "words": [
+        {
+          "time": 106.42,
+          "end": 106.72,
+          "text": "我要",
+          "probability": 0.2206
+        },
+        {
+          "time": 106.7,
+          "end": 107.12,
+          "text": "专",
+          "probability": 0.8482
+        },
+        {
+          "time": 107.18,
+          "end": 107.48,
+          "text": "心",
+          "probability": 0.9961
+        },
+        {
+          "time": 107.5,
+          "end": 107.92,
+          "text": "专",
+          "probability": 0.6063
+        },
+        {
+          "time": 108.0,
+          "end": 108.3,
+          "text": "心",
+          "probability": 0.9999
+        },
+        {
+          "time": 108.38,
+          "end": 108.68,
+          "text": "来",
+          "probability": 0.9901
+        },
+        {
+          "time": 108.64,
+          "end": 108.94,
+          "text": "爱",
+          "probability": 0.9978
+        },
+        {
+          "time": 109.02,
+          "end": 109.32,
+          "text": "他",
+          "probability": 0.5287
+        },
+        {
+          "time": 109.56,
+          "end": 109.86,
+          "text": "将",
+          "probability": 0.2792
+        },
+        {
+          "time": 109.86,
+          "end": 110.16,
+          "text": "我的",
+          "probability": 0.9364
+        },
+        {
+          "time": 110.46,
+          "end": 110.76,
+          "text": "心",
+          "probability": 0.9328
+        },
+        {
+          "time": 110.84,
+          "end": 111.14,
+          "text": "的",
+          "probability": 0.6552
+        },
+        {
+          "time": 111.26,
+          "end": 111.56,
+          "text": "心",
+          "probability": 0.9918
+        },
+        {
+          "time": 111.58,
+          "end": 111.94,
+          "text": "写",
+          "probability": 0.3083
+        }
+      ]
+    },
+    {
+      "time": 111.92,
+      "end": 116.74,
+      "text": "给他将我每一天化作喜乐的诗歌",
+      "words": [
+        {
+          "time": 111.92,
+          "end": 112.22,
+          "text": "给",
+          "probability": 0.999
+        },
+        {
+          "time": 112.3,
+          "end": 112.6,
+          "text": "他",
+          "probability": 0.6036
+        },
+        {
+          "time": 112.84,
+          "end": 113.14,
+          "text": "将",
+          "probability": 0.9817
+        },
+        {
+          "time": 113.06,
+          "end": 113.36,
+          "text": "我",
+          "probability": 0.9967
+        },
+        {
+          "time": 113.36,
+          "end": 113.66,
+          "text": "每",
+          "probability": 0.9997
+        },
+        {
+          "time": 113.72,
+          "end": 114.02,
+          "text": "一",
+          "probability": 0.9994
+        },
+        {
+          "time": 114.0,
+          "end": 114.3,
+          "text": "天",
+          "probability": 0.9988
+        },
+        {
+          "time": 114.48,
+          "end": 114.78,
+          "text": "化",
+          "probability": 0.518
+        },
+        {
+          "time": 114.72,
+          "end": 115.02,
+          "text": "作",
+          "probability": 0.892
+        },
+        {
+          "time": 114.98,
+          "end": 115.28,
+          "text": "喜",
+          "probability": 0.945
+        },
+        {
+          "time": 115.42,
+          "end": 115.72,
+          "text": "乐",
+          "probability": 0.9935
+        },
+        {
+          "time": 115.82,
+          "end": 116.12,
+          "text": "的",
+          "probability": 0.5741
+        },
+        {
+          "time": 116.14,
+          "end": 116.44,
+          "text": "诗",
+          "probability": 0.9087
+        },
+        {
+          "time": 116.44,
+          "end": 116.74,
+          "text": "歌",
+          "probability": 0.9966
+        }
+      ]
+    },
+    {
+      "time": 119.6,
+      "end": 125.36,
+      "text": "我要专心专心敬拜他我要欢呼欢呼赞美",
+      "words": [
+        {
+          "time": 119.6,
+          "end": 119.9,
+          "text": "我要",
+          "probability": 0.9965
+        },
+        {
+          "time": 119.82,
+          "end": 120.24,
+          "text": "专",
+          "probability": 0.9742
+        },
+        {
+          "time": 120.32,
+          "end": 120.62,
+          "text": "心",
+          "probability": 0.9977
+        },
+        {
+          "time": 120.64,
+          "end": 121.04,
+          "text": "专",
+          "probability": 0.9721
+        },
+        {
+          "time": 121.14,
+          "end": 121.44,
+          "text": "心",
+          "probability": 0.9999
+        },
+        {
+          "time": 121.42,
+          "end": 121.78,
+          "text": "敬",
+          "probability": 0.8783
+        },
+        {
+          "time": 121.78,
+          "end": 122.08,
+          "text": "拜",
+          "probability": 0.9893
+        },
+        {
+          "time": 122.12,
+          "end": 122.42,
+          "text": "他",
+          "probability": 0.9889
+        },
+        {
+          "time": 122.88,
+          "end": 123.18,
+          "text": "我要",
+          "probability": 0.9977
+        },
+        {
+          "time": 123.18,
+          "end": 123.48,
+          "text": "欢",
+          "probability": 0.953
+        },
+        {
+          "time": 123.62,
+          "end": 123.92,
+          "text": "呼",
+          "probability": 0.9944
+        },
+        {
+          "time": 124.0,
+          "end": 124.3,
+          "text": "欢",
+          "probability": 0.9972
+        },
+        {
+          "time": 124.42,
+          "end": 124.72,
+          "text": "呼",
+          "probability": 0.9999
+        },
+        {
+          "time": 124.72,
+          "end": 125.1,
+          "text": "赞",
+          "probability": 0.9483
+        },
+        {
+          "time": 125.06,
+          "end": 125.36,
+          "text": "美",
+          "probability": 0.9788
+        }
+      ]
+    },
+    {
+      "time": 125.46,
+      "end": 130.16,
+      "text": "他将我每一天化作喜乐的诗歌",
+      "words": [
+        {
+          "time": 125.46,
+          "end": 125.76,
+          "text": "他",
+          "probability": 0.9965
+        },
+        {
+          "time": 126.0,
+          "end": 126.3,
+          "text": "将",
+          "probability": 0.9991
+        },
+        {
+          "time": 126.2,
+          "end": 126.5,
+          "text": "我",
+          "probability": 0.9996
+        },
+        {
+          "time": 126.48,
+          "end": 126.78,
+          "text": "每",
+          "probability": 1.0
+        },
+        {
+          "time": 126.84,
+          "end": 127.14,
+          "text": "一",
+          "probability": 1.0
+        },
+        {
+          "time": 127.12,
+          "end": 127.42,
+          "text": "天",
+          "probability": 0.9994
+        },
+        {
+          "time": 127.62,
+          "end": 127.92,
+          "text": "化",
+          "probability": 0.9995
+        },
+        {
+          "time": 127.8,
+          "end": 128.1,
+          "text": "作",
+          "probability": 0.9991
+        },
+        {
+          "time": 128.14,
+          "end": 128.44,
+          "text": "喜",
+          "probability": 0.9999
+        },
+        {
+          "time": 128.54,
+          "end": 128.84,
+          "text": "乐",
+          "probability": 0.9999
+        },
+        {
+          "time": 128.98,
+          "end": 129.28,
+          "text": "的",
+          "probability": 0.9896
+        },
+        {
+          "time": 129.32,
+          "end": 129.62,
+          "text": "诗",
+          "probability": 0.9999
+        },
+        {
+          "time": 129.86,
+          "end": 130.16,
+          "text": "歌",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 132.18,
+      "end": 138.1,
+      "text": "Hallelujah我要唱Hallelujah我要跳",
+      "words": [
+        {
+          "time": 132.18,
+          "end": 132.48,
+          "text": "H",
+          "probability": 0.748
+        },
+        {
+          "time": 132.36,
+          "end": 132.66,
+          "text": "all",
+          "probability": 0.9916
+        },
+        {
+          "time": 132.7,
+          "end": 133.0,
+          "text": "elujah",
+          "probability": 0.9872
+        },
+        {
+          "time": 134.06,
+          "end": 134.36,
+          "text": "我要",
+          "probability": 0.6043
+        },
+        {
+          "time": 134.54,
+          "end": 134.84,
+          "text": "唱",
+          "probability": 0.952
+        },
+        {
+          "time": 135.48,
+          "end": 135.78,
+          "text": "H",
+          "probability": 0.9964
+        },
+        {
+          "time": 135.62,
+          "end": 135.92,
+          "text": "all",
+          "probability": 0.9995
+        },
+        {
+          "time": 135.96,
+          "end": 136.26,
+          "text": "elujah",
+          "probability": 0.9998
+        },
+        {
+          "time": 137.26,
+          "end": 137.56,
+          "text": "我要",
+          "probability": 0.9987
+        },
+        {
+          "time": 137.8,
+          "end": 138.1,
+          "text": "跳",
+          "probability": 0.5294
+        }
+      ]
+    },
+    {
+      "time": 138.78,
+      "end": 143.2,
+      "text": "Hallelujah 我要大声欢呼赞美",
+      "words": [
+        {
+          "time": 138.78,
+          "end": 139.08,
+          "text": "H",
+          "probability": 0.6006
+        },
+        {
+          "time": 138.94,
+          "end": 139.24,
+          "text": "all",
+          "probability": 0.9691
+        },
+        {
+          "time": 139.26,
+          "end": 139.56,
+          "text": "elujah",
+          "probability": 0.982
+        },
+        {
+          "time": 140.36,
+          "end": 140.66,
+          "text": " 我",
+          "probability": 0.4242
+        },
+        {
+          "time": 140.78,
+          "end": 141.08,
+          "text": "要",
+          "probability": 0.9965
+        },
+        {
+          "time": 141.12,
+          "end": 141.42,
+          "text": "大",
+          "probability": 0.9665
+        },
+        {
+          "time": 141.7,
+          "end": 142.0,
+          "text": "声",
+          "probability": 0.9059
+        },
+        {
+          "time": 142.02,
+          "end": 142.32,
+          "text": "欢",
+          "probability": 0.8355
+        },
+        {
+          "time": 142.22,
+          "end": 142.52,
+          "text": "呼",
+          "probability": 0.8335
+        },
+        {
+          "time": 142.42,
+          "end": 142.76,
+          "text": "赞",
+          "probability": 0.2388
+        },
+        {
+          "time": 142.9,
+          "end": 143.2,
+          "text": "美",
+          "probability": 0.9127
+        }
+      ]
+    },
+    {
+      "time": 145.36,
+      "end": 151.28,
+      "text": "Hallelujah 我要唱Hallelujah 我要跳",
+      "words": [
+        {
+          "time": 145.36,
+          "end": 145.66,
+          "text": "H",
+          "probability": 0.9925
+        },
+        {
+          "time": 145.48,
+          "end": 145.78,
+          "text": "all",
+          "probability": 0.9994
+        },
+        {
+          "time": 145.84,
+          "end": 146.14,
+          "text": "elujah",
+          "probability": 0.9994
+        },
+        {
+          "time": 146.94,
+          "end": 147.24,
+          "text": " 我",
+          "probability": 0.9974
+        },
+        {
+          "time": 147.32,
+          "end": 147.62,
+          "text": "要",
+          "probability": 0.9996
+        },
+        {
+          "time": 147.7,
+          "end": 148.0,
+          "text": "唱",
+          "probability": 0.9905
+        },
+        {
+          "time": 148.62,
+          "end": 148.92,
+          "text": "H",
+          "probability": 0.9987
+        },
+        {
+          "time": 148.74,
+          "end": 149.04,
+          "text": "all",
+          "probability": 0.9997
+        },
+        {
+          "time": 149.12,
+          "end": 149.42,
+          "text": "elujah",
+          "probability": 0.9994
+        },
+        {
+          "time": 150.22,
+          "end": 150.52,
+          "text": " 我",
+          "probability": 0.9972
+        },
+        {
+          "time": 150.56,
+          "end": 150.86,
+          "text": "要",
+          "probability": 0.9999
+        },
+        {
+          "time": 150.98,
+          "end": 151.28,
+          "text": "跳",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 151.92,
+      "end": 157.88,
+      "text": "Hallelujah 我要大声欢呼赞美Hall",
+      "words": [
+        {
+          "time": 151.92,
+          "end": 152.22,
+          "text": "H",
+          "probability": 0.9991
+        },
+        {
+          "time": 152.06,
+          "end": 152.36,
+          "text": "all",
+          "probability": 0.9997
+        },
+        {
+          "time": 152.42,
+          "end": 152.72,
+          "text": "elujah",
+          "probability": 0.9993
+        },
+        {
+          "time": 153.52,
+          "end": 153.82,
+          "text": " 我",
+          "probability": 0.9983
+        },
+        {
+          "time": 153.84,
+          "end": 154.14,
+          "text": "要",
+          "probability": 0.9999
+        },
+        {
+          "time": 154.26,
+          "end": 154.56,
+          "text": "大",
+          "probability": 0.9996
+        },
+        {
+          "time": 154.82,
+          "end": 155.12,
+          "text": "声",
+          "probability": 0.9995
+        },
+        {
+          "time": 155.16,
+          "end": 155.46,
+          "text": "欢",
+          "probability": 0.9999
+        },
+        {
+          "time": 155.36,
+          "end": 155.66,
+          "text": "呼",
+          "probability": 0.9997
+        },
+        {
+          "time": 155.6,
+          "end": 155.9,
+          "text": "赞",
+          "probability": 0.9996
+        },
+        {
+          "time": 156.18,
+          "end": 156.48,
+          "text": "美",
+          "probability": 0.9997
+        },
+        {
+          "time": 157.1,
+          "end": 157.4,
+          "text": "H",
+          "probability": 0.9948
+        },
+        {
+          "time": 157.74,
+          "end": 158.04,
+          "text": "all",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 157.88,
+      "end": 158.18,
+      "text": "elujah",
+      "words": [
+        {
+          "time": 157.88,
+          "end": 158.18,
+          "text": "elujah",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 160.1,
+      "end": 165.84,
+      "text": "我要唱Hallelujah 我要跳Hallelujah",
+      "words": [
+        {
+          "time": 160.1,
+          "end": 160.4,
+          "text": " 我",
+          "probability": 0.8502
+        },
+        {
+          "time": 160.44,
+          "end": 160.74,
+          "text": "要",
+          "probability": 0.9994
+        },
+        {
+          "time": 160.82,
+          "end": 161.12,
+          "text": "唱",
+          "probability": 0.9975
+        },
+        {
+          "time": 161.78,
+          "end": 162.08,
+          "text": "H",
+          "probability": 0.9988
+        },
+        {
+          "time": 161.92,
+          "end": 162.22,
+          "text": "all",
+          "probability": 0.9998
+        },
+        {
+          "time": 162.28,
+          "end": 162.58,
+          "text": "elujah",
+          "probability": 0.999
+        },
+        {
+          "time": 163.38,
+          "end": 163.68,
+          "text": " 我",
+          "probability": 0.9976
+        },
+        {
+          "time": 163.72,
+          "end": 164.02,
+          "text": "要",
+          "probability": 0.9999
+        },
+        {
+          "time": 164.08,
+          "end": 164.38,
+          "text": "跳",
+          "probability": 0.9991
+        },
+        {
+          "time": 165.06,
+          "end": 165.36,
+          "text": "H",
+          "probability": 0.6382
+        },
+        {
+          "time": 165.2,
+          "end": 165.5,
+          "text": "all",
+          "probability": 0.9825
+        },
+        {
+          "time": 165.54,
+          "end": 165.84,
+          "text": "elujah",
+          "probability": 0.9581
+        }
+      ]
+    },
+    {
+      "time": 166.68,
+      "end": 172.44,
+      "text": "我要大声欢呼他妹Hallelujah",
+      "words": [
+        {
+          "time": 166.68,
+          "end": 166.98,
+          "text": " 我",
+          "probability": 0.4435
+        },
+        {
+          "time": 167.1,
+          "end": 167.4,
+          "text": "要",
+          "probability": 0.9923
+        },
+        {
+          "time": 167.42,
+          "end": 167.72,
+          "text": "大",
+          "probability": 0.9585
+        },
+        {
+          "time": 168.0,
+          "end": 168.3,
+          "text": "声",
+          "probability": 0.8223
+        },
+        {
+          "time": 168.32,
+          "end": 168.62,
+          "text": "欢",
+          "probability": 0.2198
+        },
+        {
+          "time": 168.54,
+          "end": 168.84,
+          "text": "呼",
+          "probability": 0.682
+        },
+        {
+          "time": 168.74,
+          "end": 169.04,
+          "text": "他",
+          "probability": 0.1889
+        },
+        {
+          "time": 169.42,
+          "end": 169.72,
+          "text": "妹",
+          "probability": 0.5434
+        },
+        {
+          "time": 170.34,
+          "end": 170.64,
+          "text": "H",
+          "probability": 0.9946
+        },
+        {
+          "time": 171.76,
+          "end": 172.06,
+          "text": "all",
+          "probability": 0.9995
+        },
+        {
+          "time": 172.14,
+          "end": 172.44,
+          "text": "elujah",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 173.24,
+      "end": 179.02,
+      "text": "我要唱Hallelujah 我要跳Hallelujah",
+      "words": [
+        {
+          "time": 173.24,
+          "end": 173.54,
+          "text": " 我",
+          "probability": 0.9969
+        },
+        {
+          "time": 173.6,
+          "end": 173.9,
+          "text": "要",
+          "probability": 0.9992
+        },
+        {
+          "time": 174.02,
+          "end": 174.32,
+          "text": "唱",
+          "probability": 0.9878
+        },
+        {
+          "time": 174.92,
+          "end": 175.22,
+          "text": "H",
+          "probability": 0.9991
+        },
+        {
+          "time": 175.06,
+          "end": 175.36,
+          "text": "all",
+          "probability": 0.9997
+        },
+        {
+          "time": 175.44,
+          "end": 175.74,
+          "text": "elujah",
+          "probability": 0.9992
+        },
+        {
+          "time": 176.54,
+          "end": 176.84,
+          "text": " 我",
+          "probability": 0.9971
+        },
+        {
+          "time": 176.88,
+          "end": 177.18,
+          "text": "要",
+          "probability": 0.9997
+        },
+        {
+          "time": 177.34,
+          "end": 177.64,
+          "text": "跳",
+          "probability": 0.9941
+        },
+        {
+          "time": 178.24,
+          "end": 178.54,
+          "text": "H",
+          "probability": 0.9992
+        },
+        {
+          "time": 178.36,
+          "end": 178.66,
+          "text": "all",
+          "probability": 0.9998
+        },
+        {
+          "time": 178.72,
+          "end": 179.02,
+          "text": "elujah",
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "time": 179.8,
+      "end": 182.44,
+      "text": "我要大声欢呼他妹",
+      "words": [
+        {
+          "time": 179.8,
+          "end": 180.1,
+          "text": " 我",
+          "probability": 0.9975
+        },
+        {
+          "time": 180.16,
+          "end": 180.46,
+          "text": "要",
+          "probability": 0.9999
+        },
+        {
+          "time": 180.58,
+          "end": 180.88,
+          "text": "大",
+          "probability": 0.9997
+        },
+        {
+          "time": 181.12,
+          "end": 181.42,
+          "text": "声",
+          "probability": 0.9992
+        },
+        {
+          "time": 181.46,
+          "end": 181.76,
+          "text": "欢",
+          "probability": 0.9996
+        },
+        {
+          "time": 181.66,
+          "end": 181.96,
+          "text": "呼",
+          "probability": 0.9998
+        },
+        {
+          "time": 181.88,
+          "end": 182.18,
+          "text": "他",
+          "probability": 0.994
+        },
+        {
+          "time": 182.14,
+          "end": 182.44,
+          "text": "妹",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 195.54,
+      "end": 197.52,
+      "text": "Wa-a-a-o-a",
+      "words": [
+        {
+          "time": 195.54,
+          "end": 195.84,
+          "text": "W",
+          "probability": 0.2643
+        },
+        {
+          "time": 195.7,
+          "end": 196.0,
+          "text": "a",
+          "probability": 0.2724
+        },
+        {
+          "time": 195.76,
+          "end": 196.06,
+          "text": "-",
+          "probability": 0.6363
+        },
+        {
+          "time": 195.96,
+          "end": 196.26,
+          "text": "a",
+          "probability": 0.773
+        },
+        {
+          "time": 196.24,
+          "end": 196.54,
+          "text": "-",
+          "probability": 0.9957
+        },
+        {
+          "time": 196.46,
+          "end": 196.76,
+          "text": "a",
+          "probability": 0.8338
+        },
+        {
+          "time": 196.46,
+          "end": 196.76,
+          "text": "-",
+          "probability": 0.9518
+        },
+        {
+          "time": 196.7,
+          "end": 197.0,
+          "text": "o",
+          "probability": 0.338
+        },
+        {
+          "time": 196.8,
+          "end": 197.1,
+          "text": "-",
+          "probability": 0.9977
+        },
+        {
+          "time": 197.22,
+          "end": 197.52,
+          "text": "a",
+          "probability": 0.5649
+        }
+      ]
+    },
+    {
+      "time": 198.76,
+      "end": 204.36,
+      "text": "Wa-a-a-o-aWa-a-a-o-a",
+      "words": [
+        {
+          "time": 198.76,
+          "end": 199.06,
+          "text": "W",
+          "probability": 0.8874
+        },
+        {
+          "time": 198.9,
+          "end": 199.2,
+          "text": "a",
+          "probability": 0.9977
+        },
+        {
+          "time": 199.02,
+          "end": 199.32,
+          "text": "-",
+          "probability": 1.0
+        },
+        {
+          "time": 199.46,
+          "end": 199.76,
+          "text": "a",
+          "probability": 0.9983
+        },
+        {
+          "time": 199.6,
+          "end": 199.9,
+          "text": "-",
+          "probability": 1.0
+        },
+        {
+          "time": 199.9,
+          "end": 200.2,
+          "text": "a",
+          "probability": 0.8122
+        },
+        {
+          "time": 199.9,
+          "end": 200.2,
+          "text": "-",
+          "probability": 0.991
+        },
+        {
+          "time": 199.92,
+          "end": 200.22,
+          "text": "o",
+          "probability": 0.9393
+        },
+        {
+          "time": 200.02,
+          "end": 200.32,
+          "text": "-",
+          "probability": 0.9991
+        },
+        {
+          "time": 201.4,
+          "end": 201.7,
+          "text": "a",
+          "probability": 0.9691
+        },
+        {
+          "time": 202.06,
+          "end": 202.36,
+          "text": "W",
+          "probability": 0.9825
+        },
+        {
+          "time": 202.16,
+          "end": 202.46,
+          "text": "a",
+          "probability": 0.9985
+        },
+        {
+          "time": 202.38,
+          "end": 202.68,
+          "text": "-",
+          "probability": 1.0
+        },
+        {
+          "time": 202.58,
+          "end": 202.88,
+          "text": "a",
+          "probability": 0.9993
+        },
+        {
+          "time": 202.86,
+          "end": 203.16,
+          "text": "-",
+          "probability": 1.0
+        },
+        {
+          "time": 202.94,
+          "end": 203.24,
+          "text": "a",
+          "probability": 0.8589
+        },
+        {
+          "time": 202.94,
+          "end": 203.24,
+          "text": "-",
+          "probability": 0.9995
+        },
+        {
+          "time": 203.38,
+          "end": 203.68,
+          "text": "o",
+          "probability": 0.9873
+        },
+        {
+          "time": 203.38,
+          "end": 203.68,
+          "text": "-",
+          "probability": 0.9999
+        },
+        {
+          "time": 204.06,
+          "end": 204.36,
+          "text": "a",
+          "probability": 0.9786
+        }
+      ]
+    },
+    {
+      "time": 204.56,
+      "end": 206.62,
+      "text": "Wa-a-o-a",
+      "words": [
+        {
+          "time": 204.56,
+          "end": 204.86,
+          "text": "W",
+          "probability": 0.9633
+        },
+        {
+          "time": 204.7,
+          "end": 205.0,
+          "text": "a",
+          "probability": 0.9613
+        },
+        {
+          "time": 205.02,
+          "end": 205.32,
+          "text": "-",
+          "probability": 0.9994
+        },
+        {
+          "time": 205.04,
+          "end": 205.34,
+          "text": "a",
+          "probability": 0.6179
+        },
+        {
+          "time": 205.04,
+          "end": 205.34,
+          "text": "-",
+          "probability": 0.9992
+        },
+        {
+          "time": 205.04,
+          "end": 205.34,
+          "text": "o",
+          "probability": 0.9737
+        },
+        {
+          "time": 205.04,
+          "end": 205.34,
+          "text": "-",
+          "probability": 0.9958
+        },
+        {
+          "time": 206.32,
+          "end": 206.62,
+          "text": "a",
+          "probability": 0.6315
+        }
+      ]
+    }
+  ]
+}

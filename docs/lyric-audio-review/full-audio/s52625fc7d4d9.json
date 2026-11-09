@@ -1,0 +1,1982 @@
+{
+  "id": "s52625fc7d4d9",
+  "file": "053轻轻听.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "363c50973b16e5e6ffb35ba1ced72eaf7de3b72480f4cb658042cc57eb9b3f8c",
+  "fullDuration": 159.268571,
+  "lines": [
+    {
+      "time": 0,
+      "end": 5.56,
+      "text": "《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青",
+      "words": [
+        {
+          "time": 0,
+          "end": 0.3,
+          "text": "《",
+          "probability": 0.0592
+        },
+        {
+          "time": 0,
+          "end": 0.3,
+          "text": "青",
+          "probability": 0.03
+        },
+        {
+          "time": 0,
+          "end": 0.3,
+          "text": "春",
+          "probability": 0.5594
+        },
+        {
+          "time": 0,
+          "end": 0.3,
+          "text": "》",
+          "probability": 0.1455
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "《",
+          "probability": 0.1117
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "青",
+          "probability": 0.7319
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "春",
+          "probability": 0.9988
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "》",
+          "probability": 0.7692
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "《",
+          "probability": 0.2176
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "青",
+          "probability": 0.9292
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "春",
+          "probability": 0.9996
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "》",
+          "probability": 0.9569
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "《",
+          "probability": 0.3941
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "青",
+          "probability": 0.9743
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "》",
+          "probability": 0.9856
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "《",
+          "probability": 0.6227
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "青",
+          "probability": 0.9873
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "》",
+          "probability": 0.9933
+        },
+        {
+          "time": 0.46,
+          "end": 0.76,
+          "text": "《",
+          "probability": 0.7876
+        },
+        {
+          "time": 0.66,
+          "end": 0.96,
+          "text": "青",
+          "probability": 0.9927
+        },
+        {
+          "time": 1.92,
+          "end": 2.22,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 1.94,
+          "end": 2.24,
+          "text": "》",
+          "probability": 0.9958
+        },
+        {
+          "time": 1.98,
+          "end": 2.28,
+          "text": "《",
+          "probability": 0.8732
+        },
+        {
+          "time": 2.46,
+          "end": 2.76,
+          "text": "青",
+          "probability": 0.9952
+        },
+        {
+          "time": 2.92,
+          "end": 3.22,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 2.92,
+          "end": 3.22,
+          "text": "》",
+          "probability": 0.9967
+        },
+        {
+          "time": 2.92,
+          "end": 3.22,
+          "text": "《",
+          "probability": 0.9255
+        },
+        {
+          "time": 3.28,
+          "end": 3.58,
+          "text": "青",
+          "probability": 0.9965
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "》",
+          "probability": 0.9973
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "《",
+          "probability": 0.953
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "青",
+          "probability": 0.9972
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "》",
+          "probability": 0.998
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "《",
+          "probability": 0.968
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "青",
+          "probability": 0.9978
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "》",
+          "probability": 0.9982
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "《",
+          "probability": 0.9771
+        },
+        {
+          "time": 3.52,
+          "end": 3.82,
+          "text": "青",
+          "probability": 0.9982
+        },
+        {
+          "time": 3.6,
+          "end": 3.9,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 3.7,
+          "end": 4.0,
+          "text": "》",
+          "probability": 0.9984
+        },
+        {
+          "time": 3.8,
+          "end": 4.1,
+          "text": "《",
+          "probability": 0.9822
+        },
+        {
+          "time": 4.16,
+          "end": 4.46,
+          "text": "青",
+          "probability": 0.9984
+        },
+        {
+          "time": 4.26,
+          "end": 4.56,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 4.26,
+          "end": 4.56,
+          "text": "》",
+          "probability": 0.9986
+        },
+        {
+          "time": 4.4,
+          "end": 4.7,
+          "text": "《",
+          "probability": 0.9849
+        },
+        {
+          "time": 4.54,
+          "end": 4.84,
+          "text": "青",
+          "probability": 0.9985
+        },
+        {
+          "time": 4.56,
+          "end": 4.86,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 4.56,
+          "end": 4.86,
+          "text": "》",
+          "probability": 0.9987
+        },
+        {
+          "time": 4.64,
+          "end": 4.94,
+          "text": "《",
+          "probability": 0.9859
+        },
+        {
+          "time": 5.26,
+          "end": 5.56,
+          "text": "青",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 5.72,
+      "end": 11.26,
+      "text": "春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《",
+      "words": [
+        {
+          "time": 5.72,
+          "end": 6.02,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 5.72,
+          "end": 6.02,
+          "text": "》",
+          "probability": 0.9988
+        },
+        {
+          "time": 5.72,
+          "end": 6.02,
+          "text": "《",
+          "probability": 0.9849
+        },
+        {
+          "time": 5.8,
+          "end": 6.1,
+          "text": "青",
+          "probability": 0.9987
+        },
+        {
+          "time": 5.8,
+          "end": 6.1,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 5.8,
+          "end": 6.1,
+          "text": "》",
+          "probability": 0.9989
+        },
+        {
+          "time": 5.8,
+          "end": 6.1,
+          "text": "《",
+          "probability": 0.9846
+        },
+        {
+          "time": 6.0,
+          "end": 6.3,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 6.06,
+          "end": 6.36,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 6.08,
+          "end": 6.38,
+          "text": "》",
+          "probability": 0.999
+        },
+        {
+          "time": 6.56,
+          "end": 6.86,
+          "text": "《",
+          "probability": 0.9842
+        },
+        {
+          "time": 6.8,
+          "end": 7.1,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 6.92,
+          "end": 7.22,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 6.92,
+          "end": 7.22,
+          "text": "》",
+          "probability": 0.999
+        },
+        {
+          "time": 6.98,
+          "end": 7.28,
+          "text": "《",
+          "probability": 0.983
+        },
+        {
+          "time": 7.04,
+          "end": 7.34,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 7.1,
+          "end": 7.4,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 7.1,
+          "end": 7.4,
+          "text": "》",
+          "probability": 0.999
+        },
+        {
+          "time": 7.5,
+          "end": 7.8,
+          "text": "《",
+          "probability": 0.9791
+        },
+        {
+          "time": 8.28,
+          "end": 8.58,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 8.3,
+          "end": 8.6,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 8.3,
+          "end": 8.6,
+          "text": "》",
+          "probability": 0.999
+        },
+        {
+          "time": 8.44,
+          "end": 8.74,
+          "text": "《",
+          "probability": 0.9749
+        },
+        {
+          "time": 9.1,
+          "end": 9.4,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 9.1,
+          "end": 9.4,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 9.1,
+          "end": 9.4,
+          "text": "》",
+          "probability": 0.999
+        },
+        {
+          "time": 9.26,
+          "end": 9.56,
+          "text": "《",
+          "probability": 0.9736
+        },
+        {
+          "time": 9.64,
+          "end": 9.94,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 9.64,
+          "end": 9.94,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 9.66,
+          "end": 9.96,
+          "text": "》",
+          "probability": 0.999
+        },
+        {
+          "time": 9.84,
+          "end": 10.14,
+          "text": "《",
+          "probability": 0.9676
+        },
+        {
+          "time": 10.5,
+          "end": 10.8,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 10.76,
+          "end": 11.06,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 10.78,
+          "end": 11.08,
+          "text": "》",
+          "probability": 0.999
+        },
+        {
+          "time": 11.0,
+          "end": 11.3,
+          "text": "《",
+          "probability": 0.9655
+        }
+      ]
+    },
+    {
+      "time": 11.26,
+      "end": 13.02,
+      "text": "青春》《青春》",
+      "words": [
+        {
+          "time": 11.26,
+          "end": 11.56,
+          "text": "青",
+          "probability": 0.9988
+        },
+        {
+          "time": 11.28,
+          "end": 11.58,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 11.38,
+          "end": 11.68,
+          "text": "》",
+          "probability": 0.9989
+        },
+        {
+          "time": 12.48,
+          "end": 12.78,
+          "text": "《",
+          "probability": 0.9552
+        },
+        {
+          "time": 12.66,
+          "end": 12.96,
+          "text": "青",
+          "probability": 0.9987
+        },
+        {
+          "time": 12.7,
+          "end": 13.0,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 12.72,
+          "end": 13.02,
+          "text": "》",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 14.72,
+      "end": 20.34,
+      "text": "《青春》《青春》《青春》《青春》《青春》",
+      "words": [
+        {
+          "time": 14.72,
+          "end": 15.02,
+          "text": "《",
+          "probability": 0.9481
+        },
+        {
+          "time": 14.98,
+          "end": 15.28,
+          "text": "青",
+          "probability": 0.9987
+        },
+        {
+          "time": 15.5,
+          "end": 15.8,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 15.82,
+          "end": 16.12,
+          "text": "》",
+          "probability": 0.9988
+        },
+        {
+          "time": 16.32,
+          "end": 16.62,
+          "text": "《",
+          "probability": 0.9343
+        },
+        {
+          "time": 16.32,
+          "end": 16.62,
+          "text": "青",
+          "probability": 0.9986
+        },
+        {
+          "time": 16.32,
+          "end": 16.62,
+          "text": "春",
+          "probability": 0.9999
+        },
+        {
+          "time": 16.48,
+          "end": 16.78,
+          "text": "》",
+          "probability": 0.9986
+        },
+        {
+          "time": 16.92,
+          "end": 17.22,
+          "text": "《",
+          "probability": 0.9223
+        },
+        {
+          "time": 16.92,
+          "end": 17.22,
+          "text": "青",
+          "probability": 0.9986
+        },
+        {
+          "time": 16.92,
+          "end": 17.22,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 16.92,
+          "end": 17.22,
+          "text": "》",
+          "probability": 0.9985
+        },
+        {
+          "time": 17.52,
+          "end": 17.82,
+          "text": "《",
+          "probability": 0.9133
+        },
+        {
+          "time": 18.52,
+          "end": 18.82,
+          "text": "青",
+          "probability": 0.9986
+        },
+        {
+          "time": 19.12,
+          "end": 19.42,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 19.48,
+          "end": 19.78,
+          "text": "》",
+          "probability": 0.9983
+        },
+        {
+          "time": 19.86,
+          "end": 20.16,
+          "text": "《",
+          "probability": 0.901
+        },
+        {
+          "time": 19.86,
+          "end": 20.16,
+          "text": "青",
+          "probability": 0.9986
+        },
+        {
+          "time": 19.86,
+          "end": 20.16,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 20.04,
+          "end": 20.34,
+          "text": "》",
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "time": 20.38,
+      "end": 22.4,
+      "text": "《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》《青春》》《青春》《青春》",
+      "words": [
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.8772
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9985
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9978
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.8779
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9985
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9975
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.8549
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9984
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9971
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.8227
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9984
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9966
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.824
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9983
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9962
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.7954
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9983
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9959
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.7783
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9982
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9997
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9951
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.7477
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9981
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9997
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9944
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.7272
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.9981
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9997
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9938
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.7056
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9997
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9929
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "《",
+          "probability": 0.6902
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "青",
+          "probability": 0.998
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "春",
+          "probability": 0.9997
+        },
+        {
+          "time": 20.38,
+          "end": 20.68,
+          "text": "》",
+          "probability": 0.9919
+        },
+        {
+          "time": 20.56,
+          "end": 20.86,
+          "text": "》",
+          "probability": 0.3877
+        },
+        {
+          "time": 20.84,
+          "end": 21.14,
+          "text": "《",
+          "probability": 0.6534
+        },
+        {
+          "time": 21.66,
+          "end": 21.96,
+          "text": "青",
+          "probability": 0.9975
+        },
+        {
+          "time": 21.66,
+          "end": 21.96,
+          "text": "春",
+          "probability": 0.9996
+        },
+        {
+          "time": 21.66,
+          "end": 21.96,
+          "text": "》",
+          "probability": 0.9842
+        },
+        {
+          "time": 21.66,
+          "end": 21.96,
+          "text": "《",
+          "probability": 0.8231
+        },
+        {
+          "time": 22.08,
+          "end": 22.38,
+          "text": "青",
+          "probability": 0.9979
+        },
+        {
+          "time": 22.08,
+          "end": 22.38,
+          "text": "春",
+          "probability": 0.9996
+        },
+        {
+          "time": 22.1,
+          "end": 22.4,
+          "text": "》",
+          "probability": 0.9876
+        }
+      ]
+    },
+    {
+      "time": 24.22,
+      "end": 26.34,
+      "text": "《青春》》《",
+      "words": [
+        {
+          "time": 24.22,
+          "end": 24.52,
+          "text": "《",
+          "probability": 0.7423
+        },
+        {
+          "time": 24.22,
+          "end": 24.52,
+          "text": "青",
+          "probability": 0.9978
+        },
+        {
+          "time": 24.22,
+          "end": 24.52,
+          "text": "春",
+          "probability": 0.9996
+        },
+        {
+          "time": 25.44,
+          "end": 25.74,
+          "text": "》",
+          "probability": 0.9873
+        },
+        {
+          "time": 25.58,
+          "end": 25.88,
+          "text": "》",
+          "probability": 0.3882
+        },
+        {
+          "time": 26.04,
+          "end": 26.34,
+          "text": "《",
+          "probability": 0.6703
+        }
+      ]
+    },
+    {
+      "time": 28.98,
+      "end": 30.16,
+      "text": "青春》",
+      "words": [
+        {
+          "time": 28.98,
+          "end": 29.28,
+          "text": "青",
+          "probability": 0.9974
+        },
+        {
+          "time": 29.78,
+          "end": 30.08,
+          "text": "春",
+          "probability": 0.9995
+        },
+        {
+          "time": 29.86,
+          "end": 30.16,
+          "text": "》",
+          "probability": 0.9785
+        }
+      ]
+    },
+    {
+      "time": 31.62,
+      "end": 37.6,
+      "text": "她在轻轻听我的母人",
+      "words": [
+        {
+          "time": 31.62,
+          "end": 31.92,
+          "text": "她",
+          "probability": 0.1616
+        },
+        {
+          "time": 32.12,
+          "end": 32.42,
+          "text": "在",
+          "probability": 0.875
+        },
+        {
+          "time": 32.5,
+          "end": 33.22,
+          "text": "轻",
+          "probability": 0.5366
+        },
+        {
+          "time": 33.26,
+          "end": 34.14,
+          "text": "轻",
+          "probability": 0.9467
+        },
+        {
+          "time": 34.18,
+          "end": 34.48,
+          "text": "听",
+          "probability": 0.6678
+        },
+        {
+          "time": 35.48,
+          "end": 35.78,
+          "text": "我的",
+          "probability": 0.5853
+        },
+        {
+          "time": 36.08,
+          "end": 36.38,
+          "text": "母",
+          "probability": 0.6225
+        },
+        {
+          "time": 37.3,
+          "end": 37.6,
+          "text": "人",
+          "probability": 0.8311
+        }
+      ]
+    },
+    {
+      "time": 37.6,
+      "end": 40.0,
+      "text": "认得我生意",
+      "words": [
+        {
+          "time": 37.6,
+          "end": 38.02,
+          "text": "认",
+          "probability": 0.1871
+        },
+        {
+          "time": 38.14,
+          "end": 38.44,
+          "text": "得",
+          "probability": 0.9122
+        },
+        {
+          "time": 38.68,
+          "end": 38.98,
+          "text": "我",
+          "probability": 0.9802
+        },
+        {
+          "time": 38.98,
+          "end": 39.28,
+          "text": "生",
+          "probability": 0.7914
+        },
+        {
+          "time": 39.7,
+          "end": 40.0,
+          "text": "意",
+          "probability": 0.9053
+        }
+      ]
+    },
+    {
+      "time": 42.1,
+      "end": 47.86,
+      "text": "她是大母者生命的主",
+      "words": [
+        {
+          "time": 42.1,
+          "end": 42.4,
+          "text": "她",
+          "probability": 0.674
+        },
+        {
+          "time": 42.54,
+          "end": 42.84,
+          "text": "是",
+          "probability": 0.9674
+        },
+        {
+          "time": 43.1,
+          "end": 43.4,
+          "text": "大",
+          "probability": 0.7906
+        },
+        {
+          "time": 44.22,
+          "end": 44.52,
+          "text": "母",
+          "probability": 0.3262
+        },
+        {
+          "time": 44.68,
+          "end": 44.98,
+          "text": "者",
+          "probability": 0.4008
+        },
+        {
+          "time": 45.42,
+          "end": 45.72,
+          "text": "生",
+          "probability": 0.6537
+        },
+        {
+          "time": 45.92,
+          "end": 46.22,
+          "text": "命",
+          "probability": 0.9997
+        },
+        {
+          "time": 46.36,
+          "end": 46.66,
+          "text": "的",
+          "probability": 0.6905
+        },
+        {
+          "time": 47.56,
+          "end": 47.86,
+          "text": "主",
+          "probability": 0.8934
+        }
+      ]
+    },
+    {
+      "time": 47.94,
+      "end": 53.44,
+      "text": "宰我一生只在随住生意",
+      "words": [
+        {
+          "time": 47.94,
+          "end": 48.44,
+          "text": "宰",
+          "probability": 0.8567
+        },
+        {
+          "time": 48.82,
+          "end": 49.12,
+          "text": "我",
+          "probability": 0.9751
+        },
+        {
+          "time": 49.24,
+          "end": 49.54,
+          "text": "一",
+          "probability": 0.988
+        },
+        {
+          "time": 49.74,
+          "end": 50.04,
+          "text": "生",
+          "probability": 0.9732
+        },
+        {
+          "time": 50.92,
+          "end": 51.22,
+          "text": "只",
+          "probability": 0.9073
+        },
+        {
+          "time": 51.28,
+          "end": 51.58,
+          "text": "在",
+          "probability": 0.1361
+        },
+        {
+          "time": 51.66,
+          "end": 52.08,
+          "text": "随",
+          "probability": 0.7391
+        },
+        {
+          "time": 52.14,
+          "end": 52.44,
+          "text": "住",
+          "probability": 0.2911
+        },
+        {
+          "time": 52.62,
+          "end": 52.92,
+          "text": "生",
+          "probability": 0.4983
+        },
+        {
+          "time": 53.14,
+          "end": 53.44,
+          "text": "意",
+          "probability": 0.9949
+        }
+      ]
+    },
+    {
+      "time": 55.82,
+      "end": 61.6,
+      "text": "他是个牧者生命的主宰",
+      "words": [
+        {
+          "time": 55.82,
+          "end": 56.12,
+          "text": "他是",
+          "probability": 0.3805
+        },
+        {
+          "time": 56.44,
+          "end": 56.74,
+          "text": "个",
+          "probability": 0.1447
+        },
+        {
+          "time": 57.46,
+          "end": 57.88,
+          "text": "牧",
+          "probability": 0.3442
+        },
+        {
+          "time": 57.98,
+          "end": 58.28,
+          "text": "者",
+          "probability": 0.4157
+        },
+        {
+          "time": 58.78,
+          "end": 59.08,
+          "text": "生",
+          "probability": 0.5387
+        },
+        {
+          "time": 59.24,
+          "end": 59.54,
+          "text": "命",
+          "probability": 0.9995
+        },
+        {
+          "time": 59.6,
+          "end": 59.9,
+          "text": "的",
+          "probability": 0.602
+        },
+        {
+          "time": 60.76,
+          "end": 61.06,
+          "text": "主",
+          "probability": 0.4153
+        },
+        {
+          "time": 61.18,
+          "end": 61.6,
+          "text": "宰",
+          "probability": 0.8114
+        }
+      ]
+    },
+    {
+      "time": 62.28,
+      "end": 67.4,
+      "text": "他的样子的大声音",
+      "words": [
+        {
+          "time": 62.28,
+          "end": 62.58,
+          "text": "他的",
+          "probability": 0.9273
+        },
+        {
+          "time": 63.02,
+          "end": 63.32,
+          "text": "样",
+          "probability": 0.2885
+        },
+        {
+          "time": 63.54,
+          "end": 63.84,
+          "text": "子",
+          "probability": 0.3465
+        },
+        {
+          "time": 64.58,
+          "end": 64.88,
+          "text": "的",
+          "probability": 0.536
+        },
+        {
+          "time": 65.32,
+          "end": 65.62,
+          "text": "大",
+          "probability": 0.42
+        },
+        {
+          "time": 65.74,
+          "end": 66.04,
+          "text": "声",
+          "probability": 0.7925
+        },
+        {
+          "time": 67.1,
+          "end": 67.4,
+          "text": "音",
+          "probability": 0.9876
+        }
+      ]
+    },
+    {
+      "time": 69.48,
+      "end": 75.96,
+      "text": "轻轻听我要轻轻听我要",
+      "words": [
+        {
+          "time": 69.48,
+          "end": 70.08,
+          "text": "轻",
+          "probability": 0.4517
+        },
+        {
+          "time": 70.28,
+          "end": 70.84,
+          "text": "轻",
+          "probability": 0.9745
+        },
+        {
+          "time": 71.14,
+          "end": 71.44,
+          "text": "听",
+          "probability": 0.8809
+        },
+        {
+          "time": 72.26,
+          "end": 72.56,
+          "text": "我要",
+          "probability": 0.5302
+        },
+        {
+          "time": 72.9,
+          "end": 73.54,
+          "text": "轻",
+          "probability": 0.9863
+        },
+        {
+          "time": 73.68,
+          "end": 74.18,
+          "text": "轻",
+          "probability": 0.9963
+        },
+        {
+          "time": 74.5,
+          "end": 74.8,
+          "text": "听",
+          "probability": 0.9954
+        },
+        {
+          "time": 75.66,
+          "end": 75.96,
+          "text": "我要",
+          "probability": 0.9947
+        }
+      ]
+    },
+    {
+      "time": 76.32,
+      "end": 80.04,
+      "text": "三儿听出声音",
+      "words": [
+        {
+          "time": 76.32,
+          "end": 76.62,
+          "text": "三",
+          "probability": 0.0828
+        },
+        {
+          "time": 77.36,
+          "end": 77.66,
+          "text": "儿",
+          "probability": 0.3793
+        },
+        {
+          "time": 77.98,
+          "end": 78.28,
+          "text": "听",
+          "probability": 0.8641
+        },
+        {
+          "time": 78.72,
+          "end": 79.02,
+          "text": "出",
+          "probability": 0.5622
+        },
+        {
+          "time": 79.12,
+          "end": 79.42,
+          "text": "声",
+          "probability": 0.9527
+        },
+        {
+          "time": 79.74,
+          "end": 80.04,
+          "text": "音",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 82.96,
+      "end": 89.24,
+      "text": "听听听怕再听听听我的",
+      "words": [
+        {
+          "time": 82.96,
+          "end": 83.26,
+          "text": "听",
+          "probability": 0.3604
+        },
+        {
+          "time": 84.12,
+          "end": 84.42,
+          "text": "听",
+          "probability": 0.6189
+        },
+        {
+          "time": 84.56,
+          "end": 84.86,
+          "text": "听",
+          "probability": 0.9675
+        },
+        {
+          "time": 85.34,
+          "end": 85.64,
+          "text": "怕",
+          "probability": 0.3145
+        },
+        {
+          "time": 85.76,
+          "end": 86.06,
+          "text": "再",
+          "probability": 0.8258
+        },
+        {
+          "time": 86.2,
+          "end": 86.5,
+          "text": "听",
+          "probability": 0.7099
+        },
+        {
+          "time": 87.3,
+          "end": 87.6,
+          "text": "听",
+          "probability": 0.9844
+        },
+        {
+          "time": 87.8,
+          "end": 88.1,
+          "text": "听",
+          "probability": 0.9248
+        },
+        {
+          "time": 88.94,
+          "end": 89.24,
+          "text": "我的",
+          "probability": 0.9701
+        }
+      ]
+    },
+    {
+      "time": 89.52,
+      "end": 93.4,
+      "text": "母人认可我生意",
+      "words": [
+        {
+          "time": 89.52,
+          "end": 89.82,
+          "text": "母",
+          "probability": 0.9419
+        },
+        {
+          "time": 90.7,
+          "end": 91.0,
+          "text": "人",
+          "probability": 0.898
+        },
+        {
+          "time": 91.02,
+          "end": 91.42,
+          "text": "认",
+          "probability": 0.4337
+        },
+        {
+          "time": 91.44,
+          "end": 91.74,
+          "text": "可",
+          "probability": 0.3904
+        },
+        {
+          "time": 91.9,
+          "end": 92.2,
+          "text": "我",
+          "probability": 0.9807
+        },
+        {
+          "time": 92.34,
+          "end": 92.64,
+          "text": "生",
+          "probability": 0.7353
+        },
+        {
+          "time": 93.1,
+          "end": 93.4,
+          "text": "意",
+          "probability": 0.7496
+        }
+      ]
+    },
+    {
+      "time": 95.6,
+      "end": 101.44,
+      "text": "他是大母者上命的主宰",
+      "words": [
+        {
+          "time": 95.6,
+          "end": 95.9,
+          "text": "他是",
+          "probability": 0.4413
+        },
+        {
+          "time": 96.5,
+          "end": 96.8,
+          "text": "大",
+          "probability": 0.8515
+        },
+        {
+          "time": 97.32,
+          "end": 97.62,
+          "text": "母",
+          "probability": 0.3058
+        },
+        {
+          "time": 97.76,
+          "end": 98.06,
+          "text": "者",
+          "probability": 0.113
+        },
+        {
+          "time": 98.58,
+          "end": 98.88,
+          "text": "上",
+          "probability": 0.3146
+        },
+        {
+          "time": 98.98,
+          "end": 99.28,
+          "text": "命",
+          "probability": 0.5431
+        },
+        {
+          "time": 99.38,
+          "end": 99.68,
+          "text": "的",
+          "probability": 0.8227
+        },
+        {
+          "time": 100.56,
+          "end": 100.86,
+          "text": "主",
+          "probability": 0.8362
+        },
+        {
+          "time": 100.92,
+          "end": 101.44,
+          "text": "宰",
+          "probability": 0.8674
+        }
+      ]
+    },
+    {
+      "time": 101.84,
+      "end": 106.3,
+      "text": "我一生只听随住上衣",
+      "words": [
+        {
+          "time": 101.84,
+          "end": 102.14,
+          "text": "我",
+          "probability": 0.9576
+        },
+        {
+          "time": 102.16,
+          "end": 102.46,
+          "text": "一",
+          "probability": 0.8553
+        },
+        {
+          "time": 102.68,
+          "end": 102.98,
+          "text": "生",
+          "probability": 0.9912
+        },
+        {
+          "time": 103.82,
+          "end": 104.12,
+          "text": "只",
+          "probability": 0.7941
+        },
+        {
+          "time": 104.16,
+          "end": 104.46,
+          "text": "听",
+          "probability": 0.8295
+        },
+        {
+          "time": 104.52,
+          "end": 104.94,
+          "text": "随",
+          "probability": 0.7921
+        },
+        {
+          "time": 105.02,
+          "end": 105.32,
+          "text": "住",
+          "probability": 0.3147
+        },
+        {
+          "time": 105.5,
+          "end": 105.8,
+          "text": "上",
+          "probability": 0.737
+        },
+        {
+          "time": 105.96,
+          "end": 106.3,
+          "text": "衣",
+          "probability": 0.223
+        }
+      ]
+    },
+    {
+      "time": 108.6,
+      "end": 114.36,
+      "text": "他是大木筝神秘的住在",
+      "words": [
+        {
+          "time": 108.6,
+          "end": 108.9,
+          "text": "他是",
+          "probability": 0.4719
+        },
+        {
+          "time": 109.4,
+          "end": 109.7,
+          "text": "大",
+          "probability": 0.3817
+        },
+        {
+          "time": 110.32,
+          "end": 110.62,
+          "text": "木",
+          "probability": 0.1312
+        },
+        {
+          "time": 110.64,
+          "end": 111.16,
+          "text": "筝",
+          "probability": 0.1135
+        },
+        {
+          "time": 111.56,
+          "end": 111.86,
+          "text": "神",
+          "probability": 0.7324
+        },
+        {
+          "time": 111.86,
+          "end": 112.24,
+          "text": "秘",
+          "probability": 0.8703
+        },
+        {
+          "time": 112.42,
+          "end": 112.72,
+          "text": "的",
+          "probability": 0.4018
+        },
+        {
+          "time": 113.52,
+          "end": 113.82,
+          "text": "住",
+          "probability": 0.2633
+        },
+        {
+          "time": 114.06,
+          "end": 114.36,
+          "text": "在",
+          "probability": 0.8506
+        }
+      ]
+    },
+    {
+      "time": 115.08,
+      "end": 119.34,
+      "text": "他的羊羞真的他生意",
+      "words": [
+        {
+          "time": 115.08,
+          "end": 115.38,
+          "text": "他的",
+          "probability": 0.5154
+        },
+        {
+          "time": 115.58,
+          "end": 116.32,
+          "text": "羊",
+          "probability": 0.34
+        },
+        {
+          "time": 116.26,
+          "end": 116.56,
+          "text": "羞",
+          "probability": 0.2693
+        },
+        {
+          "time": 117.12,
+          "end": 117.42,
+          "text": "真的",
+          "probability": 0.352
+        },
+        {
+          "time": 117.96,
+          "end": 118.26,
+          "text": "他",
+          "probability": 0.6921
+        },
+        {
+          "time": 118.44,
+          "end": 118.74,
+          "text": "生",
+          "probability": 0.3961
+        },
+        {
+          "time": 119.04,
+          "end": 119.34,
+          "text": "意",
+          "probability": 0.4414
+        }
+      ]
+    },
+    {
+      "time": 159.06,
+      "end": 159.36,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "优",
+          "probability": 0.431
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "优",
+          "probability": 0.9959
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "独",
+          "probability": 0.9944
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "播",
+          "probability": 0.9871
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "剧",
+          "probability": 0.9905
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "场",
+          "probability": 0.992
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "——",
+          "probability": 0.9942
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "Yo",
+          "probability": 0.987
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "Yo",
+          "probability": 0.9932
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": " Television",
+          "probability": 0.9844
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": " Series",
+          "probability": 0.992
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": " Exc",
+          "probability": 0.9921
+        },
+        {
+          "time": 159.06,
+          "end": 159.36,
+          "text": "lusive",
+          "probability": 0.9906
+        }
+      ]
+    }
+  ]
+}

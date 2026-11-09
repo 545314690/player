@@ -1,0 +1,52 @@
+{
+  "id": "s8468b5a0e9db",
+  "file": "230-.mp3",
+  "query": "有一天",
+  "metadata": {
+    "id": "s8468b5a0e9db",
+    "file": "230-.mp3",
+    "title": "有一天",
+    "artist": "盛晓玫",
+    "album": "有一天",
+    "providerId": 289700,
+    "providerTitle": "有一天",
+    "providerDuration": 357000,
+    "providerArtist": [
+      "盛晓玫"
+    ]
+  },
+  "candidates": [
+    {
+      "id": "6637",
+      "title": "有一天",
+      "artist": "盛晓玫",
+      "album": "有一天",
+      "rank": 12
+    },
+    {
+      "id": "42236",
+      "title": "有一天",
+      "artist": "周永聪",
+      "album": "是谁",
+      "rank": 4,
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "id": "34207",
+      "title": "有一天",
+      "artist": "大卫音乐",
+      "album": "钢琴诗歌弹奏-第1集",
+      "rank": 4,
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "id": "51853",
+      "title": "有一天",
+      "artist": "追光者",
+      "album": "有祢同在（钢琴轻音乐）",
+      "rank": 4,
+      "error": "curl: (28) SSL connection timeout\n"
+    }
+  ],
+  "totalCandidates": 16
+}

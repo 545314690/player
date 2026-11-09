@@ -1,0 +1,213 @@
+{
+  "id": "s1d6d355a62be",
+  "file": "035活石.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 30.04,
+      "tags": {
+        "Singing": 0.17957,
+        "Choir": 0.00979,
+        "Speech": 0.01832,
+        "Piano": 0.01534,
+        "Electric piano": 0.00752,
+        "Music": 0.81075,
+        "Musical instrument": 0.07012
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.81075
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.18564
+        },
+        {
+          "label": "Singing",
+          "score": 0.17957
+        },
+        {
+          "label": "Christian music",
+          "score": 0.11555
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.10323
+        }
+      ]
+    },
+    {
+      "time": 65.09,
+      "tags": {
+        "Singing": 0.00941,
+        "Choir": 0.00137,
+        "Speech": 0.01786,
+        "Piano": 0.05078,
+        "Electric piano": 0.0611,
+        "Music": 0.71396,
+        "Musical instrument": 0.10027
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.71396
+        },
+        {
+          "label": "New-age music",
+          "score": 0.23843
+        },
+        {
+          "label": "Ambient music",
+          "score": 0.10489
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.10027
+        },
+        {
+          "label": "Sad music",
+          "score": 0.08095
+        }
+      ]
+    },
+    {
+      "time": 100.14,
+      "tags": {
+        "Singing": 0.15846,
+        "Choir": 0.01289,
+        "Speech": 0.03843,
+        "Piano": 0.01596,
+        "Electric piano": 0.01286,
+        "Music": 0.76374,
+        "Musical instrument": 0.07745
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.76374
+        },
+        {
+          "label": "Singing",
+          "score": 0.15846
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.14973
+        },
+        {
+          "label": "Christian music",
+          "score": 0.13837
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.07745
+        }
+      ]
+    },
+    {
+      "time": 135.19,
+      "tags": {
+        "Singing": 0.281,
+        "Choir": 0.31821,
+        "Speech": 0.01724,
+        "Piano": 0.00127,
+        "Electric piano": 0.00033,
+        "Music": 0.8675,
+        "Musical instrument": 0.01294
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.8675
+        },
+        {
+          "label": "Christian music",
+          "score": 0.51814
+        },
+        {
+          "label": "Choir",
+          "score": 0.31821
+        },
+        {
+          "label": "Singing",
+          "score": 0.281
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.24674
+        }
+      ]
+    },
+    {
+      "time": 170.24,
+      "tags": {
+        "Singing": 0.31469,
+        "Choir": 0.29617,
+        "Speech": 0.01985,
+        "Piano": 0.00471,
+        "Electric piano": 0.00188,
+        "Music": 0.83255,
+        "Musical instrument": 0.02225
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.83255
+        },
+        {
+          "label": "Christian music",
+          "score": 0.49301
+        },
+        {
+          "label": "Singing",
+          "score": 0.31469
+        },
+        {
+          "label": "Choir",
+          "score": 0.29617
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.283
+        }
+      ]
+    },
+    {
+      "time": 205.29,
+      "tags": {
+        "Singing": 0.49146,
+        "Choir": 0.64236,
+        "Speech": 0.00829,
+        "Piano": 0.00097,
+        "Electric piano": 9e-05,
+        "Music": 0.90918,
+        "Musical instrument": 0.01769
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.90918
+        },
+        {
+          "label": "Choir",
+          "score": 0.64236
+        },
+        {
+          "label": "Christian music",
+          "score": 0.54251
+        },
+        {
+          "label": "Singing",
+          "score": 0.49146
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.39678
+        }
+      ]
+    }
+  ]
+}

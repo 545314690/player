@@ -1,0 +1,1890 @@
+{
+  "id": "s4f021b151c57",
+  "file": "303恩典.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "cc64bc9b13fcdfa51d9650b855eb0b105b015b9c0836887c7a877ea8a94b50eb",
+  "fullDuration": 220.003265,
+  "lines": [
+    {
+      "time": 0.52,
+      "end": 1.0,
+      "text": "《祈求》",
+      "words": [
+        {
+          "time": 0.52,
+          "end": 0.82,
+          "text": "《",
+          "probability": 0.0604
+        },
+        {
+          "time": 0.6,
+          "end": 0.96,
+          "text": "祈",
+          "probability": 0.0309
+        },
+        {
+          "time": 0.68,
+          "end": 0.98,
+          "text": "求",
+          "probability": 0.3353
+        },
+        {
+          "time": 0.7,
+          "end": 1.0,
+          "text": "》",
+          "probability": 0.0605
+        }
+      ]
+    },
+    {
+      "time": 32.22,
+      "end": 36.12,
+      "text": "为什么理所当然都是恩典",
+      "words": [
+        {
+          "time": 32.22,
+          "end": 32.52,
+          "text": "为什么",
+          "probability": 0.9505
+        },
+        {
+          "time": 32.84,
+          "end": 33.14,
+          "text": "理",
+          "probability": 0.7299
+        },
+        {
+          "time": 33.22,
+          "end": 33.52,
+          "text": "所",
+          "probability": 0.9499
+        },
+        {
+          "time": 33.78,
+          "end": 34.08,
+          "text": "当然",
+          "probability": 0.9562
+        },
+        {
+          "time": 34.8,
+          "end": 35.1,
+          "text": "都是",
+          "probability": 0.9739
+        },
+        {
+          "time": 35.3,
+          "end": 35.6,
+          "text": "恩",
+          "probability": 0.9848
+        },
+        {
+          "time": 35.64,
+          "end": 36.12,
+          "text": "典",
+          "probability": 0.9016
+        }
+      ]
+    },
+    {
+      "time": 38.26,
+      "end": 42.7,
+      "text": "青春时日照样落日满彩香",
+      "words": [
+        {
+          "time": 38.26,
+          "end": 38.56,
+          "text": "青",
+          "probability": 0.9608
+        },
+        {
+          "time": 38.5,
+          "end": 38.8,
+          "text": "春",
+          "probability": 0.9974
+        },
+        {
+          "time": 38.8,
+          "end": 39.1,
+          "text": "时",
+          "probability": 0.5776
+        },
+        {
+          "time": 39.38,
+          "end": 39.68,
+          "text": "日",
+          "probability": 0.8302
+        },
+        {
+          "time": 39.64,
+          "end": 39.94,
+          "text": "照",
+          "probability": 0.4957
+        },
+        {
+          "time": 40.02,
+          "end": 40.32,
+          "text": "样",
+          "probability": 0.7302
+        },
+        {
+          "time": 40.36,
+          "end": 40.66,
+          "text": "落",
+          "probability": 0.2373
+        },
+        {
+          "time": 40.8,
+          "end": 41.1,
+          "text": "日",
+          "probability": 0.9922
+        },
+        {
+          "time": 41.08,
+          "end": 41.48,
+          "text": "满",
+          "probability": 0.6417
+        },
+        {
+          "time": 41.48,
+          "end": 41.9,
+          "text": "彩",
+          "probability": 0.797
+        },
+        {
+          "time": 42.4,
+          "end": 42.7,
+          "text": "香",
+          "probability": 0.3927
+        }
+      ]
+    },
+    {
+      "time": 44.56,
+      "end": 49.22,
+      "text": "春花满满芬芳金秋节说过",
+      "words": [
+        {
+          "time": 44.56,
+          "end": 44.86,
+          "text": "春",
+          "probability": 0.9553
+        },
+        {
+          "time": 44.8,
+          "end": 45.1,
+          "text": "花",
+          "probability": 0.9843
+        },
+        {
+          "time": 45.04,
+          "end": 45.46,
+          "text": "满",
+          "probability": 0.6304
+        },
+        {
+          "time": 45.42,
+          "end": 45.82,
+          "text": "满",
+          "probability": 0.9968
+        },
+        {
+          "time": 45.84,
+          "end": 46.2,
+          "text": "芬",
+          "probability": 0.5853
+        },
+        {
+          "time": 46.2,
+          "end": 46.62,
+          "text": "芳",
+          "probability": 0.9769
+        },
+        {
+          "time": 46.62,
+          "end": 46.92,
+          "text": "金",
+          "probability": 0.1743
+        },
+        {
+          "time": 47.06,
+          "end": 47.36,
+          "text": "秋",
+          "probability": 0.8436
+        },
+        {
+          "time": 47.48,
+          "end": 47.78,
+          "text": "节",
+          "probability": 0.9032
+        },
+        {
+          "time": 47.92,
+          "end": 48.22,
+          "text": "说",
+          "probability": 0.8124
+        },
+        {
+          "time": 48.92,
+          "end": 49.22,
+          "text": "过",
+          "probability": 0.9153
+        }
+      ]
+    },
+    {
+      "time": 51.1,
+      "end": 55.36,
+      "text": "四季更替并完每一个片段",
+      "words": [
+        {
+          "time": 51.1,
+          "end": 51.4,
+          "text": "四",
+          "probability": 0.9118
+        },
+        {
+          "time": 51.22,
+          "end": 51.58,
+          "text": "季",
+          "probability": 0.9953
+        },
+        {
+          "time": 51.64,
+          "end": 51.94,
+          "text": "更",
+          "probability": 0.3863
+        },
+        {
+          "time": 51.9,
+          "end": 52.26,
+          "text": "替",
+          "probability": 0.2003
+        },
+        {
+          "time": 52.3,
+          "end": 52.78,
+          "text": "并",
+          "probability": 0.2413
+        },
+        {
+          "time": 52.86,
+          "end": 53.16,
+          "text": "完",
+          "probability": 0.8423
+        },
+        {
+          "time": 53.3,
+          "end": 53.6,
+          "text": "每",
+          "probability": 0.6933
+        },
+        {
+          "time": 54.06,
+          "end": 54.36,
+          "text": "一个",
+          "probability": 0.9885
+        },
+        {
+          "time": 54.46,
+          "end": 54.76,
+          "text": "片",
+          "probability": 0.8457
+        },
+        {
+          "time": 55.06,
+          "end": 55.36,
+          "text": "段",
+          "probability": 0.9921
+        }
+      ]
+    },
+    {
+      "time": 57.72,
+      "end": 61.98,
+      "text": "没什么理所当然都是恩典",
+      "words": [
+        {
+          "time": 57.72,
+          "end": 58.02,
+          "text": "没",
+          "probability": 0.9279
+        },
+        {
+          "time": 58.2,
+          "end": 58.5,
+          "text": "什么",
+          "probability": 0.998
+        },
+        {
+          "time": 58.64,
+          "end": 58.94,
+          "text": "理",
+          "probability": 0.7598
+        },
+        {
+          "time": 59.04,
+          "end": 59.34,
+          "text": "所",
+          "probability": 0.8629
+        },
+        {
+          "time": 59.64,
+          "end": 59.94,
+          "text": "当然",
+          "probability": 0.8594
+        },
+        {
+          "time": 60.58,
+          "end": 60.88,
+          "text": "都是",
+          "probability": 0.9473
+        },
+        {
+          "time": 61.2,
+          "end": 61.5,
+          "text": "恩",
+          "probability": 0.9849
+        },
+        {
+          "time": 61.5,
+          "end": 61.98,
+          "text": "典",
+          "probability": 0.9773
+        }
+      ]
+    },
+    {
+      "time": 63.2,
+      "end": 64.54,
+      "text": "一切都是",
+      "words": [
+        {
+          "time": 63.2,
+          "end": 63.5,
+          "text": "一",
+          "probability": 0.9875
+        },
+        {
+          "time": 63.62,
+          "end": 63.92,
+          "text": "切",
+          "probability": 0.9998
+        },
+        {
+          "time": 64.24,
+          "end": 64.54,
+          "text": "都是",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 65.8,
+      "end": 68.56,
+      "text": "恩典恩",
+      "words": [
+        {
+          "time": 65.8,
+          "end": 66.1,
+          "text": "恩",
+          "probability": 0.9949
+        },
+        {
+          "time": 66.42,
+          "end": 67.58,
+          "text": "典",
+          "probability": 0.9995
+        },
+        {
+          "time": 68.26,
+          "end": 68.56,
+          "text": "恩",
+          "probability": 0.9859
+        }
+      ]
+    },
+    {
+      "time": 69.76,
+      "end": 76.28,
+      "text": "典恩典无间的恩",
+      "words": [
+        {
+          "time": 69.76,
+          "end": 70.98,
+          "text": "典",
+          "probability": 0.9999
+        },
+        {
+          "time": 71.72,
+          "end": 72.02,
+          "text": "恩",
+          "probability": 0.5913
+        },
+        {
+          "time": 73.0,
+          "end": 73.92,
+          "text": "典",
+          "probability": 1.0
+        },
+        {
+          "time": 74.7,
+          "end": 75.0,
+          "text": "无",
+          "probability": 0.8703
+        },
+        {
+          "time": 75.16,
+          "end": 75.46,
+          "text": "间",
+          "probability": 0.6967
+        },
+        {
+          "time": 75.6,
+          "end": 75.9,
+          "text": "的",
+          "probability": 0.9911
+        },
+        {
+          "time": 76.02,
+          "end": 76.32,
+          "text": "恩",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 76.28,
+      "end": 82.0,
+      "text": "典人生中从来没有所得理所",
+      "words": [
+        {
+          "time": 76.28,
+          "end": 76.74,
+          "text": "典",
+          "probability": 1.0
+        },
+        {
+          "time": 77.04,
+          "end": 77.34,
+          "text": "人",
+          "probability": 0.9924
+        },
+        {
+          "time": 77.26,
+          "end": 77.56,
+          "text": "生",
+          "probability": 0.9992
+        },
+        {
+          "time": 77.6,
+          "end": 77.9,
+          "text": "中",
+          "probability": 0.9964
+        },
+        {
+          "time": 77.98,
+          "end": 78.28,
+          "text": "从",
+          "probability": 0.9945
+        },
+        {
+          "time": 78.46,
+          "end": 78.76,
+          "text": "来",
+          "probability": 0.9997
+        },
+        {
+          "time": 79.1,
+          "end": 79.4,
+          "text": "没有",
+          "probability": 0.987
+        },
+        {
+          "time": 79.62,
+          "end": 79.92,
+          "text": "所",
+          "probability": 0.1414
+        },
+        {
+          "time": 80.04,
+          "end": 80.34,
+          "text": "得",
+          "probability": 0.3031
+        },
+        {
+          "time": 81.24,
+          "end": 81.54,
+          "text": "理",
+          "probability": 0.9747
+        },
+        {
+          "time": 81.7,
+          "end": 82.0,
+          "text": "所",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 82.1,
+      "end": 85.38,
+      "text": "与当然一切都是恩典",
+      "words": [
+        {
+          "time": 82.1,
+          "end": 82.48,
+          "text": "与",
+          "probability": 0.7984
+        },
+        {
+          "time": 82.68,
+          "end": 82.98,
+          "text": "当然",
+          "probability": 0.8021
+        },
+        {
+          "time": 83.72,
+          "end": 84.02,
+          "text": "一",
+          "probability": 0.7184
+        },
+        {
+          "time": 83.86,
+          "end": 84.16,
+          "text": "切",
+          "probability": 1.0
+        },
+        {
+          "time": 84.2,
+          "end": 84.5,
+          "text": "都是",
+          "probability": 0.9997
+        },
+        {
+          "time": 84.68,
+          "end": 84.98,
+          "text": "恩",
+          "probability": 0.9995
+        },
+        {
+          "time": 84.94,
+          "end": 85.38,
+          "text": "典",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 86.82,
+      "end": 88.46,
+      "text": "都是恩典",
+      "words": [
+        {
+          "time": 86.82,
+          "end": 87.12,
+          "text": "都是",
+          "probability": 0.7313
+        },
+        {
+          "time": 87.56,
+          "end": 87.86,
+          "text": "恩",
+          "probability": 0.9852
+        },
+        {
+          "time": 87.88,
+          "end": 88.46,
+          "text": "典",
+          "probability": 0.9898
+        }
+      ]
+    },
+    {
+      "time": 90.66,
+      "end": 95.14,
+      "text": "即从降生到这个世界之上",
+      "words": [
+        {
+          "time": 90.66,
+          "end": 90.96,
+          "text": "即",
+          "probability": 0.1618
+        },
+        {
+          "time": 90.92,
+          "end": 91.22,
+          "text": "从",
+          "probability": 0.9925
+        },
+        {
+          "time": 91.22,
+          "end": 91.52,
+          "text": "降",
+          "probability": 0.4549
+        },
+        {
+          "time": 91.62,
+          "end": 91.92,
+          "text": "生",
+          "probability": 0.7444
+        },
+        {
+          "time": 92.06,
+          "end": 92.36,
+          "text": "到",
+          "probability": 0.9748
+        },
+        {
+          "time": 92.66,
+          "end": 92.96,
+          "text": "这个",
+          "probability": 0.9254
+        },
+        {
+          "time": 93.7,
+          "end": 94.0,
+          "text": "世界",
+          "probability": 0.9975
+        },
+        {
+          "time": 94.08,
+          "end": 94.38,
+          "text": "之",
+          "probability": 0.9931
+        },
+        {
+          "time": 94.84,
+          "end": 95.14,
+          "text": "上",
+          "probability": 0.9778
+        }
+      ]
+    },
+    {
+      "time": 97.26,
+      "end": 101.9,
+      "text": "即从也有的世界直到如今",
+      "words": [
+        {
+          "time": 97.26,
+          "end": 97.56,
+          "text": "即",
+          "probability": 0.8759
+        },
+        {
+          "time": 97.56,
+          "end": 97.86,
+          "text": "从",
+          "probability": 0.9928
+        },
+        {
+          "time": 97.78,
+          "end": 98.08,
+          "text": "也",
+          "probability": 0.3464
+        },
+        {
+          "time": 98.28,
+          "end": 98.58,
+          "text": "有",
+          "probability": 0.9934
+        },
+        {
+          "time": 98.58,
+          "end": 98.88,
+          "text": "的",
+          "probability": 0.9737
+        },
+        {
+          "time": 99.34,
+          "end": 99.64,
+          "text": "世界",
+          "probability": 0.997
+        },
+        {
+          "time": 99.82,
+          "end": 100.12,
+          "text": "直",
+          "probability": 0.7926
+        },
+        {
+          "time": 100.32,
+          "end": 100.62,
+          "text": "到",
+          "probability": 0.9954
+        },
+        {
+          "time": 100.68,
+          "end": 100.98,
+          "text": "如",
+          "probability": 0.9861
+        },
+        {
+          "time": 101.6,
+          "end": 101.9,
+          "text": "今",
+          "probability": 0.9959
+        }
+      ]
+    },
+    {
+      "time": 104.1,
+      "end": 108.36,
+      "text": "自由呼吸自由自在的梦想",
+      "words": [
+        {
+          "time": 104.1,
+          "end": 104.4,
+          "text": "自由",
+          "probability": 0.7532
+        },
+        {
+          "time": 104.38,
+          "end": 104.68,
+          "text": "呼",
+          "probability": 0.6169
+        },
+        {
+          "time": 104.78,
+          "end": 105.08,
+          "text": "吸",
+          "probability": 0.9913
+        },
+        {
+          "time": 105.6,
+          "end": 105.9,
+          "text": "自由",
+          "probability": 0.4375
+        },
+        {
+          "time": 106.0,
+          "end": 106.3,
+          "text": "自",
+          "probability": 0.999
+        },
+        {
+          "time": 106.46,
+          "end": 106.76,
+          "text": "在",
+          "probability": 0.9996
+        },
+        {
+          "time": 106.86,
+          "end": 107.16,
+          "text": "的",
+          "probability": 0.8763
+        },
+        {
+          "time": 107.2,
+          "end": 107.6,
+          "text": "梦",
+          "probability": 0.6985
+        },
+        {
+          "time": 108.06,
+          "end": 108.36,
+          "text": "想",
+          "probability": 0.9559
+        }
+      ]
+    },
+    {
+      "time": 110.68,
+      "end": 114.56,
+      "text": "为什么理所当然都是恩典",
+      "words": [
+        {
+          "time": 110.68,
+          "end": 110.98,
+          "text": "为什么",
+          "probability": 0.6532
+        },
+        {
+          "time": 111.28,
+          "end": 111.58,
+          "text": "理",
+          "probability": 0.9138
+        },
+        {
+          "time": 111.72,
+          "end": 112.02,
+          "text": "所",
+          "probability": 0.9755
+        },
+        {
+          "time": 112.36,
+          "end": 112.66,
+          "text": "当然",
+          "probability": 0.9957
+        },
+        {
+          "time": 113.24,
+          "end": 113.54,
+          "text": "都是",
+          "probability": 0.9906
+        },
+        {
+          "time": 113.82,
+          "end": 114.12,
+          "text": "恩",
+          "probability": 0.9998
+        },
+        {
+          "time": 114.16,
+          "end": 114.56,
+          "text": "典",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 116.9,
+      "end": 121.48,
+      "text": "请问耶和华神光明的子女",
+      "words": [
+        {
+          "time": 116.9,
+          "end": 117.2,
+          "text": "请",
+          "probability": 0.6083
+        },
+        {
+          "time": 117.14,
+          "end": 117.44,
+          "text": "问",
+          "probability": 0.1605
+        },
+        {
+          "time": 117.4,
+          "end": 117.7,
+          "text": "耶",
+          "probability": 0.9615
+        },
+        {
+          "time": 117.78,
+          "end": 118.08,
+          "text": "和",
+          "probability": 0.9991
+        },
+        {
+          "time": 118.1,
+          "end": 118.56,
+          "text": "华",
+          "probability": 0.9249
+        },
+        {
+          "time": 118.68,
+          "end": 118.98,
+          "text": "神",
+          "probability": 0.4837
+        },
+        {
+          "time": 119.04,
+          "end": 119.34,
+          "text": "光",
+          "probability": 0.7163
+        },
+        {
+          "time": 119.52,
+          "end": 119.82,
+          "text": "明",
+          "probability": 0.9914
+        },
+        {
+          "time": 119.88,
+          "end": 120.18,
+          "text": "的",
+          "probability": 0.9974
+        },
+        {
+          "time": 120.26,
+          "end": 120.56,
+          "text": "子",
+          "probability": 0.6369
+        },
+        {
+          "time": 121.18,
+          "end": 121.48,
+          "text": "女",
+          "probability": 0.6258
+        }
+      ]
+    },
+    {
+      "time": 123.34,
+      "end": 128.48,
+      "text": "同情和意亲爱赞美耶和华",
+      "words": [
+        {
+          "time": 123.34,
+          "end": 123.64,
+          "text": "同",
+          "probability": 0.9055
+        },
+        {
+          "time": 123.56,
+          "end": 123.86,
+          "text": "情",
+          "probability": 0.5518
+        },
+        {
+          "time": 123.94,
+          "end": 124.24,
+          "text": "和",
+          "probability": 0.7156
+        },
+        {
+          "time": 124.32,
+          "end": 124.62,
+          "text": "意",
+          "probability": 0.7257
+        },
+        {
+          "time": 124.7,
+          "end": 125.0,
+          "text": "亲",
+          "probability": 0.1954
+        },
+        {
+          "time": 125.14,
+          "end": 125.44,
+          "text": "爱",
+          "probability": 0.9942
+        },
+        {
+          "time": 125.44,
+          "end": 125.86,
+          "text": "赞",
+          "probability": 0.1685
+        },
+        {
+          "time": 125.92,
+          "end": 126.22,
+          "text": "美",
+          "probability": 0.9911
+        },
+        {
+          "time": 126.36,
+          "end": 126.66,
+          "text": "耶",
+          "probability": 0.9914
+        },
+        {
+          "time": 126.76,
+          "end": 127.06,
+          "text": "和",
+          "probability": 0.9996
+        },
+        {
+          "time": 127.14,
+          "end": 128.48,
+          "text": "华",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 129.8,
+      "end": 134.02,
+      "text": "同情和意这样福音的祝福",
+      "words": [
+        {
+          "time": 129.8,
+          "end": 130.1,
+          "text": "同",
+          "probability": 0.9728
+        },
+        {
+          "time": 130.0,
+          "end": 130.3,
+          "text": "情",
+          "probability": 0.9943
+        },
+        {
+          "time": 130.38,
+          "end": 130.68,
+          "text": "和",
+          "probability": 0.9808
+        },
+        {
+          "time": 130.78,
+          "end": 131.08,
+          "text": "意",
+          "probability": 0.9952
+        },
+        {
+          "time": 131.26,
+          "end": 131.56,
+          "text": "这样",
+          "probability": 0.1722
+        },
+        {
+          "time": 131.96,
+          "end": 132.26,
+          "text": "福",
+          "probability": 0.6205
+        },
+        {
+          "time": 132.38,
+          "end": 132.68,
+          "text": "音",
+          "probability": 0.9965
+        },
+        {
+          "time": 132.76,
+          "end": 133.06,
+          "text": "的",
+          "probability": 0.9994
+        },
+        {
+          "time": 133.06,
+          "end": 133.48,
+          "text": "祝",
+          "probability": 0.9952
+        },
+        {
+          "time": 133.72,
+          "end": 134.02,
+          "text": "福",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 136.58,
+      "end": 142.42,
+      "text": "为什么的所当然都是恩典一切",
+      "words": [
+        {
+          "time": 136.58,
+          "end": 136.88,
+          "text": "为什么",
+          "probability": 0.5328
+        },
+        {
+          "time": 137.2,
+          "end": 137.5,
+          "text": "的",
+          "probability": 0.459
+        },
+        {
+          "time": 137.64,
+          "end": 137.94,
+          "text": "所",
+          "probability": 0.8468
+        },
+        {
+          "time": 138.24,
+          "end": 138.54,
+          "text": "当然",
+          "probability": 0.9853
+        },
+        {
+          "time": 139.2,
+          "end": 139.5,
+          "text": "都是",
+          "probability": 0.996
+        },
+        {
+          "time": 139.74,
+          "end": 140.04,
+          "text": "恩",
+          "probability": 0.985
+        },
+        {
+          "time": 140.08,
+          "end": 140.54,
+          "text": "典",
+          "probability": 0.9928
+        },
+        {
+          "time": 141.7,
+          "end": 142.0,
+          "text": "一",
+          "probability": 0.5082
+        },
+        {
+          "time": 142.12,
+          "end": 142.42,
+          "text": "切",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 142.7,
+      "end": 145.26,
+      "text": "都是恩典",
+      "words": [
+        {
+          "time": 142.7,
+          "end": 143.0,
+          "text": "都是",
+          "probability": 0.9994
+        },
+        {
+          "time": 144.2,
+          "end": 144.5,
+          "text": "恩",
+          "probability": 0.9994
+        },
+        {
+          "time": 144.86,
+          "end": 145.26,
+          "text": "典",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 147.36,
+      "end": 148.88,
+      "text": "恩典",
+      "words": [
+        {
+          "time": 147.36,
+          "end": 147.66,
+          "text": "恩",
+          "probability": 0.3819
+        },
+        {
+          "time": 148.2,
+          "end": 148.88,
+          "text": "典",
+          "probability": 0.884
+        }
+      ]
+    },
+    {
+      "time": 150.4,
+      "end": 155.9,
+      "text": "恩典无尽的恩典人生",
+      "words": [
+        {
+          "time": 150.4,
+          "end": 150.7,
+          "text": "恩",
+          "probability": 0.9433
+        },
+        {
+          "time": 151.4,
+          "end": 152.28,
+          "text": "典",
+          "probability": 0.9998
+        },
+        {
+          "time": 153.06,
+          "end": 153.36,
+          "text": "无",
+          "probability": 0.7149
+        },
+        {
+          "time": 153.4,
+          "end": 153.86,
+          "text": "尽",
+          "probability": 0.9927
+        },
+        {
+          "time": 153.92,
+          "end": 154.22,
+          "text": "的",
+          "probability": 0.979
+        },
+        {
+          "time": 154.4,
+          "end": 154.7,
+          "text": "恩",
+          "probability": 0.9986
+        },
+        {
+          "time": 154.62,
+          "end": 155.08,
+          "text": "典",
+          "probability": 0.9999
+        },
+        {
+          "time": 155.4,
+          "end": 155.7,
+          "text": "人",
+          "probability": 0.9956
+        },
+        {
+          "time": 155.62,
+          "end": 155.92,
+          "text": "生",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 155.9,
+      "end": 162.08,
+      "text": "就从来没有所谓的理所与当然一",
+      "words": [
+        {
+          "time": 155.9,
+          "end": 156.2,
+          "text": "就",
+          "probability": 0.2968
+        },
+        {
+          "time": 156.2,
+          "end": 156.5,
+          "text": "从",
+          "probability": 0.9663
+        },
+        {
+          "time": 156.76,
+          "end": 157.06,
+          "text": "来",
+          "probability": 0.9976
+        },
+        {
+          "time": 157.46,
+          "end": 157.76,
+          "text": "没有",
+          "probability": 0.9826
+        },
+        {
+          "time": 157.86,
+          "end": 158.16,
+          "text": "所",
+          "probability": 0.8974
+        },
+        {
+          "time": 158.08,
+          "end": 158.38,
+          "text": "谓",
+          "probability": 0.9125
+        },
+        {
+          "time": 158.48,
+          "end": 158.78,
+          "text": "的",
+          "probability": 0.9913
+        },
+        {
+          "time": 159.52,
+          "end": 159.82,
+          "text": "理",
+          "probability": 0.8857
+        },
+        {
+          "time": 159.94,
+          "end": 160.24,
+          "text": "所",
+          "probability": 0.974
+        },
+        {
+          "time": 160.3,
+          "end": 160.68,
+          "text": "与",
+          "probability": 0.4868
+        },
+        {
+          "time": 160.9,
+          "end": 161.2,
+          "text": "当然",
+          "probability": 0.5102
+        },
+        {
+          "time": 161.92,
+          "end": 162.22,
+          "text": "一",
+          "probability": 0.9871
+        }
+      ]
+    },
+    {
+      "time": 162.08,
+      "end": 167.88,
+      "text": "切都是恩典都是恩典一切 一",
+      "words": [
+        {
+          "time": 162.08,
+          "end": 162.38,
+          "text": "切",
+          "probability": 1.0
+        },
+        {
+          "time": 162.42,
+          "end": 162.72,
+          "text": "都是",
+          "probability": 0.9977
+        },
+        {
+          "time": 162.88,
+          "end": 163.18,
+          "text": "恩",
+          "probability": 0.9995
+        },
+        {
+          "time": 163.14,
+          "end": 164.02,
+          "text": "典",
+          "probability": 1.0
+        },
+        {
+          "time": 165.0,
+          "end": 165.3,
+          "text": "都是",
+          "probability": 0.8484
+        },
+        {
+          "time": 165.66,
+          "end": 165.96,
+          "text": "恩",
+          "probability": 0.9959
+        },
+        {
+          "time": 165.9,
+          "end": 166.2,
+          "text": "典",
+          "probability": 0.9961
+        },
+        {
+          "time": 166.18,
+          "end": 166.48,
+          "text": "一",
+          "probability": 0.9657
+        },
+        {
+          "time": 166.42,
+          "end": 166.72,
+          "text": "切",
+          "probability": 0.9999
+        },
+        {
+          "time": 167.58,
+          "end": 167.88,
+          "text": " 一",
+          "probability": 0.384
+        }
+      ]
+    },
+    {
+      "time": 168.04,
+      "end": 168.9,
+      "text": "切都是",
+      "words": [
+        {
+          "time": 168.04,
+          "end": 168.34,
+          "text": "切",
+          "probability": 1.0
+        },
+        {
+          "time": 168.6,
+          "end": 168.9,
+          "text": "都是",
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "time": 170.22,
+      "end": 171.44,
+      "text": "恩典",
+      "words": [
+        {
+          "time": 170.22,
+          "end": 170.52,
+          "text": "恩",
+          "probability": 0.9877
+        },
+        {
+          "time": 170.82,
+          "end": 171.44,
+          "text": "典",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 172.66,
+      "end": 172.96,
+      "text": "恩",
+      "words": [
+        {
+          "time": 172.66,
+          "end": 172.96,
+          "text": "恩",
+          "probability": 0.9294
+        }
+      ]
+    },
+    {
+      "time": 174.22,
+      "end": 174.7,
+      "text": "典",
+      "words": [
+        {
+          "time": 174.22,
+          "end": 174.7,
+          "text": "典",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 176.56,
+      "end": 182.32,
+      "text": "恩典无尽的恩典人群中",
+      "words": [
+        {
+          "time": 176.56,
+          "end": 176.86,
+          "text": "恩",
+          "probability": 0.6644
+        },
+        {
+          "time": 177.42,
+          "end": 178.0,
+          "text": "典",
+          "probability": 0.9137
+        },
+        {
+          "time": 179.06,
+          "end": 179.36,
+          "text": "无",
+          "probability": 0.1962
+        },
+        {
+          "time": 179.4,
+          "end": 179.9,
+          "text": "尽",
+          "probability": 0.9709
+        },
+        {
+          "time": 180.0,
+          "end": 180.3,
+          "text": "的",
+          "probability": 0.9922
+        },
+        {
+          "time": 180.42,
+          "end": 180.72,
+          "text": "恩",
+          "probability": 0.9988
+        },
+        {
+          "time": 180.66,
+          "end": 181.28,
+          "text": "典",
+          "probability": 0.9998
+        },
+        {
+          "time": 181.48,
+          "end": 181.78,
+          "text": "人",
+          "probability": 0.7379
+        },
+        {
+          "time": 181.68,
+          "end": 181.98,
+          "text": "群",
+          "probability": 0.4313
+        },
+        {
+          "time": 182.02,
+          "end": 182.32,
+          "text": "中",
+          "probability": 0.8505
+        }
+      ]
+    },
+    {
+      "time": 182.4,
+      "end": 188.22,
+      "text": "从来没有所谓的理所与当人一",
+      "words": [
+        {
+          "time": 182.4,
+          "end": 182.7,
+          "text": "从",
+          "probability": 0.9321
+        },
+        {
+          "time": 182.86,
+          "end": 183.16,
+          "text": "来",
+          "probability": 0.9998
+        },
+        {
+          "time": 183.62,
+          "end": 183.92,
+          "text": "没有",
+          "probability": 0.9865
+        },
+        {
+          "time": 183.98,
+          "end": 184.28,
+          "text": "所",
+          "probability": 0.8073
+        },
+        {
+          "time": 184.2,
+          "end": 184.5,
+          "text": "谓",
+          "probability": 0.8912
+        },
+        {
+          "time": 184.78,
+          "end": 185.08,
+          "text": "的",
+          "probability": 0.9742
+        },
+        {
+          "time": 185.64,
+          "end": 185.94,
+          "text": "理",
+          "probability": 0.8509
+        },
+        {
+          "time": 186.04,
+          "end": 186.34,
+          "text": "所",
+          "probability": 0.8255
+        },
+        {
+          "time": 186.4,
+          "end": 186.82,
+          "text": "与",
+          "probability": 0.7456
+        },
+        {
+          "time": 186.9,
+          "end": 187.2,
+          "text": "当",
+          "probability": 0.6946
+        },
+        {
+          "time": 187.3,
+          "end": 187.6,
+          "text": "人",
+          "probability": 0.9265
+        },
+        {
+          "time": 188.08,
+          "end": 188.38,
+          "text": "一",
+          "probability": 0.9943
+        }
+      ]
+    },
+    {
+      "time": 188.22,
+      "end": 189.82,
+      "text": "切都是恩典",
+      "words": [
+        {
+          "time": 188.22,
+          "end": 188.52,
+          "text": "切",
+          "probability": 0.9999
+        },
+        {
+          "time": 188.56,
+          "end": 188.86,
+          "text": "都是",
+          "probability": 0.9992
+        },
+        {
+          "time": 189.02,
+          "end": 189.32,
+          "text": "恩",
+          "probability": 0.9995
+        },
+        {
+          "time": 189.28,
+          "end": 189.82,
+          "text": "典",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 191.08,
+      "end": 195.02,
+      "text": "都是恩典一切一切都是",
+      "words": [
+        {
+          "time": 191.08,
+          "end": 191.38,
+          "text": "都是",
+          "probability": 0.916
+        },
+        {
+          "time": 191.8,
+          "end": 192.1,
+          "text": "恩",
+          "probability": 0.9982
+        },
+        {
+          "time": 192.02,
+          "end": 192.32,
+          "text": "典",
+          "probability": 0.9998
+        },
+        {
+          "time": 192.28,
+          "end": 192.58,
+          "text": "一",
+          "probability": 0.9738
+        },
+        {
+          "time": 192.58,
+          "end": 192.88,
+          "text": "切",
+          "probability": 0.9998
+        },
+        {
+          "time": 193.78,
+          "end": 194.08,
+          "text": "一",
+          "probability": 0.9889
+        },
+        {
+          "time": 194.22,
+          "end": 194.52,
+          "text": "切",
+          "probability": 1.0
+        },
+        {
+          "time": 194.72,
+          "end": 195.02,
+          "text": "都是",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 196.36,
+      "end": 197.96,
+      "text": "恩典",
+      "words": [
+        {
+          "time": 196.36,
+          "end": 196.66,
+          "text": "恩",
+          "probability": 0.9882
+        },
+        {
+          "time": 197.0,
+          "end": 197.96,
+          "text": "典",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 199.28,
+      "end": 206.46,
+      "text": "恩典恩典无尽的",
+      "words": [
+        {
+          "time": 199.28,
+          "end": 199.58,
+          "text": "恩",
+          "probability": 0.994
+        },
+        {
+          "time": 200.4,
+          "end": 201.28,
+          "text": "典",
+          "probability": 0.9999
+        },
+        {
+          "time": 202.36,
+          "end": 202.66,
+          "text": "恩",
+          "probability": 0.7971
+        },
+        {
+          "time": 203.6,
+          "end": 204.12,
+          "text": "典",
+          "probability": 0.9998
+        },
+        {
+          "time": 205.3,
+          "end": 205.6,
+          "text": "无",
+          "probability": 0.8627
+        },
+        {
+          "time": 205.62,
+          "end": 206.1,
+          "text": "尽",
+          "probability": 0.9932
+        },
+        {
+          "time": 206.16,
+          "end": 206.46,
+          "text": "的",
+          "probability": 0.9968
+        }
+      ]
+    },
+    {
+      "time": 206.6,
+      "end": 212.2,
+      "text": "恩典人生中从来没有所谓的理",
+      "words": [
+        {
+          "time": 206.6,
+          "end": 206.9,
+          "text": "恩",
+          "probability": 0.9959
+        },
+        {
+          "time": 206.84,
+          "end": 207.3,
+          "text": "典",
+          "probability": 0.9076
+        },
+        {
+          "time": 207.68,
+          "end": 207.98,
+          "text": "人",
+          "probability": 0.9686
+        },
+        {
+          "time": 207.88,
+          "end": 208.18,
+          "text": "生",
+          "probability": 0.9933
+        },
+        {
+          "time": 208.2,
+          "end": 208.5,
+          "text": "中",
+          "probability": 0.9987
+        },
+        {
+          "time": 208.58,
+          "end": 208.88,
+          "text": "从",
+          "probability": 0.9873
+        },
+        {
+          "time": 209.06,
+          "end": 209.36,
+          "text": "来",
+          "probability": 0.9998
+        },
+        {
+          "time": 209.82,
+          "end": 210.12,
+          "text": "没有",
+          "probability": 0.9928
+        },
+        {
+          "time": 210.2,
+          "end": 210.5,
+          "text": "所",
+          "probability": 0.7925
+        },
+        {
+          "time": 210.42,
+          "end": 210.72,
+          "text": "谓",
+          "probability": 0.9525
+        },
+        {
+          "time": 210.94,
+          "end": 211.24,
+          "text": "的",
+          "probability": 0.9969
+        },
+        {
+          "time": 211.9,
+          "end": 212.2,
+          "text": "理",
+          "probability": 0.9682
+        }
+      ]
+    },
+    {
+      "time": 212.3,
+      "end": 215.9,
+      "text": "所与当然一切都是恩典",
+      "words": [
+        {
+          "time": 212.3,
+          "end": 212.6,
+          "text": "所",
+          "probability": 0.9893
+        },
+        {
+          "time": 212.7,
+          "end": 213.06,
+          "text": "与",
+          "probability": 0.7563
+        },
+        {
+          "time": 213.28,
+          "end": 213.58,
+          "text": "当然",
+          "probability": 0.6796
+        },
+        {
+          "time": 214.26,
+          "end": 214.56,
+          "text": "一",
+          "probability": 0.9971
+        },
+        {
+          "time": 214.46,
+          "end": 214.76,
+          "text": "切",
+          "probability": 1.0
+        },
+        {
+          "time": 214.78,
+          "end": 215.08,
+          "text": "都是",
+          "probability": 0.9992
+        },
+        {
+          "time": 215.24,
+          "end": 215.54,
+          "text": "恩",
+          "probability": 0.9999
+        },
+        {
+          "time": 215.54,
+          "end": 215.9,
+          "text": "典",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 217.4,
+      "end": 218.76,
+      "text": "都是恩典",
+      "words": [
+        {
+          "time": 217.4,
+          "end": 217.7,
+          "text": "都是",
+          "probability": 0.9971
+        },
+        {
+          "time": 218.1,
+          "end": 218.4,
+          "text": "恩",
+          "probability": 0.9994
+        },
+        {
+          "time": 218.42,
+          "end": 218.76,
+          "text": "典",
+          "probability": 0.9997
+        }
+      ]
+    }
+  ]
+}

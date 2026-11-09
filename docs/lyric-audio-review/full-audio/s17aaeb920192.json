@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "13587",
+  "waveform": {
+    "source": "13587",
+    "url": "https://www.izanmei.cc/song/13587.html",
+    "audio": "https://play.izanm.org/song/p/13587.mp3",
+    "offset": -0.031957,
+    "scale": 1.000001197,
+    "residual": 0.000724,
+    "coverage": 0.999647,
+    "windows": [
+      {
+        "localStart": 27.82,
+        "sourceStart": 27.788,
+        "offset": -0.032,
+        "coefficient": 0.987785
+      },
+      {
+        "localStart": 69.552,
+        "sourceStart": 69.52,
+        "offset": -0.032,
+        "coefficient": 0.977334
+      },
+      {
+        "localStart": 111.283,
+        "sourceStart": 111.251,
+        "offset": -0.032,
+        "coefficient": 0.983735
+      },
+      {
+        "localStart": 153.014,
+        "sourceStart": 152.982,
+        "offset": -0.032,
+        "coefficient": 0.983072
+      },
+      {
+        "localStart": 194.745,
+        "sourceStart": 194.714,
+        "offset": -0.032,
+        "coefficient": 0.978106
+      },
+      {
+        "localStart": 236.476,
+        "sourceStart": 236.445,
+        "offset": -0.032,
+        "coefficient": 0.981258
+      },
+      {
+        "localStart": 278.208,
+        "sourceStart": 278.176,
+        "offset": -0.032,
+        "coefficient": 0.980021
+      },
+      {
+        "localStart": 312.984,
+        "sourceStart": 312.952,
+        "offset": -0.032,
+        "coefficient": 0.979259
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "s17aaeb920192",
+  "file": "249-.mp3",
+  "fullDuration": 347.76,
+  "recordingHash": "1c13a955fe2809cb22efe11d106010ae30e2d87c8159cf2b75f788ac60836a9e",
+  "lines": []
+}

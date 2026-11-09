@@ -1,0 +1,66 @@
+{
+  "id": "s98ad9b483e5c",
+  "file": "058让赞美飞扬.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "23117",
+      "offset": -0.3525,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.998671,
+      "windows": [
+        {
+          "localStart": 21.213,
+          "sourceStart": 20.836,
+          "offset": -0.3775,
+          "coefficient": 0.627913
+        },
+        {
+          "localStart": 53.034,
+          "sourceStart": 52.664,
+          "offset": -0.37,
+          "coefficient": 0.585088
+        },
+        {
+          "localStart": 84.854,
+          "sourceStart": 84.49,
+          "offset": -0.3635,
+          "coefficient": 0.817037
+        },
+        {
+          "localStart": 116.674,
+          "sourceStart": 116.318,
+          "offset": -0.3565,
+          "coefficient": 0.520862
+        },
+        {
+          "localStart": 148.495,
+          "sourceStart": 148.146,
+          "offset": -0.349,
+          "coefficient": 0.889892
+        },
+        {
+          "localStart": 180.315,
+          "sourceStart": 179.974,
+          "offset": -0.342,
+          "coefficient": 0.774227
+        },
+        {
+          "localStart": 212.136,
+          "sourceStart": 211.801,
+          "offset": -0.335,
+          "coefficient": 0.748028
+        },
+        {
+          "localStart": 238.653,
+          "sourceStart": 238.324,
+          "offset": -0.329,
+          "coefficient": 0.615025
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

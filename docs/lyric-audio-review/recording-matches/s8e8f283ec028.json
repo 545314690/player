@@ -1,0 +1,124 @@
+{
+  "id": "s8e8f283ec028",
+  "file": "080我对祢的爱永不变.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "5987",
+      "offset": 69.453,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 15.578,
+          "sourceStart": 85.508,
+          "offset": 69.9305,
+          "coefficient": 0.045278
+        },
+        {
+          "localStart": 38.944,
+          "sourceStart": 109.743,
+          "offset": 70.799,
+          "coefficient": 0.052383
+        },
+        {
+          "localStart": 62.311,
+          "sourceStart": 133.388,
+          "offset": 71.0775,
+          "coefficient": 0.049837
+        },
+        {
+          "localStart": 85.677,
+          "sourceStart": 154.212,
+          "offset": 68.5345,
+          "coefficient": 0.075324
+        },
+        {
+          "localStart": 109.044,
+          "sourceStart": 177.26,
+          "offset": 68.215,
+          "coefficient": 0.0675
+        },
+        {
+          "localStart": 132.411,
+          "sourceStart": 201.696,
+          "offset": 69.285,
+          "coefficient": 0.049808
+        },
+        {
+          "localStart": 155.778,
+          "sourceStart": 223.947,
+          "offset": 68.169,
+          "coefficient": 0.074869
+        },
+        {
+          "localStart": 175.25,
+          "sourceStart": 244.865,
+          "offset": 69.6155,
+          "coefficient": 0.047135
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "23901",
+      "offset": 154.333,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.998621,
+      "windows": [
+        {
+          "localStart": 15.578,
+          "sourceStart": 171.016,
+          "offset": 155.4385,
+          "coefficient": 0.054861
+        },
+        {
+          "localStart": 38.944,
+          "sourceStart": 191.799,
+          "offset": 152.855,
+          "coefficient": 0.110837
+        },
+        {
+          "localStart": 62.311,
+          "sourceStart": 216.189,
+          "offset": 153.8775,
+          "coefficient": 0.137327
+        },
+        {
+          "localStart": 85.677,
+          "sourceStart": 240.352,
+          "offset": 154.6745,
+          "coefficient": 0.077893
+        },
+        {
+          "localStart": 109.044,
+          "sourceStart": 261.796,
+          "offset": 152.751,
+          "coefficient": 0.068346
+        },
+        {
+          "localStart": 132.411,
+          "sourceStart": 288.243,
+          "offset": 155.8325,
+          "coefficient": 0.091217
+        },
+        {
+          "localStart": 155.778,
+          "sourceStart": 310.978,
+          "offset": 155.1995,
+          "coefficient": 0.089387
+        },
+        {
+          "localStart": 175.25,
+          "sourceStart": 328.959,
+          "offset": 153.7095,
+          "coefficient": 0.063353
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

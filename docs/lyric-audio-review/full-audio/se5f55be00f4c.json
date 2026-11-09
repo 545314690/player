@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "38162",
+  "waveform": {
+    "source": "38162",
+    "url": "https://www.izanmei.cc/song/38162.html",
+    "audio": "https://play.izanm.org/song/p/38162.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 14.82,
+        "sourceStart": 14.82,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 37.052,
+        "sourceStart": 37.052,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 59.283,
+        "sourceStart": 59.283,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 81.515,
+        "sourceStart": 81.515,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 103.746,
+        "sourceStart": 103.746,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 125.978,
+        "sourceStart": 125.978,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 148.209,
+        "sourceStart": 148.209,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 166.735,
+        "sourceStart": 166.735,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "se5f55be00f4c",
+  "file": "257-圣哉圣哉圣哉.mp3",
+  "fullDuration": 185.286531,
+  "recordingHash": "a583465551d443f0fe9e422d02919a00c42c1e9e6970f13517ba449d9d29cb59",
+  "lines": []
+}

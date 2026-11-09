@@ -1,0 +1,213 @@
+{
+  "id": "sfb66ee2d9662",
+  "file": "040.经过主宝血.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 30.07,
+      "tags": {
+        "Singing": 0.08781,
+        "Choir": 0.00375,
+        "Speech": 0.03051,
+        "Piano": 0.00858,
+        "Electric piano": 0.01058,
+        "Music": 0.76953,
+        "Musical instrument": 0.03621
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.76953
+        },
+        {
+          "label": "Soul music",
+          "score": 0.23906
+        },
+        {
+          "label": "Christian music",
+          "score": 0.17693
+        },
+        {
+          "label": "Rhythm and blues",
+          "score": 0.13038
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.12553
+        }
+      ]
+    },
+    {
+      "time": 65.16,
+      "tags": {
+        "Singing": 0.09401,
+        "Choir": 0.00454,
+        "Speech": 0.02018,
+        "Piano": 0.00606,
+        "Electric piano": 0.00646,
+        "Music": 0.77954,
+        "Musical instrument": 0.03932
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.77954
+        },
+        {
+          "label": "Soul music",
+          "score": 0.20899
+        },
+        {
+          "label": "Christian music",
+          "score": 0.18782
+        },
+        {
+          "label": "Rhythm and blues",
+          "score": 0.12559
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.10141
+        }
+      ]
+    },
+    {
+      "time": 100.25,
+      "tags": {
+        "Singing": 0.10426,
+        "Choir": 0.01028,
+        "Speech": 0.01199,
+        "Piano": 0.01248,
+        "Electric piano": 0.01381,
+        "Music": 0.79862,
+        "Musical instrument": 0.03279
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.79862
+        },
+        {
+          "label": "Christian music",
+          "score": 0.415
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.33139
+        },
+        {
+          "label": "Soul music",
+          "score": 0.11929
+        },
+        {
+          "label": "Singing",
+          "score": 0.10426
+        }
+      ]
+    },
+    {
+      "time": 135.33,
+      "tags": {
+        "Singing": 0.08342,
+        "Choir": 0.0042,
+        "Speech": 0.03232,
+        "Piano": 0.01902,
+        "Electric piano": 0.02475,
+        "Music": 0.72845,
+        "Musical instrument": 0.05894
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.72845
+        },
+        {
+          "label": "Soul music",
+          "score": 0.13024
+        },
+        {
+          "label": "Christian music",
+          "score": 0.12503
+        },
+        {
+          "label": "Singing",
+          "score": 0.08342
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.06942
+        }
+      ]
+    },
+    {
+      "time": 170.42,
+      "tags": {
+        "Singing": 0.12624,
+        "Choir": 0.01029,
+        "Speech": 0.00596,
+        "Piano": 0.00893,
+        "Electric piano": 0.00599,
+        "Music": 0.82404,
+        "Musical instrument": 0.04645
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.82404
+        },
+        {
+          "label": "Christian music",
+          "score": 0.41598
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.30595
+        },
+        {
+          "label": "Soul music",
+          "score": 0.12967
+        },
+        {
+          "label": "Singing",
+          "score": 0.12624
+        }
+      ]
+    },
+    {
+      "time": 205.51,
+      "tags": {
+        "Singing": 0.12157,
+        "Choir": 0.01421,
+        "Speech": 0.01238,
+        "Piano": 0.00979,
+        "Electric piano": 0.00599,
+        "Music": 0.74863,
+        "Musical instrument": 0.05049
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.74863
+        },
+        {
+          "label": "Christian music",
+          "score": 0.21921
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.17831
+        },
+        {
+          "label": "Singing",
+          "score": 0.12157
+        },
+        {
+          "label": "Soul music",
+          "score": 0.08834
+        }
+      ]
+    }
+  ]
+}

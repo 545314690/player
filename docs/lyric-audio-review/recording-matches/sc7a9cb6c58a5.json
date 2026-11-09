@@ -1,0 +1,125 @@
+{
+  "id": "sc7a9cb6c58a5",
+  "file": "191-赞美耶稣.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "7245",
+    "url": "https://www.izanmei.cc/song/7245.html",
+    "audio": "https://play.izanm.org/song/p/7245.mp3",
+    "offset": -0.029724,
+    "scale": 1.000003266,
+    "residual": 0.000669,
+    "coverage": 0.999862,
+    "windows": [
+      {
+        "localStart": 17.174,
+        "sourceStart": 17.144,
+        "offset": -0.0295,
+        "coefficient": 0.910476
+      },
+      {
+        "localStart": 42.934,
+        "sourceStart": 42.905,
+        "offset": -0.0295,
+        "coefficient": 0.931875
+      },
+      {
+        "localStart": 68.695,
+        "sourceStart": 68.666,
+        "offset": -0.0295,
+        "coefficient": 0.932343
+      },
+      {
+        "localStart": 94.457,
+        "sourceStart": 94.427,
+        "offset": -0.0295,
+        "coefficient": 0.925466
+      },
+      {
+        "localStart": 120.218,
+        "sourceStart": 120.188,
+        "offset": -0.0295,
+        "coefficient": 0.917288
+      },
+      {
+        "localStart": 145.978,
+        "sourceStart": 145.949,
+        "offset": -0.0295,
+        "coefficient": 0.920882
+      },
+      {
+        "localStart": 171.739,
+        "sourceStart": 171.71,
+        "offset": -0.0295,
+        "coefficient": 0.913446
+      },
+      {
+        "localStart": 193.207,
+        "sourceStart": 193.178,
+        "offset": -0.0295,
+        "coefficient": 0.923328
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "7245",
+      "offset": -0.029724,
+      "scale": 1.000003266,
+      "residual": 0.000669,
+      "coverage": 0.999862,
+      "windows": [
+        {
+          "localStart": 17.174,
+          "sourceStart": 17.144,
+          "offset": -0.0295,
+          "coefficient": 0.910476
+        },
+        {
+          "localStart": 42.934,
+          "sourceStart": 42.905,
+          "offset": -0.0295,
+          "coefficient": 0.931875
+        },
+        {
+          "localStart": 68.695,
+          "sourceStart": 68.666,
+          "offset": -0.0295,
+          "coefficient": 0.932343
+        },
+        {
+          "localStart": 94.457,
+          "sourceStart": 94.427,
+          "offset": -0.0295,
+          "coefficient": 0.925466
+        },
+        {
+          "localStart": 120.218,
+          "sourceStart": 120.188,
+          "offset": -0.0295,
+          "coefficient": 0.917288
+        },
+        {
+          "localStart": 145.978,
+          "sourceStart": 145.949,
+          "offset": -0.0295,
+          "coefficient": 0.920882
+        },
+        {
+          "localStart": 171.739,
+          "sourceStart": 171.71,
+          "offset": -0.0295,
+          "coefficient": 0.913446
+        },
+        {
+          "localStart": 193.207,
+          "sourceStart": 193.178,
+          "offset": -0.0295,
+          "coefficient": 0.923328
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

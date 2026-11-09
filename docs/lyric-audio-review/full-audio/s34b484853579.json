@@ -1,0 +1,467 @@
+{
+  "id": "s34b484853579",
+  "file": "011唱一首天上的歌合唱.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "dfc4e8d7674a7a08c2208b07b2494c7556b25fb067b6c037474ac1eab9c9852c",
+  "fullDuration": 133.146122,
+  "lines": [
+    {
+      "time": 0.64,
+      "end": 1.2,
+      "text": "《宣战》",
+      "words": [
+        {
+          "time": 0.64,
+          "end": 0.94,
+          "text": "《",
+          "probability": 0.0852
+        },
+        {
+          "time": 0.88,
+          "end": 1.18,
+          "text": "宣",
+          "probability": 0.0544
+        },
+        {
+          "time": 0.88,
+          "end": 1.2,
+          "text": "战",
+          "probability": 0.2581
+        },
+        {
+          "time": 0.9,
+          "end": 1.2,
+          "text": "》",
+          "probability": 0.3325
+        }
+      ]
+    },
+    {
+      "time": 32.1,
+      "end": 38.04,
+      "text": "我要唱了一首歌唱一首歌唱一首",
+      "words": [
+        {
+          "time": 32.1,
+          "end": 32.4,
+          "text": "我要",
+          "probability": 0.9422
+        },
+        {
+          "time": 32.7,
+          "end": 33.0,
+          "text": "唱",
+          "probability": 0.9923
+        },
+        {
+          "time": 33.14,
+          "end": 33.44,
+          "text": "了",
+          "probability": 0.6544
+        },
+        {
+          "time": 33.58,
+          "end": 33.88,
+          "text": "一",
+          "probability": 0.9859
+        },
+        {
+          "time": 34.16,
+          "end": 34.46,
+          "text": "首",
+          "probability": 0.9973
+        },
+        {
+          "time": 34.74,
+          "end": 35.04,
+          "text": "歌",
+          "probability": 0.9988
+        },
+        {
+          "time": 35.66,
+          "end": 35.96,
+          "text": "唱",
+          "probability": 0.9984
+        },
+        {
+          "time": 36.0,
+          "end": 36.3,
+          "text": "一",
+          "probability": 0.9989
+        },
+        {
+          "time": 36.28,
+          "end": 36.58,
+          "text": "首",
+          "probability": 0.9892
+        },
+        {
+          "time": 36.88,
+          "end": 37.18,
+          "text": "歌",
+          "probability": 0.2046
+        },
+        {
+          "time": 36.96,
+          "end": 37.26,
+          "text": "唱",
+          "probability": 0.5789
+        },
+        {
+          "time": 37.24,
+          "end": 37.54,
+          "text": "一",
+          "probability": 0.9264
+        },
+        {
+          "time": 37.74,
+          "end": 38.04,
+          "text": "首",
+          "probability": 0.5228
+        }
+      ]
+    },
+    {
+      "time": 38.22,
+      "end": 43.94,
+      "text": "歌偷唱一首歌心里的忧伤全",
+      "words": [
+        {
+          "time": 38.22,
+          "end": 38.52,
+          "text": "歌",
+          "probability": 0.9699
+        },
+        {
+          "time": 38.22,
+          "end": 39.98,
+          "text": "偷",
+          "probability": 0.1112
+        },
+        {
+          "time": 39.94,
+          "end": 40.24,
+          "text": "唱",
+          "probability": 0.2705
+        },
+        {
+          "time": 40.2,
+          "end": 40.5,
+          "text": "一",
+          "probability": 0.6932
+        },
+        {
+          "time": 40.3,
+          "end": 40.6,
+          "text": "首",
+          "probability": 0.425
+        },
+        {
+          "time": 41.32,
+          "end": 41.62,
+          "text": "歌",
+          "probability": 0.9582
+        },
+        {
+          "time": 41.34,
+          "end": 41.64,
+          "text": "心",
+          "probability": 0.0545
+        },
+        {
+          "time": 41.94,
+          "end": 42.24,
+          "text": "里",
+          "probability": 0.8697
+        },
+        {
+          "time": 42.22,
+          "end": 42.52,
+          "text": "的",
+          "probability": 0.9678
+        },
+        {
+          "time": 42.46,
+          "end": 42.92,
+          "text": "忧",
+          "probability": 0.5277
+        },
+        {
+          "time": 42.86,
+          "end": 43.24,
+          "text": "伤",
+          "probability": 0.6215
+        },
+        {
+          "time": 43.64,
+          "end": 43.94,
+          "text": "全",
+          "probability": 0.7623
+        }
+      ]
+    },
+    {
+      "time": 44.2,
+      "end": 46.0,
+      "text": "都消灭",
+      "words": [
+        {
+          "time": 44.2,
+          "end": 44.5,
+          "text": "都",
+          "probability": 0.9688
+        },
+        {
+          "time": 44.74,
+          "end": 45.04,
+          "text": "消",
+          "probability": 0.796
+        },
+        {
+          "time": 45.64,
+          "end": 46.0,
+          "text": "灭",
+          "probability": 0.3331
+        }
+      ]
+    },
+    {
+      "time": 89.84,
+      "end": 90.14,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "优",
+          "probability": 0.209
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "优",
+          "probability": 0.991
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "独",
+          "probability": 0.9947
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "播",
+          "probability": 0.9878
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "剧",
+          "probability": 0.9864
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "场",
+          "probability": 0.9889
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "——",
+          "probability": 0.9926
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "Yo",
+          "probability": 0.9907
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "Yo",
+          "probability": 0.9927
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": " Television",
+          "probability": 0.9841
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": " Series",
+          "probability": 0.9871
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": " Exc",
+          "probability": 0.9866
+        },
+        {
+          "time": 89.84,
+          "end": 90.14,
+          "text": "lusive",
+          "probability": 0.9893
+        }
+      ]
+    },
+    {
+      "time": 117.22,
+      "end": 120.14,
+      "text": "中文字幕志愿者李宗盛",
+      "words": [
+        {
+          "time": 117.22,
+          "end": 117.52,
+          "text": "中",
+          "probability": 0.1102
+        },
+        {
+          "time": 117.7,
+          "end": 118.0,
+          "text": "文",
+          "probability": 0.7356
+        },
+        {
+          "time": 118.76,
+          "end": 119.06,
+          "text": "字",
+          "probability": 0.7354
+        },
+        {
+          "time": 118.78,
+          "end": 119.08,
+          "text": "幕",
+          "probability": 0.9544
+        },
+        {
+          "time": 118.8,
+          "end": 119.1,
+          "text": "志",
+          "probability": 0.5061
+        },
+        {
+          "time": 118.82,
+          "end": 119.7,
+          "text": "愿",
+          "probability": 0.9349
+        },
+        {
+          "time": 119.42,
+          "end": 119.72,
+          "text": "者",
+          "probability": 0.9401
+        },
+        {
+          "time": 119.46,
+          "end": 119.76,
+          "text": "李",
+          "probability": 0.416
+        },
+        {
+          "time": 119.62,
+          "end": 120.12,
+          "text": "宗",
+          "probability": 0.711
+        },
+        {
+          "time": 119.84,
+          "end": 120.14,
+          "text": "盛",
+          "probability": 0.8723
+        }
+      ]
+    },
+    {
+      "time": 129.78,
+      "end": 130.08,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "优",
+          "probability": 0.3694
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "优",
+          "probability": 0.996
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "独",
+          "probability": 0.9906
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "播",
+          "probability": 0.9861
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "剧",
+          "probability": 0.9874
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "场",
+          "probability": 0.989
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "——",
+          "probability": 0.9955
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "Yo",
+          "probability": 0.9851
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "Yo",
+          "probability": 0.9928
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": " Television",
+          "probability": 0.9662
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": " Series",
+          "probability": 0.9879
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": " Exc",
+          "probability": 0.9922
+        },
+        {
+          "time": 129.78,
+          "end": 130.08,
+          "text": "lusive",
+          "probability": 0.9915
+        }
+      ]
+    }
+  ]
+}

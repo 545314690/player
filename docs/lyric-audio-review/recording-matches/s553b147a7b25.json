@@ -1,0 +1,156 @@
+{
+  "id": "s553b147a7b25",
+  "file": "213Hi-Ne-Ni（我在这里）_大合唱_不佳.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "15100",
+      "offset": -94.364,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.705092,
+      "windows": [
+        {
+          "localStart": 139.266,
+          "sourceStart": 45.985,
+          "offset": -93.281,
+          "coefficient": 0.041919
+        },
+        {
+          "localStart": 191.49,
+          "sourceStart": 98.321,
+          "offset": -93.1695,
+          "coefficient": 0.062352
+        },
+        {
+          "localStart": 243.715,
+          "sourceStart": 147.357,
+          "offset": -96.3585,
+          "coefficient": 0.075417
+        },
+        {
+          "localStart": 295.94,
+          "sourceStart": 201.588,
+          "offset": -94.352,
+          "coefficient": 0.046187
+        },
+        {
+          "localStart": 348.165,
+          "sourceStart": 252.555,
+          "offset": -95.6095,
+          "coefficient": 0.049633
+        },
+        {
+          "localStart": 391.685,
+          "sourceStart": 295.578,
+          "offset": -96.1075,
+          "coefficient": 0.032101
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "15088",
+      "offset": 64.565,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.666459,
+      "windows": [
+        {
+          "localStart": 34.816,
+          "sourceStart": 100.63,
+          "offset": 65.814,
+          "coefficient": 0.079814
+        },
+        {
+          "localStart": 87.041,
+          "sourceStart": 150.895,
+          "offset": 63.854,
+          "coefficient": 0.139959
+        },
+        {
+          "localStart": 139.266,
+          "sourceStart": 205.766,
+          "offset": 66.5,
+          "coefficient": 0.056954
+        },
+        {
+          "localStart": 191.49,
+          "sourceStart": 256.341,
+          "offset": 64.8505,
+          "coefficient": 0.033617
+        },
+        {
+          "localStart": 243.715,
+          "sourceStart": 309.885,
+          "offset": 66.1695,
+          "coefficient": 0.075355
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "6273",
+      "offset": 108.7755,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.556712,
+      "windows": [
+        {
+          "localStart": 34.816,
+          "sourceStart": 142.932,
+          "offset": 108.1155,
+          "coefficient": 0.055929
+        },
+        {
+          "localStart": 87.041,
+          "sourceStart": 196.297,
+          "offset": 109.2555,
+          "coefficient": 0.090722
+        },
+        {
+          "localStart": 139.266,
+          "sourceStart": 248.407,
+          "offset": 109.141,
+          "coefficient": 0.063065
+        },
+        {
+          "localStart": 191.49,
+          "sourceStart": 299.601,
+          "offset": 108.11,
+          "coefficient": 0.041975
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "37535",
+      "offset": 1.382,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.351741,
+      "windows": [
+        {
+          "localStart": 34.816,
+          "sourceStart": 37.625,
+          "offset": 2.8085,
+          "coefficient": 0.052244
+        },
+        {
+          "localStart": 87.041,
+          "sourceStart": 89.465,
+          "offset": 2.424,
+          "coefficient": 0.043368
+        },
+        {
+          "localStart": 139.266,
+          "sourceStart": 139.314,
+          "offset": 0.048,
+          "coefficient": 0.04614
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

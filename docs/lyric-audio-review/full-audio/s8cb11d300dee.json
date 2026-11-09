@@ -1,0 +1,1936 @@
+{
+  "id": "s8cb11d300dee",
+  "file": "168-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "167fe779387d950a32874c2843f74ceab506e3f06e943bcc20e8d810931e1e8b",
+  "fullDuration": 210.168,
+  "lines": [
+    {
+      "time": 21.6,
+      "end": 21.9,
+      "text": "《我",
+      "words": [
+        {
+          "time": 21.6,
+          "end": 21.9,
+          "text": "《",
+          "probability": 0.1849
+        },
+        {
+          "time": 21.6,
+          "end": 21.9,
+          "text": "我",
+          "probability": 0.035
+        }
+      ]
+    },
+    {
+      "time": 25.64,
+      "end": 27.68,
+      "text": "爱你》",
+      "words": [
+        {
+          "time": 25.64,
+          "end": 25.94,
+          "text": "爱",
+          "probability": 0.0414
+        },
+        {
+          "time": 26.06,
+          "end": 26.36,
+          "text": "你",
+          "probability": 0.3261
+        },
+        {
+          "time": 27.38,
+          "end": 27.68,
+          "text": "》",
+          "probability": 0.8087
+        }
+      ]
+    },
+    {
+      "time": 30.22,
+      "end": 35.24,
+      "text": "我知道我的救出活着我的人生有了希望",
+      "words": [
+        {
+          "time": 30.22,
+          "end": 30.52,
+          "text": "我知道",
+          "probability": 0.8444
+        },
+        {
+          "time": 30.84,
+          "end": 31.14,
+          "text": "我的",
+          "probability": 0.6919
+        },
+        {
+          "time": 31.14,
+          "end": 31.44,
+          "text": "救",
+          "probability": 0.9572
+        },
+        {
+          "time": 31.44,
+          "end": 31.74,
+          "text": "出",
+          "probability": 0.5352
+        },
+        {
+          "time": 31.86,
+          "end": 32.16,
+          "text": "活",
+          "probability": 0.457
+        },
+        {
+          "time": 32.34,
+          "end": 32.64,
+          "text": "着",
+          "probability": 0.8106
+        },
+        {
+          "time": 33.18,
+          "end": 33.48,
+          "text": "我的",
+          "probability": 0.7209
+        },
+        {
+          "time": 33.48,
+          "end": 33.78,
+          "text": "人",
+          "probability": 0.9959
+        },
+        {
+          "time": 33.82,
+          "end": 34.12,
+          "text": "生",
+          "probability": 0.9991
+        },
+        {
+          "time": 34.08,
+          "end": 34.38,
+          "text": "有",
+          "probability": 0.9297
+        },
+        {
+          "time": 34.4,
+          "end": 34.7,
+          "text": "了",
+          "probability": 0.9578
+        },
+        {
+          "time": 34.94,
+          "end": 35.24,
+          "text": "希望",
+          "probability": 0.8477
+        }
+      ]
+    },
+    {
+      "time": 37.6,
+      "end": 43.26,
+      "text": "我知道我的救出活着苦难失恋不再常常",
+      "words": [
+        {
+          "time": 37.6,
+          "end": 37.9,
+          "text": "我知道",
+          "probability": 0.9994
+        },
+        {
+          "time": 38.62,
+          "end": 38.92,
+          "text": "我的",
+          "probability": 0.9891
+        },
+        {
+          "time": 38.9,
+          "end": 39.2,
+          "text": "救",
+          "probability": 0.9994
+        },
+        {
+          "time": 39.2,
+          "end": 39.5,
+          "text": "出",
+          "probability": 0.9838
+        },
+        {
+          "time": 39.6,
+          "end": 39.9,
+          "text": "活",
+          "probability": 0.9978
+        },
+        {
+          "time": 40.42,
+          "end": 40.72,
+          "text": "着",
+          "probability": 0.9998
+        },
+        {
+          "time": 40.84,
+          "end": 41.14,
+          "text": "苦",
+          "probability": 0.9377
+        },
+        {
+          "time": 41.06,
+          "end": 41.36,
+          "text": "难",
+          "probability": 0.9514
+        },
+        {
+          "time": 41.32,
+          "end": 41.62,
+          "text": "失",
+          "probability": 0.5115
+        },
+        {
+          "time": 41.48,
+          "end": 41.84,
+          "text": "恋",
+          "probability": 0.9415
+        },
+        {
+          "time": 41.78,
+          "end": 42.08,
+          "text": "不",
+          "probability": 0.9984
+        },
+        {
+          "time": 42.18,
+          "end": 42.48,
+          "text": "再",
+          "probability": 0.9248
+        },
+        {
+          "time": 42.5,
+          "end": 42.8,
+          "text": "常",
+          "probability": 0.0968
+        },
+        {
+          "time": 42.96,
+          "end": 43.26,
+          "text": "常",
+          "probability": 0.9536
+        }
+      ]
+    },
+    {
+      "time": 45.28,
+      "end": 51.66,
+      "text": "我知道我的救出活着等到天路就有力量",
+      "words": [
+        {
+          "time": 45.28,
+          "end": 45.58,
+          "text": "我知道",
+          "probability": 0.9995
+        },
+        {
+          "time": 46.34,
+          "end": 46.64,
+          "text": "我的",
+          "probability": 0.9979
+        },
+        {
+          "time": 46.76,
+          "end": 47.06,
+          "text": "救",
+          "probability": 0.9998
+        },
+        {
+          "time": 47.12,
+          "end": 47.42,
+          "text": "出",
+          "probability": 0.9995
+        },
+        {
+          "time": 47.36,
+          "end": 47.66,
+          "text": "活",
+          "probability": 0.9998
+        },
+        {
+          "time": 48.28,
+          "end": 48.58,
+          "text": "着",
+          "probability": 0.9998
+        },
+        {
+          "time": 48.56,
+          "end": 48.86,
+          "text": "等",
+          "probability": 0.2531
+        },
+        {
+          "time": 48.82,
+          "end": 49.12,
+          "text": "到",
+          "probability": 0.1897
+        },
+        {
+          "time": 49.04,
+          "end": 49.34,
+          "text": "天",
+          "probability": 0.8639
+        },
+        {
+          "time": 49.28,
+          "end": 49.58,
+          "text": "路",
+          "probability": 0.8696
+        },
+        {
+          "time": 49.64,
+          "end": 49.94,
+          "text": "就",
+          "probability": 0.9966
+        },
+        {
+          "time": 50.12,
+          "end": 50.42,
+          "text": "有",
+          "probability": 0.9817
+        },
+        {
+          "time": 50.26,
+          "end": 50.56,
+          "text": "力",
+          "probability": 0.9564
+        },
+        {
+          "time": 51.36,
+          "end": 51.66,
+          "text": "量",
+          "probability": 0.9962
+        }
+      ]
+    },
+    {
+      "time": 52.56,
+      "end": 54.04,
+      "text": "啊耶稣",
+      "words": [
+        {
+          "time": 52.56,
+          "end": 52.86,
+          "text": "啊",
+          "probability": 0.3657
+        },
+        {
+          "time": 53.4,
+          "end": 53.7,
+          "text": "耶",
+          "probability": 0.8824
+        },
+        {
+          "time": 53.64,
+          "end": 54.04,
+          "text": "稣",
+          "probability": 0.9259
+        }
+      ]
+    },
+    {
+      "time": 55.28,
+      "end": 58.74,
+      "text": "耶稣你扶我到路上的光",
+      "words": [
+        {
+          "time": 55.28,
+          "end": 55.58,
+          "text": "耶",
+          "probability": 0.6798
+        },
+        {
+          "time": 55.54,
+          "end": 55.94,
+          "text": "稣",
+          "probability": 0.9961
+        },
+        {
+          "time": 56.42,
+          "end": 56.72,
+          "text": "你",
+          "probability": 0.8443
+        },
+        {
+          "time": 56.78,
+          "end": 57.14,
+          "text": "扶",
+          "probability": 0.0712
+        },
+        {
+          "time": 57.04,
+          "end": 57.34,
+          "text": "我",
+          "probability": 0.674
+        },
+        {
+          "time": 57.26,
+          "end": 57.56,
+          "text": "到",
+          "probability": 0.6529
+        },
+        {
+          "time": 57.48,
+          "end": 57.78,
+          "text": "路",
+          "probability": 0.7681
+        },
+        {
+          "time": 57.76,
+          "end": 58.06,
+          "text": "上",
+          "probability": 1.0
+        },
+        {
+          "time": 57.98,
+          "end": 58.28,
+          "text": "的",
+          "probability": 0.859
+        },
+        {
+          "time": 58.44,
+          "end": 58.74,
+          "text": "光",
+          "probability": 0.9597
+        }
+      ]
+    },
+    {
+      "time": 60.44,
+      "end": 66.0,
+      "text": "啊月术啊月术你是我生命的保",
+      "words": [
+        {
+          "time": 60.44,
+          "end": 60.74,
+          "text": "啊",
+          "probability": 0.1816
+        },
+        {
+          "time": 61.18,
+          "end": 61.48,
+          "text": "月",
+          "probability": 0.4761
+        },
+        {
+          "time": 61.38,
+          "end": 61.78,
+          "text": "术",
+          "probability": 0.1227
+        },
+        {
+          "time": 62.24,
+          "end": 62.54,
+          "text": "啊",
+          "probability": 0.7205
+        },
+        {
+          "time": 63.08,
+          "end": 63.38,
+          "text": "月",
+          "probability": 0.9999
+        },
+        {
+          "time": 63.32,
+          "end": 63.7,
+          "text": "术",
+          "probability": 0.998
+        },
+        {
+          "time": 64.46,
+          "end": 64.76,
+          "text": "你是",
+          "probability": 0.8298
+        },
+        {
+          "time": 64.78,
+          "end": 65.08,
+          "text": "我",
+          "probability": 0.6501
+        },
+        {
+          "time": 64.98,
+          "end": 65.28,
+          "text": "生",
+          "probability": 0.5497
+        },
+        {
+          "time": 65.22,
+          "end": 65.52,
+          "text": "命",
+          "probability": 0.9839
+        },
+        {
+          "time": 65.48,
+          "end": 65.78,
+          "text": "的",
+          "probability": 0.9897
+        },
+        {
+          "time": 65.72,
+          "end": 66.02,
+          "text": "保",
+          "probability": 0.3308
+        }
+      ]
+    },
+    {
+      "time": 66.0,
+      "end": 66.8,
+      "text": "障",
+      "words": [
+        {
+          "time": 66.0,
+          "end": 66.8,
+          "text": "障",
+          "probability": 0.5778
+        }
+      ]
+    },
+    {
+      "time": 68.86,
+      "end": 74.22,
+      "text": "我知道我的救助活者我两个一家在河上",
+      "words": [
+        {
+          "time": 68.86,
+          "end": 69.16,
+          "text": "我知道",
+          "probability": 0.9994
+        },
+        {
+          "time": 69.54,
+          "end": 69.84,
+          "text": "我的",
+          "probability": 0.3248
+        },
+        {
+          "time": 69.86,
+          "end": 70.16,
+          "text": "救",
+          "probability": 0.433
+        },
+        {
+          "time": 70.18,
+          "end": 70.48,
+          "text": "助",
+          "probability": 0.7248
+        },
+        {
+          "time": 70.58,
+          "end": 70.88,
+          "text": "活",
+          "probability": 0.6246
+        },
+        {
+          "time": 71.14,
+          "end": 71.44,
+          "text": "者",
+          "probability": 0.8923
+        },
+        {
+          "time": 71.86,
+          "end": 72.16,
+          "text": "我",
+          "probability": 0.6844
+        },
+        {
+          "time": 72.0,
+          "end": 72.3,
+          "text": "两",
+          "probability": 0.4529
+        },
+        {
+          "time": 72.28,
+          "end": 72.58,
+          "text": "个",
+          "probability": 0.3044
+        },
+        {
+          "time": 72.52,
+          "end": 72.82,
+          "text": "一",
+          "probability": 0.3038
+        },
+        {
+          "time": 72.74,
+          "end": 73.04,
+          "text": "家",
+          "probability": 0.2289
+        },
+        {
+          "time": 73.2,
+          "end": 73.5,
+          "text": "在",
+          "probability": 0.8884
+        },
+        {
+          "time": 73.52,
+          "end": 73.82,
+          "text": "河",
+          "probability": 0.1775
+        },
+        {
+          "time": 73.92,
+          "end": 74.22,
+          "text": "上",
+          "probability": 0.8846
+        }
+      ]
+    },
+    {
+      "time": 76.32,
+      "end": 82.04,
+      "text": "我知道我的救助活者我的人生有要期望",
+      "words": [
+        {
+          "time": 76.32,
+          "end": 76.62,
+          "text": "我知道",
+          "probability": 0.9997
+        },
+        {
+          "time": 77.26,
+          "end": 77.56,
+          "text": "我的",
+          "probability": 0.9469
+        },
+        {
+          "time": 77.6,
+          "end": 77.9,
+          "text": "救",
+          "probability": 0.9994
+        },
+        {
+          "time": 77.9,
+          "end": 78.2,
+          "text": "助",
+          "probability": 0.9979
+        },
+        {
+          "time": 78.3,
+          "end": 78.6,
+          "text": "活",
+          "probability": 0.9984
+        },
+        {
+          "time": 78.9,
+          "end": 79.2,
+          "text": "者",
+          "probability": 0.9892
+        },
+        {
+          "time": 79.72,
+          "end": 80.02,
+          "text": "我的",
+          "probability": 0.8087
+        },
+        {
+          "time": 80.0,
+          "end": 80.3,
+          "text": "人",
+          "probability": 0.9762
+        },
+        {
+          "time": 80.26,
+          "end": 80.56,
+          "text": "生",
+          "probability": 0.9953
+        },
+        {
+          "time": 80.54,
+          "end": 80.84,
+          "text": "有",
+          "probability": 0.6964
+        },
+        {
+          "time": 80.88,
+          "end": 81.18,
+          "text": "要",
+          "probability": 0.6089
+        },
+        {
+          "time": 81.24,
+          "end": 81.54,
+          "text": "期",
+          "probability": 0.2372
+        },
+        {
+          "time": 81.74,
+          "end": 82.04,
+          "text": "望",
+          "probability": 0.951
+        }
+      ]
+    },
+    {
+      "time": 84.38,
+      "end": 89.88,
+      "text": "我知道我的救助活者温暖天天不再重唱",
+      "words": [
+        {
+          "time": 84.38,
+          "end": 84.68,
+          "text": "我知道",
+          "probability": 0.999
+        },
+        {
+          "time": 85.04,
+          "end": 85.34,
+          "text": "我的",
+          "probability": 0.9896
+        },
+        {
+          "time": 85.34,
+          "end": 85.64,
+          "text": "救",
+          "probability": 0.9964
+        },
+        {
+          "time": 85.7,
+          "end": 86.0,
+          "text": "助",
+          "probability": 0.9991
+        },
+        {
+          "time": 86.08,
+          "end": 86.38,
+          "text": "活",
+          "probability": 0.999
+        },
+        {
+          "time": 86.7,
+          "end": 87.0,
+          "text": "者",
+          "probability": 0.9955
+        },
+        {
+          "time": 87.26,
+          "end": 87.6,
+          "text": "温",
+          "probability": 0.127
+        },
+        {
+          "time": 87.5,
+          "end": 87.8,
+          "text": "暖",
+          "probability": 0.9775
+        },
+        {
+          "time": 87.76,
+          "end": 88.06,
+          "text": "天",
+          "probability": 0.4188
+        },
+        {
+          "time": 88.0,
+          "end": 88.3,
+          "text": "天",
+          "probability": 0.5449
+        },
+        {
+          "time": 88.24,
+          "end": 88.54,
+          "text": "不",
+          "probability": 0.9508
+        },
+        {
+          "time": 88.64,
+          "end": 88.94,
+          "text": "再",
+          "probability": 0.5317
+        },
+        {
+          "time": 89.0,
+          "end": 89.3,
+          "text": "重",
+          "probability": 0.1443
+        },
+        {
+          "time": 89.58,
+          "end": 89.88,
+          "text": "唱",
+          "probability": 0.1822
+        }
+      ]
+    },
+    {
+      "time": 91.74,
+      "end": 98.08,
+      "text": "我知道我提供不过车分手的路就有力量",
+      "words": [
+        {
+          "time": 91.74,
+          "end": 92.04,
+          "text": "我知道",
+          "probability": 0.9815
+        },
+        {
+          "time": 92.62,
+          "end": 92.92,
+          "text": "我",
+          "probability": 0.2256
+        },
+        {
+          "time": 92.84,
+          "end": 93.14,
+          "text": "提",
+          "probability": 0.0793
+        },
+        {
+          "time": 93.14,
+          "end": 93.58,
+          "text": "供",
+          "probability": 0.1338
+        },
+        {
+          "time": 93.6,
+          "end": 93.9,
+          "text": "不",
+          "probability": 0.5307
+        },
+        {
+          "time": 93.84,
+          "end": 94.14,
+          "text": "过",
+          "probability": 0.3867
+        },
+        {
+          "time": 94.12,
+          "end": 94.96,
+          "text": "车",
+          "probability": 0.4362
+        },
+        {
+          "time": 95.04,
+          "end": 95.34,
+          "text": "分",
+          "probability": 0.3886
+        },
+        {
+          "time": 95.26,
+          "end": 95.56,
+          "text": "手",
+          "probability": 0.1118
+        },
+        {
+          "time": 95.48,
+          "end": 95.78,
+          "text": "的",
+          "probability": 0.252
+        },
+        {
+          "time": 95.74,
+          "end": 96.04,
+          "text": "路",
+          "probability": 0.9656
+        },
+        {
+          "time": 96.1,
+          "end": 96.4,
+          "text": "就",
+          "probability": 0.9907
+        },
+        {
+          "time": 96.56,
+          "end": 96.86,
+          "text": "有",
+          "probability": 0.9918
+        },
+        {
+          "time": 96.74,
+          "end": 97.04,
+          "text": "力",
+          "probability": 0.9888
+        },
+        {
+          "time": 97.78,
+          "end": 98.08,
+          "text": "量",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 99.28,
+      "end": 105.3,
+      "text": "Oh耶稣 Oh耶稣你是我道路上的光",
+      "words": [
+        {
+          "time": 99.28,
+          "end": 99.58,
+          "text": "Oh",
+          "probability": 0.5745
+        },
+        {
+          "time": 99.88,
+          "end": 100.18,
+          "text": "耶",
+          "probability": 0.5242
+        },
+        {
+          "time": 100.08,
+          "end": 100.48,
+          "text": "稣",
+          "probability": 0.8914
+        },
+        {
+          "time": 101.06,
+          "end": 101.36,
+          "text": " Oh",
+          "probability": 0.3938
+        },
+        {
+          "time": 101.8,
+          "end": 102.1,
+          "text": "耶",
+          "probability": 0.9997
+        },
+        {
+          "time": 102.02,
+          "end": 102.46,
+          "text": "稣",
+          "probability": 0.9995
+        },
+        {
+          "time": 103.2,
+          "end": 103.5,
+          "text": "你是",
+          "probability": 0.8932
+        },
+        {
+          "time": 103.5,
+          "end": 103.8,
+          "text": "我",
+          "probability": 0.8243
+        },
+        {
+          "time": 103.7,
+          "end": 104.0,
+          "text": "道",
+          "probability": 0.2874
+        },
+        {
+          "time": 103.94,
+          "end": 104.24,
+          "text": "路",
+          "probability": 0.9985
+        },
+        {
+          "time": 104.22,
+          "end": 104.52,
+          "text": "上",
+          "probability": 0.9977
+        },
+        {
+          "time": 104.44,
+          "end": 104.74,
+          "text": "的",
+          "probability": 0.6571
+        },
+        {
+          "time": 105.0,
+          "end": 105.3,
+          "text": "光",
+          "probability": 0.9724
+        }
+      ]
+    },
+    {
+      "time": 106.92,
+      "end": 112.52,
+      "text": "Oh耶稣 Oh耶稣你是我全面的逃",
+      "words": [
+        {
+          "time": 106.92,
+          "end": 107.22,
+          "text": "Oh",
+          "probability": 0.9946
+        },
+        {
+          "time": 107.62,
+          "end": 107.92,
+          "text": "耶",
+          "probability": 0.9997
+        },
+        {
+          "time": 107.84,
+          "end": 108.22,
+          "text": "稣",
+          "probability": 0.9996
+        },
+        {
+          "time": 108.78,
+          "end": 109.08,
+          "text": " Oh",
+          "probability": 0.9991
+        },
+        {
+          "time": 109.52,
+          "end": 109.82,
+          "text": "耶",
+          "probability": 0.9999
+        },
+        {
+          "time": 109.74,
+          "end": 110.16,
+          "text": "稣",
+          "probability": 0.9987
+        },
+        {
+          "time": 110.94,
+          "end": 111.24,
+          "text": "你是",
+          "probability": 0.9215
+        },
+        {
+          "time": 111.28,
+          "end": 111.58,
+          "text": "我",
+          "probability": 0.4099
+        },
+        {
+          "time": 111.48,
+          "end": 111.78,
+          "text": "全",
+          "probability": 0.1272
+        },
+        {
+          "time": 111.7,
+          "end": 112.0,
+          "text": "面",
+          "probability": 0.8418
+        },
+        {
+          "time": 111.98,
+          "end": 112.28,
+          "text": "的",
+          "probability": 0.8143
+        },
+        {
+          "time": 112.14,
+          "end": 112.52,
+          "text": "逃",
+          "probability": 0.2415
+        }
+      ]
+    },
+    {
+      "time": 112.52,
+      "end": 112.86,
+      "text": "脏",
+      "words": [
+        {
+          "time": 112.52,
+          "end": 112.86,
+          "text": "脏",
+          "probability": 0.1443
+        }
+      ]
+    },
+    {
+      "time": 130.62,
+      "end": 136.26,
+      "text": "我知道我的常出过程我要看你站在海上",
+      "words": [
+        {
+          "time": 130.62,
+          "end": 130.92,
+          "text": "我知道",
+          "probability": 0.3004
+        },
+        {
+          "time": 131.52,
+          "end": 131.82,
+          "text": "我的",
+          "probability": 0.8239
+        },
+        {
+          "time": 131.8,
+          "end": 132.1,
+          "text": "常",
+          "probability": 0.0755
+        },
+        {
+          "time": 132.14,
+          "end": 132.44,
+          "text": "出",
+          "probability": 0.3243
+        },
+        {
+          "time": 132.52,
+          "end": 132.82,
+          "text": "过",
+          "probability": 0.3734
+        },
+        {
+          "time": 132.94,
+          "end": 133.24,
+          "text": "程",
+          "probability": 0.8839
+        },
+        {
+          "time": 133.92,
+          "end": 134.22,
+          "text": "我要",
+          "probability": 0.7429
+        },
+        {
+          "time": 134.24,
+          "end": 134.54,
+          "text": "看",
+          "probability": 0.2188
+        },
+        {
+          "time": 134.46,
+          "end": 134.76,
+          "text": "你",
+          "probability": 0.6692
+        },
+        {
+          "time": 134.68,
+          "end": 134.98,
+          "text": "站",
+          "probability": 0.998
+        },
+        {
+          "time": 135.12,
+          "end": 135.42,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 135.44,
+          "end": 135.74,
+          "text": "海",
+          "probability": 0.4732
+        },
+        {
+          "time": 135.96,
+          "end": 136.26,
+          "text": "上",
+          "probability": 0.9957
+        }
+      ]
+    },
+    {
+      "time": 138.24,
+      "end": 143.92,
+      "text": "我知道我的常出过程我的人生有了水吗",
+      "words": [
+        {
+          "time": 138.24,
+          "end": 138.54,
+          "text": "我知道",
+          "probability": 0.998
+        },
+        {
+          "time": 139.12,
+          "end": 139.42,
+          "text": "我的",
+          "probability": 0.9937
+        },
+        {
+          "time": 139.54,
+          "end": 139.84,
+          "text": "常",
+          "probability": 0.998
+        },
+        {
+          "time": 139.82,
+          "end": 140.12,
+          "text": "出",
+          "probability": 0.9978
+        },
+        {
+          "time": 140.26,
+          "end": 140.56,
+          "text": "过",
+          "probability": 0.9924
+        },
+        {
+          "time": 141.02,
+          "end": 141.32,
+          "text": "程",
+          "probability": 0.9999
+        },
+        {
+          "time": 141.6,
+          "end": 141.9,
+          "text": "我的",
+          "probability": 0.7769
+        },
+        {
+          "time": 141.94,
+          "end": 142.24,
+          "text": "人",
+          "probability": 0.9756
+        },
+        {
+          "time": 142.22,
+          "end": 142.52,
+          "text": "生",
+          "probability": 0.9979
+        },
+        {
+          "time": 142.48,
+          "end": 142.78,
+          "text": "有",
+          "probability": 0.5598
+        },
+        {
+          "time": 142.76,
+          "end": 143.06,
+          "text": "了",
+          "probability": 0.6234
+        },
+        {
+          "time": 143.18,
+          "end": 143.48,
+          "text": "水",
+          "probability": 0.1246
+        },
+        {
+          "time": 143.62,
+          "end": 143.92,
+          "text": "吗",
+          "probability": 0.6471
+        }
+      ]
+    },
+    {
+      "time": 146.16,
+      "end": 151.62,
+      "text": "我知道我的救助活着永远是连不在相伤",
+      "words": [
+        {
+          "time": 146.16,
+          "end": 146.46,
+          "text": "我知道",
+          "probability": 0.9956
+        },
+        {
+          "time": 147.04,
+          "end": 147.34,
+          "text": "我的",
+          "probability": 0.9078
+        },
+        {
+          "time": 147.32,
+          "end": 147.62,
+          "text": "救",
+          "probability": 0.7794
+        },
+        {
+          "time": 147.58,
+          "end": 147.88,
+          "text": "助",
+          "probability": 0.7357
+        },
+        {
+          "time": 148.0,
+          "end": 148.3,
+          "text": "活",
+          "probability": 0.5152
+        },
+        {
+          "time": 148.56,
+          "end": 148.86,
+          "text": "着",
+          "probability": 0.8553
+        },
+        {
+          "time": 149.26,
+          "end": 149.56,
+          "text": "永",
+          "probability": 0.1884
+        },
+        {
+          "time": 149.44,
+          "end": 149.78,
+          "text": "远",
+          "probability": 0.9691
+        },
+        {
+          "time": 149.72,
+          "end": 150.02,
+          "text": "是",
+          "probability": 0.2728
+        },
+        {
+          "time": 149.9,
+          "end": 150.24,
+          "text": "连",
+          "probability": 0.5302
+        },
+        {
+          "time": 150.16,
+          "end": 150.46,
+          "text": "不",
+          "probability": 0.5961
+        },
+        {
+          "time": 150.58,
+          "end": 150.88,
+          "text": "在",
+          "probability": 0.6038
+        },
+        {
+          "time": 150.96,
+          "end": 151.26,
+          "text": "相",
+          "probability": 0.1199
+        },
+        {
+          "time": 151.26,
+          "end": 151.62,
+          "text": "伤",
+          "probability": 0.0739
+        }
+      ]
+    },
+    {
+      "time": 153.94,
+      "end": 160.52,
+      "text": "我知道我的救助活着但我全路就有你那样",
+      "words": [
+        {
+          "time": 153.94,
+          "end": 154.24,
+          "text": "我知道",
+          "probability": 0.9994
+        },
+        {
+          "time": 154.8,
+          "end": 155.1,
+          "text": "我的",
+          "probability": 0.9938
+        },
+        {
+          "time": 155.22,
+          "end": 155.52,
+          "text": "救",
+          "probability": 0.9994
+        },
+        {
+          "time": 155.54,
+          "end": 155.84,
+          "text": "助",
+          "probability": 0.9933
+        },
+        {
+          "time": 155.76,
+          "end": 156.06,
+          "text": "活",
+          "probability": 0.9972
+        },
+        {
+          "time": 156.62,
+          "end": 156.92,
+          "text": "着",
+          "probability": 0.9995
+        },
+        {
+          "time": 157.0,
+          "end": 157.3,
+          "text": "但",
+          "probability": 0.2441
+        },
+        {
+          "time": 157.24,
+          "end": 157.54,
+          "text": "我",
+          "probability": 0.701
+        },
+        {
+          "time": 157.46,
+          "end": 157.76,
+          "text": "全",
+          "probability": 0.3453
+        },
+        {
+          "time": 157.7,
+          "end": 158.0,
+          "text": "路",
+          "probability": 0.3248
+        },
+        {
+          "time": 158.06,
+          "end": 158.36,
+          "text": "就",
+          "probability": 0.9414
+        },
+        {
+          "time": 158.52,
+          "end": 158.82,
+          "text": "有",
+          "probability": 0.9245
+        },
+        {
+          "time": 158.7,
+          "end": 159.0,
+          "text": "你",
+          "probability": 0.1857
+        },
+        {
+          "time": 158.94,
+          "end": 159.24,
+          "text": "那",
+          "probability": 0.4212
+        },
+        {
+          "time": 160.22,
+          "end": 160.52,
+          "text": "样",
+          "probability": 0.9977
+        }
+      ]
+    },
+    {
+      "time": 160.98,
+      "end": 166.7,
+      "text": "啊耶稣哦耶稣你是我上路上的",
+      "words": [
+        {
+          "time": 160.98,
+          "end": 161.28,
+          "text": "啊",
+          "probability": 0.2914
+        },
+        {
+          "time": 161.8,
+          "end": 162.1,
+          "text": "耶",
+          "probability": 0.4827
+        },
+        {
+          "time": 162.02,
+          "end": 162.42,
+          "text": "稣",
+          "probability": 0.9323
+        },
+        {
+          "time": 163.04,
+          "end": 163.34,
+          "text": "哦",
+          "probability": 0.4957
+        },
+        {
+          "time": 163.78,
+          "end": 164.08,
+          "text": "耶",
+          "probability": 0.9971
+        },
+        {
+          "time": 163.98,
+          "end": 164.36,
+          "text": "稣",
+          "probability": 0.9993
+        },
+        {
+          "time": 165.12,
+          "end": 165.42,
+          "text": "你是",
+          "probability": 0.8222
+        },
+        {
+          "time": 165.48,
+          "end": 165.78,
+          "text": "我",
+          "probability": 0.8456
+        },
+        {
+          "time": 165.68,
+          "end": 165.98,
+          "text": "上",
+          "probability": 0.1101
+        },
+        {
+          "time": 165.9,
+          "end": 166.2,
+          "text": "路",
+          "probability": 0.7408
+        },
+        {
+          "time": 166.18,
+          "end": 166.48,
+          "text": "上",
+          "probability": 0.9245
+        },
+        {
+          "time": 166.4,
+          "end": 166.7,
+          "text": "的",
+          "probability": 0.3745
+        }
+      ]
+    },
+    {
+      "time": 167.02,
+      "end": 167.32,
+      "text": "光",
+      "words": [
+        {
+          "time": 167.02,
+          "end": 167.32,
+          "text": "光",
+          "probability": 0.1535
+        }
+      ]
+    },
+    {
+      "time": 168.7,
+      "end": 174.44,
+      "text": "啊耶稣哦耶稣你是我生命的发",
+      "words": [
+        {
+          "time": 168.7,
+          "end": 169.0,
+          "text": "啊",
+          "probability": 0.8482
+        },
+        {
+          "time": 169.58,
+          "end": 169.88,
+          "text": "耶",
+          "probability": 0.9986
+        },
+        {
+          "time": 169.78,
+          "end": 170.2,
+          "text": "稣",
+          "probability": 0.9998
+        },
+        {
+          "time": 170.72,
+          "end": 171.02,
+          "text": "哦",
+          "probability": 0.9625
+        },
+        {
+          "time": 171.5,
+          "end": 171.8,
+          "text": "耶",
+          "probability": 0.9991
+        },
+        {
+          "time": 171.7,
+          "end": 172.1,
+          "text": "稣",
+          "probability": 0.9997
+        },
+        {
+          "time": 172.8,
+          "end": 173.1,
+          "text": "你是",
+          "probability": 0.9703
+        },
+        {
+          "time": 173.28,
+          "end": 173.58,
+          "text": "我",
+          "probability": 0.9511
+        },
+        {
+          "time": 173.42,
+          "end": 173.72,
+          "text": "生",
+          "probability": 0.8059
+        },
+        {
+          "time": 173.68,
+          "end": 173.98,
+          "text": "命",
+          "probability": 0.9944
+        },
+        {
+          "time": 173.9,
+          "end": 174.2,
+          "text": "的",
+          "probability": 0.9794
+        },
+        {
+          "time": 174.14,
+          "end": 174.44,
+          "text": "发",
+          "probability": 0.1375
+        }
+      ]
+    },
+    {
+      "time": 175.14,
+      "end": 180.86,
+      "text": "生啊耶稣哦耶稣你是",
+      "words": [
+        {
+          "time": 175.14,
+          "end": 175.44,
+          "text": "生",
+          "probability": 0.1396
+        },
+        {
+          "time": 176.48,
+          "end": 176.78,
+          "text": "啊",
+          "probability": 0.1895
+        },
+        {
+          "time": 177.32,
+          "end": 177.62,
+          "text": "耶",
+          "probability": 0.5404
+        },
+        {
+          "time": 177.5,
+          "end": 177.92,
+          "text": "稣",
+          "probability": 0.9356
+        },
+        {
+          "time": 178.54,
+          "end": 178.84,
+          "text": "哦",
+          "probability": 0.4302
+        },
+        {
+          "time": 179.24,
+          "end": 179.54,
+          "text": "耶",
+          "probability": 0.9994
+        },
+        {
+          "time": 179.46,
+          "end": 179.86,
+          "text": "稣",
+          "probability": 0.9982
+        },
+        {
+          "time": 180.56,
+          "end": 180.86,
+          "text": "你是",
+          "probability": 0.986
+        }
+      ]
+    },
+    {
+      "time": 180.94,
+      "end": 182.86,
+      "text": "我上人相信我",
+      "words": [
+        {
+          "time": 180.94,
+          "end": 181.24,
+          "text": "我",
+          "probability": 0.9753
+        },
+        {
+          "time": 181.16,
+          "end": 181.46,
+          "text": "上",
+          "probability": 0.1191
+        },
+        {
+          "time": 181.4,
+          "end": 181.7,
+          "text": "人",
+          "probability": 0.1828
+        },
+        {
+          "time": 181.84,
+          "end": 182.14,
+          "text": "相信",
+          "probability": 0.3657
+        },
+        {
+          "time": 182.56,
+          "end": 182.86,
+          "text": "我",
+          "probability": 0.5671
+        }
+      ]
+    },
+    {
+      "time": 184.22,
+      "end": 189.92,
+      "text": "啊耶稣哦耶稣你是我生命的宝",
+      "words": [
+        {
+          "time": 184.22,
+          "end": 184.52,
+          "text": "啊",
+          "probability": 0.9599
+        },
+        {
+          "time": 185.1,
+          "end": 185.4,
+          "text": "耶",
+          "probability": 0.9989
+        },
+        {
+          "time": 185.28,
+          "end": 185.7,
+          "text": "稣",
+          "probability": 0.9994
+        },
+        {
+          "time": 186.14,
+          "end": 186.44,
+          "text": "哦",
+          "probability": 0.9219
+        },
+        {
+          "time": 186.98,
+          "end": 187.28,
+          "text": "耶",
+          "probability": 0.999
+        },
+        {
+          "time": 187.2,
+          "end": 187.6,
+          "text": "稣",
+          "probability": 0.9996
+        },
+        {
+          "time": 188.22,
+          "end": 188.52,
+          "text": "你是",
+          "probability": 0.6377
+        },
+        {
+          "time": 188.66,
+          "end": 188.96,
+          "text": "我",
+          "probability": 0.9591
+        },
+        {
+          "time": 188.9,
+          "end": 189.2,
+          "text": "生",
+          "probability": 0.9781
+        },
+        {
+          "time": 189.16,
+          "end": 189.46,
+          "text": "命",
+          "probability": 0.9957
+        },
+        {
+          "time": 189.38,
+          "end": 189.68,
+          "text": "的",
+          "probability": 0.9871
+        },
+        {
+          "time": 189.56,
+          "end": 189.94,
+          "text": "宝",
+          "probability": 0.1241
+        }
+      ]
+    },
+    {
+      "time": 189.92,
+      "end": 190.46,
+      "text": "藏",
+      "words": [
+        {
+          "time": 189.92,
+          "end": 190.46,
+          "text": "藏",
+          "probability": 0.5536
+        }
+      ]
+    },
+    {
+      "time": 192.12,
+      "end": 194.14,
+      "text": "你是我生命的宝藏",
+      "words": [
+        {
+          "time": 192.12,
+          "end": 192.42,
+          "text": "你是",
+          "probability": 0.9782
+        },
+        {
+          "time": 192.56,
+          "end": 192.86,
+          "text": "我",
+          "probability": 0.9926
+        },
+        {
+          "time": 192.76,
+          "end": 193.06,
+          "text": "生",
+          "probability": 0.9963
+        },
+        {
+          "time": 192.98,
+          "end": 193.28,
+          "text": "命",
+          "probability": 0.999
+        },
+        {
+          "time": 193.22,
+          "end": 193.52,
+          "text": "的",
+          "probability": 0.9993
+        },
+        {
+          "time": 193.42,
+          "end": 193.8,
+          "text": "宝",
+          "probability": 0.9971
+        },
+        {
+          "time": 193.84,
+          "end": 194.14,
+          "text": "藏",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 195.82,
+      "end": 198.04,
+      "text": "你是我生命的宝藏",
+      "words": [
+        {
+          "time": 195.82,
+          "end": 196.12,
+          "text": "你是",
+          "probability": 0.9697
+        },
+        {
+          "time": 196.38,
+          "end": 196.68,
+          "text": "我",
+          "probability": 0.9963
+        },
+        {
+          "time": 196.62,
+          "end": 196.92,
+          "text": "生",
+          "probability": 0.9992
+        },
+        {
+          "time": 196.9,
+          "end": 197.2,
+          "text": "命",
+          "probability": 0.9998
+        },
+        {
+          "time": 197.12,
+          "end": 197.42,
+          "text": "的",
+          "probability": 0.9997
+        },
+        {
+          "time": 197.34,
+          "end": 197.7,
+          "text": "宝",
+          "probability": 0.9993
+        },
+        {
+          "time": 197.66,
+          "end": 198.04,
+          "text": "藏",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 205.34,
+      "end": 205.72,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 205.34,
+          "end": 205.64,
+          "text": "优",
+          "probability": 0.0898
+        },
+        {
+          "time": 205.34,
+          "end": 205.64,
+          "text": "优",
+          "probability": 0.9951
+        },
+        {
+          "time": 205.34,
+          "end": 205.66,
+          "text": "独",
+          "probability": 0.993
+        },
+        {
+          "time": 205.38,
+          "end": 205.68,
+          "text": "播",
+          "probability": 0.9964
+        },
+        {
+          "time": 205.38,
+          "end": 205.68,
+          "text": "剧",
+          "probability": 0.9959
+        },
+        {
+          "time": 205.4,
+          "end": 205.7,
+          "text": "场",
+          "probability": 0.9971
+        },
+        {
+          "time": 205.4,
+          "end": 205.7,
+          "text": "——",
+          "probability": 0.9978
+        },
+        {
+          "time": 205.4,
+          "end": 205.7,
+          "text": "Yo",
+          "probability": 0.9963
+        },
+        {
+          "time": 205.42,
+          "end": 205.72,
+          "text": "Yo",
+          "probability": 0.997
+        },
+        {
+          "time": 205.42,
+          "end": 205.72,
+          "text": " Television",
+          "probability": 0.9932
+        },
+        {
+          "time": 205.42,
+          "end": 205.72,
+          "text": " Series",
+          "probability": 0.9979
+        },
+        {
+          "time": 205.42,
+          "end": 205.72,
+          "text": " Exc",
+          "probability": 0.996
+        },
+        {
+          "time": 205.42,
+          "end": 205.72,
+          "text": "lusive",
+          "probability": 0.998
+        }
+      ]
+    }
+  ]
+}

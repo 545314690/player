@@ -1,0 +1,1443 @@
+{
+  "id": "s8f11896ed63c",
+  "file": "105-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "e3b3c07ffe97608f4d460804660fac90603a139c96100f6a01ab388735d94b9e",
+  "fullDuration": 242.50175,
+  "lines": [
+    {
+      "time": 28.1,
+      "end": 30.14,
+      "text": "作词 :李宗盛",
+      "words": [
+        {
+          "time": 28.1,
+          "end": 28.4,
+          "text": "作",
+          "probability": 0.1868
+        },
+        {
+          "time": 28.12,
+          "end": 28.44,
+          "text": "词",
+          "probability": 0.7367
+        },
+        {
+          "time": 28.76,
+          "end": 29.06,
+          "text": " :",
+          "probability": 0.52
+        },
+        {
+          "time": 29.1,
+          "end": 29.4,
+          "text": "李",
+          "probability": 0.035
+        },
+        {
+          "time": 29.12,
+          "end": 30.04,
+          "text": "宗",
+          "probability": 0.2761
+        },
+        {
+          "time": 29.82,
+          "end": 30.14,
+          "text": "盛",
+          "probability": 0.8328
+        }
+      ]
+    },
+    {
+      "time": 32.02,
+      "end": 35.58,
+      "text": "我要时时唱颂你的名",
+      "words": [
+        {
+          "time": 32.02,
+          "end": 32.32,
+          "text": "我要",
+          "probability": 0.9441
+        },
+        {
+          "time": 32.52,
+          "end": 32.82,
+          "text": "时",
+          "probability": 0.3837
+        },
+        {
+          "time": 33.44,
+          "end": 33.74,
+          "text": "时",
+          "probability": 0.8413
+        },
+        {
+          "time": 33.86,
+          "end": 34.16,
+          "text": "唱",
+          "probability": 0.4316
+        },
+        {
+          "time": 34.12,
+          "end": 34.52,
+          "text": "颂",
+          "probability": 0.8257
+        },
+        {
+          "time": 34.78,
+          "end": 35.08,
+          "text": "你的",
+          "probability": 0.9753
+        },
+        {
+          "time": 35.28,
+          "end": 35.58,
+          "text": "名",
+          "probability": 0.8701
+        }
+      ]
+    },
+    {
+      "time": 37.72,
+      "end": 43.44,
+      "text": "你是我的盾牌是我的荣耀又",
+      "words": [
+        {
+          "time": 37.72,
+          "end": 38.02,
+          "text": "你是",
+          "probability": 0.9922
+        },
+        {
+          "time": 38.82,
+          "end": 39.12,
+          "text": "我的",
+          "probability": 0.9997
+        },
+        {
+          "time": 39.08,
+          "end": 39.5,
+          "text": "盾",
+          "probability": 0.9422
+        },
+        {
+          "time": 39.56,
+          "end": 40.18,
+          "text": "牌",
+          "probability": 0.9935
+        },
+        {
+          "time": 40.26,
+          "end": 40.56,
+          "text": "是",
+          "probability": 0.7084
+        },
+        {
+          "time": 41.06,
+          "end": 41.36,
+          "text": "我的",
+          "probability": 0.9998
+        },
+        {
+          "time": 41.96,
+          "end": 42.4,
+          "text": "荣",
+          "probability": 0.9987
+        },
+        {
+          "time": 42.36,
+          "end": 42.9,
+          "text": "耀",
+          "probability": 0.9984
+        },
+        {
+          "time": 43.14,
+          "end": 43.44,
+          "text": "又",
+          "probability": 0.6426
+        }
+      ]
+    },
+    {
+      "time": 43.48,
+      "end": 47.12,
+      "text": "是叫我抬起头的身",
+      "words": [
+        {
+          "time": 43.48,
+          "end": 43.78,
+          "text": "是",
+          "probability": 0.9811
+        },
+        {
+          "time": 43.88,
+          "end": 44.18,
+          "text": "叫",
+          "probability": 0.6055
+        },
+        {
+          "time": 44.94,
+          "end": 45.24,
+          "text": "我",
+          "probability": 0.9896
+        },
+        {
+          "time": 45.2,
+          "end": 45.62,
+          "text": "抬",
+          "probability": 0.9729
+        },
+        {
+          "time": 45.64,
+          "end": 45.94,
+          "text": "起",
+          "probability": 0.9944
+        },
+        {
+          "time": 46.02,
+          "end": 46.32,
+          "text": "头",
+          "probability": 0.9935
+        },
+        {
+          "time": 46.34,
+          "end": 46.64,
+          "text": "的",
+          "probability": 0.8418
+        },
+        {
+          "time": 46.82,
+          "end": 47.12,
+          "text": "身",
+          "probability": 0.3702
+        }
+      ]
+    },
+    {
+      "time": 48.78,
+      "end": 53.08,
+      "text": "纵然愁地围绕攻击我",
+      "words": [
+        {
+          "time": 48.78,
+          "end": 49.2,
+          "text": "纵",
+          "probability": 0.9707
+        },
+        {
+          "time": 49.2,
+          "end": 49.5,
+          "text": "然",
+          "probability": 0.9259
+        },
+        {
+          "time": 49.54,
+          "end": 50.12,
+          "text": "愁",
+          "probability": 0.3515
+        },
+        {
+          "time": 50.72,
+          "end": 51.02,
+          "text": "地",
+          "probability": 0.8744
+        },
+        {
+          "time": 50.98,
+          "end": 51.36,
+          "text": "围",
+          "probability": 0.9951
+        },
+        {
+          "time": 51.28,
+          "end": 51.68,
+          "text": "绕",
+          "probability": 0.9974
+        },
+        {
+          "time": 51.7,
+          "end": 52.0,
+          "text": "攻",
+          "probability": 0.9428
+        },
+        {
+          "time": 52.02,
+          "end": 52.4,
+          "text": "击",
+          "probability": 0.9988
+        },
+        {
+          "time": 52.78,
+          "end": 53.08,
+          "text": "我",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 54.58,
+      "end": 58.8,
+      "text": "在你怀中你不怕遭害",
+      "words": [
+        {
+          "time": 54.58,
+          "end": 54.88,
+          "text": "在",
+          "probability": 0.9812
+        },
+        {
+          "time": 54.94,
+          "end": 55.24,
+          "text": "你",
+          "probability": 0.9941
+        },
+        {
+          "time": 55.3,
+          "end": 55.98,
+          "text": "怀",
+          "probability": 0.9977
+        },
+        {
+          "time": 56.38,
+          "end": 56.68,
+          "text": "中",
+          "probability": 0.9977
+        },
+        {
+          "time": 56.7,
+          "end": 57.0,
+          "text": "你",
+          "probability": 0.3179
+        },
+        {
+          "time": 57.08,
+          "end": 57.38,
+          "text": "不",
+          "probability": 0.9917
+        },
+        {
+          "time": 57.44,
+          "end": 57.74,
+          "text": "怕",
+          "probability": 0.9996
+        },
+        {
+          "time": 57.7,
+          "end": 58.12,
+          "text": "遭",
+          "probability": 0.452
+        },
+        {
+          "time": 58.5,
+          "end": 58.8,
+          "text": "害",
+          "probability": 0.5368
+        }
+      ]
+    },
+    {
+      "time": 60.56,
+      "end": 60.86,
+      "text": "你是",
+      "words": [
+        {
+          "time": 60.56,
+          "end": 60.86,
+          "text": "你是",
+          "probability": 0.95
+        }
+      ]
+    },
+    {
+      "time": 62.1,
+      "end": 68.44,
+      "text": "我的神我所依靠的你同在是我",
+      "words": [
+        {
+          "time": 62.1,
+          "end": 62.4,
+          "text": "我的",
+          "probability": 0.9981
+        },
+        {
+          "time": 62.62,
+          "end": 62.92,
+          "text": "神",
+          "probability": 0.57
+        },
+        {
+          "time": 63.22,
+          "end": 63.52,
+          "text": "我",
+          "probability": 0.9475
+        },
+        {
+          "time": 63.62,
+          "end": 63.92,
+          "text": "所",
+          "probability": 0.8587
+        },
+        {
+          "time": 64.12,
+          "end": 64.42,
+          "text": "依",
+          "probability": 0.9764
+        },
+        {
+          "time": 64.9,
+          "end": 65.34,
+          "text": "靠",
+          "probability": 0.9992
+        },
+        {
+          "time": 65.4,
+          "end": 65.7,
+          "text": "的",
+          "probability": 0.5387
+        },
+        {
+          "time": 66.14,
+          "end": 66.44,
+          "text": "你",
+          "probability": 0.7387
+        },
+        {
+          "time": 66.4,
+          "end": 66.7,
+          "text": "同",
+          "probability": 0.9122
+        },
+        {
+          "time": 67.1,
+          "end": 67.4,
+          "text": "在",
+          "probability": 0.9842
+        },
+        {
+          "time": 68.14,
+          "end": 68.44,
+          "text": "是我",
+          "probability": 0.9789
+        }
+      ]
+    },
+    {
+      "time": 68.56,
+      "end": 70.1,
+      "text": "全然的神",
+      "words": [
+        {
+          "time": 68.56,
+          "end": 68.86,
+          "text": "全",
+          "probability": 0.8134
+        },
+        {
+          "time": 68.9,
+          "end": 69.2,
+          "text": "然",
+          "probability": 0.221
+        },
+        {
+          "time": 69.28,
+          "end": 69.58,
+          "text": "的",
+          "probability": 0.9762
+        },
+        {
+          "time": 69.8,
+          "end": 70.1,
+          "text": "神",
+          "probability": 0.9302
+        }
+      ]
+    },
+    {
+      "time": 98.62,
+      "end": 99.04,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 98.62,
+          "end": 98.92,
+          "text": "Z",
+          "probability": 0.1625
+        },
+        {
+          "time": 98.64,
+          "end": 98.94,
+          "text": "ither",
+          "probability": 0.9892
+        },
+        {
+          "time": 98.72,
+          "end": 99.02,
+          "text": " Har",
+          "probability": 0.9988
+        },
+        {
+          "time": 98.74,
+          "end": 99.04,
+          "text": "p",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 119.62,
+      "end": 121.38,
+      "text": "太基督的身",
+      "words": [
+        {
+          "time": 119.62,
+          "end": 119.92,
+          "text": "太",
+          "probability": 0.1957
+        },
+        {
+          "time": 119.96,
+          "end": 120.26,
+          "text": "基",
+          "probability": 0.174
+        },
+        {
+          "time": 120.32,
+          "end": 120.64,
+          "text": "督",
+          "probability": 0.5017
+        },
+        {
+          "time": 120.66,
+          "end": 120.96,
+          "text": "的",
+          "probability": 0.702
+        },
+        {
+          "time": 121.08,
+          "end": 121.38,
+          "text": "身",
+          "probability": 0.4252
+        }
+      ]
+    },
+    {
+      "time": 123.22,
+      "end": 127.38,
+      "text": "总敢求你围绕攻击我",
+      "words": [
+        {
+          "time": 123.22,
+          "end": 123.52,
+          "text": "总",
+          "probability": 0.8179
+        },
+        {
+          "time": 123.54,
+          "end": 123.84,
+          "text": "敢",
+          "probability": 0.4052
+        },
+        {
+          "time": 124.2,
+          "end": 124.5,
+          "text": "求",
+          "probability": 0.6562
+        },
+        {
+          "time": 125.0,
+          "end": 125.3,
+          "text": "你",
+          "probability": 0.5787
+        },
+        {
+          "time": 125.32,
+          "end": 125.68,
+          "text": "围",
+          "probability": 0.5382
+        },
+        {
+          "time": 125.68,
+          "end": 126.02,
+          "text": "绕",
+          "probability": 0.9863
+        },
+        {
+          "time": 126.06,
+          "end": 126.36,
+          "text": "攻",
+          "probability": 0.8094
+        },
+        {
+          "time": 126.36,
+          "end": 126.74,
+          "text": "击",
+          "probability": 0.9984
+        },
+        {
+          "time": 127.08,
+          "end": 127.38,
+          "text": "我",
+          "probability": 0.9926
+        }
+      ]
+    },
+    {
+      "time": 128.98,
+      "end": 135.24,
+      "text": "在你怀中并不怕遭殃你是",
+      "words": [
+        {
+          "time": 128.98,
+          "end": 129.28,
+          "text": "在",
+          "probability": 0.9995
+        },
+        {
+          "time": 129.34,
+          "end": 129.64,
+          "text": "你",
+          "probability": 0.9787
+        },
+        {
+          "time": 129.72,
+          "end": 130.22,
+          "text": "怀",
+          "probability": 0.9927
+        },
+        {
+          "time": 130.78,
+          "end": 131.08,
+          "text": "中",
+          "probability": 0.525
+        },
+        {
+          "time": 131.08,
+          "end": 131.48,
+          "text": "并",
+          "probability": 0.3985
+        },
+        {
+          "time": 131.5,
+          "end": 131.8,
+          "text": "不",
+          "probability": 0.9975
+        },
+        {
+          "time": 131.8,
+          "end": 132.1,
+          "text": "怕",
+          "probability": 0.9995
+        },
+        {
+          "time": 132.08,
+          "end": 132.5,
+          "text": "遭",
+          "probability": 0.3665
+        },
+        {
+          "time": 132.64,
+          "end": 134.0,
+          "text": "殃",
+          "probability": 0.258
+        },
+        {
+          "time": 134.94,
+          "end": 135.24,
+          "text": "你是",
+          "probability": 0.9551
+        }
+      ]
+    },
+    {
+      "time": 135.84,
+      "end": 141.58,
+      "text": "我一生我所依靠地你不在",
+      "words": [
+        {
+          "time": 135.84,
+          "end": 136.14,
+          "text": "我",
+          "probability": 0.4906
+        },
+        {
+          "time": 136.42,
+          "end": 136.72,
+          "text": "一",
+          "probability": 0.2431
+        },
+        {
+          "time": 136.88,
+          "end": 137.18,
+          "text": "生",
+          "probability": 0.9753
+        },
+        {
+          "time": 137.54,
+          "end": 137.84,
+          "text": "我",
+          "probability": 0.9424
+        },
+        {
+          "time": 137.92,
+          "end": 138.22,
+          "text": "所",
+          "probability": 0.5666
+        },
+        {
+          "time": 138.32,
+          "end": 138.68,
+          "text": "依",
+          "probability": 0.342
+        },
+        {
+          "time": 139.28,
+          "end": 139.68,
+          "text": "靠",
+          "probability": 0.3877
+        },
+        {
+          "time": 139.74,
+          "end": 140.04,
+          "text": "地",
+          "probability": 0.4153
+        },
+        {
+          "time": 140.54,
+          "end": 140.84,
+          "text": "你",
+          "probability": 0.7605
+        },
+        {
+          "time": 140.76,
+          "end": 141.06,
+          "text": "不",
+          "probability": 0.1485
+        },
+        {
+          "time": 141.28,
+          "end": 141.58,
+          "text": "在",
+          "probability": 0.3524
+        }
+      ]
+    },
+    {
+      "time": 142.5,
+      "end": 144.3,
+      "text": "是我全然的身",
+      "words": [
+        {
+          "time": 142.5,
+          "end": 142.8,
+          "text": "是我",
+          "probability": 0.3396
+        },
+        {
+          "time": 142.88,
+          "end": 143.18,
+          "text": "全",
+          "probability": 0.5306
+        },
+        {
+          "time": 143.3,
+          "end": 143.6,
+          "text": "然",
+          "probability": 0.7334
+        },
+        {
+          "time": 143.6,
+          "end": 143.9,
+          "text": "的",
+          "probability": 0.9428
+        },
+        {
+          "time": 144.0,
+          "end": 144.3,
+          "text": "身",
+          "probability": 0.7793
+        }
+      ]
+    },
+    {
+      "time": 146.08,
+      "end": 150.14,
+      "text": "总感受你围绕风起过",
+      "words": [
+        {
+          "time": 146.08,
+          "end": 146.38,
+          "text": "总",
+          "probability": 0.8162
+        },
+        {
+          "time": 146.42,
+          "end": 146.72,
+          "text": "感",
+          "probability": 0.3612
+        },
+        {
+          "time": 147.08,
+          "end": 147.38,
+          "text": "受",
+          "probability": 0.7616
+        },
+        {
+          "time": 147.9,
+          "end": 148.2,
+          "text": "你",
+          "probability": 0.8097
+        },
+        {
+          "time": 148.2,
+          "end": 148.56,
+          "text": "围",
+          "probability": 0.7015
+        },
+        {
+          "time": 148.52,
+          "end": 148.9,
+          "text": "绕",
+          "probability": 0.9563
+        },
+        {
+          "time": 148.92,
+          "end": 149.22,
+          "text": "风",
+          "probability": 0.2197
+        },
+        {
+          "time": 149.28,
+          "end": 149.58,
+          "text": "起",
+          "probability": 0.8141
+        },
+        {
+          "time": 149.84,
+          "end": 150.14,
+          "text": "过",
+          "probability": 0.3377
+        }
+      ]
+    },
+    {
+      "time": 151.8,
+      "end": 156.22,
+      "text": "在你怀中你不怕遭寒",
+      "words": [
+        {
+          "time": 151.8,
+          "end": 152.1,
+          "text": "在",
+          "probability": 0.9926
+        },
+        {
+          "time": 152.18,
+          "end": 152.48,
+          "text": "你",
+          "probability": 0.9352
+        },
+        {
+          "time": 152.54,
+          "end": 153.5,
+          "text": "怀",
+          "probability": 0.7844
+        },
+        {
+          "time": 153.58,
+          "end": 153.88,
+          "text": "中",
+          "probability": 0.507
+        },
+        {
+          "time": 153.94,
+          "end": 154.24,
+          "text": "你",
+          "probability": 0.4444
+        },
+        {
+          "time": 154.32,
+          "end": 154.62,
+          "text": "不",
+          "probability": 0.8574
+        },
+        {
+          "time": 154.66,
+          "end": 154.96,
+          "text": "怕",
+          "probability": 0.9983
+        },
+        {
+          "time": 154.92,
+          "end": 155.32,
+          "text": "遭",
+          "probability": 0.3362
+        },
+        {
+          "time": 155.44,
+          "end": 156.22,
+          "text": "寒",
+          "probability": 0.3807
+        }
+      ]
+    },
+    {
+      "time": 157.78,
+      "end": 163.62,
+      "text": "你是我一生我所依靠的你",
+      "words": [
+        {
+          "time": 157.78,
+          "end": 158.08,
+          "text": "你是",
+          "probability": 0.9595
+        },
+        {
+          "time": 158.76,
+          "end": 159.06,
+          "text": "我",
+          "probability": 0.5122
+        },
+        {
+          "time": 159.32,
+          "end": 159.62,
+          "text": "一",
+          "probability": 0.2531
+        },
+        {
+          "time": 159.8,
+          "end": 160.1,
+          "text": "生",
+          "probability": 0.8123
+        },
+        {
+          "time": 160.42,
+          "end": 160.72,
+          "text": "我",
+          "probability": 0.7187
+        },
+        {
+          "time": 160.76,
+          "end": 161.06,
+          "text": "所",
+          "probability": 0.7616
+        },
+        {
+          "time": 161.22,
+          "end": 161.54,
+          "text": "依",
+          "probability": 0.7119
+        },
+        {
+          "time": 162.14,
+          "end": 162.56,
+          "text": "靠",
+          "probability": 0.9979
+        },
+        {
+          "time": 162.58,
+          "end": 162.88,
+          "text": "的",
+          "probability": 0.4762
+        },
+        {
+          "time": 163.32,
+          "end": 163.62,
+          "text": "你",
+          "probability": 0.9506
+        }
+      ]
+    },
+    {
+      "time": 163.64,
+      "end": 167.24,
+      "text": "同在是我全然得生",
+      "words": [
+        {
+          "time": 163.64,
+          "end": 163.94,
+          "text": "同",
+          "probability": 0.7328
+        },
+        {
+          "time": 164.24,
+          "end": 164.54,
+          "text": "在",
+          "probability": 0.5832
+        },
+        {
+          "time": 165.34,
+          "end": 165.64,
+          "text": "是我",
+          "probability": 0.8749
+        },
+        {
+          "time": 165.74,
+          "end": 166.04,
+          "text": "全",
+          "probability": 0.8206
+        },
+        {
+          "time": 166.14,
+          "end": 166.44,
+          "text": "然",
+          "probability": 0.8631
+        },
+        {
+          "time": 166.44,
+          "end": 166.74,
+          "text": "得",
+          "probability": 0.5774
+        },
+        {
+          "time": 166.94,
+          "end": 167.24,
+          "text": "生",
+          "probability": 0.3645
+        }
+      ]
+    },
+    {
+      "time": 168.64,
+      "end": 172.94,
+      "text": "总感受你围绕风起过",
+      "words": [
+        {
+          "time": 168.64,
+          "end": 168.94,
+          "text": "总",
+          "probability": 0.7603
+        },
+        {
+          "time": 169.0,
+          "end": 169.3,
+          "text": "感",
+          "probability": 0.9841
+        },
+        {
+          "time": 169.54,
+          "end": 169.84,
+          "text": "受",
+          "probability": 0.9898
+        },
+        {
+          "time": 170.78,
+          "end": 171.08,
+          "text": "你",
+          "probability": 0.9987
+        },
+        {
+          "time": 171.16,
+          "end": 171.46,
+          "text": "围",
+          "probability": 0.9918
+        },
+        {
+          "time": 171.42,
+          "end": 171.8,
+          "text": "绕",
+          "probability": 0.9999
+        },
+        {
+          "time": 171.84,
+          "end": 172.14,
+          "text": "风",
+          "probability": 0.9992
+        },
+        {
+          "time": 172.2,
+          "end": 172.5,
+          "text": "起",
+          "probability": 0.9998
+        },
+        {
+          "time": 172.64,
+          "end": 172.94,
+          "text": "过",
+          "probability": 0.9848
+        }
+      ]
+    },
+    {
+      "time": 174.72,
+      "end": 178.84,
+      "text": "在地团在地团造谈",
+      "words": [
+        {
+          "time": 174.72,
+          "end": 175.02,
+          "text": "在",
+          "probability": 0.8367
+        },
+        {
+          "time": 175.06,
+          "end": 175.36,
+          "text": "地",
+          "probability": 0.3396
+        },
+        {
+          "time": 175.44,
+          "end": 175.92,
+          "text": "团",
+          "probability": 0.4105
+        },
+        {
+          "time": 176.16,
+          "end": 176.46,
+          "text": "在",
+          "probability": 0.6719
+        },
+        {
+          "time": 176.56,
+          "end": 176.86,
+          "text": "地",
+          "probability": 0.2043
+        },
+        {
+          "time": 177.3,
+          "end": 177.6,
+          "text": "团",
+          "probability": 0.924
+        },
+        {
+          "time": 177.84,
+          "end": 178.14,
+          "text": "造",
+          "probability": 0.082
+        },
+        {
+          "time": 178.36,
+          "end": 178.84,
+          "text": "谈",
+          "probability": 0.0461
+        }
+      ]
+    },
+    {
+      "time": 180.62,
+      "end": 180.92,
+      "text": "你是",
+      "words": [
+        {
+          "time": 180.62,
+          "end": 180.92,
+          "text": "你是",
+          "probability": 0.9449
+        }
+      ]
+    },
+    {
+      "time": 182.16,
+      "end": 188.6,
+      "text": "我的神我所依靠地你同在是我",
+      "words": [
+        {
+          "time": 182.16,
+          "end": 182.46,
+          "text": "我的",
+          "probability": 0.9794
+        },
+        {
+          "time": 182.68,
+          "end": 182.98,
+          "text": "神",
+          "probability": 0.5177
+        },
+        {
+          "time": 183.32,
+          "end": 183.62,
+          "text": "我",
+          "probability": 0.5839
+        },
+        {
+          "time": 183.6,
+          "end": 183.9,
+          "text": "所",
+          "probability": 0.5465
+        },
+        {
+          "time": 184.0,
+          "end": 184.38,
+          "text": "依",
+          "probability": 0.9624
+        },
+        {
+          "time": 185.02,
+          "end": 185.46,
+          "text": "靠",
+          "probability": 0.9939
+        },
+        {
+          "time": 185.56,
+          "end": 185.86,
+          "text": "地",
+          "probability": 0.609
+        },
+        {
+          "time": 186.3,
+          "end": 186.6,
+          "text": "你",
+          "probability": 0.5945
+        },
+        {
+          "time": 186.54,
+          "end": 186.84,
+          "text": "同",
+          "probability": 0.4383
+        },
+        {
+          "time": 186.96,
+          "end": 187.26,
+          "text": "在",
+          "probability": 0.9752
+        },
+        {
+          "time": 188.3,
+          "end": 188.6,
+          "text": "是我",
+          "probability": 0.9159
+        }
+      ]
+    },
+    {
+      "time": 188.7,
+      "end": 190.18,
+      "text": "全能的神",
+      "words": [
+        {
+          "time": 188.7,
+          "end": 189.0,
+          "text": "全",
+          "probability": 0.2071
+        },
+        {
+          "time": 189.08,
+          "end": 189.38,
+          "text": "能",
+          "probability": 0.759
+        },
+        {
+          "time": 189.34,
+          "end": 189.64,
+          "text": "的",
+          "probability": 0.5486
+        },
+        {
+          "time": 189.88,
+          "end": 190.18,
+          "text": "神",
+          "probability": 0.4898
+        }
+      ]
+    },
+    {
+      "time": 195.36,
+      "end": 195.66,
+      "text": "你是",
+      "words": [
+        {
+          "time": 195.36,
+          "end": 195.66,
+          "text": "你是",
+          "probability": 0.9906
+        }
+      ]
+    },
+    {
+      "time": 197.24,
+      "end": 203.0,
+      "text": "我的神我所依靠地你同",
+      "words": [
+        {
+          "time": 197.24,
+          "end": 197.54,
+          "text": "我的",
+          "probability": 0.9957
+        },
+        {
+          "time": 198.18,
+          "end": 198.48,
+          "text": "神",
+          "probability": 0.9975
+        },
+        {
+          "time": 198.7,
+          "end": 199.0,
+          "text": "我",
+          "probability": 0.9735
+        },
+        {
+          "time": 199.12,
+          "end": 199.42,
+          "text": "所",
+          "probability": 0.9935
+        },
+        {
+          "time": 199.5,
+          "end": 199.96,
+          "text": "依",
+          "probability": 1.0
+        },
+        {
+          "time": 200.66,
+          "end": 201.14,
+          "text": "靠",
+          "probability": 1.0
+        },
+        {
+          "time": 201.26,
+          "end": 201.56,
+          "text": "地",
+          "probability": 0.9985
+        },
+        {
+          "time": 202.22,
+          "end": 202.52,
+          "text": "你",
+          "probability": 0.8418
+        },
+        {
+          "time": 202.7,
+          "end": 203.0,
+          "text": "同",
+          "probability": 0.9144
+        }
+      ]
+    },
+    {
+      "time": 203.32,
+      "end": 203.62,
+      "text": "在",
+      "words": [
+        {
+          "time": 203.32,
+          "end": 203.62,
+          "text": "在",
+          "probability": 0.9914
+        }
+      ]
+    },
+    {
+      "time": 205.0,
+      "end": 208.18,
+      "text": "是我全然的神",
+      "words": [
+        {
+          "time": 205.0,
+          "end": 205.3,
+          "text": "是我",
+          "probability": 0.6005
+        },
+        {
+          "time": 205.6,
+          "end": 205.9,
+          "text": "全",
+          "probability": 0.7509
+        },
+        {
+          "time": 206.28,
+          "end": 206.58,
+          "text": "然",
+          "probability": 0.9913
+        },
+        {
+          "time": 207.04,
+          "end": 207.34,
+          "text": "的",
+          "probability": 0.9984
+        },
+        {
+          "time": 207.88,
+          "end": 208.18,
+          "text": "神",
+          "probability": 0.8691
+        }
+      ]
+    },
+    {
+      "time": 241.64,
+      "end": 241.94,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "优",
+          "probability": 0.5751
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "优",
+          "probability": 0.9975
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "独",
+          "probability": 0.9954
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "播",
+          "probability": 0.9969
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "剧",
+          "probability": 0.9968
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "场",
+          "probability": 0.9983
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "——",
+          "probability": 0.9981
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "Yo",
+          "probability": 0.9974
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "Yo",
+          "probability": 0.9979
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": " Television",
+          "probability": 0.994
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": " Series",
+          "probability": 0.9979
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": " Exc",
+          "probability": 0.9966
+        },
+        {
+          "time": 241.64,
+          "end": 241.94,
+          "text": "lusive",
+          "probability": 0.998
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "s7ea528419084",
+  "file": "025-.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 13.18,
+      "tags": {
+        "Singing": 0.00506,
+        "Choir": 0.0008,
+        "Speech": 0.01665,
+        "Piano": 0.75152,
+        "Electric piano": 0.60355,
+        "Music": 0.73552,
+        "Musical instrument": 0.27807
+      },
+      "top": [
+        {
+          "label": "Piano",
+          "score": 0.75152
+        },
+        {
+          "label": "Music",
+          "score": 0.73552
+        },
+        {
+          "label": "Electric piano",
+          "score": 0.60355
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.55951
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.27807
+        }
+      ]
+    },
+    {
+      "time": 28.55,
+      "tags": {
+        "Singing": 0.00487,
+        "Choir": 0.00064,
+        "Speech": 0.02109,
+        "Piano": 0.64139,
+        "Electric piano": 0.61586,
+        "Music": 0.71755,
+        "Musical instrument": 0.19973
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.71755
+        },
+        {
+          "label": "Piano",
+          "score": 0.64139
+        },
+        {
+          "label": "Electric piano",
+          "score": 0.61586
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.48734
+        },
+        {
+          "label": "Harp",
+          "score": 0.20798
+        }
+      ]
+    },
+    {
+      "time": 43.93,
+      "tags": {
+        "Singing": 0.00355,
+        "Choir": 0.00052,
+        "Speech": 0.0182,
+        "Piano": 0.6606,
+        "Electric piano": 0.56882,
+        "Music": 0.73081,
+        "Musical instrument": 0.19056
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.73081
+        },
+        {
+          "label": "Piano",
+          "score": 0.6606
+        },
+        {
+          "label": "Electric piano",
+          "score": 0.56882
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.48704
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.19056
+        }
+      ]
+    },
+    {
+      "time": 59.3,
+      "tags": {
+        "Singing": 0.00392,
+        "Choir": 0.00045,
+        "Speech": 0.0157,
+        "Piano": 0.71834,
+        "Electric piano": 0.68503,
+        "Music": 0.73139,
+        "Musical instrument": 0.21719
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.73139
+        },
+        {
+          "label": "Piano",
+          "score": 0.71834
+        },
+        {
+          "label": "Electric piano",
+          "score": 0.68503
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.56356
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.21719
+        }
+      ]
+    },
+    {
+      "time": 74.68,
+      "tags": {
+        "Singing": 0.00373,
+        "Choir": 0.00048,
+        "Speech": 0.01981,
+        "Piano": 0.65275,
+        "Electric piano": 0.61428,
+        "Music": 0.70818,
+        "Musical instrument": 0.17359
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.70818
+        },
+        {
+          "label": "Piano",
+          "score": 0.65275
+        },
+        {
+          "label": "Electric piano",
+          "score": 0.61428
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.50136
+        },
+        {
+          "label": "Harp",
+          "score": 0.1952
+        }
+      ]
+    },
+    {
+      "time": 90.05,
+      "tags": {
+        "Singing": 0.00376,
+        "Choir": 0.00043,
+        "Speech": 0.01703,
+        "Piano": 0.6082,
+        "Electric piano": 0.60643,
+        "Music": 0.7657,
+        "Musical instrument": 0.17654
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.7657
+        },
+        {
+          "label": "Piano",
+          "score": 0.6082
+        },
+        {
+          "label": "Electric piano",
+          "score": 0.60643
+        },
+        {
+          "label": "Keyboard (musical)",
+          "score": 0.44053
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.17654
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3421 @@
+{
+  "id": "s30b8674016c2",
+  "file": "014把冷漠变成爱.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "270d553952f8697e7ca77a17aad152e9e38ff4a1634a7109f312da7bff01c02d",
+  "fullDuration": 254.563265,
+  "lines": [
+    {
+      "time": 2.82,
+      "end": 8.32,
+      "text": "词:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈",
+      "words": [
+        {
+          "time": 2.82,
+          "end": 3.48,
+          "text": "词",
+          "probability": 0.1195
+        },
+        {
+          "time": 3.2,
+          "end": 3.5,
+          "text": ":",
+          "probability": 0.547
+        },
+        {
+          "time": 3.22,
+          "end": 3.52,
+          "text": "陈",
+          "probability": 0.0437
+        },
+        {
+          "time": 3.24,
+          "end": 3.54,
+          "text": "雄",
+          "probability": 0.0297
+        },
+        {
+          "time": 3.24,
+          "end": 3.54,
+          "text": "曲",
+          "probability": 0.5528
+        },
+        {
+          "time": 3.24,
+          "end": 3.54,
+          "text": ":",
+          "probability": 0.759
+        },
+        {
+          "time": 3.24,
+          "end": 3.54,
+          "text": "陈",
+          "probability": 0.2966
+        },
+        {
+          "time": 3.24,
+          "end": 3.54,
+          "text": "雄",
+          "probability": 0.7374
+        },
+        {
+          "time": 3.56,
+          "end": 3.86,
+          "text": "曲",
+          "probability": 0.7535
+        },
+        {
+          "time": 3.62,
+          "end": 3.92,
+          "text": ":",
+          "probability": 0.9337
+        },
+        {
+          "time": 3.62,
+          "end": 3.92,
+          "text": "陈",
+          "probability": 0.5146
+        },
+        {
+          "time": 3.62,
+          "end": 3.96,
+          "text": "雄",
+          "probability": 0.8824
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "曲",
+          "probability": 0.7833
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": ":",
+          "probability": 0.9648
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "陈",
+          "probability": 0.6235
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "雄",
+          "probability": 0.8871
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "曲",
+          "probability": 0.8175
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": ":",
+          "probability": 0.9803
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "陈",
+          "probability": 0.6942
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "雄",
+          "probability": 0.8906
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "曲",
+          "probability": 0.8541
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": ":",
+          "probability": 0.987
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "陈",
+          "probability": 0.7167
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "雄",
+          "probability": 0.8932
+        },
+        {
+          "time": 3.66,
+          "end": 3.96,
+          "text": "曲",
+          "probability": 0.8885
+        },
+        {
+          "time": 3.72,
+          "end": 4.02,
+          "text": ":",
+          "probability": 0.9903
+        },
+        {
+          "time": 3.82,
+          "end": 4.12,
+          "text": "陈",
+          "probability": 0.7391
+        },
+        {
+          "time": 3.82,
+          "end": 4.12,
+          "text": "雄",
+          "probability": 0.8834
+        },
+        {
+          "time": 4.4,
+          "end": 4.7,
+          "text": "曲",
+          "probability": 0.9149
+        },
+        {
+          "time": 4.82,
+          "end": 5.12,
+          "text": ":",
+          "probability": 0.9928
+        },
+        {
+          "time": 4.82,
+          "end": 5.12,
+          "text": "陈",
+          "probability": 0.7462
+        },
+        {
+          "time": 4.82,
+          "end": 5.12,
+          "text": "雄",
+          "probability": 0.8834
+        },
+        {
+          "time": 5.02,
+          "end": 5.32,
+          "text": "曲",
+          "probability": 0.931
+        },
+        {
+          "time": 5.02,
+          "end": 5.32,
+          "text": ":",
+          "probability": 0.9936
+        },
+        {
+          "time": 5.36,
+          "end": 5.66,
+          "text": "陈",
+          "probability": 0.7672
+        },
+        {
+          "time": 5.36,
+          "end": 5.66,
+          "text": "雄",
+          "probability": 0.8779
+        },
+        {
+          "time": 5.38,
+          "end": 5.68,
+          "text": "曲",
+          "probability": 0.9504
+        },
+        {
+          "time": 5.68,
+          "end": 5.98,
+          "text": ":",
+          "probability": 0.9943
+        },
+        {
+          "time": 5.68,
+          "end": 5.98,
+          "text": "陈",
+          "probability": 0.7755
+        },
+        {
+          "time": 5.68,
+          "end": 5.98,
+          "text": "雄",
+          "probability": 0.8807
+        },
+        {
+          "time": 6.16,
+          "end": 6.46,
+          "text": "曲",
+          "probability": 0.9617
+        },
+        {
+          "time": 6.26,
+          "end": 6.56,
+          "text": ":",
+          "probability": 0.9943
+        },
+        {
+          "time": 6.26,
+          "end": 6.56,
+          "text": "陈",
+          "probability": 0.7823
+        },
+        {
+          "time": 6.26,
+          "end": 6.56,
+          "text": "雄",
+          "probability": 0.8738
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "曲",
+          "probability": 0.9691
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": ":",
+          "probability": 0.9945
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "陈",
+          "probability": 0.7823
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "雄",
+          "probability": 0.8697
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "曲",
+          "probability": 0.972
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": ":",
+          "probability": 0.9948
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "陈",
+          "probability": 0.7894
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "雄",
+          "probability": 0.8714
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "曲",
+          "probability": 0.9761
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": ":",
+          "probability": 0.9945
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "陈",
+          "probability": 0.7916
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "雄",
+          "probability": 0.8658
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "曲",
+          "probability": 0.98
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": ":",
+          "probability": 0.9942
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "陈",
+          "probability": 0.7936
+        },
+        {
+          "time": 6.32,
+          "end": 6.62,
+          "text": "雄",
+          "probability": 0.8594
+        },
+        {
+          "time": 6.36,
+          "end": 6.66,
+          "text": "曲",
+          "probability": 0.9807
+        },
+        {
+          "time": 6.36,
+          "end": 6.66,
+          "text": ":",
+          "probability": 0.9937
+        },
+        {
+          "time": 7.04,
+          "end": 7.34,
+          "text": "陈",
+          "probability": 0.7955
+        },
+        {
+          "time": 7.04,
+          "end": 7.34,
+          "text": "雄",
+          "probability": 0.8665
+        },
+        {
+          "time": 7.62,
+          "end": 7.92,
+          "text": "曲",
+          "probability": 0.9817
+        },
+        {
+          "time": 7.62,
+          "end": 7.92,
+          "text": ":",
+          "probability": 0.9936
+        },
+        {
+          "time": 8.32,
+          "end": 8.62,
+          "text": "陈",
+          "probability": 0.7923
+        }
+      ]
+    },
+    {
+      "time": 8.32,
+      "end": 9.66,
+      "text": "雄曲:陈雄",
+      "words": [
+        {
+          "time": 8.32,
+          "end": 8.64,
+          "text": "雄",
+          "probability": 0.8586
+        },
+        {
+          "time": 9.2,
+          "end": 9.5,
+          "text": "曲",
+          "probability": 0.9827
+        },
+        {
+          "time": 9.2,
+          "end": 9.5,
+          "text": ":",
+          "probability": 0.9929
+        },
+        {
+          "time": 9.36,
+          "end": 9.66,
+          "text": "陈",
+          "probability": 0.7916
+        },
+        {
+          "time": 9.36,
+          "end": 9.66,
+          "text": "雄",
+          "probability": 0.8658
+        }
+      ]
+    },
+    {
+      "time": 11.9,
+      "end": 13.38,
+      "text": "曲:陈雄曲:陈雄",
+      "words": [
+        {
+          "time": 11.9,
+          "end": 12.2,
+          "text": "曲",
+          "probability": 0.9849
+        },
+        {
+          "time": 11.9,
+          "end": 12.2,
+          "text": ":",
+          "probability": 0.9927
+        },
+        {
+          "time": 12.62,
+          "end": 12.92,
+          "text": "陈",
+          "probability": 0.7894
+        },
+        {
+          "time": 12.7,
+          "end": 13.02,
+          "text": "雄",
+          "probability": 0.8529
+        },
+        {
+          "time": 12.88,
+          "end": 13.18,
+          "text": "曲",
+          "probability": 0.9844
+        },
+        {
+          "time": 12.88,
+          "end": 13.18,
+          "text": ":",
+          "probability": 0.9912
+        },
+        {
+          "time": 13.06,
+          "end": 13.36,
+          "text": "陈",
+          "probability": 0.79
+        },
+        {
+          "time": 13.06,
+          "end": 13.38,
+          "text": "雄",
+          "probability": 0.8376
+        }
+      ]
+    },
+    {
+      "time": 16.34,
+      "end": 19.54,
+      "text": "曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:陈雄曲:",
+      "words": [
+        {
+          "time": 16.34,
+          "end": 16.64,
+          "text": "曲",
+          "probability": 0.9851
+        },
+        {
+          "time": 16.34,
+          "end": 16.64,
+          "text": ":",
+          "probability": 0.9906
+        },
+        {
+          "time": 16.34,
+          "end": 16.64,
+          "text": "陈",
+          "probability": 0.7947
+        },
+        {
+          "time": 16.34,
+          "end": 16.64,
+          "text": "雄",
+          "probability": 0.8425
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "曲",
+          "probability": 0.9861
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": ":",
+          "probability": 0.9901
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "陈",
+          "probability": 0.7911
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "雄",
+          "probability": 0.8392
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "曲",
+          "probability": 0.9863
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": ":",
+          "probability": 0.9885
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "陈",
+          "probability": 0.7905
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "雄",
+          "probability": 0.8264
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "曲",
+          "probability": 0.9865
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": ":",
+          "probability": 0.9882
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "陈",
+          "probability": 0.7918
+        },
+        {
+          "time": 16.36,
+          "end": 16.66,
+          "text": "雄",
+          "probability": 0.8336
+        },
+        {
+          "time": 16.52,
+          "end": 16.82,
+          "text": "曲",
+          "probability": 0.9864
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": ":",
+          "probability": 0.987
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "陈",
+          "probability": 0.7934
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "雄",
+          "probability": 0.8199
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "曲",
+          "probability": 0.9862
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": ":",
+          "probability": 0.9846
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "陈",
+          "probability": 0.7911
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "雄",
+          "probability": 0.8236
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "曲",
+          "probability": 0.9871
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": ":",
+          "probability": 0.983
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "陈",
+          "probability": 0.79
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "雄",
+          "probability": 0.8247
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "曲",
+          "probability": 0.986
+        },
+        {
+          "time": 16.82,
+          "end": 17.12,
+          "text": ":",
+          "probability": 0.9828
+        },
+        {
+          "time": 16.82,
+          "end": 17.12,
+          "text": "陈",
+          "probability": 0.7886
+        },
+        {
+          "time": 16.82,
+          "end": 17.12,
+          "text": "雄",
+          "probability": 0.8182
+        },
+        {
+          "time": 16.84,
+          "end": 17.14,
+          "text": "曲",
+          "probability": 0.9861
+        },
+        {
+          "time": 16.84,
+          "end": 17.14,
+          "text": ":",
+          "probability": 0.9812
+        },
+        {
+          "time": 16.84,
+          "end": 17.14,
+          "text": "陈",
+          "probability": 0.7974
+        },
+        {
+          "time": 16.84,
+          "end": 17.14,
+          "text": "雄",
+          "probability": 0.8205
+        },
+        {
+          "time": 16.9,
+          "end": 17.2,
+          "text": "曲",
+          "probability": 0.9855
+        },
+        {
+          "time": 16.9,
+          "end": 17.2,
+          "text": ":",
+          "probability": 0.9774
+        },
+        {
+          "time": 17.08,
+          "end": 17.38,
+          "text": "陈",
+          "probability": 0.7898
+        },
+        {
+          "time": 17.22,
+          "end": 18.16,
+          "text": "雄",
+          "probability": 0.807
+        },
+        {
+          "time": 17.96,
+          "end": 18.26,
+          "text": "曲",
+          "probability": 0.9864
+        },
+        {
+          "time": 17.96,
+          "end": 18.26,
+          "text": ":",
+          "probability": 0.9766
+        },
+        {
+          "time": 18.26,
+          "end": 18.56,
+          "text": "陈",
+          "probability": 0.794
+        },
+        {
+          "time": 18.5,
+          "end": 18.8,
+          "text": "雄",
+          "probability": 0.8038
+        },
+        {
+          "time": 18.5,
+          "end": 18.8,
+          "text": "曲",
+          "probability": 0.9859
+        },
+        {
+          "time": 19.04,
+          "end": 19.34,
+          "text": ":",
+          "probability": 0.9755
+        },
+        {
+          "time": 19.04,
+          "end": 19.34,
+          "text": "陈",
+          "probability": 0.7871
+        },
+        {
+          "time": 19.04,
+          "end": 19.34,
+          "text": "雄",
+          "probability": 0.814
+        },
+        {
+          "time": 19.16,
+          "end": 19.46,
+          "text": "曲",
+          "probability": 0.9859
+        },
+        {
+          "time": 19.24,
+          "end": 19.54,
+          "text": ":",
+          "probability": 0.9727
+        }
+      ]
+    },
+    {
+      "time": 21.22,
+      "end": 21.52,
+      "text": "陈雄",
+      "words": [
+        {
+          "time": 21.22,
+          "end": 21.52,
+          "text": "陈",
+          "probability": 0.797
+        },
+        {
+          "time": 21.22,
+          "end": 21.52,
+          "text": "雄",
+          "probability": 0.8048
+        }
+      ]
+    },
+    {
+      "time": 23.72,
+      "end": 26.72,
+      "text": "曲:陈雄曲:陈雄曲:",
+      "words": [
+        {
+          "time": 23.72,
+          "end": 24.02,
+          "text": "曲",
+          "probability": 0.9858
+        },
+        {
+          "time": 23.72,
+          "end": 24.02,
+          "text": ":",
+          "probability": 0.971
+        },
+        {
+          "time": 24.12,
+          "end": 24.42,
+          "text": "陈",
+          "probability": 0.7972
+        },
+        {
+          "time": 24.14,
+          "end": 25.22,
+          "text": "雄",
+          "probability": 0.7997
+        },
+        {
+          "time": 25.3,
+          "end": 25.6,
+          "text": "曲",
+          "probability": 0.9847
+        },
+        {
+          "time": 25.6,
+          "end": 25.9,
+          "text": ":",
+          "probability": 0.966
+        },
+        {
+          "time": 25.6,
+          "end": 25.9,
+          "text": "陈",
+          "probability": 0.794
+        },
+        {
+          "time": 25.64,
+          "end": 26.0,
+          "text": "雄",
+          "probability": 0.8068
+        },
+        {
+          "time": 26.42,
+          "end": 26.72,
+          "text": "曲",
+          "probability": 0.9841
+        },
+        {
+          "time": 26.42,
+          "end": 26.72,
+          "text": ":",
+          "probability": 0.9647
+        }
+      ]
+    },
+    {
+      "time": 28.18,
+      "end": 34.18,
+      "text": "陈雄曲:给找我将生生的灵魂",
+      "words": [
+        {
+          "time": 28.18,
+          "end": 28.48,
+          "text": "陈",
+          "probability": 0.7946
+        },
+        {
+          "time": 28.48,
+          "end": 29.66,
+          "text": "雄",
+          "probability": 0.7963
+        },
+        {
+          "time": 29.36,
+          "end": 29.66,
+          "text": "曲",
+          "probability": 0.9846
+        },
+        {
+          "time": 29.36,
+          "end": 29.66,
+          "text": ":",
+          "probability": 0.9613
+        },
+        {
+          "time": 30.5,
+          "end": 30.8,
+          "text": "给",
+          "probability": 0.4245
+        },
+        {
+          "time": 30.72,
+          "end": 31.02,
+          "text": "找",
+          "probability": 0.2573
+        },
+        {
+          "time": 30.92,
+          "end": 31.22,
+          "text": "我",
+          "probability": 0.7836
+        },
+        {
+          "time": 31.12,
+          "end": 31.42,
+          "text": "将",
+          "probability": 0.0418
+        },
+        {
+          "time": 31.34,
+          "end": 31.64,
+          "text": "生",
+          "probability": 0.6588
+        },
+        {
+          "time": 31.86,
+          "end": 32.16,
+          "text": "生",
+          "probability": 0.4803
+        },
+        {
+          "time": 32.72,
+          "end": 33.02,
+          "text": "的",
+          "probability": 0.9628
+        },
+        {
+          "time": 32.92,
+          "end": 33.34,
+          "text": "灵",
+          "probability": 0.3879
+        },
+        {
+          "time": 33.38,
+          "end": 34.18,
+          "text": "魂",
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "time": 34.62,
+      "end": 39.66,
+      "text": "分些爱给那些不棋眼的面孔",
+      "words": [
+        {
+          "time": 34.62,
+          "end": 34.92,
+          "text": "分",
+          "probability": 0.9882
+        },
+        {
+          "time": 34.86,
+          "end": 35.16,
+          "text": "些",
+          "probability": 0.7948
+        },
+        {
+          "time": 35.26,
+          "end": 35.56,
+          "text": "爱",
+          "probability": 0.999
+        },
+        {
+          "time": 35.5,
+          "end": 35.8,
+          "text": "给",
+          "probability": 0.9989
+        },
+        {
+          "time": 35.72,
+          "end": 36.02,
+          "text": "那",
+          "probability": 0.9781
+        },
+        {
+          "time": 36.44,
+          "end": 36.74,
+          "text": "些",
+          "probability": 1.0
+        },
+        {
+          "time": 37.5,
+          "end": 37.8,
+          "text": "不",
+          "probability": 0.3199
+        },
+        {
+          "time": 37.68,
+          "end": 38.04,
+          "text": "棋",
+          "probability": 0.2003
+        },
+        {
+          "time": 37.94,
+          "end": 38.24,
+          "text": "眼",
+          "probability": 0.5464
+        },
+        {
+          "time": 38.14,
+          "end": 38.44,
+          "text": "的",
+          "probability": 0.8934
+        },
+        {
+          "time": 38.38,
+          "end": 38.68,
+          "text": "面",
+          "probability": 0.9501
+        },
+        {
+          "time": 38.64,
+          "end": 39.66,
+          "text": "孔",
+          "probability": 0.9833
+        }
+      ]
+    },
+    {
+      "time": 41.86,
+      "end": 47.74,
+      "text": "以基督的心为心以他的眼看世界",
+      "words": [
+        {
+          "time": 41.86,
+          "end": 42.16,
+          "text": "以",
+          "probability": 0.9511
+        },
+        {
+          "time": 42.06,
+          "end": 42.36,
+          "text": "基",
+          "probability": 0.6559
+        },
+        {
+          "time": 42.26,
+          "end": 42.56,
+          "text": "督",
+          "probability": 0.9933
+        },
+        {
+          "time": 42.46,
+          "end": 42.76,
+          "text": "的",
+          "probability": 0.9929
+        },
+        {
+          "time": 42.88,
+          "end": 43.18,
+          "text": "心",
+          "probability": 0.9041
+        },
+        {
+          "time": 43.48,
+          "end": 43.78,
+          "text": "为",
+          "probability": 0.7985
+        },
+        {
+          "time": 44.12,
+          "end": 44.42,
+          "text": "心",
+          "probability": 0.9659
+        },
+        {
+          "time": 45.42,
+          "end": 45.72,
+          "text": "以",
+          "probability": 0.8112
+        },
+        {
+          "time": 45.64,
+          "end": 45.94,
+          "text": "他的",
+          "probability": 0.8622
+        },
+        {
+          "time": 46.22,
+          "end": 46.52,
+          "text": "眼",
+          "probability": 0.9468
+        },
+        {
+          "time": 46.6,
+          "end": 46.9,
+          "text": "看",
+          "probability": 0.9253
+        },
+        {
+          "time": 47.44,
+          "end": 47.74,
+          "text": "世界",
+          "probability": 0.9769
+        }
+      ]
+    },
+    {
+      "time": 48.88,
+      "end": 53.48,
+      "text": "你身边的人需要你我好了我变成爱",
+      "words": [
+        {
+          "time": 48.88,
+          "end": 49.18,
+          "text": "你",
+          "probability": 0.9832
+        },
+        {
+          "time": 49.08,
+          "end": 49.38,
+          "text": "身",
+          "probability": 0.9977
+        },
+        {
+          "time": 49.32,
+          "end": 49.62,
+          "text": "边",
+          "probability": 0.9977
+        },
+        {
+          "time": 49.64,
+          "end": 49.94,
+          "text": "的人",
+          "probability": 0.9943
+        },
+        {
+          "time": 50.3,
+          "end": 50.6,
+          "text": "需要",
+          "probability": 0.8504
+        },
+        {
+          "time": 50.62,
+          "end": 50.92,
+          "text": "你",
+          "probability": 0.9898
+        },
+        {
+          "time": 50.94,
+          "end": 51.24,
+          "text": "我",
+          "probability": 0.9684
+        },
+        {
+          "time": 51.66,
+          "end": 51.96,
+          "text": "好了",
+          "probability": 0.9452
+        },
+        {
+          "time": 51.94,
+          "end": 52.24,
+          "text": "我",
+          "probability": 0.9753
+        },
+        {
+          "time": 52.14,
+          "end": 52.44,
+          "text": "变",
+          "probability": 0.9896
+        },
+        {
+          "time": 52.44,
+          "end": 52.74,
+          "text": "成",
+          "probability": 0.9948
+        },
+        {
+          "time": 53.18,
+          "end": 53.48,
+          "text": "爱",
+          "probability": 0.975
+        }
+      ]
+    },
+    {
+      "time": 55.96,
+      "end": 58.26,
+      "text": "以基督的心为心",
+      "words": [
+        {
+          "time": 55.96,
+          "end": 56.26,
+          "text": "以",
+          "probability": 0.9738
+        },
+        {
+          "time": 56.12,
+          "end": 56.42,
+          "text": "基",
+          "probability": 0.9998
+        },
+        {
+          "time": 56.28,
+          "end": 56.58,
+          "text": "督",
+          "probability": 0.9999
+        },
+        {
+          "time": 56.5,
+          "end": 56.8,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 56.94,
+          "end": 57.24,
+          "text": "心",
+          "probability": 1.0
+        },
+        {
+          "time": 57.5,
+          "end": 57.8,
+          "text": "为",
+          "probability": 0.9979
+        },
+        {
+          "time": 57.96,
+          "end": 58.26,
+          "text": "心",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 59.58,
+      "end": 65.2,
+      "text": "你看地看世界这世界需要你我",
+      "words": [
+        {
+          "time": 59.58,
+          "end": 59.88,
+          "text": "你看",
+          "probability": 0.2468
+        },
+        {
+          "time": 59.9,
+          "end": 60.2,
+          "text": "地",
+          "probability": 0.2323
+        },
+        {
+          "time": 60.52,
+          "end": 60.82,
+          "text": "看",
+          "probability": 0.5718
+        },
+        {
+          "time": 61.42,
+          "end": 61.72,
+          "text": "世界",
+          "probability": 0.9936
+        },
+        {
+          "time": 62.64,
+          "end": 62.94,
+          "text": "这",
+          "probability": 0.9909
+        },
+        {
+          "time": 63.12,
+          "end": 63.42,
+          "text": "世界",
+          "probability": 0.9982
+        },
+        {
+          "time": 63.96,
+          "end": 64.26,
+          "text": "需要",
+          "probability": 0.57
+        },
+        {
+          "time": 64.5,
+          "end": 64.8,
+          "text": "你",
+          "probability": 0.9513
+        },
+        {
+          "time": 64.9,
+          "end": 65.2,
+          "text": "我",
+          "probability": 0.8224
+        }
+      ]
+    },
+    {
+      "time": 65.54,
+      "end": 67.58,
+      "text": "把冷漠变成爱",
+      "words": [
+        {
+          "time": 65.54,
+          "end": 65.84,
+          "text": "把",
+          "probability": 0.9767
+        },
+        {
+          "time": 65.76,
+          "end": 66.06,
+          "text": "冷",
+          "probability": 0.4071
+        },
+        {
+          "time": 65.92,
+          "end": 66.22,
+          "text": "漠",
+          "probability": 0.9851
+        },
+        {
+          "time": 66.16,
+          "end": 66.46,
+          "text": "变",
+          "probability": 0.9985
+        },
+        {
+          "time": 66.38,
+          "end": 66.68,
+          "text": "成",
+          "probability": 0.9987
+        },
+        {
+          "time": 67.28,
+          "end": 67.58,
+          "text": "爱",
+          "probability": 0.9918
+        }
+      ]
+    },
+    {
+      "time": 84.24,
+      "end": 89.94,
+      "text": "你的眼是否被太多美丽你连事无迷惑",
+      "words": [
+        {
+          "time": 84.24,
+          "end": 84.54,
+          "text": "你的",
+          "probability": 0.8989
+        },
+        {
+          "time": 85.18,
+          "end": 85.48,
+          "text": "眼",
+          "probability": 0.9453
+        },
+        {
+          "time": 86.52,
+          "end": 86.82,
+          "text": "是",
+          "probability": 0.9305
+        },
+        {
+          "time": 86.74,
+          "end": 87.04,
+          "text": "否",
+          "probability": 0.9922
+        },
+        {
+          "time": 86.94,
+          "end": 87.24,
+          "text": "被",
+          "probability": 0.4938
+        },
+        {
+          "time": 87.16,
+          "end": 87.46,
+          "text": "太",
+          "probability": 0.9479
+        },
+        {
+          "time": 87.36,
+          "end": 87.66,
+          "text": "多",
+          "probability": 0.999
+        },
+        {
+          "time": 87.6,
+          "end": 87.9,
+          "text": "美",
+          "probability": 0.9561
+        },
+        {
+          "time": 87.8,
+          "end": 88.18,
+          "text": "丽",
+          "probability": 0.9837
+        },
+        {
+          "time": 88.24,
+          "end": 88.54,
+          "text": "你",
+          "probability": 0.066
+        },
+        {
+          "time": 88.44,
+          "end": 88.76,
+          "text": "连",
+          "probability": 0.019
+        },
+        {
+          "time": 88.46,
+          "end": 88.76,
+          "text": "事",
+          "probability": 0.168
+        },
+        {
+          "time": 88.7,
+          "end": 89.0,
+          "text": "无",
+          "probability": 0.4851
+        },
+        {
+          "time": 88.86,
+          "end": 89.2,
+          "text": "迷",
+          "probability": 0.3103
+        },
+        {
+          "time": 89.16,
+          "end": 89.94,
+          "text": "惑",
+          "probability": 0.9374
+        }
+      ]
+    },
+    {
+      "time": 91.18,
+      "end": 92.32,
+      "text": "你的心",
+      "words": [
+        {
+          "time": 91.18,
+          "end": 91.48,
+          "text": " 你",
+          "probability": 0.3183
+        },
+        {
+          "time": 91.5,
+          "end": 91.8,
+          "text": "的",
+          "probability": 0.9843
+        },
+        {
+          "time": 92.02,
+          "end": 92.32,
+          "text": "心",
+          "probability": 0.9254
+        }
+      ]
+    },
+    {
+      "time": 93.54,
+      "end": 96.76,
+      "text": "是否被太多分散必须出放松",
+      "words": [
+        {
+          "time": 93.54,
+          "end": 93.84,
+          "text": "是",
+          "probability": 0.9828
+        },
+        {
+          "time": 93.74,
+          "end": 94.04,
+          "text": "否",
+          "probability": 0.9965
+        },
+        {
+          "time": 93.96,
+          "end": 94.26,
+          "text": "被",
+          "probability": 0.6592
+        },
+        {
+          "time": 94.16,
+          "end": 94.46,
+          "text": "太",
+          "probability": 0.9702
+        },
+        {
+          "time": 94.36,
+          "end": 94.66,
+          "text": "多",
+          "probability": 0.9585
+        },
+        {
+          "time": 94.6,
+          "end": 94.9,
+          "text": "分",
+          "probability": 0.4471
+        },
+        {
+          "time": 94.8,
+          "end": 95.18,
+          "text": "散",
+          "probability": 0.2669
+        },
+        {
+          "time": 95.26,
+          "end": 95.56,
+          "text": "必",
+          "probability": 0.2721
+        },
+        {
+          "time": 95.44,
+          "end": 95.76,
+          "text": "须",
+          "probability": 0.2042
+        },
+        {
+          "time": 95.66,
+          "end": 95.96,
+          "text": "出",
+          "probability": 0.0407
+        },
+        {
+          "time": 95.88,
+          "end": 96.18,
+          "text": "放",
+          "probability": 0.3457
+        },
+        {
+          "time": 96.46,
+          "end": 96.76,
+          "text": "松",
+          "probability": 0.6092
+        }
+      ]
+    },
+    {
+      "time": 98.18,
+      "end": 104.38,
+      "text": "分些关怀给角落着双双的灵魂",
+      "words": [
+        {
+          "time": 98.18,
+          "end": 98.48,
+          "text": "分",
+          "probability": 0.7669
+        },
+        {
+          "time": 98.54,
+          "end": 98.84,
+          "text": "些",
+          "probability": 0.4472
+        },
+        {
+          "time": 98.86,
+          "end": 99.16,
+          "text": "关",
+          "probability": 0.8582
+        },
+        {
+          "time": 99.26,
+          "end": 100.34,
+          "text": "怀",
+          "probability": 0.7324
+        },
+        {
+          "time": 100.54,
+          "end": 100.84,
+          "text": "给",
+          "probability": 0.6006
+        },
+        {
+          "time": 100.78,
+          "end": 101.08,
+          "text": "角",
+          "probability": 0.2582
+        },
+        {
+          "time": 100.98,
+          "end": 101.28,
+          "text": "落",
+          "probability": 0.9877
+        },
+        {
+          "time": 101.2,
+          "end": 101.5,
+          "text": "着",
+          "probability": 0.4431
+        },
+        {
+          "time": 101.34,
+          "end": 101.7,
+          "text": "双",
+          "probability": 0.5916
+        },
+        {
+          "time": 101.68,
+          "end": 102.76,
+          "text": "双",
+          "probability": 0.285
+        },
+        {
+          "time": 102.78,
+          "end": 103.08,
+          "text": "的",
+          "probability": 0.9176
+        },
+        {
+          "time": 103.0,
+          "end": 103.42,
+          "text": "灵",
+          "probability": 0.9955
+        },
+        {
+          "time": 103.44,
+          "end": 104.38,
+          "text": "魂",
+          "probability": 0.9835
+        }
+      ]
+    },
+    {
+      "time": 104.66,
+      "end": 109.52,
+      "text": "分些爱给那些无期眼的面孔",
+      "words": [
+        {
+          "time": 104.66,
+          "end": 104.96,
+          "text": "分",
+          "probability": 0.9928
+        },
+        {
+          "time": 104.9,
+          "end": 105.2,
+          "text": "些",
+          "probability": 0.9896
+        },
+        {
+          "time": 105.28,
+          "end": 105.58,
+          "text": "爱",
+          "probability": 0.9951
+        },
+        {
+          "time": 105.54,
+          "end": 105.84,
+          "text": "给",
+          "probability": 0.9743
+        },
+        {
+          "time": 105.76,
+          "end": 106.06,
+          "text": "那",
+          "probability": 0.9801
+        },
+        {
+          "time": 106.72,
+          "end": 107.02,
+          "text": "些",
+          "probability": 0.9999
+        },
+        {
+          "time": 107.6,
+          "end": 107.9,
+          "text": "无",
+          "probability": 0.5418
+        },
+        {
+          "time": 107.8,
+          "end": 108.1,
+          "text": "期",
+          "probability": 0.1547
+        },
+        {
+          "time": 108.0,
+          "end": 108.3,
+          "text": "眼",
+          "probability": 0.122
+        },
+        {
+          "time": 108.2,
+          "end": 108.5,
+          "text": "的",
+          "probability": 0.872
+        },
+        {
+          "time": 108.4,
+          "end": 108.7,
+          "text": "面",
+          "probability": 0.9242
+        },
+        {
+          "time": 108.74,
+          "end": 109.52,
+          "text": "孔",
+          "probability": 0.9861
+        }
+      ]
+    },
+    {
+      "time": 111.96,
+      "end": 117.76,
+      "text": "你基督的心违心 你看地眼看世界",
+      "words": [
+        {
+          "time": 111.96,
+          "end": 112.26,
+          "text": "你",
+          "probability": 0.5729
+        },
+        {
+          "time": 112.14,
+          "end": 112.44,
+          "text": "基",
+          "probability": 0.406
+        },
+        {
+          "time": 112.32,
+          "end": 112.66,
+          "text": "督",
+          "probability": 0.9953
+        },
+        {
+          "time": 112.54,
+          "end": 112.84,
+          "text": "的",
+          "probability": 0.9352
+        },
+        {
+          "time": 112.94,
+          "end": 113.24,
+          "text": "心",
+          "probability": 0.8514
+        },
+        {
+          "time": 113.5,
+          "end": 113.9,
+          "text": "违",
+          "probability": 0.1993
+        },
+        {
+          "time": 114.24,
+          "end": 114.54,
+          "text": "心",
+          "probability": 0.439
+        },
+        {
+          "time": 115.48,
+          "end": 115.78,
+          "text": " 你",
+          "probability": 0.465
+        },
+        {
+          "time": 115.66,
+          "end": 115.96,
+          "text": "看",
+          "probability": 0.4206
+        },
+        {
+          "time": 115.96,
+          "end": 116.26,
+          "text": "地",
+          "probability": 0.5176
+        },
+        {
+          "time": 116.3,
+          "end": 116.6,
+          "text": "眼",
+          "probability": 0.8379
+        },
+        {
+          "time": 116.64,
+          "end": 116.94,
+          "text": "看",
+          "probability": 0.9847
+        },
+        {
+          "time": 117.46,
+          "end": 117.76,
+          "text": "世界",
+          "probability": 0.9919
+        }
+      ]
+    },
+    {
+      "time": 118.88,
+      "end": 123.66,
+      "text": "你身边的人需要你我把冷漠变成爱",
+      "words": [
+        {
+          "time": 118.88,
+          "end": 119.18,
+          "text": "你",
+          "probability": 0.9793
+        },
+        {
+          "time": 119.1,
+          "end": 119.4,
+          "text": "身",
+          "probability": 0.9964
+        },
+        {
+          "time": 119.32,
+          "end": 119.62,
+          "text": "边",
+          "probability": 0.9751
+        },
+        {
+          "time": 119.7,
+          "end": 120.0,
+          "text": "的人",
+          "probability": 0.988
+        },
+        {
+          "time": 120.3,
+          "end": 120.6,
+          "text": "需要",
+          "probability": 0.8358
+        },
+        {
+          "time": 120.62,
+          "end": 120.92,
+          "text": "你",
+          "probability": 0.5089
+        },
+        {
+          "time": 120.98,
+          "end": 121.28,
+          "text": "我",
+          "probability": 0.9256
+        },
+        {
+          "time": 121.58,
+          "end": 121.88,
+          "text": "把",
+          "probability": 0.7067
+        },
+        {
+          "time": 121.76,
+          "end": 122.06,
+          "text": "冷",
+          "probability": 0.8012
+        },
+        {
+          "time": 121.9,
+          "end": 122.2,
+          "text": "漠",
+          "probability": 0.9656
+        },
+        {
+          "time": 122.14,
+          "end": 122.48,
+          "text": "变",
+          "probability": 0.9424
+        },
+        {
+          "time": 122.42,
+          "end": 122.72,
+          "text": "成",
+          "probability": 0.994
+        },
+        {
+          "time": 123.36,
+          "end": 123.66,
+          "text": "爱",
+          "probability": 0.9207
+        }
+      ]
+    },
+    {
+      "time": 125.92,
+      "end": 131.76,
+      "text": "你基督的心违心 你看地眼看世界",
+      "words": [
+        {
+          "time": 125.92,
+          "end": 126.22,
+          "text": "你",
+          "probability": 0.987
+        },
+        {
+          "time": 126.16,
+          "end": 126.46,
+          "text": "基",
+          "probability": 0.9987
+        },
+        {
+          "time": 126.34,
+          "end": 126.64,
+          "text": "督",
+          "probability": 0.9999
+        },
+        {
+          "time": 126.54,
+          "end": 126.84,
+          "text": "的",
+          "probability": 0.9995
+        },
+        {
+          "time": 127.0,
+          "end": 127.3,
+          "text": "心",
+          "probability": 0.9993
+        },
+        {
+          "time": 127.48,
+          "end": 127.86,
+          "text": "违",
+          "probability": 0.9986
+        },
+        {
+          "time": 128.16,
+          "end": 128.46,
+          "text": "心",
+          "probability": 0.9994
+        },
+        {
+          "time": 129.44,
+          "end": 129.74,
+          "text": " 你",
+          "probability": 0.9812
+        },
+        {
+          "time": 129.66,
+          "end": 129.96,
+          "text": "看",
+          "probability": 0.9924
+        },
+        {
+          "time": 129.94,
+          "end": 130.24,
+          "text": "地",
+          "probability": 0.9993
+        },
+        {
+          "time": 130.28,
+          "end": 130.58,
+          "text": "眼",
+          "probability": 0.9983
+        },
+        {
+          "time": 130.62,
+          "end": 130.92,
+          "text": "看",
+          "probability": 0.998
+        },
+        {
+          "time": 131.46,
+          "end": 131.76,
+          "text": "世界",
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "time": 132.7,
+      "end": 137.52,
+      "text": "这世界需要你我把冷漠变成爱",
+      "words": [
+        {
+          "time": 132.7,
+          "end": 133.0,
+          "text": "这",
+          "probability": 0.928
+        },
+        {
+          "time": 133.22,
+          "end": 133.52,
+          "text": "世界",
+          "probability": 0.9662
+        },
+        {
+          "time": 133.98,
+          "end": 134.28,
+          "text": "需要",
+          "probability": 0.9896
+        },
+        {
+          "time": 134.58,
+          "end": 134.88,
+          "text": "你",
+          "probability": 0.9981
+        },
+        {
+          "time": 135.0,
+          "end": 135.3,
+          "text": "我",
+          "probability": 0.9941
+        },
+        {
+          "time": 135.66,
+          "end": 135.96,
+          "text": "把",
+          "probability": 0.9964
+        },
+        {
+          "time": 135.82,
+          "end": 136.12,
+          "text": "冷",
+          "probability": 0.9999
+        },
+        {
+          "time": 135.96,
+          "end": 136.26,
+          "text": "漠",
+          "probability": 0.9995
+        },
+        {
+          "time": 136.24,
+          "end": 136.54,
+          "text": "变",
+          "probability": 0.9988
+        },
+        {
+          "time": 136.5,
+          "end": 136.8,
+          "text": "成",
+          "probability": 0.9998
+        },
+        {
+          "time": 137.22,
+          "end": 137.52,
+          "text": "爱",
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "time": 140.14,
+      "end": 142.18,
+      "text": "基督的心唯一心",
+      "words": [
+        {
+          "time": 140.14,
+          "end": 140.44,
+          "text": "基",
+          "probability": 0.5403
+        },
+        {
+          "time": 140.32,
+          "end": 140.66,
+          "text": "督",
+          "probability": 0.9807
+        },
+        {
+          "time": 140.58,
+          "end": 140.88,
+          "text": "的",
+          "probability": 0.9252
+        },
+        {
+          "time": 140.84,
+          "end": 141.14,
+          "text": "心",
+          "probability": 0.6833
+        },
+        {
+          "time": 141.38,
+          "end": 141.76,
+          "text": "唯",
+          "probability": 0.2878
+        },
+        {
+          "time": 141.64,
+          "end": 141.94,
+          "text": "一",
+          "probability": 0.8518
+        },
+        {
+          "time": 141.88,
+          "end": 142.18,
+          "text": "心",
+          "probability": 0.881
+        }
+      ]
+    },
+    {
+      "time": 143.4,
+      "end": 149.0,
+      "text": "你踏地点开世界你身边的人需要你我",
+      "words": [
+        {
+          "time": 143.4,
+          "end": 143.7,
+          "text": " 你",
+          "probability": 0.4748
+        },
+        {
+          "time": 143.52,
+          "end": 143.84,
+          "text": "踏",
+          "probability": 0.5684
+        },
+        {
+          "time": 143.86,
+          "end": 144.16,
+          "text": "地",
+          "probability": 0.7186
+        },
+        {
+          "time": 144.16,
+          "end": 144.46,
+          "text": "点",
+          "probability": 0.3863
+        },
+        {
+          "time": 144.38,
+          "end": 144.68,
+          "text": "开",
+          "probability": 0.8807
+        },
+        {
+          "time": 145.22,
+          "end": 145.52,
+          "text": "世界",
+          "probability": 0.9819
+        },
+        {
+          "time": 146.72,
+          "end": 147.02,
+          "text": "你",
+          "probability": 0.9919
+        },
+        {
+          "time": 146.92,
+          "end": 147.22,
+          "text": "身",
+          "probability": 0.9984
+        },
+        {
+          "time": 147.14,
+          "end": 147.44,
+          "text": "边",
+          "probability": 0.9992
+        },
+        {
+          "time": 147.5,
+          "end": 147.8,
+          "text": "的人",
+          "probability": 0.9922
+        },
+        {
+          "time": 148.12,
+          "end": 148.42,
+          "text": "需要",
+          "probability": 0.953
+        },
+        {
+          "time": 148.42,
+          "end": 148.72,
+          "text": "你",
+          "probability": 0.995
+        },
+        {
+          "time": 148.7,
+          "end": 149.0,
+          "text": "我",
+          "probability": 0.9907
+        }
+      ]
+    },
+    {
+      "time": 149.3,
+      "end": 151.08,
+      "text": "把冷漠变成爱",
+      "words": [
+        {
+          "time": 149.3,
+          "end": 149.6,
+          "text": "把",
+          "probability": 0.9639
+        },
+        {
+          "time": 149.48,
+          "end": 149.78,
+          "text": "冷",
+          "probability": 0.5715
+        },
+        {
+          "time": 149.62,
+          "end": 149.92,
+          "text": "漠",
+          "probability": 0.9838
+        },
+        {
+          "time": 149.84,
+          "end": 150.2,
+          "text": "变",
+          "probability": 0.9936
+        },
+        {
+          "time": 150.12,
+          "end": 150.42,
+          "text": "成",
+          "probability": 0.9939
+        },
+        {
+          "time": 150.78,
+          "end": 151.08,
+          "text": "爱",
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "time": 153.7,
+      "end": 155.7,
+      "text": "基督的心唯一心",
+      "words": [
+        {
+          "time": 153.7,
+          "end": 154.0,
+          "text": "基",
+          "probability": 0.9991
+        },
+        {
+          "time": 153.92,
+          "end": 154.22,
+          "text": "督",
+          "probability": 0.9999
+        },
+        {
+          "time": 154.12,
+          "end": 154.42,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 154.36,
+          "end": 154.66,
+          "text": "心",
+          "probability": 0.9999
+        },
+        {
+          "time": 154.96,
+          "end": 155.26,
+          "text": "唯",
+          "probability": 0.9998
+        },
+        {
+          "time": 155.2,
+          "end": 155.5,
+          "text": "一",
+          "probability": 0.9995
+        },
+        {
+          "time": 155.4,
+          "end": 155.7,
+          "text": "心",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 156.9,
+      "end": 162.52,
+      "text": "你踏地点开世界这世界需要你我",
+      "words": [
+        {
+          "time": 156.9,
+          "end": 157.2,
+          "text": " 你",
+          "probability": 0.9399
+        },
+        {
+          "time": 157.08,
+          "end": 157.4,
+          "text": "踏",
+          "probability": 0.9887
+        },
+        {
+          "time": 157.38,
+          "end": 157.68,
+          "text": "地",
+          "probability": 0.9992
+        },
+        {
+          "time": 157.72,
+          "end": 158.02,
+          "text": "点",
+          "probability": 0.998
+        },
+        {
+          "time": 157.98,
+          "end": 158.28,
+          "text": "开",
+          "probability": 0.999
+        },
+        {
+          "time": 158.72,
+          "end": 159.02,
+          "text": "世界",
+          "probability": 0.9992
+        },
+        {
+          "time": 160.02,
+          "end": 160.32,
+          "text": "这",
+          "probability": 0.9561
+        },
+        {
+          "time": 160.48,
+          "end": 160.78,
+          "text": "世界",
+          "probability": 0.9877
+        },
+        {
+          "time": 161.24,
+          "end": 161.54,
+          "text": "需要",
+          "probability": 0.9951
+        },
+        {
+          "time": 161.82,
+          "end": 162.12,
+          "text": "你",
+          "probability": 0.9997
+        },
+        {
+          "time": 162.22,
+          "end": 162.52,
+          "text": "我",
+          "probability": 0.9945
+        }
+      ]
+    },
+    {
+      "time": 162.9,
+      "end": 164.48,
+      "text": "把冷漠变成爱",
+      "words": [
+        {
+          "time": 162.9,
+          "end": 163.2,
+          "text": "把",
+          "probability": 0.997
+        },
+        {
+          "time": 163.04,
+          "end": 163.34,
+          "text": "冷",
+          "probability": 0.9999
+        },
+        {
+          "time": 163.2,
+          "end": 163.5,
+          "text": "漠",
+          "probability": 0.9998
+        },
+        {
+          "time": 163.46,
+          "end": 163.76,
+          "text": "变",
+          "probability": 0.9999
+        },
+        {
+          "time": 163.72,
+          "end": 164.02,
+          "text": "成",
+          "probability": 0.9999
+        },
+        {
+          "time": 164.18,
+          "end": 164.48,
+          "text": "爱",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 167.12,
+      "end": 172.76,
+      "text": "以基督的心为心祂的眼看世界",
+      "words": [
+        {
+          "time": 167.12,
+          "end": 167.42,
+          "text": "以",
+          "probability": 0.2499
+        },
+        {
+          "time": 167.34,
+          "end": 167.64,
+          "text": "基",
+          "probability": 0.9591
+        },
+        {
+          "time": 167.54,
+          "end": 167.84,
+          "text": "督",
+          "probability": 0.9986
+        },
+        {
+          "time": 167.74,
+          "end": 168.04,
+          "text": "的",
+          "probability": 0.9936
+        },
+        {
+          "time": 168.16,
+          "end": 168.46,
+          "text": "心",
+          "probability": 0.884
+        },
+        {
+          "time": 168.68,
+          "end": 168.98,
+          "text": "为",
+          "probability": 0.385
+        },
+        {
+          "time": 169.3,
+          "end": 169.6,
+          "text": "心",
+          "probability": 0.843
+        },
+        {
+          "time": 170.68,
+          "end": 171.02,
+          "text": "祂",
+          "probability": 0.2432
+        },
+        {
+          "time": 170.96,
+          "end": 171.26,
+          "text": "的",
+          "probability": 0.4978
+        },
+        {
+          "time": 171.28,
+          "end": 171.58,
+          "text": "眼",
+          "probability": 0.3706
+        },
+        {
+          "time": 171.6,
+          "end": 171.9,
+          "text": "看",
+          "probability": 0.4449
+        },
+        {
+          "time": 172.46,
+          "end": 172.76,
+          "text": "世界",
+          "probability": 0.9706
+        }
+      ]
+    },
+    {
+      "time": 173.88,
+      "end": 178.28,
+      "text": "你身边的人需要你我把冷漠变成爱",
+      "words": [
+        {
+          "time": 173.88,
+          "end": 174.18,
+          "text": "你",
+          "probability": 0.8187
+        },
+        {
+          "time": 174.06,
+          "end": 174.36,
+          "text": "身",
+          "probability": 0.9966
+        },
+        {
+          "time": 174.28,
+          "end": 174.58,
+          "text": "边",
+          "probability": 0.9987
+        },
+        {
+          "time": 174.6,
+          "end": 174.9,
+          "text": "的人",
+          "probability": 0.9811
+        },
+        {
+          "time": 175.2,
+          "end": 175.5,
+          "text": "需要",
+          "probability": 0.6795
+        },
+        {
+          "time": 175.56,
+          "end": 175.86,
+          "text": "你",
+          "probability": 0.997
+        },
+        {
+          "time": 175.9,
+          "end": 176.2,
+          "text": "我",
+          "probability": 0.9681
+        },
+        {
+          "time": 176.44,
+          "end": 176.74,
+          "text": "把",
+          "probability": 0.9931
+        },
+        {
+          "time": 176.62,
+          "end": 176.92,
+          "text": "冷",
+          "probability": 0.8341
+        },
+        {
+          "time": 176.78,
+          "end": 177.08,
+          "text": "漠",
+          "probability": 0.9867
+        },
+        {
+          "time": 177.0,
+          "end": 177.34,
+          "text": "变",
+          "probability": 0.9944
+        },
+        {
+          "time": 177.26,
+          "end": 177.56,
+          "text": "成",
+          "probability": 0.9972
+        },
+        {
+          "time": 177.98,
+          "end": 178.28,
+          "text": "爱",
+          "probability": 0.9861
+        }
+      ]
+    },
+    {
+      "time": 180.7,
+      "end": 186.28,
+      "text": "以基督的心为心祂的眼看世界",
+      "words": [
+        {
+          "time": 180.7,
+          "end": 181.0,
+          "text": "以",
+          "probability": 0.969
+        },
+        {
+          "time": 180.9,
+          "end": 181.2,
+          "text": "基",
+          "probability": 0.9997
+        },
+        {
+          "time": 181.08,
+          "end": 181.38,
+          "text": "督",
+          "probability": 1.0
+        },
+        {
+          "time": 181.26,
+          "end": 181.56,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 181.72,
+          "end": 182.02,
+          "text": "心",
+          "probability": 0.9999
+        },
+        {
+          "time": 182.2,
+          "end": 182.5,
+          "text": "为",
+          "probability": 0.9977
+        },
+        {
+          "time": 182.76,
+          "end": 183.06,
+          "text": "心",
+          "probability": 0.9997
+        },
+        {
+          "time": 184.2,
+          "end": 184.54,
+          "text": "祂",
+          "probability": 0.995
+        },
+        {
+          "time": 184.5,
+          "end": 184.8,
+          "text": "的",
+          "probability": 0.9988
+        },
+        {
+          "time": 184.82,
+          "end": 185.12,
+          "text": "眼",
+          "probability": 0.9954
+        },
+        {
+          "time": 185.14,
+          "end": 185.44,
+          "text": "看",
+          "probability": 0.998
+        },
+        {
+          "time": 185.98,
+          "end": 186.28,
+          "text": "世界",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 187.16,
+      "end": 191.74,
+      "text": "这世界需要你我把冷漠变成爱",
+      "words": [
+        {
+          "time": 187.16,
+          "end": 187.46,
+          "text": "这",
+          "probability": 0.9538
+        },
+        {
+          "time": 187.62,
+          "end": 187.92,
+          "text": "世界",
+          "probability": 0.9835
+        },
+        {
+          "time": 188.4,
+          "end": 188.7,
+          "text": "需要",
+          "probability": 0.9865
+        },
+        {
+          "time": 188.94,
+          "end": 189.24,
+          "text": "你",
+          "probability": 0.9996
+        },
+        {
+          "time": 189.34,
+          "end": 189.64,
+          "text": "我",
+          "probability": 0.9976
+        },
+        {
+          "time": 190.0,
+          "end": 190.3,
+          "text": "把",
+          "probability": 0.9984
+        },
+        {
+          "time": 190.18,
+          "end": 190.48,
+          "text": "冷",
+          "probability": 0.9999
+        },
+        {
+          "time": 190.32,
+          "end": 190.62,
+          "text": "漠",
+          "probability": 0.9998
+        },
+        {
+          "time": 190.6,
+          "end": 190.9,
+          "text": "变",
+          "probability": 0.9999
+        },
+        {
+          "time": 190.84,
+          "end": 191.14,
+          "text": "成",
+          "probability": 0.9999
+        },
+        {
+          "time": 191.44,
+          "end": 191.74,
+          "text": "爱",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 194.46,
+      "end": 196.64,
+      "text": "基督的心灰心",
+      "words": [
+        {
+          "time": 194.46,
+          "end": 194.76,
+          "text": "基",
+          "probability": 0.7498
+        },
+        {
+          "time": 194.68,
+          "end": 194.98,
+          "text": "督",
+          "probability": 0.9965
+        },
+        {
+          "time": 194.86,
+          "end": 195.16,
+          "text": "的",
+          "probability": 0.967
+        },
+        {
+          "time": 195.3,
+          "end": 195.6,
+          "text": "心",
+          "probability": 0.7822
+        },
+        {
+          "time": 195.82,
+          "end": 196.2,
+          "text": "灰",
+          "probability": 0.25
+        },
+        {
+          "time": 196.34,
+          "end": 196.64,
+          "text": "心",
+          "probability": 0.8397
+        }
+      ]
+    },
+    {
+      "time": 197.94,
+      "end": 199.92,
+      "text": "踩开世界",
+      "words": [
+        {
+          "time": 197.94,
+          "end": 198.28,
+          "text": "踩",
+          "probability": 0.6051
+        },
+        {
+          "time": 198.28,
+          "end": 198.58,
+          "text": "开",
+          "probability": 0.164
+        },
+        {
+          "time": 199.62,
+          "end": 199.92,
+          "text": "世界",
+          "probability": 0.9184
+        }
+      ]
+    },
+    {
+      "time": 201.4,
+      "end": 205.58,
+      "text": "身边的人需要你我把冷漠变成爱",
+      "words": [
+        {
+          "time": 201.4,
+          "end": 201.7,
+          "text": "身",
+          "probability": 0.8291
+        },
+        {
+          "time": 201.64,
+          "end": 201.94,
+          "text": "边",
+          "probability": 0.9974
+        },
+        {
+          "time": 202.04,
+          "end": 202.34,
+          "text": "的人",
+          "probability": 0.9655
+        },
+        {
+          "time": 202.66,
+          "end": 202.96,
+          "text": "需要",
+          "probability": 0.9479
+        },
+        {
+          "time": 202.98,
+          "end": 203.28,
+          "text": "你",
+          "probability": 0.9753
+        },
+        {
+          "time": 203.36,
+          "end": 203.66,
+          "text": "我",
+          "probability": 0.915
+        },
+        {
+          "time": 204.0,
+          "end": 204.3,
+          "text": "把",
+          "probability": 0.9561
+        },
+        {
+          "time": 204.1,
+          "end": 204.4,
+          "text": "冷",
+          "probability": 0.7511
+        },
+        {
+          "time": 204.28,
+          "end": 204.58,
+          "text": "漠",
+          "probability": 0.9645
+        },
+        {
+          "time": 204.48,
+          "end": 204.82,
+          "text": "变",
+          "probability": 0.9839
+        },
+        {
+          "time": 204.8,
+          "end": 205.1,
+          "text": "成",
+          "probability": 0.9971
+        },
+        {
+          "time": 205.28,
+          "end": 205.58,
+          "text": "爱",
+          "probability": 0.9271
+        }
+      ]
+    },
+    {
+      "time": 208.46,
+      "end": 210.68,
+      "text": "基督的心灰心",
+      "words": [
+        {
+          "time": 208.46,
+          "end": 208.76,
+          "text": "基",
+          "probability": 0.9993
+        },
+        {
+          "time": 208.66,
+          "end": 208.96,
+          "text": "督",
+          "probability": 1.0
+        },
+        {
+          "time": 208.92,
+          "end": 209.22,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 209.38,
+          "end": 209.68,
+          "text": "心",
+          "probability": 0.9996
+        },
+        {
+          "time": 209.82,
+          "end": 210.18,
+          "text": "灰",
+          "probability": 0.9986
+        },
+        {
+          "time": 210.38,
+          "end": 210.68,
+          "text": "心",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 211.96,
+      "end": 217.54,
+      "text": "踩开世界这世界需要你我",
+      "words": [
+        {
+          "time": 211.96,
+          "end": 212.28,
+          "text": "踩",
+          "probability": 0.9985
+        },
+        {
+          "time": 212.46,
+          "end": 212.76,
+          "text": "开",
+          "probability": 0.9898
+        },
+        {
+          "time": 213.68,
+          "end": 213.98,
+          "text": "世界",
+          "probability": 0.9976
+        },
+        {
+          "time": 214.96,
+          "end": 215.26,
+          "text": "这",
+          "probability": 0.7677
+        },
+        {
+          "time": 215.44,
+          "end": 215.74,
+          "text": "世界",
+          "probability": 0.8783
+        },
+        {
+          "time": 216.26,
+          "end": 216.56,
+          "text": "需要",
+          "probability": 0.9897
+        },
+        {
+          "time": 216.86,
+          "end": 217.16,
+          "text": "你",
+          "probability": 0.9993
+        },
+        {
+          "time": 217.24,
+          "end": 217.54,
+          "text": "我",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 217.88,
+      "end": 219.5,
+      "text": "把冷漠变成爱",
+      "words": [
+        {
+          "time": 217.88,
+          "end": 218.18,
+          "text": "把",
+          "probability": 0.9947
+        },
+        {
+          "time": 218.08,
+          "end": 218.38,
+          "text": "冷",
+          "probability": 0.9998
+        },
+        {
+          "time": 218.24,
+          "end": 218.54,
+          "text": "漠",
+          "probability": 0.9987
+        },
+        {
+          "time": 218.48,
+          "end": 218.8,
+          "text": "变",
+          "probability": 0.9995
+        },
+        {
+          "time": 218.72,
+          "end": 219.02,
+          "text": "成",
+          "probability": 0.9999
+        },
+        {
+          "time": 219.2,
+          "end": 219.5,
+          "text": "爱",
+          "probability": 0.9981
+        }
+      ]
+    },
+    {
+      "time": 222.18,
+      "end": 224.62,
+      "text": "你基督的心灰心",
+      "words": [
+        {
+          "time": 222.18,
+          "end": 222.48,
+          "text": "你",
+          "probability": 0.237
+        },
+        {
+          "time": 222.4,
+          "end": 222.7,
+          "text": "基",
+          "probability": 0.2792
+        },
+        {
+          "time": 222.58,
+          "end": 222.88,
+          "text": "督",
+          "probability": 0.9969
+        },
+        {
+          "time": 222.76,
+          "end": 223.06,
+          "text": "的",
+          "probability": 0.9611
+        },
+        {
+          "time": 223.3,
+          "end": 223.6,
+          "text": "心",
+          "probability": 0.8571
+        },
+        {
+          "time": 223.74,
+          "end": 224.08,
+          "text": "灰",
+          "probability": 0.1595
+        },
+        {
+          "time": 224.32,
+          "end": 224.62,
+          "text": "心",
+          "probability": 0.7527
+        }
+      ]
+    },
+    {
+      "time": 225.88,
+      "end": 227.92,
+      "text": "怕离开世界",
+      "words": [
+        {
+          "time": 225.88,
+          "end": 226.18,
+          "text": "怕",
+          "probability": 0.1049
+        },
+        {
+          "time": 226.14,
+          "end": 226.5,
+          "text": "离",
+          "probability": 0.5763
+        },
+        {
+          "time": 226.72,
+          "end": 227.02,
+          "text": "开",
+          "probability": 0.9968
+        },
+        {
+          "time": 227.62,
+          "end": 227.92,
+          "text": "世界",
+          "probability": 0.9287
+        }
+      ]
+    },
+    {
+      "time": 229.14,
+      "end": 233.38,
+      "text": "你身边的人需要你我怕冷漠变成爱",
+      "words": [
+        {
+          "time": 229.14,
+          "end": 229.44,
+          "text": "你",
+          "probability": 0.5179
+        },
+        {
+          "time": 229.32,
+          "end": 229.62,
+          "text": "身",
+          "probability": 0.35
+        },
+        {
+          "time": 229.54,
+          "end": 229.84,
+          "text": "边",
+          "probability": 0.9634
+        },
+        {
+          "time": 229.82,
+          "end": 230.12,
+          "text": "的人",
+          "probability": 0.9356
+        },
+        {
+          "time": 230.58,
+          "end": 230.88,
+          "text": "需要",
+          "probability": 0.9224
+        },
+        {
+          "time": 230.84,
+          "end": 231.14,
+          "text": "你",
+          "probability": 0.9915
+        },
+        {
+          "time": 231.22,
+          "end": 231.52,
+          "text": "我",
+          "probability": 0.9362
+        },
+        {
+          "time": 231.78,
+          "end": 232.08,
+          "text": "怕",
+          "probability": 0.4804
+        },
+        {
+          "time": 231.9,
+          "end": 232.2,
+          "text": "冷",
+          "probability": 0.8325
+        },
+        {
+          "time": 232.12,
+          "end": 232.42,
+          "text": "漠",
+          "probability": 0.3909
+        },
+        {
+          "time": 232.32,
+          "end": 232.64,
+          "text": "变",
+          "probability": 0.2617
+        },
+        {
+          "time": 232.6,
+          "end": 232.9,
+          "text": "成",
+          "probability": 0.9884
+        },
+        {
+          "time": 233.08,
+          "end": 233.38,
+          "text": "爱",
+          "probability": 0.5008
+        }
+      ]
+    },
+    {
+      "time": 236.06,
+      "end": 238.3,
+      "text": "你基督的心灰心",
+      "words": [
+        {
+          "time": 236.06,
+          "end": 236.36,
+          "text": "你",
+          "probability": 0.6286
+        },
+        {
+          "time": 236.22,
+          "end": 236.52,
+          "text": "基",
+          "probability": 0.9902
+        },
+        {
+          "time": 236.42,
+          "end": 236.72,
+          "text": "督",
+          "probability": 0.9998
+        },
+        {
+          "time": 236.64,
+          "end": 236.94,
+          "text": "的",
+          "probability": 0.9999
+        },
+        {
+          "time": 237.04,
+          "end": 237.34,
+          "text": "心",
+          "probability": 0.9992
+        },
+        {
+          "time": 237.52,
+          "end": 237.9,
+          "text": "灰",
+          "probability": 0.9952
+        },
+        {
+          "time": 238.0,
+          "end": 238.3,
+          "text": "心",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 239.64,
+      "end": 245.56,
+      "text": "怕离开世界这世界需要你我怕",
+      "words": [
+        {
+          "time": 239.64,
+          "end": 239.94,
+          "text": "怕",
+          "probability": 0.9836
+        },
+        {
+          "time": 239.9,
+          "end": 240.2,
+          "text": "离",
+          "probability": 0.9987
+        },
+        {
+          "time": 240.52,
+          "end": 240.82,
+          "text": "开",
+          "probability": 0.9996
+        },
+        {
+          "time": 241.34,
+          "end": 241.64,
+          "text": "世界",
+          "probability": 0.9984
+        },
+        {
+          "time": 242.58,
+          "end": 242.88,
+          "text": "这",
+          "probability": 0.642
+        },
+        {
+          "time": 243.04,
+          "end": 243.34,
+          "text": "世界",
+          "probability": 0.6506
+        },
+        {
+          "time": 243.88,
+          "end": 244.18,
+          "text": "需要",
+          "probability": 0.9722
+        },
+        {
+          "time": 244.36,
+          "end": 244.66,
+          "text": "你",
+          "probability": 0.9996
+        },
+        {
+          "time": 244.8,
+          "end": 245.1,
+          "text": "我",
+          "probability": 0.9887
+        },
+        {
+          "time": 245.4,
+          "end": 245.7,
+          "text": "怕",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 245.56,
+      "end": 246.98,
+      "text": "冷漠变成爱",
+      "words": [
+        {
+          "time": 245.56,
+          "end": 245.86,
+          "text": "冷",
+          "probability": 0.9996
+        },
+        {
+          "time": 245.76,
+          "end": 246.06,
+          "text": "漠",
+          "probability": 0.9898
+        },
+        {
+          "time": 246.0,
+          "end": 246.3,
+          "text": "变",
+          "probability": 0.997
+        },
+        {
+          "time": 246.22,
+          "end": 246.52,
+          "text": "成",
+          "probability": 0.9999
+        },
+        {
+          "time": 246.68,
+          "end": 246.98,
+          "text": "爱",
+          "probability": 0.9928
+        }
+      ]
+    },
+    {
+      "time": 254.38,
+      "end": 254.68,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "优",
+          "probability": 0.0904
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "优",
+          "probability": 0.9906
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "独",
+          "probability": 0.9893
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "播",
+          "probability": 0.9868
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "剧",
+          "probability": 0.9887
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "场",
+          "probability": 0.9881
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "——",
+          "probability": 0.994
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "Yo",
+          "probability": 0.9921
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "Yo",
+          "probability": 0.9928
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": " Television",
+          "probability": 0.978
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": " Series",
+          "probability": 0.99
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": " Exc",
+          "probability": 0.9923
+        },
+        {
+          "time": 254.38,
+          "end": 254.68,
+          "text": "lusive",
+          "probability": 0.993
+        }
+      ]
+    }
+  ]
+}

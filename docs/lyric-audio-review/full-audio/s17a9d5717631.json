@@ -1,0 +1,1613 @@
+{
+  "id": "s17a9d5717631",
+  "file": "082-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "aa6fb7d25d6efca74072b0389c2b637c5f727c5f1e65aa6957c8249f9cc2cebb",
+  "fullDuration": 289.050875,
+  "lines": [
+    {
+      "time": 0.44,
+      "end": 1.18,
+      "text": "作词:吴嘉雯",
+      "words": [
+        {
+          "time": 0.44,
+          "end": 0.74,
+          "text": "作",
+          "probability": 0.1341
+        },
+        {
+          "time": 0.44,
+          "end": 0.74,
+          "text": "词",
+          "probability": 0.4373
+        },
+        {
+          "time": 0.44,
+          "end": 0.74,
+          "text": ":",
+          "probability": 0.4978
+        },
+        {
+          "time": 0.5,
+          "end": 1.18,
+          "text": "吴",
+          "probability": 0.037
+        },
+        {
+          "time": 0.88,
+          "end": 1.18,
+          "text": "嘉",
+          "probability": 0.093
+        },
+        {
+          "time": 0.88,
+          "end": 1.18,
+          "text": "雯",
+          "probability": 0.229
+        }
+      ]
+    },
+    {
+      "time": 3.16,
+      "end": 3.68,
+      "text": "作曲:吴嘉雯",
+      "words": [
+        {
+          "time": 3.16,
+          "end": 3.46,
+          "text": "作",
+          "probability": 0.7646
+        },
+        {
+          "time": 3.16,
+          "end": 3.46,
+          "text": "曲",
+          "probability": 0.8884
+        },
+        {
+          "time": 3.16,
+          "end": 3.46,
+          "text": ":",
+          "probability": 0.9927
+        },
+        {
+          "time": 3.32,
+          "end": 3.62,
+          "text": "吴",
+          "probability": 0.4977
+        },
+        {
+          "time": 3.38,
+          "end": 3.68,
+          "text": "嘉",
+          "probability": 0.9922
+        },
+        {
+          "time": 3.38,
+          "end": 3.68,
+          "text": "雯",
+          "probability": 0.9728
+        }
+      ]
+    },
+    {
+      "time": 8.84,
+      "end": 12.76,
+      "text": "作曲:吴嘉雯作曲:吴嘉雯作曲:吴嘉雯作曲:吴嘉雯作曲:",
+      "words": [
+        {
+          "time": 8.84,
+          "end": 9.14,
+          "text": "作",
+          "probability": 0.721
+        },
+        {
+          "time": 8.84,
+          "end": 9.14,
+          "text": "曲",
+          "probability": 0.8877
+        },
+        {
+          "time": 8.84,
+          "end": 9.14,
+          "text": ":",
+          "probability": 0.998
+        },
+        {
+          "time": 8.84,
+          "end": 9.18,
+          "text": "吴",
+          "probability": 0.7874
+        },
+        {
+          "time": 9.98,
+          "end": 10.28,
+          "text": "嘉",
+          "probability": 0.9956
+        },
+        {
+          "time": 9.98,
+          "end": 10.3,
+          "text": "雯",
+          "probability": 0.9958
+        },
+        {
+          "time": 10.48,
+          "end": 10.78,
+          "text": "作",
+          "probability": 0.625
+        },
+        {
+          "time": 10.48,
+          "end": 10.78,
+          "text": "曲",
+          "probability": 0.8478
+        },
+        {
+          "time": 10.48,
+          "end": 10.78,
+          "text": ":",
+          "probability": 0.9987
+        },
+        {
+          "time": 10.54,
+          "end": 10.88,
+          "text": "吴",
+          "probability": 0.8728
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "嘉",
+          "probability": 0.9966
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "雯",
+          "probability": 0.9984
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "作",
+          "probability": 0.62
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "曲",
+          "probability": 0.8307
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": ":",
+          "probability": 0.999
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "吴",
+          "probability": 0.9082
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "嘉",
+          "probability": 0.9969
+        },
+        {
+          "time": 10.64,
+          "end": 10.96,
+          "text": "雯",
+          "probability": 0.9984
+        },
+        {
+          "time": 10.72,
+          "end": 11.02,
+          "text": "作",
+          "probability": 0.6302
+        },
+        {
+          "time": 10.76,
+          "end": 11.06,
+          "text": "曲",
+          "probability": 0.8157
+        },
+        {
+          "time": 10.78,
+          "end": 11.08,
+          "text": ":",
+          "probability": 0.9992
+        },
+        {
+          "time": 10.82,
+          "end": 11.16,
+          "text": "吴",
+          "probability": 0.9281
+        },
+        {
+          "time": 11.16,
+          "end": 11.46,
+          "text": "嘉",
+          "probability": 0.9971
+        },
+        {
+          "time": 11.16,
+          "end": 11.48,
+          "text": "雯",
+          "probability": 0.9986
+        },
+        {
+          "time": 12.46,
+          "end": 12.76,
+          "text": "作",
+          "probability": 0.6512
+        },
+        {
+          "time": 12.46,
+          "end": 12.76,
+          "text": "曲",
+          "probability": 0.8861
+        },
+        {
+          "time": 12.46,
+          "end": 12.76,
+          "text": ":",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 16.64,
+      "end": 21.12,
+      "text": "吴嘉雯作曲:吴嘉雯作曲:吴嘉雯感想救",
+      "words": [
+        {
+          "time": 16.64,
+          "end": 16.98,
+          "text": "吴",
+          "probability": 0.9421
+        },
+        {
+          "time": 16.7,
+          "end": 17.0,
+          "text": "嘉",
+          "probability": 0.9976
+        },
+        {
+          "time": 16.7,
+          "end": 17.0,
+          "text": "雯",
+          "probability": 0.9986
+        },
+        {
+          "time": 18.04,
+          "end": 18.34,
+          "text": "作",
+          "probability": 0.6341
+        },
+        {
+          "time": 18.04,
+          "end": 18.34,
+          "text": "曲",
+          "probability": 0.8998
+        },
+        {
+          "time": 19.1,
+          "end": 19.4,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 19.1,
+          "end": 19.4,
+          "text": "吴",
+          "probability": 0.9456
+        },
+        {
+          "time": 19.1,
+          "end": 19.4,
+          "text": "嘉",
+          "probability": 0.9977
+        },
+        {
+          "time": 19.1,
+          "end": 19.4,
+          "text": "雯",
+          "probability": 0.9987
+        },
+        {
+          "time": 19.32,
+          "end": 19.62,
+          "text": "作",
+          "probability": 0.4949
+        },
+        {
+          "time": 19.32,
+          "end": 19.62,
+          "text": "曲",
+          "probability": 0.9202
+        },
+        {
+          "time": 19.32,
+          "end": 19.62,
+          "text": ":",
+          "probability": 0.9996
+        },
+        {
+          "time": 19.32,
+          "end": 19.9,
+          "text": "吴",
+          "probability": 0.9552
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "嘉",
+          "probability": 0.9976
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "雯",
+          "probability": 0.9987
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "感",
+          "probability": 0.162
+        },
+        {
+          "time": 20.28,
+          "end": 20.58,
+          "text": "想",
+          "probability": 0.2426
+        },
+        {
+          "time": 20.82,
+          "end": 21.12,
+          "text": "救",
+          "probability": 0.6533
+        }
+      ]
+    },
+    {
+      "time": 24.48,
+      "end": 26.48,
+      "text": "我爱你",
+      "words": [
+        {
+          "time": 24.48,
+          "end": 24.78,
+          "text": "我",
+          "probability": 0.9361
+        },
+        {
+          "time": 25.48,
+          "end": 25.78,
+          "text": "爱",
+          "probability": 0.8273
+        },
+        {
+          "time": 26.18,
+          "end": 26.48,
+          "text": "你",
+          "probability": 0.9925
+        }
+      ]
+    },
+    {
+      "time": 29.48,
+      "end": 32.6,
+      "text": "靠近我双手",
+      "words": [
+        {
+          "time": 29.48,
+          "end": 30.08,
+          "text": "靠",
+          "probability": 0.4104
+        },
+        {
+          "time": 30.12,
+          "end": 30.42,
+          "text": "近",
+          "probability": 0.3826
+        },
+        {
+          "time": 30.42,
+          "end": 30.72,
+          "text": "我",
+          "probability": 0.9704
+        },
+        {
+          "time": 30.76,
+          "end": 31.3,
+          "text": "双",
+          "probability": 0.9328
+        },
+        {
+          "time": 32.3,
+          "end": 32.6,
+          "text": "手",
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "time": 34.2,
+      "end": 36.6,
+      "text": "来赞美你",
+      "words": [
+        {
+          "time": 34.2,
+          "end": 34.5,
+          "text": "来",
+          "probability": 0.8302
+        },
+        {
+          "time": 34.6,
+          "end": 35.18,
+          "text": "赞",
+          "probability": 0.9254
+        },
+        {
+          "time": 35.44,
+          "end": 35.74,
+          "text": "美",
+          "probability": 0.9966
+        },
+        {
+          "time": 36.3,
+          "end": 36.6,
+          "text": "你",
+          "probability": 0.9835
+        }
+      ]
+    },
+    {
+      "time": 40.4,
+      "end": 41.58,
+      "text": "我的心",
+      "words": [
+        {
+          "time": 40.4,
+          "end": 40.7,
+          "text": "我的",
+          "probability": 0.9941
+        },
+        {
+          "time": 41.28,
+          "end": 41.58,
+          "text": "心",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 44.04,
+      "end": 46.48,
+      "text": "充满欢喜",
+      "words": [
+        {
+          "time": 44.04,
+          "end": 44.58,
+          "text": "充",
+          "probability": 0.7634
+        },
+        {
+          "time": 44.76,
+          "end": 45.3,
+          "text": "满",
+          "probability": 0.9998
+        },
+        {
+          "time": 45.42,
+          "end": 45.72,
+          "text": "欢",
+          "probability": 0.9971
+        },
+        {
+          "time": 46.18,
+          "end": 46.48,
+          "text": "喜",
+          "probability": 0.9862
+        }
+      ]
+    },
+    {
+      "time": 50.52,
+      "end": 52.34,
+      "text": "我要歌唱",
+      "words": [
+        {
+          "time": 50.52,
+          "end": 50.82,
+          "text": "我要",
+          "probability": 0.5277
+        },
+        {
+          "time": 51.18,
+          "end": 51.48,
+          "text": "歌",
+          "probability": 0.9869
+        },
+        {
+          "time": 52.04,
+          "end": 52.34,
+          "text": "唱",
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "time": 54.54,
+      "end": 56.58,
+      "text": "来奏扬你",
+      "words": [
+        {
+          "time": 54.54,
+          "end": 54.84,
+          "text": "来",
+          "probability": 0.9818
+        },
+        {
+          "time": 54.94,
+          "end": 55.5,
+          "text": "奏",
+          "probability": 0.3442
+        },
+        {
+          "time": 55.6,
+          "end": 56.12,
+          "text": "扬",
+          "probability": 0.5828
+        },
+        {
+          "time": 56.28,
+          "end": 56.58,
+          "text": "你",
+          "probability": 0.9931
+        }
+      ]
+    },
+    {
+      "time": 60.24,
+      "end": 61.98,
+      "text": "感情All",
+      "words": [
+        {
+          "time": 60.24,
+          "end": 60.54,
+          "text": "感",
+          "probability": 0.1496
+        },
+        {
+          "time": 60.88,
+          "end": 61.18,
+          "text": "情",
+          "probability": 0.1793
+        },
+        {
+          "time": 61.68,
+          "end": 61.98,
+          "text": "All",
+          "probability": 0.2904
+        }
+      ]
+    },
+    {
+      "time": 65.82,
+      "end": 66.74,
+      "text": "eluia",
+      "words": [
+        {
+          "time": 65.82,
+          "end": 66.12,
+          "text": "elu",
+          "probability": 0.9636
+        },
+        {
+          "time": 66.44,
+          "end": 66.74,
+          "text": "ia",
+          "probability": 0.9866
+        }
+      ]
+    },
+    {
+      "time": 70.74,
+      "end": 71.04,
+      "text": "我的",
+      "words": [
+        {
+          "time": 70.74,
+          "end": 71.04,
+          "text": "我的",
+          "probability": 0.9857
+        }
+      ]
+    },
+    {
+      "time": 72.34,
+      "end": 72.64,
+      "text": "心",
+      "words": [
+        {
+          "time": 72.34,
+          "end": 72.64,
+          "text": "心",
+          "probability": 0.9963
+        }
+      ]
+    },
+    {
+      "time": 74.56,
+      "end": 77.42,
+      "text": "充满欢喜",
+      "words": [
+        {
+          "time": 74.56,
+          "end": 75.18,
+          "text": "充",
+          "probability": 0.9138
+        },
+        {
+          "time": 75.24,
+          "end": 75.8,
+          "text": "满",
+          "probability": 0.9759
+        },
+        {
+          "time": 75.92,
+          "end": 76.22,
+          "text": "欢",
+          "probability": 0.8212
+        },
+        {
+          "time": 77.12,
+          "end": 77.42,
+          "text": "喜",
+          "probability": 0.9508
+        }
+      ]
+    },
+    {
+      "time": 80.46,
+      "end": 82.0,
+      "text": "感情主",
+      "words": [
+        {
+          "time": 80.46,
+          "end": 80.76,
+          "text": "感",
+          "probability": 0.9318
+        },
+        {
+          "time": 81.14,
+          "end": 81.44,
+          "text": "情",
+          "probability": 0.993
+        },
+        {
+          "time": 81.7,
+          "end": 82.0,
+          "text": "主",
+          "probability": 0.6285
+        }
+      ]
+    },
+    {
+      "time": 85.56,
+      "end": 87.44,
+      "text": "我爱你",
+      "words": [
+        {
+          "time": 85.56,
+          "end": 85.86,
+          "text": "我",
+          "probability": 0.5228
+        },
+        {
+          "time": 86.46,
+          "end": 86.76,
+          "text": "爱",
+          "probability": 0.9891
+        },
+        {
+          "time": 87.14,
+          "end": 87.44,
+          "text": "你",
+          "probability": 0.9664
+        }
+      ]
+    },
+    {
+      "time": 90.7,
+      "end": 92.18,
+      "text": "我一生",
+      "words": [
+        {
+          "time": 90.7,
+          "end": 91.0,
+          "text": "我",
+          "probability": 0.995
+        },
+        {
+          "time": 91.18,
+          "end": 91.48,
+          "text": "一",
+          "probability": 0.9922
+        },
+        {
+          "time": 91.88,
+          "end": 92.18,
+          "text": "生",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 95.06,
+      "end": 97.5,
+      "text": "要赞美你",
+      "words": [
+        {
+          "time": 95.06,
+          "end": 95.36,
+          "text": "要",
+          "probability": 0.7512
+        },
+        {
+          "time": 95.5,
+          "end": 96.1,
+          "text": "赞",
+          "probability": 0.8126
+        },
+        {
+          "time": 96.36,
+          "end": 96.66,
+          "text": "美",
+          "probability": 0.9617
+        },
+        {
+          "time": 97.2,
+          "end": 97.5,
+          "text": "你",
+          "probability": 0.9727
+        }
+      ]
+    },
+    {
+      "time": 121.26,
+      "end": 122.8,
+      "text": "高尚主",
+      "words": [
+        {
+          "time": 121.26,
+          "end": 121.56,
+          "text": "高",
+          "probability": 0.8659
+        },
+        {
+          "time": 121.66,
+          "end": 122.24,
+          "text": "尚",
+          "probability": 0.5182
+        },
+        {
+          "time": 122.5,
+          "end": 122.8,
+          "text": "主",
+          "probability": 0.7537
+        }
+      ]
+    },
+    {
+      "time": 126.38,
+      "end": 128.08,
+      "text": "我爱你",
+      "words": [
+        {
+          "time": 126.38,
+          "end": 126.68,
+          "text": " 我",
+          "probability": 0.3164
+        },
+        {
+          "time": 127.0,
+          "end": 127.3,
+          "text": "爱",
+          "probability": 0.9668
+        },
+        {
+          "time": 127.78,
+          "end": 128.08,
+          "text": "你",
+          "probability": 0.9809
+        }
+      ]
+    },
+    {
+      "time": 131.32,
+      "end": 133.84,
+      "text": "高举我双手",
+      "words": [
+        {
+          "time": 131.32,
+          "end": 131.62,
+          "text": "高",
+          "probability": 0.8572
+        },
+        {
+          "time": 131.64,
+          "end": 132.02,
+          "text": "举",
+          "probability": 0.4335
+        },
+        {
+          "time": 132.08,
+          "end": 132.38,
+          "text": "我",
+          "probability": 0.9966
+        },
+        {
+          "time": 132.3,
+          "end": 132.84,
+          "text": "双",
+          "probability": 0.8938
+        },
+        {
+          "time": 133.54,
+          "end": 133.84,
+          "text": "手",
+          "probability": 0.974
+        }
+      ]
+    },
+    {
+      "time": 135.64,
+      "end": 137.98,
+      "text": "赞美你",
+      "words": [
+        {
+          "time": 135.64,
+          "end": 136.12,
+          "text": "赞",
+          "probability": 0.7267
+        },
+        {
+          "time": 136.92,
+          "end": 137.22,
+          "text": "美",
+          "probability": 0.9142
+        },
+        {
+          "time": 137.68,
+          "end": 137.98,
+          "text": "你",
+          "probability": 0.9516
+        }
+      ]
+    },
+    {
+      "time": 141.8,
+      "end": 143.28,
+      "text": "我的心",
+      "words": [
+        {
+          "time": 141.8,
+          "end": 142.1,
+          "text": "我的",
+          "probability": 0.9867
+        },
+        {
+          "time": 142.98,
+          "end": 143.28,
+          "text": "心",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 145.72,
+      "end": 148.04,
+      "text": "充满欢喜",
+      "words": [
+        {
+          "time": 145.72,
+          "end": 146.3,
+          "text": "充",
+          "probability": 0.7535
+        },
+        {
+          "time": 146.4,
+          "end": 146.88,
+          "text": "满",
+          "probability": 0.9993
+        },
+        {
+          "time": 146.96,
+          "end": 147.26,
+          "text": "欢",
+          "probability": 0.9808
+        },
+        {
+          "time": 147.74,
+          "end": 148.04,
+          "text": "喜",
+          "probability": 0.9667
+        }
+      ]
+    },
+    {
+      "time": 152.08,
+      "end": 154.02,
+      "text": "我要歌唱",
+      "words": [
+        {
+          "time": 152.08,
+          "end": 152.38,
+          "text": "我要",
+          "probability": 0.9964
+        },
+        {
+          "time": 152.76,
+          "end": 153.06,
+          "text": "歌",
+          "probability": 0.9937
+        },
+        {
+          "time": 153.72,
+          "end": 154.02,
+          "text": "唱",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 156.12,
+      "end": 158.76,
+      "text": "来颂养你",
+      "words": [
+        {
+          "time": 156.12,
+          "end": 156.42,
+          "text": "来",
+          "probability": 0.7743
+        },
+        {
+          "time": 156.56,
+          "end": 157.1,
+          "text": "颂",
+          "probability": 0.5541
+        },
+        {
+          "time": 157.14,
+          "end": 157.68,
+          "text": "养",
+          "probability": 0.7242
+        },
+        {
+          "time": 158.46,
+          "end": 158.76,
+          "text": "你",
+          "probability": 0.9468
+        }
+      ]
+    },
+    {
+      "time": 161.74,
+      "end": 164.2,
+      "text": "Gounds of All",
+      "words": [
+        {
+          "time": 161.74,
+          "end": 162.04,
+          "text": "G",
+          "probability": 0.1719
+        },
+        {
+          "time": 162.02,
+          "end": 162.32,
+          "text": "ounds",
+          "probability": 0.0999
+        },
+        {
+          "time": 162.62,
+          "end": 162.92,
+          "text": " of",
+          "probability": 0.9935
+        },
+        {
+          "time": 163.9,
+          "end": 164.2,
+          "text": " All",
+          "probability": 0.3444
+        }
+      ]
+    },
+    {
+      "time": 165.88,
+      "end": 169.0,
+      "text": ", AlleluiaG",
+      "words": [
+        {
+          "time": 165.88,
+          "end": 166.18,
+          "text": ",",
+          "probability": 0.4553
+        },
+        {
+          "time": 166.92,
+          "end": 167.22,
+          "text": " All",
+          "probability": 0.6442
+        },
+        {
+          "time": 167.52,
+          "end": 167.82,
+          "text": "elu",
+          "probability": 0.9386
+        },
+        {
+          "time": 168.7,
+          "end": 169.0,
+          "text": "ia",
+          "probability": 0.9926
+        },
+        {
+          "time": 168.7,
+          "end": 169.0,
+          "text": "G",
+          "probability": 0.3547
+        }
+      ]
+    },
+    {
+      "time": 172.08,
+      "end": 173.08,
+      "text": "uard these",
+      "words": [
+        {
+          "time": 172.08,
+          "end": 172.38,
+          "text": "uard",
+          "probability": 0.0494
+        },
+        {
+          "time": 172.78,
+          "end": 173.08,
+          "text": " these",
+          "probability": 0.79
+        }
+      ]
+    },
+    {
+      "time": 174.68,
+      "end": 174.98,
+      "text": "things",
+      "words": [
+        {
+          "time": 174.68,
+          "end": 174.98,
+          "text": " things",
+          "probability": 0.7604
+        }
+      ]
+    },
+    {
+      "time": 176.64,
+      "end": 179.12,
+      "text": "on the white sea",
+      "words": [
+        {
+          "time": 176.64,
+          "end": 176.94,
+          "text": " on",
+          "probability": 0.4558
+        },
+        {
+          "time": 177.06,
+          "end": 177.36,
+          "text": " the",
+          "probability": 0.9609
+        },
+        {
+          "time": 177.66,
+          "end": 177.96,
+          "text": " white",
+          "probability": 0.757
+        },
+        {
+          "time": 178.82,
+          "end": 179.12,
+          "text": " sea",
+          "probability": 0.9723
+        }
+      ]
+    },
+    {
+      "time": 181.96,
+      "end": 184.56,
+      "text": "Gounds of fruit,",
+      "words": [
+        {
+          "time": 181.96,
+          "end": 182.26,
+          "text": "G",
+          "probability": 0.9084
+        },
+        {
+          "time": 182.26,
+          "end": 182.56,
+          "text": "ounds",
+          "probability": 0.9805
+        },
+        {
+          "time": 182.84,
+          "end": 183.14,
+          "text": " of",
+          "probability": 0.9942
+        },
+        {
+          "time": 184.26,
+          "end": 184.56,
+          "text": " fruit",
+          "probability": 0.2098
+        },
+        {
+          "time": 184.26,
+          "end": 184.56,
+          "text": ",",
+          "probability": 0.5548
+        }
+      ]
+    },
+    {
+      "time": 187.34,
+      "end": 188.82,
+      "text": "all I need",
+      "words": [
+        {
+          "time": 187.34,
+          "end": 187.64,
+          "text": " all",
+          "probability": 0.8778
+        },
+        {
+          "time": 187.96,
+          "end": 188.26,
+          "text": " I",
+          "probability": 0.9918
+        },
+        {
+          "time": 188.52,
+          "end": 188.82,
+          "text": " need",
+          "probability": 0.9762
+        }
+      ]
+    },
+    {
+      "time": 192.3,
+      "end": 193.8,
+      "text": "我一生",
+      "words": [
+        {
+          "time": 192.3,
+          "end": 192.6,
+          "text": "我",
+          "probability": 0.9888
+        },
+        {
+          "time": 192.86,
+          "end": 193.16,
+          "text": "一",
+          "probability": 0.9924
+        },
+        {
+          "time": 193.5,
+          "end": 193.8,
+          "text": "生",
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "time": 196.72,
+      "end": 198.26,
+      "text": "要赞美",
+      "words": [
+        {
+          "time": 196.72,
+          "end": 197.02,
+          "text": "要",
+          "probability": 0.5398
+        },
+        {
+          "time": 197.1,
+          "end": 197.7,
+          "text": "赞",
+          "probability": 0.9428
+        },
+        {
+          "time": 197.96,
+          "end": 198.26,
+          "text": "美",
+          "probability": 0.7253
+        }
+      ]
+    },
+    {
+      "time": 199.82,
+      "end": 200.12,
+      "text": "你",
+      "words": [
+        {
+          "time": 199.82,
+          "end": 200.12,
+          "text": "你",
+          "probability": 0.9435
+        }
+      ]
+    },
+    {
+      "time": 202.46,
+      "end": 204.84,
+      "text": "高昭啊",
+      "words": [
+        {
+          "time": 202.46,
+          "end": 202.76,
+          "text": "高",
+          "probability": 0.4336
+        },
+        {
+          "time": 202.86,
+          "end": 203.44,
+          "text": "昭",
+          "probability": 0.2759
+        },
+        {
+          "time": 204.54,
+          "end": 204.84,
+          "text": "啊",
+          "probability": 0.211
+        }
+      ]
+    },
+    {
+      "time": 207.98,
+      "end": 209.28,
+      "text": "耶路亚",
+      "words": [
+        {
+          "time": 207.98,
+          "end": 208.28,
+          "text": "耶",
+          "probability": 0.6279
+        },
+        {
+          "time": 208.06,
+          "end": 208.36,
+          "text": "路",
+          "probability": 0.7947
+        },
+        {
+          "time": 208.68,
+          "end": 209.28,
+          "text": "亚",
+          "probability": 0.4689
+        }
+      ]
+    },
+    {
+      "time": 213.02,
+      "end": 214.14,
+      "text": "我的心",
+      "words": [
+        {
+          "time": 213.02,
+          "end": 213.32,
+          "text": "我的",
+          "probability": 0.6202
+        },
+        {
+          "time": 213.84,
+          "end": 214.14,
+          "text": "心",
+          "probability": 0.9921
+        }
+      ]
+    },
+    {
+      "time": 216.82,
+      "end": 219.32,
+      "text": "充满欢喜",
+      "words": [
+        {
+          "time": 216.82,
+          "end": 217.38,
+          "text": "充",
+          "probability": 0.2631
+        },
+        {
+          "time": 217.52,
+          "end": 218.0,
+          "text": "满",
+          "probability": 0.9991
+        },
+        {
+          "time": 218.14,
+          "end": 218.44,
+          "text": "欢",
+          "probability": 0.9799
+        },
+        {
+          "time": 219.02,
+          "end": 219.32,
+          "text": "喜",
+          "probability": 0.9781
+        }
+      ]
+    },
+    {
+      "time": 222.7,
+      "end": 225.4,
+      "text": "好想不出",
+      "words": [
+        {
+          "time": 222.7,
+          "end": 223.0,
+          "text": "好",
+          "probability": 0.4
+        },
+        {
+          "time": 223.34,
+          "end": 223.64,
+          "text": "想",
+          "probability": 0.3339
+        },
+        {
+          "time": 223.98,
+          "end": 224.28,
+          "text": "不",
+          "probability": 0.0943
+        },
+        {
+          "time": 225.1,
+          "end": 225.4,
+          "text": "出",
+          "probability": 0.2588
+        }
+      ]
+    },
+    {
+      "time": 227.68,
+      "end": 229.78,
+      "text": "我爱你",
+      "words": [
+        {
+          "time": 227.68,
+          "end": 227.98,
+          "text": "我",
+          "probability": 0.4185
+        },
+        {
+          "time": 228.64,
+          "end": 228.94,
+          "text": "爱",
+          "probability": 0.9848
+        },
+        {
+          "time": 229.48,
+          "end": 229.78,
+          "text": "你",
+          "probability": 0.9857
+        }
+      ]
+    },
+    {
+      "time": 233.0,
+      "end": 234.48,
+      "text": "我一生",
+      "words": [
+        {
+          "time": 233.0,
+          "end": 233.3,
+          "text": "我",
+          "probability": 0.982
+        },
+        {
+          "time": 233.48,
+          "end": 233.78,
+          "text": "一",
+          "probability": 0.9691
+        },
+        {
+          "time": 234.18,
+          "end": 234.48,
+          "text": "生",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 237.34,
+      "end": 239.5,
+      "text": "要赞美你",
+      "words": [
+        {
+          "time": 237.34,
+          "end": 237.64,
+          "text": "要",
+          "probability": 0.5067
+        },
+        {
+          "time": 237.76,
+          "end": 238.36,
+          "text": "赞",
+          "probability": 0.9953
+        },
+        {
+          "time": 238.6,
+          "end": 238.9,
+          "text": "美",
+          "probability": 0.9853
+        },
+        {
+          "time": 239.2,
+          "end": 239.5,
+          "text": "你",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 243.02,
+      "end": 244.8,
+      "text": "我一生",
+      "words": [
+        {
+          "time": 243.02,
+          "end": 243.32,
+          "text": "我",
+          "probability": 0.5187
+        },
+        {
+          "time": 243.8,
+          "end": 244.1,
+          "text": "一",
+          "probability": 0.8872
+        },
+        {
+          "time": 244.5,
+          "end": 244.8,
+          "text": "生",
+          "probability": 0.6548
+        }
+      ]
+    },
+    {
+      "time": 247.58,
+      "end": 250.34,
+      "text": "要赞美你",
+      "words": [
+        {
+          "time": 247.58,
+          "end": 247.88,
+          "text": "要",
+          "probability": 0.419
+        },
+        {
+          "time": 248.08,
+          "end": 248.64,
+          "text": "赞",
+          "probability": 0.4278
+        },
+        {
+          "time": 248.94,
+          "end": 249.24,
+          "text": "美",
+          "probability": 0.9953
+        },
+        {
+          "time": 250.04,
+          "end": 250.34,
+          "text": "你",
+          "probability": 0.9946
+        }
+      ]
+    },
+    {
+      "time": 286.6,
+      "end": 286.92,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 286.6,
+          "end": 286.9,
+          "text": "优",
+          "probability": 0.6236
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "优",
+          "probability": 0.9984
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "独",
+          "probability": 0.9966
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "播",
+          "probability": 0.996
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "剧",
+          "probability": 0.9972
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "场",
+          "probability": 0.9986
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "——",
+          "probability": 0.998
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "Yo",
+          "probability": 0.9965
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "Yo",
+          "probability": 0.9977
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": " Television",
+          "probability": 0.9941
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": " Series",
+          "probability": 0.9978
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": " Exc",
+          "probability": 0.9972
+        },
+        {
+          "time": 286.62,
+          "end": 286.92,
+          "text": "lusive",
+          "probability": 0.9979
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "s93d5d713ff2c",
+  "file": "145 主的怜悯已降临.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "7152",
+    "url": "https://www.izanmei.cc/song/7152.html",
+    "audio": "https://play.izanm.org/song/p/7152.mp3",
+    "offset": -0.032406,
+    "scale": 1.000004394,
+    "residual": 0.000851,
+    "coverage": 0.999382,
+    "windows": [
+      {
+        "localStart": 14.855,
+        "sourceStart": 14.823,
+        "offset": -0.032,
+        "coefficient": 0.990354
+      },
+      {
+        "localStart": 37.138,
+        "sourceStart": 37.105,
+        "offset": -0.032,
+        "coefficient": 0.990913
+      },
+      {
+        "localStart": 59.42,
+        "sourceStart": 59.388,
+        "offset": -0.032,
+        "coefficient": 0.993121
+      },
+      {
+        "localStart": 81.703,
+        "sourceStart": 81.671,
+        "offset": -0.032,
+        "coefficient": 0.993129
+      },
+      {
+        "localStart": 103.985,
+        "sourceStart": 103.953,
+        "offset": -0.032,
+        "coefficient": 0.985582
+      },
+      {
+        "localStart": 126.267,
+        "sourceStart": 126.236,
+        "offset": -0.032,
+        "coefficient": 0.985781
+      },
+      {
+        "localStart": 148.55,
+        "sourceStart": 148.518,
+        "offset": -0.032,
+        "coefficient": 0.986778
+      },
+      {
+        "localStart": 167.119,
+        "sourceStart": 167.087,
+        "offset": -0.032,
+        "coefficient": 0.989712
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "7152",
+      "offset": -0.032406,
+      "scale": 1.000004394,
+      "residual": 0.000851,
+      "coverage": 0.999382,
+      "windows": [
+        {
+          "localStart": 14.855,
+          "sourceStart": 14.823,
+          "offset": -0.032,
+          "coefficient": 0.990354
+        },
+        {
+          "localStart": 37.138,
+          "sourceStart": 37.105,
+          "offset": -0.032,
+          "coefficient": 0.990913
+        },
+        {
+          "localStart": 59.42,
+          "sourceStart": 59.388,
+          "offset": -0.032,
+          "coefficient": 0.993121
+        },
+        {
+          "localStart": 81.703,
+          "sourceStart": 81.671,
+          "offset": -0.032,
+          "coefficient": 0.993129
+        },
+        {
+          "localStart": 103.985,
+          "sourceStart": 103.953,
+          "offset": -0.032,
+          "coefficient": 0.985582
+        },
+        {
+          "localStart": 126.267,
+          "sourceStart": 126.236,
+          "offset": -0.032,
+          "coefficient": 0.985781
+        },
+        {
+          "localStart": 148.55,
+          "sourceStart": 148.518,
+          "offset": -0.032,
+          "coefficient": 0.986778
+        },
+        {
+          "localStart": 167.119,
+          "sourceStart": 167.087,
+          "offset": -0.032,
+          "coefficient": 0.989712
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "12673",
+  "waveform": {
+    "source": "12673",
+    "url": "https://www.izanmei.cc/song/12673.html",
+    "audio": "https://play.izanm.org/song/p/12673.mp3",
+    "offset": -0.003274,
+    "scale": 1.000008792,
+    "residual": 0.000613,
+    "coverage": 0.999287,
+    "windows": [
+      {
+        "localStart": 11.87,
+        "sourceStart": 11.867,
+        "offset": -0.0025,
+        "coefficient": 0.968172
+      },
+      {
+        "localStart": 29.675,
+        "sourceStart": 29.672,
+        "offset": -0.0025,
+        "coefficient": 0.959259
+      },
+      {
+        "localStart": 47.48,
+        "sourceStart": 47.477,
+        "offset": -0.0025,
+        "coefficient": 0.963237
+      },
+      {
+        "localStart": 65.285,
+        "sourceStart": 65.282,
+        "offset": -0.0025,
+        "coefficient": 0.961514
+      },
+      {
+        "localStart": 83.09,
+        "sourceStart": 83.088,
+        "offset": -0.0025,
+        "coefficient": 0.952237
+      },
+      {
+        "localStart": 100.895,
+        "sourceStart": 100.892,
+        "offset": -0.0025,
+        "coefficient": 0.959499
+      },
+      {
+        "localStart": 118.7,
+        "sourceStart": 118.698,
+        "offset": -0.0025,
+        "coefficient": 0.952524
+      },
+      {
+        "localStart": 133.537,
+        "sourceStart": 133.535,
+        "offset": -0.0025,
+        "coefficient": 0.972624
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.96154,
+  "id": "s76b5029eaf9f",
+  "file": "174-你.mp3",
+  "fullDuration": 148.427755,
+  "recordingHash": "5f1e9f13b189332fda7ef3a80954089444805679e8d42606e0a67fc420454567",
+  "lines": []
+}

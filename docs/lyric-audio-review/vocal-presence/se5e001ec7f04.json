@@ -1,0 +1,213 @@
+{
+  "id": "se5e001ec7f04",
+  "file": "048你是荣耀的君王.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 33.89,
+      "tags": {
+        "Singing": 0.40427,
+        "Choir": 0.38269,
+        "Speech": 0.0306,
+        "Piano": 0.00112,
+        "Electric piano": 0.00025,
+        "Music": 0.78355,
+        "Musical instrument": 0.01957
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.78355
+        },
+        {
+          "label": "Singing",
+          "score": 0.40427
+        },
+        {
+          "label": "Choir",
+          "score": 0.38269
+        },
+        {
+          "label": "Chant",
+          "score": 0.29834
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.21167
+        }
+      ]
+    },
+    {
+      "time": 73.43,
+      "tags": {
+        "Singing": 0.36231,
+        "Choir": 0.47514,
+        "Speech": 0.02339,
+        "Piano": 0.00198,
+        "Electric piano": 0.00058,
+        "Music": 0.81502,
+        "Musical instrument": 0.02151
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.81502
+        },
+        {
+          "label": "Choir",
+          "score": 0.47514
+        },
+        {
+          "label": "Christian music",
+          "score": 0.36516
+        },
+        {
+          "label": "Singing",
+          "score": 0.36231
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.2551
+        }
+      ]
+    },
+    {
+      "time": 112.97,
+      "tags": {
+        "Singing": 0.37852,
+        "Choir": 0.31795,
+        "Speech": 0.02369,
+        "Piano": 0.00274,
+        "Electric piano": 0.00067,
+        "Music": 0.7932,
+        "Musical instrument": 0.02996
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.7932
+        },
+        {
+          "label": "Singing",
+          "score": 0.37852
+        },
+        {
+          "label": "Choir",
+          "score": 0.31795
+        },
+        {
+          "label": "Christian music",
+          "score": 0.26533
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.16611
+        }
+      ]
+    },
+    {
+      "time": 152.51,
+      "tags": {
+        "Singing": 0.37828,
+        "Choir": 0.33444,
+        "Speech": 0.03353,
+        "Piano": 0.00219,
+        "Electric piano": 0.00057,
+        "Music": 0.83514,
+        "Musical instrument": 0.03672
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.83514
+        },
+        {
+          "label": "Singing",
+          "score": 0.37828
+        },
+        {
+          "label": "Choir",
+          "score": 0.33444
+        },
+        {
+          "label": "Christian music",
+          "score": 0.17517
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.15364
+        }
+      ]
+    },
+    {
+      "time": 192.05,
+      "tags": {
+        "Singing": 0.05485,
+        "Choir": 0.00413,
+        "Speech": 0.40027,
+        "Piano": 0.01148,
+        "Electric piano": 0.00785,
+        "Music": 0.75684,
+        "Musical instrument": 0.06017
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.75684
+        },
+        {
+          "label": "Speech",
+          "score": 0.40027
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.06017
+        },
+        {
+          "label": "Singing",
+          "score": 0.05485
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.03453
+        }
+      ]
+    },
+    {
+      "time": 231.58,
+      "tags": {
+        "Singing": 0.39596,
+        "Choir": 0.27759,
+        "Speech": 0.02679,
+        "Piano": 0.00186,
+        "Electric piano": 0.00054,
+        "Music": 0.84859,
+        "Musical instrument": 0.03164
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.84859
+        },
+        {
+          "label": "Singing",
+          "score": 0.39596
+        },
+        {
+          "label": "Choir",
+          "score": 0.27759
+        },
+        {
+          "label": "Christian music",
+          "score": 0.23451
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.16645
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2348 @@
+{
+  "id": "s05c1bcd0014a",
+  "file": "236-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "38fc957947dab761b659e7a6697fbc3ff7d730a4d4cf52c8023dda10367cd7e7",
+  "fullDuration": 221.126531,
+  "lines": [
+    {
+      "time": 15.84,
+      "end": 17.32,
+      "text": "我的盼望",
+      "words": [
+        {
+          "time": 15.84,
+          "end": 16.14,
+          "text": "我的",
+          "probability": 0.1746
+        },
+        {
+          "time": 16.2,
+          "end": 16.78,
+          "text": "盼",
+          "probability": 0.986
+        },
+        {
+          "time": 17.02,
+          "end": 17.32,
+          "text": "望",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 30.94,
+      "end": 36.56,
+      "text": "就在耶稣基督里又住在我里",
+      "words": [
+        {
+          "time": 30.94,
+          "end": 31.24,
+          "text": "就",
+          "probability": 0.5395
+        },
+        {
+          "time": 31.18,
+          "end": 31.48,
+          "text": "在",
+          "probability": 0.9989
+        },
+        {
+          "time": 31.44,
+          "end": 31.74,
+          "text": "耶",
+          "probability": 0.9996
+        },
+        {
+          "time": 31.74,
+          "end": 32.16,
+          "text": "稣",
+          "probability": 0.9867
+        },
+        {
+          "time": 32.16,
+          "end": 32.46,
+          "text": "基",
+          "probability": 0.9702
+        },
+        {
+          "time": 32.4,
+          "end": 32.8,
+          "text": "督",
+          "probability": 0.9986
+        },
+        {
+          "time": 33.08,
+          "end": 33.38,
+          "text": "里",
+          "probability": 0.9754
+        },
+        {
+          "time": 34.16,
+          "end": 34.46,
+          "text": "又",
+          "probability": 0.4417
+        },
+        {
+          "time": 34.34,
+          "end": 34.64,
+          "text": "住",
+          "probability": 0.8923
+        },
+        {
+          "time": 34.78,
+          "end": 35.08,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 35.32,
+          "end": 35.62,
+          "text": "我",
+          "probability": 0.9849
+        },
+        {
+          "time": 36.26,
+          "end": 36.56,
+          "text": "里",
+          "probability": 0.9399
+        }
+      ]
+    },
+    {
+      "time": 37.02,
+      "end": 38.46,
+      "text": "面活着",
+      "words": [
+        {
+          "time": 37.02,
+          "end": 37.32,
+          "text": "面",
+          "probability": 0.9998
+        },
+        {
+          "time": 37.44,
+          "end": 37.74,
+          "text": "活",
+          "probability": 0.9502
+        },
+        {
+          "time": 38.16,
+          "end": 38.46,
+          "text": "着",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 39.88,
+      "end": 45.58,
+      "text": "我宣告在我里面地一层上一切更有",
+      "words": [
+        {
+          "time": 39.88,
+          "end": 40.18,
+          "text": "我",
+          "probability": 0.9826
+        },
+        {
+          "time": 40.16,
+          "end": 40.6,
+          "text": "宣",
+          "probability": 0.3409
+        },
+        {
+          "time": 40.64,
+          "end": 40.94,
+          "text": "告",
+          "probability": 0.9009
+        },
+        {
+          "time": 41.12,
+          "end": 41.42,
+          "text": "在",
+          "probability": 0.9974
+        },
+        {
+          "time": 41.46,
+          "end": 41.76,
+          "text": "我",
+          "probability": 0.9968
+        },
+        {
+          "time": 41.8,
+          "end": 42.1,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 42.18,
+          "end": 42.48,
+          "text": "面",
+          "probability": 0.9998
+        },
+        {
+          "time": 42.54,
+          "end": 42.84,
+          "text": "地",
+          "probability": 0.3477
+        },
+        {
+          "time": 43.76,
+          "end": 44.06,
+          "text": "一",
+          "probability": 0.7524
+        },
+        {
+          "time": 43.92,
+          "end": 44.26,
+          "text": "层",
+          "probability": 0.1262
+        },
+        {
+          "time": 44.28,
+          "end": 44.58,
+          "text": "上",
+          "probability": 0.3977
+        },
+        {
+          "time": 44.58,
+          "end": 44.88,
+          "text": "一",
+          "probability": 0.9923
+        },
+        {
+          "time": 44.76,
+          "end": 45.06,
+          "text": "切",
+          "probability": 0.9006
+        },
+        {
+          "time": 45.06,
+          "end": 45.36,
+          "text": "更",
+          "probability": 0.9381
+        },
+        {
+          "time": 45.36,
+          "end": 45.66,
+          "text": "有",
+          "probability": 0.9924
+        }
+      ]
+    },
+    {
+      "time": 45.58,
+      "end": 51.04,
+      "text": "能力我不输着世界我高举耶稣的你",
+      "words": [
+        {
+          "time": 45.58,
+          "end": 45.88,
+          "text": "能",
+          "probability": 0.9607
+        },
+        {
+          "time": 46.22,
+          "end": 46.52,
+          "text": "力",
+          "probability": 0.9998
+        },
+        {
+          "time": 47.4,
+          "end": 47.7,
+          "text": "我不",
+          "probability": 0.606
+        },
+        {
+          "time": 47.7,
+          "end": 48.04,
+          "text": "输",
+          "probability": 0.6083
+        },
+        {
+          "time": 47.96,
+          "end": 48.26,
+          "text": "着",
+          "probability": 0.5329
+        },
+        {
+          "time": 48.46,
+          "end": 48.76,
+          "text": "世界",
+          "probability": 0.9671
+        },
+        {
+          "time": 48.82,
+          "end": 49.12,
+          "text": "我",
+          "probability": 0.5653
+        },
+        {
+          "time": 49.08,
+          "end": 49.38,
+          "text": "高",
+          "probability": 0.6553
+        },
+        {
+          "time": 49.4,
+          "end": 49.76,
+          "text": "举",
+          "probability": 0.335
+        },
+        {
+          "time": 49.8,
+          "end": 50.1,
+          "text": "耶",
+          "probability": 0.9966
+        },
+        {
+          "time": 50.04,
+          "end": 50.46,
+          "text": "稣",
+          "probability": 0.9996
+        },
+        {
+          "time": 50.38,
+          "end": 50.68,
+          "text": "的",
+          "probability": 0.9476
+        },
+        {
+          "time": 50.74,
+          "end": 51.04,
+          "text": "你",
+          "probability": 0.5609
+        }
+      ]
+    },
+    {
+      "time": 52.64,
+      "end": 58.12,
+      "text": "我宣告在我里面有我宣拥有漫",
+      "words": [
+        {
+          "time": 52.64,
+          "end": 52.94,
+          "text": "我",
+          "probability": 0.9986
+        },
+        {
+          "time": 52.94,
+          "end": 53.38,
+          "text": "宣",
+          "probability": 0.9996
+        },
+        {
+          "time": 53.42,
+          "end": 53.72,
+          "text": "告",
+          "probability": 0.9941
+        },
+        {
+          "time": 53.86,
+          "end": 54.16,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 54.22,
+          "end": 54.52,
+          "text": "我",
+          "probability": 0.9993
+        },
+        {
+          "time": 54.58,
+          "end": 54.88,
+          "text": "里",
+          "probability": 1.0
+        },
+        {
+          "time": 54.86,
+          "end": 55.16,
+          "text": "面",
+          "probability": 0.9999
+        },
+        {
+          "time": 55.8,
+          "end": 56.1,
+          "text": "有",
+          "probability": 0.8747
+        },
+        {
+          "time": 56.54,
+          "end": 56.84,
+          "text": "我",
+          "probability": 0.8849
+        },
+        {
+          "time": 56.74,
+          "end": 57.08,
+          "text": "宣",
+          "probability": 0.8494
+        },
+        {
+          "time": 57.04,
+          "end": 57.38,
+          "text": "拥",
+          "probability": 0.4352
+        },
+        {
+          "time": 57.52,
+          "end": 57.82,
+          "text": "有",
+          "probability": 0.9968
+        },
+        {
+          "time": 57.8,
+          "end": 58.18,
+          "text": "漫",
+          "probability": 0.624
+        }
+      ]
+    },
+    {
+      "time": 58.12,
+      "end": 63.92,
+      "text": "游的你有耶稣在我里面我说我有人的你",
+      "words": [
+        {
+          "time": 58.12,
+          "end": 58.48,
+          "text": "游",
+          "probability": 0.7422
+        },
+        {
+          "time": 58.44,
+          "end": 58.74,
+          "text": "的",
+          "probability": 0.9381
+        },
+        {
+          "time": 58.82,
+          "end": 59.12,
+          "text": "你",
+          "probability": 0.6368
+        },
+        {
+          "time": 59.96,
+          "end": 60.26,
+          "text": "有",
+          "probability": 0.9794
+        },
+        {
+          "time": 60.2,
+          "end": 60.5,
+          "text": "耶",
+          "probability": 0.9992
+        },
+        {
+          "time": 60.48,
+          "end": 60.82,
+          "text": "稣",
+          "probability": 0.9903
+        },
+        {
+          "time": 60.8,
+          "end": 61.1,
+          "text": "在",
+          "probability": 0.9957
+        },
+        {
+          "time": 61.06,
+          "end": 61.36,
+          "text": "我",
+          "probability": 0.9629
+        },
+        {
+          "time": 61.34,
+          "end": 61.64,
+          "text": "里",
+          "probability": 0.9521
+        },
+        {
+          "time": 61.58,
+          "end": 61.88,
+          "text": "面",
+          "probability": 0.9988
+        },
+        {
+          "time": 61.88,
+          "end": 62.18,
+          "text": "我",
+          "probability": 0.5142
+        },
+        {
+          "time": 62.12,
+          "end": 62.42,
+          "text": "说",
+          "probability": 0.8423
+        },
+        {
+          "time": 62.6,
+          "end": 62.9,
+          "text": "我有",
+          "probability": 0.8698
+        },
+        {
+          "time": 62.96,
+          "end": 63.26,
+          "text": "人",
+          "probability": 0.094
+        },
+        {
+          "time": 63.18,
+          "end": 63.48,
+          "text": "的",
+          "probability": 0.7622
+        },
+        {
+          "time": 63.62,
+          "end": 63.92,
+          "text": "你",
+          "probability": 0.4301
+        }
+      ]
+    },
+    {
+      "time": 70.24,
+      "end": 75.96,
+      "text": "我的盼望就在耶稣基督里在",
+      "words": [
+        {
+          "time": 70.24,
+          "end": 70.54,
+          "text": "我的",
+          "probability": 0.9861
+        },
+        {
+          "time": 70.7,
+          "end": 71.2,
+          "text": "盼",
+          "probability": 0.9926
+        },
+        {
+          "time": 71.46,
+          "end": 71.76,
+          "text": "望",
+          "probability": 0.9998
+        },
+        {
+          "time": 72.52,
+          "end": 72.82,
+          "text": "就",
+          "probability": 0.9686
+        },
+        {
+          "time": 72.76,
+          "end": 73.06,
+          "text": "在",
+          "probability": 1.0
+        },
+        {
+          "time": 73.04,
+          "end": 73.34,
+          "text": "耶",
+          "probability": 0.9999
+        },
+        {
+          "time": 73.3,
+          "end": 73.74,
+          "text": "稣",
+          "probability": 0.9996
+        },
+        {
+          "time": 73.76,
+          "end": 74.06,
+          "text": "基",
+          "probability": 0.9909
+        },
+        {
+          "time": 74.02,
+          "end": 74.4,
+          "text": "督",
+          "probability": 0.9994
+        },
+        {
+          "time": 74.78,
+          "end": 75.08,
+          "text": "里",
+          "probability": 0.9916
+        },
+        {
+          "time": 75.74,
+          "end": 76.04,
+          "text": "在",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 75.96,
+      "end": 80.3,
+      "text": "你里面满有平安",
+      "words": [
+        {
+          "time": 75.96,
+          "end": 76.26,
+          "text": "你",
+          "probability": 0.8885
+        },
+        {
+          "time": 76.32,
+          "end": 76.62,
+          "text": "里",
+          "probability": 0.9993
+        },
+        {
+          "time": 77.28,
+          "end": 77.58,
+          "text": "面",
+          "probability": 0.9999
+        },
+        {
+          "time": 77.88,
+          "end": 78.42,
+          "text": "满",
+          "probability": 0.6781
+        },
+        {
+          "time": 78.6,
+          "end": 78.9,
+          "text": "有",
+          "probability": 0.4245
+        },
+        {
+          "time": 79.08,
+          "end": 79.38,
+          "text": "平",
+          "probability": 0.9893
+        },
+        {
+          "time": 80.0,
+          "end": 80.3,
+          "text": "安",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 82.7,
+      "end": 88.74,
+      "text": "生命全约就在耶稣基督里有",
+      "words": [
+        {
+          "time": 82.7,
+          "end": 83.0,
+          "text": "生",
+          "probability": 0.9778
+        },
+        {
+          "time": 83.08,
+          "end": 83.38,
+          "text": "命",
+          "probability": 0.9995
+        },
+        {
+          "time": 83.54,
+          "end": 83.84,
+          "text": "全",
+          "probability": 0.9578
+        },
+        {
+          "time": 84.02,
+          "end": 84.46,
+          "text": "约",
+          "probability": 0.1909
+        },
+        {
+          "time": 85.32,
+          "end": 85.62,
+          "text": "就",
+          "probability": 0.9985
+        },
+        {
+          "time": 85.56,
+          "end": 85.86,
+          "text": "在",
+          "probability": 1.0
+        },
+        {
+          "time": 85.84,
+          "end": 86.14,
+          "text": "耶",
+          "probability": 1.0
+        },
+        {
+          "time": 86.1,
+          "end": 86.5,
+          "text": "稣",
+          "probability": 1.0
+        },
+        {
+          "time": 86.56,
+          "end": 86.86,
+          "text": "基",
+          "probability": 0.9999
+        },
+        {
+          "time": 86.82,
+          "end": 87.18,
+          "text": "督",
+          "probability": 1.0
+        },
+        {
+          "time": 87.6,
+          "end": 87.9,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 88.56,
+          "end": 88.86,
+          "text": "有",
+          "probability": 0.782
+        }
+      ]
+    },
+    {
+      "time": 88.74,
+      "end": 92.86,
+      "text": "主在我里面活着",
+      "words": [
+        {
+          "time": 88.74,
+          "end": 89.04,
+          "text": "主",
+          "probability": 0.7378
+        },
+        {
+          "time": 89.22,
+          "end": 89.52,
+          "text": "在",
+          "probability": 0.9867
+        },
+        {
+          "time": 89.82,
+          "end": 90.12,
+          "text": "我",
+          "probability": 0.979
+        },
+        {
+          "time": 90.7,
+          "end": 91.0,
+          "text": "里",
+          "probability": 0.7724
+        },
+        {
+          "time": 91.38,
+          "end": 91.68,
+          "text": "面",
+          "probability": 0.999
+        },
+        {
+          "time": 91.82,
+          "end": 92.12,
+          "text": "活",
+          "probability": 0.9753
+        },
+        {
+          "time": 92.56,
+          "end": 92.86,
+          "text": "着",
+          "probability": 0.9931
+        }
+      ]
+    },
+    {
+      "time": 94.24,
+      "end": 99.98,
+      "text": "我宣告在我里面的一世上一切更有",
+      "words": [
+        {
+          "time": 94.24,
+          "end": 94.54,
+          "text": "我",
+          "probability": 0.9484
+        },
+        {
+          "time": 94.52,
+          "end": 94.96,
+          "text": "宣",
+          "probability": 0.9664
+        },
+        {
+          "time": 95.04,
+          "end": 95.34,
+          "text": "告",
+          "probability": 0.997
+        },
+        {
+          "time": 95.5,
+          "end": 95.8,
+          "text": "在",
+          "probability": 0.987
+        },
+        {
+          "time": 95.84,
+          "end": 96.14,
+          "text": "我",
+          "probability": 0.9964
+        },
+        {
+          "time": 96.18,
+          "end": 96.48,
+          "text": "里",
+          "probability": 0.9984
+        },
+        {
+          "time": 96.48,
+          "end": 96.78,
+          "text": "面",
+          "probability": 0.9991
+        },
+        {
+          "time": 97.0,
+          "end": 97.3,
+          "text": "的",
+          "probability": 0.3444
+        },
+        {
+          "time": 98.14,
+          "end": 98.44,
+          "text": "一",
+          "probability": 0.2492
+        },
+        {
+          "time": 98.32,
+          "end": 98.62,
+          "text": "世",
+          "probability": 0.5633
+        },
+        {
+          "time": 98.7,
+          "end": 99.0,
+          "text": "上",
+          "probability": 0.9984
+        },
+        {
+          "time": 98.98,
+          "end": 99.28,
+          "text": "一",
+          "probability": 0.9935
+        },
+        {
+          "time": 99.16,
+          "end": 99.46,
+          "text": "切",
+          "probability": 0.9819
+        },
+        {
+          "time": 99.42,
+          "end": 99.72,
+          "text": "更",
+          "probability": 0.2116
+        },
+        {
+          "time": 99.76,
+          "end": 100.06,
+          "text": "有",
+          "probability": 0.9956
+        }
+      ]
+    },
+    {
+      "time": 99.98,
+      "end": 105.28,
+      "text": "能力我不输在世间我告据耶稣的名",
+      "words": [
+        {
+          "time": 99.98,
+          "end": 100.28,
+          "text": "能",
+          "probability": 0.9932
+        },
+        {
+          "time": 100.56,
+          "end": 100.86,
+          "text": "力",
+          "probability": 0.9998
+        },
+        {
+          "time": 101.74,
+          "end": 102.04,
+          "text": "我不",
+          "probability": 0.5785
+        },
+        {
+          "time": 102.04,
+          "end": 102.38,
+          "text": "输",
+          "probability": 0.8218
+        },
+        {
+          "time": 102.32,
+          "end": 102.62,
+          "text": "在",
+          "probability": 0.4611
+        },
+        {
+          "time": 102.74,
+          "end": 103.04,
+          "text": "世",
+          "probability": 0.8619
+        },
+        {
+          "time": 102.88,
+          "end": 103.18,
+          "text": "间",
+          "probability": 0.9852
+        },
+        {
+          "time": 103.14,
+          "end": 103.44,
+          "text": "我",
+          "probability": 0.8243
+        },
+        {
+          "time": 103.42,
+          "end": 103.72,
+          "text": "告",
+          "probability": 0.4648
+        },
+        {
+          "time": 103.74,
+          "end": 104.14,
+          "text": "据",
+          "probability": 0.5372
+        },
+        {
+          "time": 104.18,
+          "end": 104.48,
+          "text": "耶",
+          "probability": 0.9846
+        },
+        {
+          "time": 104.4,
+          "end": 104.78,
+          "text": "稣",
+          "probability": 0.9973
+        },
+        {
+          "time": 104.72,
+          "end": 105.02,
+          "text": "的",
+          "probability": 0.9956
+        },
+        {
+          "time": 104.98,
+          "end": 105.28,
+          "text": "名",
+          "probability": 0.4752
+        }
+      ]
+    },
+    {
+      "time": 107.0,
+      "end": 112.54,
+      "text": "我宣告在我里面有我宣有流满",
+      "words": [
+        {
+          "time": 107.0,
+          "end": 107.3,
+          "text": "我",
+          "probability": 0.9981
+        },
+        {
+          "time": 107.32,
+          "end": 107.76,
+          "text": "宣",
+          "probability": 0.9999
+        },
+        {
+          "time": 107.82,
+          "end": 108.12,
+          "text": "告",
+          "probability": 0.9998
+        },
+        {
+          "time": 108.26,
+          "end": 108.56,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 108.6,
+          "end": 108.9,
+          "text": "我",
+          "probability": 0.9998
+        },
+        {
+          "time": 108.98,
+          "end": 109.28,
+          "text": "里",
+          "probability": 1.0
+        },
+        {
+          "time": 109.3,
+          "end": 109.6,
+          "text": "面",
+          "probability": 1.0
+        },
+        {
+          "time": 109.92,
+          "end": 110.22,
+          "text": "有",
+          "probability": 0.9214
+        },
+        {
+          "time": 110.94,
+          "end": 111.24,
+          "text": "我",
+          "probability": 0.9327
+        },
+        {
+          "time": 111.12,
+          "end": 111.46,
+          "text": "宣",
+          "probability": 0.5907
+        },
+        {
+          "time": 111.48,
+          "end": 111.78,
+          "text": "有",
+          "probability": 0.7073
+        },
+        {
+          "time": 111.84,
+          "end": 112.14,
+          "text": "流",
+          "probability": 0.6613
+        },
+        {
+          "time": 112.2,
+          "end": 112.58,
+          "text": "满",
+          "probability": 0.3666
+        }
+      ]
+    },
+    {
+      "time": 112.54,
+      "end": 118.38,
+      "text": "有能力有耶稣在我里面活着我勇敢站立",
+      "words": [
+        {
+          "time": 112.54,
+          "end": 112.84,
+          "text": "有",
+          "probability": 0.9729
+        },
+        {
+          "time": 112.76,
+          "end": 113.06,
+          "text": "能",
+          "probability": 0.9976
+        },
+        {
+          "time": 113.2,
+          "end": 113.5,
+          "text": "力",
+          "probability": 1.0
+        },
+        {
+          "time": 114.3,
+          "end": 114.6,
+          "text": "有",
+          "probability": 0.9854
+        },
+        {
+          "time": 114.58,
+          "end": 114.88,
+          "text": "耶",
+          "probability": 0.9955
+        },
+        {
+          "time": 114.84,
+          "end": 115.22,
+          "text": "稣",
+          "probability": 0.9837
+        },
+        {
+          "time": 115.18,
+          "end": 115.48,
+          "text": "在",
+          "probability": 0.9951
+        },
+        {
+          "time": 115.42,
+          "end": 115.72,
+          "text": "我",
+          "probability": 0.9931
+        },
+        {
+          "time": 115.74,
+          "end": 116.04,
+          "text": "里",
+          "probability": 0.9932
+        },
+        {
+          "time": 115.96,
+          "end": 116.26,
+          "text": "面",
+          "probability": 0.9998
+        },
+        {
+          "time": 116.2,
+          "end": 116.5,
+          "text": "活",
+          "probability": 0.8675
+        },
+        {
+          "time": 116.5,
+          "end": 116.8,
+          "text": "着",
+          "probability": 0.9951
+        },
+        {
+          "time": 116.76,
+          "end": 117.06,
+          "text": "我",
+          "probability": 0.9793
+        },
+        {
+          "time": 116.98,
+          "end": 117.36,
+          "text": "勇",
+          "probability": 0.9916
+        },
+        {
+          "time": 117.34,
+          "end": 117.64,
+          "text": "敢",
+          "probability": 0.9992
+        },
+        {
+          "time": 117.56,
+          "end": 117.86,
+          "text": "站",
+          "probability": 0.8072
+        },
+        {
+          "time": 118.08,
+          "end": 118.38,
+          "text": "立",
+          "probability": 0.9903
+        }
+      ]
+    },
+    {
+      "time": 120.74,
+      "end": 127.32,
+      "text": "有主在我里面没有惧怕能战胜仇敌有",
+      "words": [
+        {
+          "time": 120.74,
+          "end": 121.04,
+          "text": "有",
+          "probability": 0.9949
+        },
+        {
+          "time": 121.04,
+          "end": 121.34,
+          "text": "主",
+          "probability": 0.6671
+        },
+        {
+          "time": 122.16,
+          "end": 122.46,
+          "text": "在",
+          "probability": 0.8306
+        },
+        {
+          "time": 122.38,
+          "end": 122.68,
+          "text": "我",
+          "probability": 0.9994
+        },
+        {
+          "time": 122.74,
+          "end": 123.04,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 123.28,
+          "end": 123.58,
+          "text": "面",
+          "probability": 1.0
+        },
+        {
+          "time": 123.94,
+          "end": 124.24,
+          "text": "没有",
+          "probability": 0.9887
+        },
+        {
+          "time": 124.18,
+          "end": 124.54,
+          "text": "惧",
+          "probability": 0.7712
+        },
+        {
+          "time": 124.54,
+          "end": 124.84,
+          "text": "怕",
+          "probability": 0.9668
+        },
+        {
+          "time": 124.76,
+          "end": 125.06,
+          "text": "能",
+          "probability": 0.9649
+        },
+        {
+          "time": 124.96,
+          "end": 125.34,
+          "text": "战",
+          "probability": 0.7789
+        },
+        {
+          "time": 125.26,
+          "end": 125.64,
+          "text": "胜",
+          "probability": 0.7801
+        },
+        {
+          "time": 125.54,
+          "end": 125.9,
+          "text": "仇",
+          "probability": 0.6702
+        },
+        {
+          "time": 125.8,
+          "end": 126.2,
+          "text": "敌",
+          "probability": 0.965
+        },
+        {
+          "time": 127.02,
+          "end": 127.32,
+          "text": "有",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 127.5,
+      "end": 132.66,
+      "text": "主在我里面没有惧怕还等生犹豫",
+      "words": [
+        {
+          "time": 127.5,
+          "end": 127.8,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 128.52,
+          "end": 128.82,
+          "text": "在",
+          "probability": 0.9993
+        },
+        {
+          "time": 128.76,
+          "end": 129.06,
+          "text": "我",
+          "probability": 0.9999
+        },
+        {
+          "time": 129.14,
+          "end": 129.44,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 129.66,
+          "end": 129.96,
+          "text": "面",
+          "probability": 1.0
+        },
+        {
+          "time": 130.32,
+          "end": 130.62,
+          "text": "没有",
+          "probability": 0.9962
+        },
+        {
+          "time": 130.58,
+          "end": 130.96,
+          "text": "惧",
+          "probability": 0.9999
+        },
+        {
+          "time": 130.94,
+          "end": 131.24,
+          "text": "怕",
+          "probability": 0.9995
+        },
+        {
+          "time": 131.16,
+          "end": 131.46,
+          "text": "还",
+          "probability": 0.6225
+        },
+        {
+          "time": 131.4,
+          "end": 131.7,
+          "text": "等",
+          "probability": 0.2985
+        },
+        {
+          "time": 131.72,
+          "end": 132.02,
+          "text": "生",
+          "probability": 0.3463
+        },
+        {
+          "time": 131.94,
+          "end": 132.3,
+          "text": "犹",
+          "probability": 0.5778
+        },
+        {
+          "time": 132.32,
+          "end": 132.66,
+          "text": "豫",
+          "probability": 0.9879
+        }
+      ]
+    },
+    {
+      "time": 135.08,
+      "end": 140.66,
+      "text": "有主在我里面没有惧怕能战胜仇敌",
+      "words": [
+        {
+          "time": 135.08,
+          "end": 135.38,
+          "text": "有",
+          "probability": 0.9994
+        },
+        {
+          "time": 135.56,
+          "end": 135.86,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 136.56,
+          "end": 136.86,
+          "text": "在",
+          "probability": 0.9989
+        },
+        {
+          "time": 136.76,
+          "end": 137.06,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 137.16,
+          "end": 137.46,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 137.68,
+          "end": 137.98,
+          "text": "面",
+          "probability": 1.0
+        },
+        {
+          "time": 138.28,
+          "end": 138.58,
+          "text": "没有",
+          "probability": 0.9952
+        },
+        {
+          "time": 138.58,
+          "end": 138.94,
+          "text": "惧",
+          "probability": 0.9999
+        },
+        {
+          "time": 138.96,
+          "end": 139.26,
+          "text": "怕",
+          "probability": 0.999
+        },
+        {
+          "time": 139.18,
+          "end": 139.48,
+          "text": "能",
+          "probability": 0.9994
+        },
+        {
+          "time": 139.4,
+          "end": 139.78,
+          "text": "战",
+          "probability": 0.9996
+        },
+        {
+          "time": 139.68,
+          "end": 140.04,
+          "text": "胜",
+          "probability": 0.9998
+        },
+        {
+          "time": 139.98,
+          "end": 140.32,
+          "text": "仇",
+          "probability": 0.9998
+        },
+        {
+          "time": 140.24,
+          "end": 140.66,
+          "text": "敌",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 141.46,
+      "end": 147.1,
+      "text": "有主在我里面没有惧怕海的神有余",
+      "words": [
+        {
+          "time": 141.46,
+          "end": 141.76,
+          "text": "有",
+          "probability": 0.7729
+        },
+        {
+          "time": 141.84,
+          "end": 142.14,
+          "text": "主",
+          "probability": 0.4302
+        },
+        {
+          "time": 142.94,
+          "end": 143.24,
+          "text": "在",
+          "probability": 0.7236
+        },
+        {
+          "time": 143.18,
+          "end": 143.48,
+          "text": "我",
+          "probability": 0.9259
+        },
+        {
+          "time": 143.52,
+          "end": 143.82,
+          "text": "里",
+          "probability": 0.9389
+        },
+        {
+          "time": 143.98,
+          "end": 144.28,
+          "text": "面",
+          "probability": 0.9961
+        },
+        {
+          "time": 144.72,
+          "end": 145.02,
+          "text": "没有",
+          "probability": 0.9902
+        },
+        {
+          "time": 144.98,
+          "end": 145.34,
+          "text": "惧",
+          "probability": 0.917
+        },
+        {
+          "time": 145.32,
+          "end": 145.62,
+          "text": "怕",
+          "probability": 0.9746
+        },
+        {
+          "time": 145.56,
+          "end": 145.86,
+          "text": "海",
+          "probability": 0.2859
+        },
+        {
+          "time": 145.8,
+          "end": 146.1,
+          "text": "的",
+          "probability": 0.8968
+        },
+        {
+          "time": 146.14,
+          "end": 146.44,
+          "text": "神",
+          "probability": 0.8129
+        },
+        {
+          "time": 146.42,
+          "end": 146.72,
+          "text": "有",
+          "probability": 0.506
+        },
+        {
+          "time": 146.7,
+          "end": 147.1,
+          "text": "余",
+          "probability": 0.5388
+        }
+      ]
+    },
+    {
+      "time": 150.26,
+      "end": 155.96,
+      "text": "我宣告在我里面地必须上一切更有",
+      "words": [
+        {
+          "time": 150.26,
+          "end": 150.56,
+          "text": "我",
+          "probability": 0.9507
+        },
+        {
+          "time": 150.56,
+          "end": 151.0,
+          "text": "宣",
+          "probability": 0.9427
+        },
+        {
+          "time": 151.04,
+          "end": 151.34,
+          "text": "告",
+          "probability": 0.996
+        },
+        {
+          "time": 151.48,
+          "end": 151.78,
+          "text": "在",
+          "probability": 0.999
+        },
+        {
+          "time": 151.88,
+          "end": 152.18,
+          "text": "我",
+          "probability": 0.9951
+        },
+        {
+          "time": 152.18,
+          "end": 152.48,
+          "text": "里",
+          "probability": 0.9981
+        },
+        {
+          "time": 152.52,
+          "end": 152.82,
+          "text": "面",
+          "probability": 0.9945
+        },
+        {
+          "time": 152.98,
+          "end": 153.28,
+          "text": "地",
+          "probability": 0.3422
+        },
+        {
+          "time": 154.14,
+          "end": 154.44,
+          "text": "必",
+          "probability": 0.5903
+        },
+        {
+          "time": 154.32,
+          "end": 154.64,
+          "text": "须",
+          "probability": 0.9729
+        },
+        {
+          "time": 154.64,
+          "end": 154.94,
+          "text": "上",
+          "probability": 0.4479
+        },
+        {
+          "time": 154.96,
+          "end": 155.26,
+          "text": "一",
+          "probability": 0.996
+        },
+        {
+          "time": 155.12,
+          "end": 155.42,
+          "text": "切",
+          "probability": 0.9986
+        },
+        {
+          "time": 155.42,
+          "end": 155.72,
+          "text": "更",
+          "probability": 0.9526
+        },
+        {
+          "time": 155.74,
+          "end": 156.04,
+          "text": "有",
+          "probability": 0.9947
+        }
+      ]
+    },
+    {
+      "time": 155.96,
+      "end": 161.36,
+      "text": "能力我不输这世界我高举耶稣的名",
+      "words": [
+        {
+          "time": 155.96,
+          "end": 156.26,
+          "text": "能",
+          "probability": 0.9897
+        },
+        {
+          "time": 156.42,
+          "end": 156.72,
+          "text": "力",
+          "probability": 0.9998
+        },
+        {
+          "time": 157.76,
+          "end": 158.06,
+          "text": "我不",
+          "probability": 0.9211
+        },
+        {
+          "time": 158.04,
+          "end": 158.42,
+          "text": "输",
+          "probability": 0.89
+        },
+        {
+          "time": 158.36,
+          "end": 158.66,
+          "text": "这",
+          "probability": 0.866
+        },
+        {
+          "time": 158.86,
+          "end": 159.16,
+          "text": "世界",
+          "probability": 0.8034
+        },
+        {
+          "time": 159.16,
+          "end": 159.46,
+          "text": "我",
+          "probability": 0.4956
+        },
+        {
+          "time": 159.46,
+          "end": 159.76,
+          "text": "高",
+          "probability": 0.5562
+        },
+        {
+          "time": 159.78,
+          "end": 160.18,
+          "text": "举",
+          "probability": 0.3331
+        },
+        {
+          "time": 160.22,
+          "end": 160.52,
+          "text": "耶",
+          "probability": 0.9111
+        },
+        {
+          "time": 160.48,
+          "end": 160.86,
+          "text": "稣",
+          "probability": 0.9959
+        },
+        {
+          "time": 160.8,
+          "end": 161.1,
+          "text": "的",
+          "probability": 0.9329
+        },
+        {
+          "time": 161.06,
+          "end": 161.36,
+          "text": "名",
+          "probability": 0.5723
+        }
+      ]
+    },
+    {
+      "time": 163.02,
+      "end": 168.54,
+      "text": "我宣告在我里面有我却拥有漫",
+      "words": [
+        {
+          "time": 163.02,
+          "end": 163.32,
+          "text": "我",
+          "probability": 0.996
+        },
+        {
+          "time": 163.32,
+          "end": 163.76,
+          "text": "宣",
+          "probability": 1.0
+        },
+        {
+          "time": 163.82,
+          "end": 164.12,
+          "text": "告",
+          "probability": 0.9998
+        },
+        {
+          "time": 164.24,
+          "end": 164.54,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 164.64,
+          "end": 164.94,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 164.96,
+          "end": 165.26,
+          "text": "里",
+          "probability": 1.0
+        },
+        {
+          "time": 165.28,
+          "end": 165.58,
+          "text": "面",
+          "probability": 0.9999
+        },
+        {
+          "time": 166.2,
+          "end": 166.5,
+          "text": "有",
+          "probability": 0.9176
+        },
+        {
+          "time": 166.96,
+          "end": 167.26,
+          "text": "我",
+          "probability": 0.4255
+        },
+        {
+          "time": 167.14,
+          "end": 167.5,
+          "text": "却",
+          "probability": 0.4916
+        },
+        {
+          "time": 167.42,
+          "end": 167.8,
+          "text": "拥",
+          "probability": 0.7367
+        },
+        {
+          "time": 167.9,
+          "end": 168.2,
+          "text": "有",
+          "probability": 0.9865
+        },
+        {
+          "time": 168.2,
+          "end": 168.54,
+          "text": "漫",
+          "probability": 0.2984
+        }
+      ]
+    },
+    {
+      "time": 168.54,
+      "end": 174.22,
+      "text": "有能力有耶稣在我里面活着我勇敢站立",
+      "words": [
+        {
+          "time": 168.54,
+          "end": 168.84,
+          "text": "有",
+          "probability": 0.5402
+        },
+        {
+          "time": 168.78,
+          "end": 169.08,
+          "text": "能",
+          "probability": 0.9427
+        },
+        {
+          "time": 169.18,
+          "end": 169.48,
+          "text": "力",
+          "probability": 0.9999
+        },
+        {
+          "time": 170.26,
+          "end": 170.56,
+          "text": "有",
+          "probability": 0.9684
+        },
+        {
+          "time": 170.6,
+          "end": 170.9,
+          "text": "耶",
+          "probability": 0.9986
+        },
+        {
+          "time": 170.84,
+          "end": 171.22,
+          "text": "稣",
+          "probability": 0.9891
+        },
+        {
+          "time": 171.2,
+          "end": 171.5,
+          "text": "在",
+          "probability": 0.9953
+        },
+        {
+          "time": 171.44,
+          "end": 171.74,
+          "text": "我",
+          "probability": 0.9917
+        },
+        {
+          "time": 171.72,
+          "end": 172.02,
+          "text": "里",
+          "probability": 0.9925
+        },
+        {
+          "time": 171.94,
+          "end": 172.24,
+          "text": "面",
+          "probability": 0.9891
+        },
+        {
+          "time": 172.2,
+          "end": 172.5,
+          "text": "活",
+          "probability": 0.3764
+        },
+        {
+          "time": 172.54,
+          "end": 172.84,
+          "text": "着",
+          "probability": 0.9936
+        },
+        {
+          "time": 172.78,
+          "end": 173.08,
+          "text": "我",
+          "probability": 0.8256
+        },
+        {
+          "time": 173.0,
+          "end": 173.34,
+          "text": "勇",
+          "probability": 0.5137
+        },
+        {
+          "time": 173.32,
+          "end": 173.62,
+          "text": "敢",
+          "probability": 0.996
+        },
+        {
+          "time": 173.54,
+          "end": 173.84,
+          "text": "站",
+          "probability": 0.6449
+        },
+        {
+          "time": 173.92,
+          "end": 174.22,
+          "text": "立",
+          "probability": 0.9706
+        }
+      ]
+    },
+    {
+      "time": 175.82,
+      "end": 181.34,
+      "text": "我宣告在我里面地一心上一切更",
+      "words": [
+        {
+          "time": 175.82,
+          "end": 176.12,
+          "text": "我",
+          "probability": 0.9888
+        },
+        {
+          "time": 176.14,
+          "end": 176.58,
+          "text": "宣",
+          "probability": 0.8581
+        },
+        {
+          "time": 176.6,
+          "end": 176.9,
+          "text": "告",
+          "probability": 0.9939
+        },
+        {
+          "time": 177.04,
+          "end": 177.34,
+          "text": "在",
+          "probability": 0.9975
+        },
+        {
+          "time": 177.42,
+          "end": 177.72,
+          "text": "我",
+          "probability": 0.9982
+        },
+        {
+          "time": 177.74,
+          "end": 178.04,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 178.08,
+          "end": 178.38,
+          "text": "面",
+          "probability": 0.9995
+        },
+        {
+          "time": 178.46,
+          "end": 178.76,
+          "text": "地",
+          "probability": 0.1715
+        },
+        {
+          "time": 179.74,
+          "end": 180.04,
+          "text": "一",
+          "probability": 0.6591
+        },
+        {
+          "time": 179.92,
+          "end": 180.22,
+          "text": "心",
+          "probability": 0.7227
+        },
+        {
+          "time": 180.26,
+          "end": 180.56,
+          "text": "上",
+          "probability": 0.8071
+        },
+        {
+          "time": 180.58,
+          "end": 180.88,
+          "text": "一",
+          "probability": 0.9886
+        },
+        {
+          "time": 180.76,
+          "end": 181.06,
+          "text": "切",
+          "probability": 0.9886
+        },
+        {
+          "time": 181.04,
+          "end": 181.34,
+          "text": "更",
+          "probability": 0.7261
+        }
+      ]
+    },
+    {
+      "time": 181.36,
+      "end": 186.94,
+      "text": "有能力我不输这世界我告知耶稣的命",
+      "words": [
+        {
+          "time": 181.36,
+          "end": 181.66,
+          "text": "有",
+          "probability": 0.9907
+        },
+        {
+          "time": 181.56,
+          "end": 181.86,
+          "text": "能",
+          "probability": 0.8953
+        },
+        {
+          "time": 182.18,
+          "end": 182.48,
+          "text": "力",
+          "probability": 0.9998
+        },
+        {
+          "time": 183.36,
+          "end": 183.66,
+          "text": "我不",
+          "probability": 0.5419
+        },
+        {
+          "time": 183.66,
+          "end": 184.0,
+          "text": "输",
+          "probability": 0.8331
+        },
+        {
+          "time": 183.94,
+          "end": 184.24,
+          "text": "这",
+          "probability": 0.4964
+        },
+        {
+          "time": 184.46,
+          "end": 184.76,
+          "text": "世界",
+          "probability": 0.8476
+        },
+        {
+          "time": 184.76,
+          "end": 185.06,
+          "text": "我",
+          "probability": 0.9601
+        },
+        {
+          "time": 185.06,
+          "end": 185.36,
+          "text": "告",
+          "probability": 0.7583
+        },
+        {
+          "time": 185.42,
+          "end": 185.72,
+          "text": "知",
+          "probability": 0.3158
+        },
+        {
+          "time": 185.8,
+          "end": 186.1,
+          "text": "耶",
+          "probability": 0.9986
+        },
+        {
+          "time": 186.02,
+          "end": 186.44,
+          "text": "稣",
+          "probability": 0.9995
+        },
+        {
+          "time": 186.36,
+          "end": 186.66,
+          "text": "的",
+          "probability": 0.978
+        },
+        {
+          "time": 186.64,
+          "end": 186.94,
+          "text": "命",
+          "probability": 0.2561
+        }
+      ]
+    },
+    {
+      "time": 188.64,
+      "end": 194.16,
+      "text": "我宣告在我里面有我却拥有满",
+      "words": [
+        {
+          "time": 188.64,
+          "end": 188.94,
+          "text": "我",
+          "probability": 0.9961
+        },
+        {
+          "time": 188.92,
+          "end": 189.36,
+          "text": "宣",
+          "probability": 0.9999
+        },
+        {
+          "time": 189.42,
+          "end": 189.72,
+          "text": "告",
+          "probability": 0.9999
+        },
+        {
+          "time": 189.86,
+          "end": 190.16,
+          "text": "在",
+          "probability": 0.9999
+        },
+        {
+          "time": 190.22,
+          "end": 190.52,
+          "text": "我",
+          "probability": 0.9987
+        },
+        {
+          "time": 190.56,
+          "end": 190.86,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 190.88,
+          "end": 191.18,
+          "text": "面",
+          "probability": 0.9991
+        },
+        {
+          "time": 191.78,
+          "end": 192.08,
+          "text": "有",
+          "probability": 0.9213
+        },
+        {
+          "time": 192.54,
+          "end": 192.84,
+          "text": "我",
+          "probability": 0.5911
+        },
+        {
+          "time": 192.72,
+          "end": 193.08,
+          "text": "却",
+          "probability": 0.4551
+        },
+        {
+          "time": 193.0,
+          "end": 193.38,
+          "text": "拥",
+          "probability": 0.7492
+        },
+        {
+          "time": 193.48,
+          "end": 193.78,
+          "text": "有",
+          "probability": 0.998
+        },
+        {
+          "time": 193.8,
+          "end": 194.18,
+          "text": "满",
+          "probability": 0.2594
+        }
+      ]
+    },
+    {
+      "time": 194.16,
+      "end": 199.98,
+      "text": "有能力有耶稣在我里面活着我永远站立",
+      "words": [
+        {
+          "time": 194.16,
+          "end": 194.46,
+          "text": "有",
+          "probability": 0.8869
+        },
+        {
+          "time": 194.38,
+          "end": 194.68,
+          "text": "能",
+          "probability": 0.9904
+        },
+        {
+          "time": 194.98,
+          "end": 195.28,
+          "text": "力",
+          "probability": 1.0
+        },
+        {
+          "time": 195.92,
+          "end": 196.22,
+          "text": "有",
+          "probability": 0.9309
+        },
+        {
+          "time": 196.22,
+          "end": 196.52,
+          "text": "耶",
+          "probability": 0.9969
+        },
+        {
+          "time": 196.44,
+          "end": 196.82,
+          "text": "稣",
+          "probability": 0.9721
+        },
+        {
+          "time": 196.78,
+          "end": 197.08,
+          "text": "在",
+          "probability": 0.9731
+        },
+        {
+          "time": 197.04,
+          "end": 197.34,
+          "text": "我",
+          "probability": 0.9911
+        },
+        {
+          "time": 197.34,
+          "end": 197.64,
+          "text": "里",
+          "probability": 0.9554
+        },
+        {
+          "time": 197.56,
+          "end": 197.86,
+          "text": "面",
+          "probability": 0.9751
+        },
+        {
+          "time": 197.82,
+          "end": 198.12,
+          "text": "活",
+          "probability": 0.8935
+        },
+        {
+          "time": 198.12,
+          "end": 198.42,
+          "text": "着",
+          "probability": 0.9969
+        },
+        {
+          "time": 198.36,
+          "end": 198.66,
+          "text": "我",
+          "probability": 0.9559
+        },
+        {
+          "time": 198.6,
+          "end": 198.9,
+          "text": "永",
+          "probability": 0.9831
+        },
+        {
+          "time": 198.88,
+          "end": 199.22,
+          "text": "远",
+          "probability": 0.998
+        },
+        {
+          "time": 199.14,
+          "end": 199.44,
+          "text": "站",
+          "probability": 0.1479
+        },
+        {
+          "time": 199.68,
+          "end": 199.98,
+          "text": "立",
+          "probability": 0.9782
+        }
+      ]
+    },
+    {
+      "time": 202.22,
+      "end": 206.6,
+      "text": "有耶稣在我里面活着我永远站立",
+      "words": [
+        {
+          "time": 202.22,
+          "end": 202.52,
+          "text": "有",
+          "probability": 0.9972
+        },
+        {
+          "time": 202.62,
+          "end": 202.92,
+          "text": "耶",
+          "probability": 1.0
+        },
+        {
+          "time": 202.84,
+          "end": 203.2,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 203.16,
+          "end": 203.46,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 203.4,
+          "end": 203.7,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 203.7,
+          "end": 204.0,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 203.94,
+          "end": 204.24,
+          "text": "面",
+          "probability": 0.9994
+        },
+        {
+          "time": 204.2,
+          "end": 204.5,
+          "text": "活",
+          "probability": 0.9996
+        },
+        {
+          "time": 204.54,
+          "end": 204.84,
+          "text": "着",
+          "probability": 1.0
+        },
+        {
+          "time": 204.74,
+          "end": 205.04,
+          "text": "我",
+          "probability": 0.9991
+        },
+        {
+          "time": 205.02,
+          "end": 205.32,
+          "text": "永",
+          "probability": 0.9999
+        },
+        {
+          "time": 205.26,
+          "end": 205.62,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 205.56,
+          "end": 205.86,
+          "text": "站",
+          "probability": 0.9936
+        },
+        {
+          "time": 206.3,
+          "end": 206.6,
+          "text": "立",
+          "probability": 0.9999
+        }
+      ]
+    }
+  ]
+}

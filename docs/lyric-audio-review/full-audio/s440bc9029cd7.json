@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "8213",
+  "waveform": {
+    "source": "8213",
+    "url": "https://www.izanmei.cc/song/8213.html",
+    "audio": "https://play.izanm.org/song/p/8213.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 29.271,
+        "sourceStart": 29.271,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 73.18,
+        "sourceStart": 73.18,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 117.087,
+        "sourceStart": 117.087,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 160.994,
+        "sourceStart": 160.994,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 204.903,
+        "sourceStart": 204.903,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 248.81,
+        "sourceStart": 248.81,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 292.718,
+        "sourceStart": 292.718,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 329.308,
+        "sourceStart": 329.308,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.96,
+  "id": "s440bc9029cd7",
+  "file": "261求你国度降临.mp3",
+  "fullDuration": 365.89975,
+  "recordingHash": "52da848fe5e21d4832159cb3594254db47b967a47ef9c5959d95d2b8b1c79600",
+  "lines": []
+}

@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "3654",
+  "waveform": {
+    "source": "3654",
+    "url": "https://www.izanmei.cc/song/3654.html",
+    "audio": "https://play.izanm.org/song/p/3654.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 16.064,
+        "sourceStart": 16.064,
+        "offset": 0.0,
+        "coefficient": 0.994468
+      },
+      {
+        "localStart": 40.16,
+        "sourceStart": 40.16,
+        "offset": 0.0,
+        "coefficient": 0.990352
+      },
+      {
+        "localStart": 64.257,
+        "sourceStart": 64.257,
+        "offset": 0.0,
+        "coefficient": 0.989925
+      },
+      {
+        "localStart": 88.353,
+        "sourceStart": 88.353,
+        "offset": 0.0,
+        "coefficient": 0.991145
+      },
+      {
+        "localStart": 112.45,
+        "sourceStart": 112.45,
+        "offset": 0.0,
+        "coefficient": 0.991405
+      },
+      {
+        "localStart": 136.546,
+        "sourceStart": 136.546,
+        "offset": 0.0,
+        "coefficient": 0.991339
+      },
+      {
+        "localStart": 160.643,
+        "sourceStart": 160.643,
+        "offset": 0.0,
+        "coefficient": 0.989333
+      },
+      {
+        "localStart": 180.723,
+        "sourceStart": 180.723,
+        "offset": 0.0,
+        "coefficient": 0.991153
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "sd74046ae2ca1",
+  "file": "171-.mp3",
+  "fullDuration": 200.94175,
+  "recordingHash": "ccd3a68a993f7fea0f935ddd9262d0bffa9c4817c8e563b03239fb63204d4d2e",
+  "lines": []
+}

@@ -1,0 +1,88 @@
+{
+  "id": "s0d9333e9f26b",
+  "file": "241谨慎自守_男声_吉他.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "15422",
+      "offset": -27.3655,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.547783,
+      "windows": [
+        {
+          "localStart": 31.466,
+          "sourceStart": 2.645,
+          "offset": -28.821,
+          "coefficient": 0.152141
+        },
+        {
+          "localStart": 78.665,
+          "sourceStart": 49.322,
+          "offset": -29.343,
+          "coefficient": 0.047982
+        },
+        {
+          "localStart": 125.865,
+          "sourceStart": 99.779,
+          "offset": -26.085,
+          "coefficient": 0.071855
+        },
+        {
+          "localStart": 173.064,
+          "sourceStart": 144.657,
+          "offset": -28.4065,
+          "coefficient": 0.051663
+        },
+        {
+          "localStart": 220.263,
+          "sourceStart": 194.379,
+          "offset": -25.8845,
+          "coefficient": 0.111761
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "43539",
+      "offset": -107.762,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.628277,
+      "windows": [
+        {
+          "localStart": 125.865,
+          "sourceStart": 16.498,
+          "offset": -109.366,
+          "coefficient": 0.093076
+        },
+        {
+          "localStart": 173.064,
+          "sourceStart": 67.129,
+          "offset": -105.934,
+          "coefficient": 0.050659
+        },
+        {
+          "localStart": 220.263,
+          "sourceStart": 112.785,
+          "offset": -107.4775,
+          "coefficient": 0.078256
+        },
+        {
+          "localStart": 267.462,
+          "sourceStart": 160.92,
+          "offset": -106.542,
+          "coefficient": 0.066503
+        },
+        {
+          "localStart": 314.661,
+          "sourceStart": 208.402,
+          "offset": -106.2595,
+          "coefficient": 0.047724
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

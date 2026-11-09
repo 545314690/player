@@ -1,0 +1,66 @@
+{
+  "id": "sf7b7d98efa7c",
+  "file": "070天堂在我心.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "23095",
+      "offset": 0.302,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 17.019,
+          "sourceStart": 17.224,
+          "offset": 0.2055,
+          "coefficient": 0.764271
+        },
+        {
+          "localStart": 42.548,
+          "sourceStart": 42.76,
+          "offset": 0.2115,
+          "coefficient": 0.76059
+        },
+        {
+          "localStart": 68.077,
+          "sourceStart": 68.294,
+          "offset": 0.217,
+          "coefficient": 0.797403
+        },
+        {
+          "localStart": 93.606,
+          "sourceStart": 93.829,
+          "offset": 0.2225,
+          "coefficient": 0.843818
+        },
+        {
+          "localStart": 119.135,
+          "sourceStart": 119.364,
+          "offset": 0.2285,
+          "coefficient": 0.79681
+        },
+        {
+          "localStart": 144.664,
+          "sourceStart": 144.898,
+          "offset": 0.234,
+          "coefficient": 0.702106
+        },
+        {
+          "localStart": 170.193,
+          "sourceStart": 170.433,
+          "offset": 0.2395,
+          "coefficient": 0.730954
+        },
+        {
+          "localStart": 191.467,
+          "sourceStart": 191.712,
+          "offset": 0.2445,
+          "coefficient": 0.75831
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

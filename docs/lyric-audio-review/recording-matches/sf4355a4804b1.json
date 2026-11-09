@@ -1,0 +1,125 @@
+{
+  "id": "sf4355a4804b1",
+  "file": "276哈利路亚(你真奇妙).mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "12824",
+    "url": "https://www.izanmei.cc/song/12824.html",
+    "audio": "https://play.izanm.org/song/p/12824.mp3",
+    "offset": -0.0,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 1.0,
+    "windows": [
+      {
+        "localStart": 19.111,
+        "sourceStart": 19.111,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 47.778,
+        "sourceStart": 47.778,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 76.445,
+        "sourceStart": 76.445,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 105.112,
+        "sourceStart": 105.112,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 133.778,
+        "sourceStart": 133.778,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 162.445,
+        "sourceStart": 162.445,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 191.112,
+        "sourceStart": 191.112,
+        "offset": 0.0,
+        "coefficient": 1.0
+      },
+      {
+        "localStart": 215.001,
+        "sourceStart": 215.001,
+        "offset": 0.0,
+        "coefficient": 1.0
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "12824",
+      "offset": -0.0,
+      "scale": 1.0,
+      "residual": 0.0,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 19.111,
+          "sourceStart": 19.111,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 47.778,
+          "sourceStart": 47.778,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 76.445,
+          "sourceStart": 76.445,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 105.112,
+          "sourceStart": 105.112,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 133.778,
+          "sourceStart": 133.778,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 162.445,
+          "sourceStart": 162.445,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 191.112,
+          "sourceStart": 191.112,
+          "offset": 0.0,
+          "coefficient": 1.0
+        },
+        {
+          "localStart": 215.001,
+          "sourceStart": 215.001,
+          "offset": 0.0,
+          "coefficient": 1.0
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

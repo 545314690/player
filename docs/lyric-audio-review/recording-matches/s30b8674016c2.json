@@ -1,0 +1,60 @@
+{
+  "id": "s30b8674016c2",
+  "file": "014把冷漠变成爱.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "45959",
+      "offset": 59.5025,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.872654,
+      "windows": [
+        {
+          "localStart": 20.363,
+          "sourceStart": 78.165,
+          "offset": 57.8015,
+          "coefficient": 0.071051
+        },
+        {
+          "localStart": 50.907,
+          "sourceStart": 111.998,
+          "offset": 61.0905,
+          "coefficient": 0.050599
+        },
+        {
+          "localStart": 81.452,
+          "sourceStart": 138.963,
+          "offset": 57.5105,
+          "coefficient": 0.050954
+        },
+        {
+          "localStart": 111.996,
+          "sourceStart": 173.25,
+          "offset": 61.254,
+          "coefficient": 0.071519
+        },
+        {
+          "localStart": 142.542,
+          "sourceStart": 203.033,
+          "offset": 60.4915,
+          "coefficient": 0.083783
+        },
+        {
+          "localStart": 173.086,
+          "sourceStart": 230.972,
+          "offset": 57.8865,
+          "coefficient": 0.069408
+        },
+        {
+          "localStart": 203.631,
+          "sourceStart": 261.796,
+          "offset": 58.166,
+          "coefficient": 0.046082
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

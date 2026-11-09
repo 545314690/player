@@ -1,0 +1,125 @@
+{
+  "id": "s87126d15ed47",
+  "file": "282凡事都有神的美意.mp3",
+  "algorithm": 2,
+  "match": {
+    "source": "34110",
+    "url": "https://www.izanmei.cc/song/34110.html",
+    "audio": "https://play.izanm.org/song/p/34110.mp3",
+    "offset": 0.049869,
+    "scale": 1.000001943,
+    "residual": 0.001028,
+    "coverage": 0.999509,
+    "windows": [
+      {
+        "localStart": 21.172,
+        "sourceStart": 21.221,
+        "offset": 0.05,
+        "coefficient": 0.941624
+      },
+      {
+        "localStart": 52.929,
+        "sourceStart": 52.98,
+        "offset": 0.05,
+        "coefficient": 0.962151
+      },
+      {
+        "localStart": 84.687,
+        "sourceStart": 84.737,
+        "offset": 0.05,
+        "coefficient": 0.966077
+      },
+      {
+        "localStart": 116.445,
+        "sourceStart": 116.495,
+        "offset": 0.05,
+        "coefficient": 0.958988
+      },
+      {
+        "localStart": 148.202,
+        "sourceStart": 148.252,
+        "offset": 0.05,
+        "coefficient": 0.94879
+      },
+      {
+        "localStart": 179.96,
+        "sourceStart": 180.011,
+        "offset": 0.05,
+        "coefficient": 0.966456
+      },
+      {
+        "localStart": 211.718,
+        "sourceStart": 211.768,
+        "offset": 0.05,
+        "coefficient": 0.957995
+      },
+      {
+        "localStart": 238.183,
+        "sourceStart": 238.233,
+        "offset": 0.05,
+        "coefficient": 0.947514
+      }
+    ],
+    "accepted": true
+  },
+  "attempts": [
+    {
+      "source": "34110",
+      "offset": 0.049869,
+      "scale": 1.000001943,
+      "residual": 0.001028,
+      "coverage": 0.999509,
+      "windows": [
+        {
+          "localStart": 21.172,
+          "sourceStart": 21.221,
+          "offset": 0.05,
+          "coefficient": 0.941624
+        },
+        {
+          "localStart": 52.929,
+          "sourceStart": 52.98,
+          "offset": 0.05,
+          "coefficient": 0.962151
+        },
+        {
+          "localStart": 84.687,
+          "sourceStart": 84.737,
+          "offset": 0.05,
+          "coefficient": 0.966077
+        },
+        {
+          "localStart": 116.445,
+          "sourceStart": 116.495,
+          "offset": 0.05,
+          "coefficient": 0.958988
+        },
+        {
+          "localStart": 148.202,
+          "sourceStart": 148.252,
+          "offset": 0.05,
+          "coefficient": 0.94879
+        },
+        {
+          "localStart": 179.96,
+          "sourceStart": 180.011,
+          "offset": 0.05,
+          "coefficient": 0.966456
+        },
+        {
+          "localStart": 211.718,
+          "sourceStart": 211.768,
+          "offset": 0.05,
+          "coefficient": 0.957995
+        },
+        {
+          "localStart": 238.183,
+          "sourceStart": 238.233,
+          "offset": 0.05,
+          "coefficient": 0.947514
+        }
+      ],
+      "accepted": true
+    }
+  ]
+}

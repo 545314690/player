@@ -1,0 +1,60 @@
+{
+  "id": "s69ff3d6b111b",
+  "file": "201-这里有荣耀.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "32320",
+      "offset": 135.511,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.879227,
+      "windows": [
+        {
+          "localStart": 12.134,
+          "sourceStart": 146.956,
+          "offset": 134.822,
+          "coefficient": 0.042705
+        },
+        {
+          "localStart": 30.336,
+          "sourceStart": 164.405,
+          "offset": 134.0685,
+          "coefficient": 0.040588
+        },
+        {
+          "localStart": 48.538,
+          "sourceStart": 183.103,
+          "offset": 134.566,
+          "coefficient": 0.04144
+        },
+        {
+          "localStart": 66.74,
+          "sourceStart": 203.285,
+          "offset": 136.545,
+          "coefficient": 0.036542
+        },
+        {
+          "localStart": 84.941,
+          "sourceStart": 220.504,
+          "offset": 135.563,
+          "coefficient": 0.045847
+        },
+        {
+          "localStart": 103.143,
+          "sourceStart": 237.744,
+          "offset": 134.6005,
+          "coefficient": 0.045838
+        },
+        {
+          "localStart": 121.344,
+          "sourceStart": 257.019,
+          "offset": 135.6745,
+          "coefficient": 0.045016
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

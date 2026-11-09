@@ -1,0 +1,66 @@
+{
+  "id": "s49118f6b4be4",
+  "file": "162主啊，差遣我.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "26850",
+      "offset": -3.161,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.990436,
+      "windows": [
+        {
+          "localStart": 26.44,
+          "sourceStart": 23.128,
+          "offset": -3.3115,
+          "coefficient": 0.044781
+        },
+        {
+          "localStart": 66.1,
+          "sourceStart": 64.243,
+          "offset": -1.8575,
+          "coefficient": 0.063873
+        },
+        {
+          "localStart": 105.76,
+          "sourceStart": 102.868,
+          "offset": -2.8915,
+          "coefficient": 0.150959
+        },
+        {
+          "localStart": 145.421,
+          "sourceStart": 140.399,
+          "offset": -5.022,
+          "coefficient": 0.078911
+        },
+        {
+          "localStart": 185.081,
+          "sourceStart": 180.048,
+          "offset": -5.032,
+          "coefficient": 0.061892
+        },
+        {
+          "localStart": 224.741,
+          "sourceStart": 221.327,
+          "offset": -3.4135,
+          "coefficient": 0.147356
+        },
+        {
+          "localStart": 264.401,
+          "sourceStart": 261.219,
+          "offset": -3.182,
+          "coefficient": 0.096231
+        },
+        {
+          "localStart": 297.451,
+          "sourceStart": 295.192,
+          "offset": -2.2595,
+          "coefficient": 0.062037
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

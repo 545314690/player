@@ -1,0 +1,158 @@
+{
+  "id": "s7584e9c1bd8f",
+  "file": "208-耶和华我的磐石.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "35711",
+      "offset": 64.5615,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.815091,
+      "windows": [
+        {
+          "localStart": 15.271,
+          "sourceStart": 80.883,
+          "offset": 65.612,
+          "coefficient": 0.051205
+        },
+        {
+          "localStart": 38.179,
+          "sourceStart": 104.207,
+          "offset": 66.0275,
+          "coefficient": 0.055478
+        },
+        {
+          "localStart": 61.087,
+          "sourceStart": 124.236,
+          "offset": 63.1485,
+          "coefficient": 0.039999
+        },
+        {
+          "localStart": 83.995,
+          "sourceStart": 148.148,
+          "offset": 64.1535,
+          "coefficient": 0.050077
+        },
+        {
+          "localStart": 106.902,
+          "sourceStart": 169.88,
+          "offset": 62.978,
+          "coefficient": 0.043225
+        },
+        {
+          "localStart": 129.81,
+          "sourceStart": 192.906,
+          "offset": 63.0965,
+          "coefficient": 0.048438
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "36782",
+      "offset": 20.4745,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.788915,
+      "windows": [
+        {
+          "localStart": 15.271,
+          "sourceStart": 36.508,
+          "offset": 21.236,
+          "coefficient": 0.03434
+        },
+        {
+          "localStart": 38.179,
+          "sourceStart": 58.093,
+          "offset": 19.9145,
+          "coefficient": 0.034126
+        },
+        {
+          "localStart": 61.087,
+          "sourceStart": 82.054,
+          "offset": 20.967,
+          "coefficient": 0.064639
+        },
+        {
+          "localStart": 83.995,
+          "sourceStart": 102.538,
+          "offset": 18.544,
+          "coefficient": 0.035898
+        },
+        {
+          "localStart": 106.902,
+          "sourceStart": 128.341,
+          "offset": 21.439,
+          "coefficient": 0.046445
+        },
+        {
+          "localStart": 129.81,
+          "sourceStart": 149.127,
+          "offset": 19.3175,
+          "coefficient": 0.03162
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "10562",
+      "offset": 11.1585,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 1.0,
+      "windows": [
+        {
+          "localStart": 15.271,
+          "sourceStart": 27.646,
+          "offset": 12.3745,
+          "coefficient": 0.042112
+        },
+        {
+          "localStart": 38.179,
+          "sourceStart": 49.382,
+          "offset": 11.2025,
+          "coefficient": 0.038354
+        },
+        {
+          "localStart": 61.087,
+          "sourceStart": 72.912,
+          "offset": 11.8255,
+          "coefficient": 0.035142
+        },
+        {
+          "localStart": 83.995,
+          "sourceStart": 95.268,
+          "offset": 11.2735,
+          "coefficient": 0.040253
+        },
+        {
+          "localStart": 106.902,
+          "sourceStart": 116.896,
+          "offset": 9.994,
+          "coefficient": 0.046909
+        },
+        {
+          "localStart": 129.81,
+          "sourceStart": 140.194,
+          "offset": 10.3845,
+          "coefficient": 0.058915
+        },
+        {
+          "localStart": 152.718,
+          "sourceStart": 165.73,
+          "offset": 13.0125,
+          "coefficient": 0.045924
+        },
+        {
+          "localStart": 171.807,
+          "sourceStart": 184.68,
+          "offset": 12.8735,
+          "coefficient": 0.040217
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

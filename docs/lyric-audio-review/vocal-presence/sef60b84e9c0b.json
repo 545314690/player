@@ -1,0 +1,213 @@
+{
+  "id": "sef60b84e9c0b",
+  "file": "123主再来到这世界为止韩文.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 33.71,
+      "tags": {
+        "Singing": 0.32234,
+        "Choir": 0.04351,
+        "Speech": 0.0368,
+        "Piano": 0.00576,
+        "Electric piano": 0.00113,
+        "Music": 0.81409,
+        "Musical instrument": 0.11184
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.81409
+        },
+        {
+          "label": "Singing",
+          "score": 0.32234
+        },
+        {
+          "label": "Female singing",
+          "score": 0.22807
+        },
+        {
+          "label": "Child singing",
+          "score": 0.13533
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.11854
+        }
+      ]
+    },
+    {
+      "time": 73.04,
+      "tags": {
+        "Singing": 0.21437,
+        "Choir": 0.04702,
+        "Speech": 0.03518,
+        "Piano": 0.008,
+        "Electric piano": 0.00321,
+        "Music": 0.80894,
+        "Musical instrument": 0.04682
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.80894
+        },
+        {
+          "label": "Singing",
+          "score": 0.21437
+        },
+        {
+          "label": "Christian music",
+          "score": 0.16466
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.1163
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.07048
+        }
+      ]
+    },
+    {
+      "time": 112.36,
+      "tags": {
+        "Singing": 0.24684,
+        "Choir": 0.01828,
+        "Speech": 0.0486,
+        "Piano": 0.00374,
+        "Electric piano": 0.0027,
+        "Music": 0.79868,
+        "Musical instrument": 0.05038
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.79868
+        },
+        {
+          "label": "Singing",
+          "score": 0.24684
+        },
+        {
+          "label": "Christian music",
+          "score": 0.10725
+        },
+        {
+          "label": "Pop music",
+          "score": 0.10384
+        },
+        {
+          "label": "Soul music",
+          "score": 0.06388
+        }
+      ]
+    },
+    {
+      "time": 151.69,
+      "tags": {
+        "Singing": 0.01252,
+        "Choir": 0.00123,
+        "Speech": 0.03104,
+        "Piano": 0.05647,
+        "Electric piano": 0.03613,
+        "Music": 0.70998,
+        "Musical instrument": 0.28081
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.70998
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.28081
+        },
+        {
+          "label": "Guitar",
+          "score": 0.26201
+        },
+        {
+          "label": "Plucked string instrument",
+          "score": 0.19831
+        },
+        {
+          "label": "Steel guitar, slide guitar",
+          "score": 0.15472
+        }
+      ]
+    },
+    {
+      "time": 191.02,
+      "tags": {
+        "Singing": 0.18995,
+        "Choir": 0.01684,
+        "Speech": 0.05072,
+        "Piano": 0.00252,
+        "Electric piano": 0.0018,
+        "Music": 0.81412,
+        "Musical instrument": 0.03248
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.81412
+        },
+        {
+          "label": "Singing",
+          "score": 0.18995
+        },
+        {
+          "label": "Pop music",
+          "score": 0.14809
+        },
+        {
+          "label": "Christian music",
+          "score": 0.085
+        },
+        {
+          "label": "Grunge",
+          "score": 0.06219
+        }
+      ]
+    },
+    {
+      "time": 230.34,
+      "tags": {
+        "Singing": 0.24002,
+        "Choir": 0.01054,
+        "Speech": 0.05789,
+        "Piano": 0.0044,
+        "Electric piano": 0.00334,
+        "Music": 0.82508,
+        "Musical instrument": 0.09502
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.82508
+        },
+        {
+          "label": "Singing",
+          "score": 0.24002
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.09502
+        },
+        {
+          "label": "Rock music",
+          "score": 0.09288
+        },
+        {
+          "label": "Pop music",
+          "score": 0.06762
+        }
+      ]
+    }
+  ]
+}

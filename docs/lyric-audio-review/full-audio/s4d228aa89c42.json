@@ -1,0 +1,3486 @@
+{
+  "id": "s4d228aa89c42",
+  "file": "237-愿.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "868806b33c553fa39ded18d5b3a04691b891d6713d27bf919a3c2288c2b76e0c",
+  "fullDuration": 478.537143,
+  "lines": [
+    {
+      "time": 0,
+      "end": 6.2,
+      "text": "哈利路亚作词:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲",
+      "words": [
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "哈",
+          "probability": 0.0904
+        },
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "利",
+          "probability": 0.9146
+        },
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "路",
+          "probability": 0.7997
+        },
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "亚",
+          "probability": 0.5152
+        },
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "作",
+          "probability": 0.2482
+        },
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "词",
+          "probability": 0.5814
+        },
+        {
+          "time": 0.16,
+          "end": 0.46,
+          "text": ":",
+          "probability": 0.8199
+        },
+        {
+          "time": 0.32,
+          "end": 0.62,
+          "text": "王",
+          "probability": 0.0321
+        },
+        {
+          "time": 0.32,
+          "end": 0.62,
+          "text": "晓",
+          "probability": 0.0588
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "鸥",
+          "probability": 0.104
+        },
+        {
+          "time": 1.44,
+          "end": 1.74,
+          "text": "作",
+          "probability": 0.7854
+        },
+        {
+          "time": 2.28,
+          "end": 2.58,
+          "text": "曲",
+          "probability": 0.8656
+        },
+        {
+          "time": 2.44,
+          "end": 2.74,
+          "text": ":",
+          "probability": 0.9845
+        },
+        {
+          "time": 2.86,
+          "end": 3.16,
+          "text": "王",
+          "probability": 0.5895
+        },
+        {
+          "time": 2.86,
+          "end": 3.16,
+          "text": "晓",
+          "probability": 0.9558
+        },
+        {
+          "time": 2.86,
+          "end": 3.22,
+          "text": "鸥",
+          "probability": 0.9893
+        },
+        {
+          "time": 3.0,
+          "end": 3.3,
+          "text": "作",
+          "probability": 0.7486
+        },
+        {
+          "time": 4.36,
+          "end": 4.66,
+          "text": "曲",
+          "probability": 0.8717
+        },
+        {
+          "time": 4.36,
+          "end": 4.66,
+          "text": ":",
+          "probability": 0.9951
+        },
+        {
+          "time": 4.38,
+          "end": 4.68,
+          "text": "王",
+          "probability": 0.835
+        },
+        {
+          "time": 4.48,
+          "end": 4.82,
+          "text": "晓",
+          "probability": 0.9768
+        },
+        {
+          "time": 4.52,
+          "end": 4.92,
+          "text": "鸥",
+          "probability": 0.9929
+        },
+        {
+          "time": 4.62,
+          "end": 4.92,
+          "text": "作",
+          "probability": 0.7954
+        },
+        {
+          "time": 5.9,
+          "end": 6.2,
+          "text": "曲",
+          "probability": 0.8802
+        }
+      ]
+    },
+    {
+      "time": 6.64,
+      "end": 7.88,
+      "text": ":王晓鸥作曲:王晓鸥哈利路亚",
+      "words": [
+        {
+          "time": 6.64,
+          "end": 6.94,
+          "text": ":",
+          "probability": 0.9971
+        },
+        {
+          "time": 6.64,
+          "end": 6.94,
+          "text": "王",
+          "probability": 0.9078
+        },
+        {
+          "time": 6.64,
+          "end": 6.94,
+          "text": "晓",
+          "probability": 0.983
+        },
+        {
+          "time": 6.64,
+          "end": 6.94,
+          "text": "鸥",
+          "probability": 0.9922
+        },
+        {
+          "time": 6.74,
+          "end": 7.04,
+          "text": "作",
+          "probability": 0.5633
+        },
+        {
+          "time": 6.74,
+          "end": 7.04,
+          "text": "曲",
+          "probability": 0.8841
+        },
+        {
+          "time": 6.74,
+          "end": 7.04,
+          "text": ":",
+          "probability": 0.9982
+        },
+        {
+          "time": 6.74,
+          "end": 7.04,
+          "text": "王",
+          "probability": 0.9306
+        },
+        {
+          "time": 6.74,
+          "end": 7.04,
+          "text": "晓",
+          "probability": 0.985
+        },
+        {
+          "time": 6.74,
+          "end": 7.04,
+          "text": "鸥",
+          "probability": 0.9918
+        },
+        {
+          "time": 6.96,
+          "end": 7.26,
+          "text": "哈",
+          "probability": 0.9657
+        },
+        {
+          "time": 7.18,
+          "end": 7.48,
+          "text": "利",
+          "probability": 0.9967
+        },
+        {
+          "time": 7.3,
+          "end": 7.6,
+          "text": "路",
+          "probability": 0.9972
+        },
+        {
+          "time": 7.48,
+          "end": 7.88,
+          "text": "亚",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 9.56,
+      "end": 10.84,
+      "text": "祝我赞美你",
+      "words": [
+        {
+          "time": 9.56,
+          "end": 9.92,
+          "text": "祝",
+          "probability": 0.8137
+        },
+        {
+          "time": 9.8,
+          "end": 10.1,
+          "text": "我",
+          "probability": 0.9981
+        },
+        {
+          "time": 9.96,
+          "end": 10.34,
+          "text": "赞",
+          "probability": 0.9745
+        },
+        {
+          "time": 10.26,
+          "end": 10.56,
+          "text": "美",
+          "probability": 0.9829
+        },
+        {
+          "time": 10.54,
+          "end": 10.84,
+          "text": "你",
+          "probability": 0.876
+        }
+      ]
+    },
+    {
+      "time": 12.44,
+      "end": 15.12,
+      "text": "耶和华的名是应当称颂",
+      "words": [
+        {
+          "time": 12.44,
+          "end": 12.74,
+          "text": "耶",
+          "probability": 0.9761
+        },
+        {
+          "time": 12.6,
+          "end": 12.9,
+          "text": "和",
+          "probability": 0.992
+        },
+        {
+          "time": 12.74,
+          "end": 13.08,
+          "text": "华",
+          "probability": 0.771
+        },
+        {
+          "time": 12.92,
+          "end": 13.22,
+          "text": "的",
+          "probability": 0.9901
+        },
+        {
+          "time": 13.12,
+          "end": 13.42,
+          "text": "名",
+          "probability": 0.9937
+        },
+        {
+          "time": 13.72,
+          "end": 14.02,
+          "text": "是",
+          "probability": 0.7092
+        },
+        {
+          "time": 13.94,
+          "end": 14.24,
+          "text": "应",
+          "probability": 0.9905
+        },
+        {
+          "time": 14.14,
+          "end": 14.44,
+          "text": "当",
+          "probability": 0.9968
+        },
+        {
+          "time": 14.42,
+          "end": 14.82,
+          "text": "称",
+          "probability": 0.9678
+        },
+        {
+          "time": 14.76,
+          "end": 15.12,
+          "text": "颂",
+          "probability": 0.9769
+        }
+      ]
+    },
+    {
+      "time": 16.44,
+      "end": 18.64,
+      "text": "从今时直到永远",
+      "words": [
+        {
+          "time": 16.44,
+          "end": 16.74,
+          "text": "从",
+          "probability": 0.9306
+        },
+        {
+          "time": 16.78,
+          "end": 17.08,
+          "text": "今",
+          "probability": 0.9926
+        },
+        {
+          "time": 17.12,
+          "end": 17.42,
+          "text": "时",
+          "probability": 0.9632
+        },
+        {
+          "time": 17.56,
+          "end": 17.86,
+          "text": "直",
+          "probability": 0.9093
+        },
+        {
+          "time": 17.76,
+          "end": 18.06,
+          "text": "到",
+          "probability": 0.9986
+        },
+        {
+          "time": 18.02,
+          "end": 18.32,
+          "text": "永",
+          "probability": 0.9996
+        },
+        {
+          "time": 18.22,
+          "end": 18.64,
+          "text": "远",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 20.06,
+      "end": 26.66,
+      "text": "耶和华超乎万名之上他的荣耀高莫逐天H",
+      "words": [
+        {
+          "time": 20.06,
+          "end": 20.36,
+          "text": "耶",
+          "probability": 0.9919
+        },
+        {
+          "time": 20.22,
+          "end": 20.52,
+          "text": "和",
+          "probability": 0.9995
+        },
+        {
+          "time": 20.4,
+          "end": 20.8,
+          "text": "华",
+          "probability": 0.9979
+        },
+        {
+          "time": 20.78,
+          "end": 21.08,
+          "text": "超",
+          "probability": 0.9834
+        },
+        {
+          "time": 21.04,
+          "end": 21.42,
+          "text": "乎",
+          "probability": 0.9776
+        },
+        {
+          "time": 21.42,
+          "end": 21.72,
+          "text": "万",
+          "probability": 0.9978
+        },
+        {
+          "time": 21.66,
+          "end": 21.96,
+          "text": "名",
+          "probability": 0.7059
+        },
+        {
+          "time": 21.86,
+          "end": 22.16,
+          "text": "之",
+          "probability": 0.9918
+        },
+        {
+          "time": 22.14,
+          "end": 22.44,
+          "text": "上",
+          "probability": 0.9873
+        },
+        {
+          "time": 23.34,
+          "end": 23.64,
+          "text": "他的",
+          "probability": 0.7748
+        },
+        {
+          "time": 23.54,
+          "end": 23.9,
+          "text": "荣",
+          "probability": 0.9966
+        },
+        {
+          "time": 23.76,
+          "end": 24.14,
+          "text": "耀",
+          "probability": 0.9986
+        },
+        {
+          "time": 24.3,
+          "end": 24.6,
+          "text": "高",
+          "probability": 0.99
+        },
+        {
+          "time": 24.62,
+          "end": 25.02,
+          "text": "莫",
+          "probability": 0.4394
+        },
+        {
+          "time": 24.9,
+          "end": 25.24,
+          "text": "逐",
+          "probability": 0.2587
+        },
+        {
+          "time": 25.26,
+          "end": 25.56,
+          "text": "天",
+          "probability": 0.9914
+        },
+        {
+          "time": 26.52,
+          "end": 26.82,
+          "text": "H",
+          "probability": 0.6558
+        }
+      ]
+    },
+    {
+      "time": 26.66,
+      "end": 27.46,
+      "text": "allelujah",
+      "words": [
+        {
+          "time": 26.66,
+          "end": 26.96,
+          "text": "all",
+          "probability": 0.8917
+        },
+        {
+          "time": 27.16,
+          "end": 27.46,
+          "text": "elujah",
+          "probability": 0.9719
+        }
+      ]
+    },
+    {
+      "time": 34.8,
+      "end": 35.1,
+      "text": "他",
+      "words": [
+        {
+          "time": 34.8,
+          "end": 35.1,
+          "text": "他",
+          "probability": 0.0806
+        }
+      ]
+    },
+    {
+      "time": 39.92,
+      "end": 42.04,
+      "text": "美你 他美",
+      "words": [
+        {
+          "time": 39.92,
+          "end": 40.22,
+          "text": "美",
+          "probability": 0.5057
+        },
+        {
+          "time": 40.62,
+          "end": 40.92,
+          "text": "你",
+          "probability": 0.8151
+        },
+        {
+          "time": 41.28,
+          "end": 41.58,
+          "text": " 他",
+          "probability": 0.5533
+        },
+        {
+          "time": 41.74,
+          "end": 42.04,
+          "text": "美",
+          "probability": 0.9927
+        }
+      ]
+    },
+    {
+      "time": 43.4,
+      "end": 43.7,
+      "text": "你",
+      "words": [
+        {
+          "time": 43.4,
+          "end": 43.7,
+          "text": "你",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 56.32,
+      "end": 58.2,
+      "text": "Wu~",
+      "words": [
+        {
+          "time": 56.32,
+          "end": 56.62,
+          "text": "W",
+          "probability": 0.3368
+        },
+        {
+          "time": 56.56,
+          "end": 56.86,
+          "text": "u",
+          "probability": 0.3681
+        },
+        {
+          "time": 57.9,
+          "end": 58.2,
+          "text": "~",
+          "probability": 0.3967
+        }
+      ]
+    },
+    {
+      "time": 63.34,
+      "end": 68.16,
+      "text": "我要在万名中陈谢你",
+      "words": [
+        {
+          "time": 63.34,
+          "end": 63.64,
+          "text": "我要",
+          "probability": 0.9915
+        },
+        {
+          "time": 64.26,
+          "end": 64.56,
+          "text": "在",
+          "probability": 0.9939
+        },
+        {
+          "time": 64.86,
+          "end": 65.16,
+          "text": "万",
+          "probability": 0.5509
+        },
+        {
+          "time": 65.24,
+          "end": 65.54,
+          "text": "名",
+          "probability": 0.3911
+        },
+        {
+          "time": 65.8,
+          "end": 66.1,
+          "text": "中",
+          "probability": 0.992
+        },
+        {
+          "time": 66.62,
+          "end": 66.92,
+          "text": "陈",
+          "probability": 0.28
+        },
+        {
+          "time": 67.12,
+          "end": 67.42,
+          "text": "谢",
+          "probability": 0.9244
+        },
+        {
+          "time": 67.86,
+          "end": 68.16,
+          "text": "你",
+          "probability": 0.886
+        }
+      ]
+    },
+    {
+      "time": 70.52,
+      "end": 75.14,
+      "text": "我要在烈榜中歌颂你",
+      "words": [
+        {
+          "time": 70.52,
+          "end": 70.82,
+          "text": "我要",
+          "probability": 0.9977
+        },
+        {
+          "time": 71.58,
+          "end": 71.88,
+          "text": "在",
+          "probability": 0.9921
+        },
+        {
+          "time": 71.96,
+          "end": 72.34,
+          "text": "烈",
+          "probability": 0.2508
+        },
+        {
+          "time": 72.26,
+          "end": 72.64,
+          "text": "榜",
+          "probability": 0.1095
+        },
+        {
+          "time": 72.66,
+          "end": 72.96,
+          "text": "中",
+          "probability": 0.9889
+        },
+        {
+          "time": 73.44,
+          "end": 73.74,
+          "text": "歌",
+          "probability": 0.5723
+        },
+        {
+          "time": 73.88,
+          "end": 74.5,
+          "text": "颂",
+          "probability": 0.8056
+        },
+        {
+          "time": 74.84,
+          "end": 75.14,
+          "text": "你",
+          "probability": 0.9963
+        }
+      ]
+    },
+    {
+      "time": 77.76,
+      "end": 78.96,
+      "text": "你的慈",
+      "words": [
+        {
+          "time": 77.76,
+          "end": 78.06,
+          "text": "你的",
+          "probability": 0.8864
+        },
+        {
+          "time": 78.28,
+          "end": 78.96,
+          "text": "慈",
+          "probability": 0.9667
+        }
+      ]
+    },
+    {
+      "time": 80.28,
+      "end": 85.96,
+      "text": "爱高级竹田你的心",
+      "words": [
+        {
+          "time": 80.28,
+          "end": 80.58,
+          "text": "爱",
+          "probability": 0.969
+        },
+        {
+          "time": 81.54,
+          "end": 81.84,
+          "text": "高",
+          "probability": 0.8494
+        },
+        {
+          "time": 82.08,
+          "end": 82.38,
+          "text": "级",
+          "probability": 0.6821
+        },
+        {
+          "time": 82.84,
+          "end": 83.3,
+          "text": "竹",
+          "probability": 0.1856
+        },
+        {
+          "time": 83.74,
+          "end": 84.04,
+          "text": "田",
+          "probability": 0.8879
+        },
+        {
+          "time": 84.94,
+          "end": 85.24,
+          "text": "你的",
+          "probability": 0.9391
+        },
+        {
+          "time": 85.66,
+          "end": 85.96,
+          "text": "心",
+          "probability": 0.9882
+        }
+      ]
+    },
+    {
+      "time": 86.48,
+      "end": 89.44,
+      "text": "事上大穹残",
+      "words": [
+        {
+          "time": 86.48,
+          "end": 86.78,
+          "text": "事",
+          "probability": 0.4786
+        },
+        {
+          "time": 87.02,
+          "end": 87.32,
+          "text": "上",
+          "probability": 0.8347
+        },
+        {
+          "time": 87.48,
+          "end": 87.78,
+          "text": "大",
+          "probability": 0.6748
+        },
+        {
+          "time": 88.14,
+          "end": 88.9,
+          "text": "穹",
+          "probability": 0.7716
+        },
+        {
+          "time": 89.0,
+          "end": 89.44,
+          "text": "残",
+          "probability": 0.2935
+        }
+      ]
+    },
+    {
+      "time": 92.02,
+      "end": 93.26,
+      "text": "你的慈",
+      "words": [
+        {
+          "time": 92.02,
+          "end": 92.32,
+          "text": "你的",
+          "probability": 0.9969
+        },
+        {
+          "time": 92.6,
+          "end": 93.26,
+          "text": "慈",
+          "probability": 0.9854
+        }
+      ]
+    },
+    {
+      "time": 94.62,
+      "end": 100.26,
+      "text": "爱高级注点你的心",
+      "words": [
+        {
+          "time": 94.62,
+          "end": 94.92,
+          "text": "爱",
+          "probability": 0.5893
+        },
+        {
+          "time": 95.82,
+          "end": 96.12,
+          "text": "高",
+          "probability": 0.8361
+        },
+        {
+          "time": 96.2,
+          "end": 97.08,
+          "text": "级",
+          "probability": 0.9292
+        },
+        {
+          "time": 97.22,
+          "end": 97.52,
+          "text": "注",
+          "probability": 0.3056
+        },
+        {
+          "time": 98.04,
+          "end": 98.34,
+          "text": "点",
+          "probability": 0.639
+        },
+        {
+          "time": 99.12,
+          "end": 99.42,
+          "text": "你的",
+          "probability": 0.9982
+        },
+        {
+          "time": 99.96,
+          "end": 100.26,
+          "text": "心",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 100.66,
+      "end": 103.82,
+      "text": "事上大穹残",
+      "words": [
+        {
+          "time": 100.66,
+          "end": 100.96,
+          "text": "事",
+          "probability": 0.9997
+        },
+        {
+          "time": 101.3,
+          "end": 101.6,
+          "text": "上",
+          "probability": 1.0
+        },
+        {
+          "time": 101.7,
+          "end": 102.0,
+          "text": "大",
+          "probability": 0.9998
+        },
+        {
+          "time": 102.46,
+          "end": 103.14,
+          "text": "穹",
+          "probability": 0.9981
+        },
+        {
+          "time": 103.36,
+          "end": 103.82,
+          "text": "残",
+          "probability": 0.9916
+        }
+      ]
+    },
+    {
+      "time": 106.3,
+      "end": 111.1,
+      "text": "我要在万民中呈现你",
+      "words": [
+        {
+          "time": 106.3,
+          "end": 106.6,
+          "text": "我要",
+          "probability": 0.9934
+        },
+        {
+          "time": 107.14,
+          "end": 107.44,
+          "text": "在",
+          "probability": 0.9968
+        },
+        {
+          "time": 107.92,
+          "end": 108.22,
+          "text": "万",
+          "probability": 0.9859
+        },
+        {
+          "time": 108.3,
+          "end": 108.6,
+          "text": "民",
+          "probability": 0.7842
+        },
+        {
+          "time": 108.8,
+          "end": 109.1,
+          "text": "中",
+          "probability": 0.9877
+        },
+        {
+          "time": 109.56,
+          "end": 109.98,
+          "text": "呈",
+          "probability": 0.1814
+        },
+        {
+          "time": 110.12,
+          "end": 110.42,
+          "text": "现",
+          "probability": 0.7095
+        },
+        {
+          "time": 110.8,
+          "end": 111.1,
+          "text": "你",
+          "probability": 0.9952
+        }
+      ]
+    },
+    {
+      "time": 113.5,
+      "end": 118.2,
+      "text": "我要在列邦中歌颂你",
+      "words": [
+        {
+          "time": 113.5,
+          "end": 113.8,
+          "text": "我要",
+          "probability": 0.7637
+        },
+        {
+          "time": 114.56,
+          "end": 114.86,
+          "text": "在",
+          "probability": 0.991
+        },
+        {
+          "time": 115.0,
+          "end": 115.3,
+          "text": "列",
+          "probability": 0.4672
+        },
+        {
+          "time": 115.26,
+          "end": 115.64,
+          "text": "邦",
+          "probability": 0.6321
+        },
+        {
+          "time": 115.64,
+          "end": 115.94,
+          "text": "中",
+          "probability": 0.9913
+        },
+        {
+          "time": 116.24,
+          "end": 116.54,
+          "text": "歌",
+          "probability": 0.9922
+        },
+        {
+          "time": 117.02,
+          "end": 117.48,
+          "text": "颂",
+          "probability": 0.8006
+        },
+        {
+          "time": 117.9,
+          "end": 118.2,
+          "text": "你",
+          "probability": 0.9616
+        }
+      ]
+    },
+    {
+      "time": 120.8,
+      "end": 121.94,
+      "text": "你的慈",
+      "words": [
+        {
+          "time": 120.8,
+          "end": 121.1,
+          "text": "你的",
+          "probability": 0.9572
+        },
+        {
+          "time": 121.28,
+          "end": 121.94,
+          "text": "慈",
+          "probability": 0.9728
+        }
+      ]
+    },
+    {
+      "time": 123.22,
+      "end": 128.94,
+      "text": "爱高级祝天你的心",
+      "words": [
+        {
+          "time": 123.22,
+          "end": 123.52,
+          "text": "爱",
+          "probability": 0.9442
+        },
+        {
+          "time": 124.5,
+          "end": 124.8,
+          "text": "高",
+          "probability": 0.6806
+        },
+        {
+          "time": 124.88,
+          "end": 125.58,
+          "text": "级",
+          "probability": 0.9285
+        },
+        {
+          "time": 125.82,
+          "end": 126.3,
+          "text": "祝",
+          "probability": 0.2268
+        },
+        {
+          "time": 126.68,
+          "end": 126.98,
+          "text": "天",
+          "probability": 0.4595
+        },
+        {
+          "time": 127.86,
+          "end": 128.16,
+          "text": "你的",
+          "probability": 0.9864
+        },
+        {
+          "time": 128.64,
+          "end": 128.94,
+          "text": "心",
+          "probability": 0.9577
+        }
+      ]
+    },
+    {
+      "time": 129.48,
+      "end": 132.46,
+      "text": "是上大穷残",
+      "words": [
+        {
+          "time": 129.48,
+          "end": 129.78,
+          "text": "是",
+          "probability": 0.4615
+        },
+        {
+          "time": 130.04,
+          "end": 130.34,
+          "text": "上",
+          "probability": 0.4295
+        },
+        {
+          "time": 130.48,
+          "end": 130.78,
+          "text": "大",
+          "probability": 0.2719
+        },
+        {
+          "time": 131.14,
+          "end": 131.86,
+          "text": "穷",
+          "probability": 0.7001
+        },
+        {
+          "time": 132.02,
+          "end": 132.46,
+          "text": "残",
+          "probability": 0.2349
+        }
+      ]
+    },
+    {
+      "time": 135.0,
+      "end": 140.58,
+      "text": "你的慈爱高级主",
+      "words": [
+        {
+          "time": 135.0,
+          "end": 135.3,
+          "text": "你的",
+          "probability": 0.5064
+        },
+        {
+          "time": 135.7,
+          "end": 136.54,
+          "text": "慈",
+          "probability": 0.9846
+        },
+        {
+          "time": 137.68,
+          "end": 137.98,
+          "text": "爱",
+          "probability": 0.8207
+        },
+        {
+          "time": 138.78,
+          "end": 139.08,
+          "text": "高",
+          "probability": 0.6193
+        },
+        {
+          "time": 139.2,
+          "end": 140.08,
+          "text": "级",
+          "probability": 0.6491
+        },
+        {
+          "time": 140.28,
+          "end": 140.58,
+          "text": "主",
+          "probability": 0.5253
+        }
+      ]
+    },
+    {
+      "time": 141.06,
+      "end": 148.12,
+      "text": "天你的心事上大穷残",
+      "words": [
+        {
+          "time": 141.06,
+          "end": 141.36,
+          "text": "天",
+          "probability": 0.5249
+        },
+        {
+          "time": 142.16,
+          "end": 142.46,
+          "text": "你的",
+          "probability": 0.9935
+        },
+        {
+          "time": 142.98,
+          "end": 143.28,
+          "text": "心",
+          "probability": 0.9451
+        },
+        {
+          "time": 143.86,
+          "end": 144.16,
+          "text": "事",
+          "probability": 0.5356
+        },
+        {
+          "time": 144.38,
+          "end": 144.68,
+          "text": "上",
+          "probability": 0.4708
+        },
+        {
+          "time": 144.8,
+          "end": 145.1,
+          "text": "大",
+          "probability": 0.2813
+        },
+        {
+          "time": 145.44,
+          "end": 146.18,
+          "text": "穷",
+          "probability": 0.8994
+        },
+        {
+          "time": 146.32,
+          "end": 148.12,
+          "text": "残",
+          "probability": 0.6311
+        }
+      ]
+    },
+    {
+      "time": 149.14,
+      "end": 149.88,
+      "text": "Hall",
+      "words": [
+        {
+          "time": 149.14,
+          "end": 149.44,
+          "text": "H",
+          "probability": 0.421
+        },
+        {
+          "time": 149.58,
+          "end": 149.88,
+          "text": "all",
+          "probability": 0.9138
+        }
+      ]
+    },
+    {
+      "time": 151.52,
+      "end": 154.46,
+      "text": "elujah, hallelujah",
+      "words": [
+        {
+          "time": 151.52,
+          "end": 151.82,
+          "text": "elujah",
+          "probability": 0.9053
+        },
+        {
+          "time": 152.6,
+          "end": 152.9,
+          "text": ",",
+          "probability": 0.2548
+        },
+        {
+          "time": 153.36,
+          "end": 153.66,
+          "text": " hall",
+          "probability": 0.3635
+        },
+        {
+          "time": 154.16,
+          "end": 154.46,
+          "text": "elujah",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 156.42,
+      "end": 161.96,
+      "text": "你的慈爱高级主天",
+      "words": [
+        {
+          "time": 156.42,
+          "end": 156.72,
+          "text": "你的",
+          "probability": 0.2842
+        },
+        {
+          "time": 157.12,
+          "end": 157.7,
+          "text": "慈",
+          "probability": 0.9873
+        },
+        {
+          "time": 158.02,
+          "end": 158.32,
+          "text": "爱",
+          "probability": 0.486
+        },
+        {
+          "time": 158.64,
+          "end": 158.94,
+          "text": "高",
+          "probability": 0.6745
+        },
+        {
+          "time": 158.98,
+          "end": 159.9,
+          "text": "级",
+          "probability": 0.3937
+        },
+        {
+          "time": 160.3,
+          "end": 160.6,
+          "text": "主",
+          "probability": 0.1643
+        },
+        {
+          "time": 161.66,
+          "end": 161.96,
+          "text": "天",
+          "probability": 0.8804
+        }
+      ]
+    },
+    {
+      "time": 163.72,
+      "end": 170.06,
+      "text": "哈利路亚哈利路亚",
+      "words": [
+        {
+          "time": 163.72,
+          "end": 164.02,
+          "text": "哈",
+          "probability": 0.4152
+        },
+        {
+          "time": 164.06,
+          "end": 164.36,
+          "text": "利",
+          "probability": 0.8968
+        },
+        {
+          "time": 164.54,
+          "end": 164.84,
+          "text": "路",
+          "probability": 0.8324
+        },
+        {
+          "time": 164.54,
+          "end": 166.82,
+          "text": "亚",
+          "probability": 0.4705
+        },
+        {
+          "time": 167.56,
+          "end": 167.86,
+          "text": "哈",
+          "probability": 0.996
+        },
+        {
+          "time": 168.1,
+          "end": 168.4,
+          "text": "利",
+          "probability": 0.998
+        },
+        {
+          "time": 168.9,
+          "end": 169.2,
+          "text": "路",
+          "probability": 0.9994
+        },
+        {
+          "time": 168.98,
+          "end": 170.06,
+          "text": "亚",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 170.76,
+      "end": 175.9,
+      "text": "你的心事直到永远",
+      "words": [
+        {
+          "time": 170.76,
+          "end": 171.06,
+          "text": "你的",
+          "probability": 0.9873
+        },
+        {
+          "time": 171.54,
+          "end": 171.84,
+          "text": "心",
+          "probability": 0.8808
+        },
+        {
+          "time": 172.48,
+          "end": 172.78,
+          "text": "事",
+          "probability": 0.9171
+        },
+        {
+          "time": 173.0,
+          "end": 173.3,
+          "text": "直",
+          "probability": 0.854
+        },
+        {
+          "time": 173.62,
+          "end": 173.92,
+          "text": "到",
+          "probability": 0.9985
+        },
+        {
+          "time": 174.44,
+          "end": 174.74,
+          "text": "永",
+          "probability": 0.999
+        },
+        {
+          "time": 175.08,
+          "end": 175.9,
+          "text": "远",
+          "probability": 0.9947
+        }
+      ]
+    },
+    {
+      "time": 181.58,
+      "end": 186.36,
+      "text": "我要在万民中呈现你",
+      "words": [
+        {
+          "time": 181.58,
+          "end": 181.88,
+          "text": "我要",
+          "probability": 0.9484
+        },
+        {
+          "time": 182.52,
+          "end": 182.82,
+          "text": "在",
+          "probability": 0.9942
+        },
+        {
+          "time": 183.16,
+          "end": 183.46,
+          "text": "万",
+          "probability": 0.5685
+        },
+        {
+          "time": 183.52,
+          "end": 183.82,
+          "text": "民",
+          "probability": 0.4989
+        },
+        {
+          "time": 184.02,
+          "end": 184.32,
+          "text": "中",
+          "probability": 0.9867
+        },
+        {
+          "time": 184.82,
+          "end": 185.22,
+          "text": "呈",
+          "probability": 0.6158
+        },
+        {
+          "time": 185.42,
+          "end": 185.72,
+          "text": "现",
+          "probability": 0.8175
+        },
+        {
+          "time": 186.06,
+          "end": 186.36,
+          "text": "你",
+          "probability": 0.9676
+        }
+      ]
+    },
+    {
+      "time": 188.72,
+      "end": 193.66,
+      "text": "我要在列邦中歌颂你",
+      "words": [
+        {
+          "time": 188.72,
+          "end": 189.02,
+          "text": "我要",
+          "probability": 0.9975
+        },
+        {
+          "time": 189.98,
+          "end": 190.28,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 190.18,
+          "end": 190.48,
+          "text": "列",
+          "probability": 0.4948
+        },
+        {
+          "time": 190.42,
+          "end": 190.82,
+          "text": "邦",
+          "probability": 0.7613
+        },
+        {
+          "time": 190.82,
+          "end": 191.12,
+          "text": "中",
+          "probability": 0.9988
+        },
+        {
+          "time": 191.34,
+          "end": 191.64,
+          "text": "歌",
+          "probability": 0.994
+        },
+        {
+          "time": 192.12,
+          "end": 192.62,
+          "text": "颂",
+          "probability": 0.9537
+        },
+        {
+          "time": 193.36,
+          "end": 193.66,
+          "text": "你",
+          "probability": 0.9926
+        }
+      ]
+    },
+    {
+      "time": 196.08,
+      "end": 197.2,
+      "text": "你的慈",
+      "words": [
+        {
+          "time": 196.08,
+          "end": 196.38,
+          "text": "你的",
+          "probability": 0.9806
+        },
+        {
+          "time": 196.56,
+          "end": 197.2,
+          "text": "慈",
+          "probability": 0.9596
+        }
+      ]
+    },
+    {
+      "time": 198.66,
+      "end": 204.18,
+      "text": "爱抱起竹田你的心",
+      "words": [
+        {
+          "time": 198.66,
+          "end": 198.96,
+          "text": "爱",
+          "probability": 0.9624
+        },
+        {
+          "time": 199.7,
+          "end": 200.0,
+          "text": "抱",
+          "probability": 0.5009
+        },
+        {
+          "time": 200.3,
+          "end": 200.6,
+          "text": "起",
+          "probability": 0.7341
+        },
+        {
+          "time": 201.14,
+          "end": 201.72,
+          "text": "竹",
+          "probability": 0.2211
+        },
+        {
+          "time": 201.94,
+          "end": 202.24,
+          "text": "田",
+          "probability": 0.7984
+        },
+        {
+          "time": 203.06,
+          "end": 203.36,
+          "text": "你的",
+          "probability": 0.9863
+        },
+        {
+          "time": 203.88,
+          "end": 204.18,
+          "text": "心",
+          "probability": 0.9863
+        }
+      ]
+    },
+    {
+      "time": 204.72,
+      "end": 207.78,
+      "text": "事上大穹残",
+      "words": [
+        {
+          "time": 204.72,
+          "end": 205.02,
+          "text": "事",
+          "probability": 0.3716
+        },
+        {
+          "time": 205.3,
+          "end": 205.6,
+          "text": "上",
+          "probability": 0.8719
+        },
+        {
+          "time": 205.8,
+          "end": 206.1,
+          "text": "大",
+          "probability": 0.5427
+        },
+        {
+          "time": 206.4,
+          "end": 207.16,
+          "text": "穹",
+          "probability": 0.5461
+        },
+        {
+          "time": 207.26,
+          "end": 207.78,
+          "text": "残",
+          "probability": 0.7074
+        }
+      ]
+    },
+    {
+      "time": 210.36,
+      "end": 211.66,
+      "text": "你的慈",
+      "words": [
+        {
+          "time": 210.36,
+          "end": 210.66,
+          "text": "你的",
+          "probability": 0.485
+        },
+        {
+          "time": 210.88,
+          "end": 211.66,
+          "text": "慈",
+          "probability": 0.9777
+        }
+      ]
+    },
+    {
+      "time": 213.04,
+      "end": 219.36,
+      "text": "爱高级朱天你的心是",
+      "words": [
+        {
+          "time": 213.04,
+          "end": 213.34,
+          "text": "爱",
+          "probability": 0.623
+        },
+        {
+          "time": 214.1,
+          "end": 214.4,
+          "text": "高",
+          "probability": 0.7098
+        },
+        {
+          "time": 214.48,
+          "end": 215.48,
+          "text": "级",
+          "probability": 0.5302
+        },
+        {
+          "time": 215.66,
+          "end": 216.22,
+          "text": "朱",
+          "probability": 0.1854
+        },
+        {
+          "time": 216.34,
+          "end": 216.64,
+          "text": "天",
+          "probability": 0.8268
+        },
+        {
+          "time": 217.34,
+          "end": 217.64,
+          "text": "你的",
+          "probability": 0.9968
+        },
+        {
+          "time": 218.14,
+          "end": 218.44,
+          "text": "心",
+          "probability": 0.9589
+        },
+        {
+          "time": 219.06,
+          "end": 219.36,
+          "text": "是",
+          "probability": 0.3148
+        }
+      ]
+    },
+    {
+      "time": 219.5,
+      "end": 222.48,
+      "text": "伤大穷残",
+      "words": [
+        {
+          "time": 219.5,
+          "end": 219.88,
+          "text": "伤",
+          "probability": 0.7595
+        },
+        {
+          "time": 220.0,
+          "end": 220.3,
+          "text": "大",
+          "probability": 0.9002
+        },
+        {
+          "time": 220.68,
+          "end": 221.38,
+          "text": "穷",
+          "probability": 0.7501
+        },
+        {
+          "time": 221.54,
+          "end": 222.48,
+          "text": "残",
+          "probability": 0.4843
+        }
+      ]
+    },
+    {
+      "time": 224.4,
+      "end": 229.9,
+      "text": "哈利路亚哈利路",
+      "words": [
+        {
+          "time": 224.4,
+          "end": 224.7,
+          "text": "哈",
+          "probability": 0.5049
+        },
+        {
+          "time": 224.92,
+          "end": 225.22,
+          "text": "利",
+          "probability": 0.8109
+        },
+        {
+          "time": 225.42,
+          "end": 225.72,
+          "text": "路",
+          "probability": 0.7945
+        },
+        {
+          "time": 225.42,
+          "end": 227.52,
+          "text": "亚",
+          "probability": 0.6947
+        },
+        {
+          "time": 228.38,
+          "end": 228.68,
+          "text": "哈",
+          "probability": 0.999
+        },
+        {
+          "time": 228.92,
+          "end": 229.22,
+          "text": "利",
+          "probability": 0.9979
+        },
+        {
+          "time": 229.88,
+          "end": 230.18,
+          "text": "路",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 229.9,
+      "end": 235.7,
+      "text": "亚祢的慈爱高级主",
+      "words": [
+        {
+          "time": 229.9,
+          "end": 231.04,
+          "text": "亚",
+          "probability": 0.9994
+        },
+        {
+          "time": 231.7,
+          "end": 232.06,
+          "text": "祢",
+          "probability": 0.5661
+        },
+        {
+          "time": 232.04,
+          "end": 232.34,
+          "text": "的",
+          "probability": 0.9944
+        },
+        {
+          "time": 232.3,
+          "end": 232.9,
+          "text": "慈",
+          "probability": 0.9681
+        },
+        {
+          "time": 233.26,
+          "end": 233.56,
+          "text": "爱",
+          "probability": 0.6319
+        },
+        {
+          "time": 233.84,
+          "end": 234.14,
+          "text": "高",
+          "probability": 0.5815
+        },
+        {
+          "time": 234.4,
+          "end": 234.7,
+          "text": "级",
+          "probability": 0.1445
+        },
+        {
+          "time": 235.4,
+          "end": 235.7,
+          "text": "主",
+          "probability": 0.3363
+        }
+      ]
+    },
+    {
+      "time": 236.84,
+      "end": 237.14,
+      "text": "天",
+      "words": [
+        {
+          "time": 236.84,
+          "end": 237.14,
+          "text": "天",
+          "probability": 0.9747
+        }
+      ]
+    },
+    {
+      "time": 238.66,
+      "end": 239.3,
+      "text": "Hall",
+      "words": [
+        {
+          "time": 238.66,
+          "end": 238.96,
+          "text": "H",
+          "probability": 0.472
+        },
+        {
+          "time": 239.0,
+          "end": 239.3,
+          "text": "all",
+          "probability": 0.9674
+        }
+      ]
+    },
+    {
+      "time": 241.08,
+      "end": 242.28,
+      "text": "elujah,",
+      "words": [
+        {
+          "time": 241.08,
+          "end": 241.38,
+          "text": "elujah",
+          "probability": 0.9722
+        },
+        {
+          "time": 241.98,
+          "end": 242.28,
+          "text": ",",
+          "probability": 0.2716
+        }
+      ]
+    },
+    {
+      "time": 243.68,
+      "end": 243.98,
+      "text": "Hallelujah",
+      "words": [
+        {
+          "time": 243.68,
+          "end": 243.98,
+          "text": " Hallelujah",
+          "probability": 0.5313
+        }
+      ]
+    },
+    {
+      "time": 246.06,
+      "end": 250.86,
+      "text": "祢的心事直到永远",
+      "words": [
+        {
+          "time": 246.06,
+          "end": 246.5,
+          "text": "祢",
+          "probability": 0.9876
+        },
+        {
+          "time": 246.5,
+          "end": 246.8,
+          "text": "的",
+          "probability": 0.999
+        },
+        {
+          "time": 246.92,
+          "end": 247.22,
+          "text": "心",
+          "probability": 0.8004
+        },
+        {
+          "time": 247.66,
+          "end": 247.96,
+          "text": "事",
+          "probability": 0.8173
+        },
+        {
+          "time": 248.22,
+          "end": 248.52,
+          "text": "直",
+          "probability": 0.8822
+        },
+        {
+          "time": 248.88,
+          "end": 249.18,
+          "text": "到",
+          "probability": 0.9953
+        },
+        {
+          "time": 249.6,
+          "end": 249.9,
+          "text": "永",
+          "probability": 0.9775
+        },
+        {
+          "time": 250.56,
+          "end": 250.86,
+          "text": "远",
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "time": 253.22,
+      "end": 258.3,
+      "text": "我要在万名中呈现祢",
+      "words": [
+        {
+          "time": 253.22,
+          "end": 253.52,
+          "text": "我要",
+          "probability": 0.8513
+        },
+        {
+          "time": 253.98,
+          "end": 254.28,
+          "text": "在",
+          "probability": 0.9854
+        },
+        {
+          "time": 254.76,
+          "end": 255.06,
+          "text": "万",
+          "probability": 0.9571
+        },
+        {
+          "time": 255.14,
+          "end": 255.44,
+          "text": "名",
+          "probability": 0.3318
+        },
+        {
+          "time": 255.64,
+          "end": 255.94,
+          "text": "中",
+          "probability": 0.9904
+        },
+        {
+          "time": 256.4,
+          "end": 256.84,
+          "text": "呈",
+          "probability": 0.787
+        },
+        {
+          "time": 256.92,
+          "end": 257.22,
+          "text": "现",
+          "probability": 0.8982
+        },
+        {
+          "time": 256.92,
+          "end": 258.3,
+          "text": "祢",
+          "probability": 0.919
+        }
+      ]
+    },
+    {
+      "time": 260.38,
+      "end": 265.36,
+      "text": "我要在烈帽中歌颂你",
+      "words": [
+        {
+          "time": 260.38,
+          "end": 260.68,
+          "text": "我要",
+          "probability": 0.8703
+        },
+        {
+          "time": 261.4,
+          "end": 261.7,
+          "text": "在",
+          "probability": 0.9806
+        },
+        {
+          "time": 261.8,
+          "end": 262.2,
+          "text": "烈",
+          "probability": 0.4612
+        },
+        {
+          "time": 262.1,
+          "end": 262.48,
+          "text": "帽",
+          "probability": 0.2275
+        },
+        {
+          "time": 262.48,
+          "end": 262.78,
+          "text": "中",
+          "probability": 0.9903
+        },
+        {
+          "time": 262.9,
+          "end": 263.2,
+          "text": "歌",
+          "probability": 0.921
+        },
+        {
+          "time": 263.9,
+          "end": 264.52,
+          "text": "颂",
+          "probability": 0.8874
+        },
+        {
+          "time": 265.06,
+          "end": 265.36,
+          "text": "你",
+          "probability": 0.9313
+        }
+      ]
+    },
+    {
+      "time": 267.76,
+      "end": 268.92,
+      "text": "你的慈",
+      "words": [
+        {
+          "time": 267.76,
+          "end": 268.06,
+          "text": "你的",
+          "probability": 0.9637
+        },
+        {
+          "time": 268.22,
+          "end": 268.92,
+          "text": "慈",
+          "probability": 0.9737
+        }
+      ]
+    },
+    {
+      "time": 270.38,
+      "end": 276.6,
+      "text": "爱到几株天你的心世",
+      "words": [
+        {
+          "time": 270.38,
+          "end": 270.68,
+          "text": "爱",
+          "probability": 0.9339
+        },
+        {
+          "time": 271.4,
+          "end": 271.7,
+          "text": "到",
+          "probability": 0.2048
+        },
+        {
+          "time": 271.7,
+          "end": 272.6,
+          "text": "几",
+          "probability": 0.3814
+        },
+        {
+          "time": 272.86,
+          "end": 273.4,
+          "text": "株",
+          "probability": 0.6006
+        },
+        {
+          "time": 273.68,
+          "end": 273.98,
+          "text": "天",
+          "probability": 0.5826
+        },
+        {
+          "time": 274.72,
+          "end": 275.02,
+          "text": "你的",
+          "probability": 0.9928
+        },
+        {
+          "time": 275.4,
+          "end": 275.7,
+          "text": "心",
+          "probability": 0.9673
+        },
+        {
+          "time": 276.3,
+          "end": 276.6,
+          "text": "世",
+          "probability": 0.3936
+        }
+      ]
+    },
+    {
+      "time": 276.94,
+      "end": 279.44,
+      "text": "上大穷残",
+      "words": [
+        {
+          "time": 276.94,
+          "end": 277.24,
+          "text": "上",
+          "probability": 0.987
+        },
+        {
+          "time": 277.4,
+          "end": 277.7,
+          "text": "大",
+          "probability": 0.7632
+        },
+        {
+          "time": 278.22,
+          "end": 278.8,
+          "text": "穷",
+          "probability": 0.7222
+        },
+        {
+          "time": 278.94,
+          "end": 279.44,
+          "text": "残",
+          "probability": 0.1984
+        }
+      ]
+    },
+    {
+      "time": 281.66,
+      "end": 283.16,
+      "text": "你的慈",
+      "words": [
+        {
+          "time": 281.66,
+          "end": 281.96,
+          "text": "你的",
+          "probability": 0.7362
+        },
+        {
+          "time": 282.48,
+          "end": 283.16,
+          "text": "慈",
+          "probability": 0.9984
+        }
+      ]
+    },
+    {
+      "time": 284.48,
+      "end": 290.12,
+      "text": "爱到几株天你的心",
+      "words": [
+        {
+          "time": 284.48,
+          "end": 284.78,
+          "text": "爱",
+          "probability": 0.9935
+        },
+        {
+          "time": 285.62,
+          "end": 285.92,
+          "text": "到",
+          "probability": 0.999
+        },
+        {
+          "time": 285.94,
+          "end": 287.16,
+          "text": "几",
+          "probability": 0.9995
+        },
+        {
+          "time": 287.22,
+          "end": 287.6,
+          "text": "株",
+          "probability": 0.9996
+        },
+        {
+          "time": 287.84,
+          "end": 288.14,
+          "text": "天",
+          "probability": 0.9946
+        },
+        {
+          "time": 289.2,
+          "end": 289.5,
+          "text": "你的",
+          "probability": 0.7513
+        },
+        {
+          "time": 289.82,
+          "end": 290.12,
+          "text": "心",
+          "probability": 0.9371
+        }
+      ]
+    },
+    {
+      "time": 290.62,
+      "end": 294.34,
+      "text": "是伤大穹藏",
+      "words": [
+        {
+          "time": 290.62,
+          "end": 290.92,
+          "text": "是",
+          "probability": 0.5114
+        },
+        {
+          "time": 291.14,
+          "end": 291.56,
+          "text": "伤",
+          "probability": 0.46
+        },
+        {
+          "time": 291.74,
+          "end": 292.04,
+          "text": "大",
+          "probability": 0.8485
+        },
+        {
+          "time": 292.52,
+          "end": 293.1,
+          "text": "穹",
+          "probability": 0.5357
+        },
+        {
+          "time": 293.18,
+          "end": 294.34,
+          "text": "藏",
+          "probability": 0.2134
+        }
+      ]
+    },
+    {
+      "time": 296.06,
+      "end": 296.88,
+      "text": "Hall",
+      "words": [
+        {
+          "time": 296.06,
+          "end": 296.36,
+          "text": "H",
+          "probability": 0.5262
+        },
+        {
+          "time": 296.58,
+          "end": 296.88,
+          "text": "all",
+          "probability": 0.905
+        }
+      ]
+    },
+    {
+      "time": 298.38,
+      "end": 302.24,
+      "text": "elujah, hallelujah",
+      "words": [
+        {
+          "time": 298.38,
+          "end": 298.68,
+          "text": "elujah",
+          "probability": 0.9567
+        },
+        {
+          "time": 299.4,
+          "end": 299.7,
+          "text": ",",
+          "probability": 0.4415
+        },
+        {
+          "time": 300.44,
+          "end": 300.74,
+          "text": " hall",
+          "probability": 0.3804
+        },
+        {
+          "time": 301.94,
+          "end": 302.24,
+          "text": "elujah",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 303.58,
+      "end": 308.98,
+      "text": "你的慈爱到祈祷H",
+      "words": [
+        {
+          "time": 303.58,
+          "end": 303.88,
+          "text": "你的",
+          "probability": 0.9323
+        },
+        {
+          "time": 303.98,
+          "end": 304.52,
+          "text": "慈",
+          "probability": 0.9834
+        },
+        {
+          "time": 304.84,
+          "end": 305.14,
+          "text": "爱",
+          "probability": 0.6622
+        },
+        {
+          "time": 305.48,
+          "end": 305.78,
+          "text": "到",
+          "probability": 0.2916
+        },
+        {
+          "time": 305.88,
+          "end": 306.9,
+          "text": "祈",
+          "probability": 0.2489
+        },
+        {
+          "time": 306.92,
+          "end": 307.8,
+          "text": "祷",
+          "probability": 0.4174
+        },
+        {
+          "time": 308.68,
+          "end": 308.98,
+          "text": "H",
+          "probability": 0.9905
+        }
+      ]
+    },
+    {
+      "time": 310.72,
+      "end": 312.44,
+      "text": "allelujah",
+      "words": [
+        {
+          "time": 310.72,
+          "end": 311.02,
+          "text": "all",
+          "probability": 0.9996
+        },
+        {
+          "time": 312.14,
+          "end": 312.44,
+          "text": "elujah",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 313.7,
+      "end": 314.64,
+      "text": ", hall",
+      "words": [
+        {
+          "time": 313.7,
+          "end": 314.0,
+          "text": ",",
+          "probability": 0.9985
+        },
+        {
+          "time": 314.34,
+          "end": 314.64,
+          "text": " hall",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 316.22,
+      "end": 316.52,
+      "text": "elujah",
+      "words": [
+        {
+          "time": 316.22,
+          "end": 316.52,
+          "text": "elujah",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 317.98,
+      "end": 324.44,
+      "text": "你的心事直到永远",
+      "words": [
+        {
+          "time": 317.98,
+          "end": 318.28,
+          "text": "你的",
+          "probability": 0.6509
+        },
+        {
+          "time": 318.62,
+          "end": 318.92,
+          "text": "心",
+          "probability": 0.9656
+        },
+        {
+          "time": 319.42,
+          "end": 319.72,
+          "text": "事",
+          "probability": 0.6093
+        },
+        {
+          "time": 319.84,
+          "end": 320.14,
+          "text": "直",
+          "probability": 0.9076
+        },
+        {
+          "time": 320.42,
+          "end": 320.72,
+          "text": "到",
+          "probability": 0.9991
+        },
+        {
+          "time": 321.2,
+          "end": 321.5,
+          "text": "永",
+          "probability": 0.9998
+        },
+        {
+          "time": 321.94,
+          "end": 324.44,
+          "text": "远",
+          "probability": 0.6944
+        }
+      ]
+    },
+    {
+      "time": 324.66,
+      "end": 330.54,
+      "text": "哈利路亚哈利路",
+      "words": [
+        {
+          "time": 324.66,
+          "end": 324.96,
+          "text": "哈",
+          "probability": 0.3926
+        },
+        {
+          "time": 325.04,
+          "end": 325.34,
+          "text": "利",
+          "probability": 0.5496
+        },
+        {
+          "time": 325.8,
+          "end": 326.1,
+          "text": "路",
+          "probability": 0.7793
+        },
+        {
+          "time": 326.66,
+          "end": 327.74,
+          "text": "亚",
+          "probability": 0.7349
+        },
+        {
+          "time": 328.94,
+          "end": 329.24,
+          "text": "哈",
+          "probability": 0.9962
+        },
+        {
+          "time": 329.42,
+          "end": 329.72,
+          "text": "利",
+          "probability": 0.9991
+        },
+        {
+          "time": 330.24,
+          "end": 330.54,
+          "text": "路",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 330.94,
+      "end": 337.12,
+      "text": "亚你的慈爱高级主天",
+      "words": [
+        {
+          "time": 330.94,
+          "end": 331.5,
+          "text": "亚",
+          "probability": 0.9997
+        },
+        {
+          "time": 332.24,
+          "end": 332.54,
+          "text": "你的",
+          "probability": 0.9955
+        },
+        {
+          "time": 332.64,
+          "end": 333.1,
+          "text": "慈",
+          "probability": 0.9904
+        },
+        {
+          "time": 333.48,
+          "end": 333.78,
+          "text": "爱",
+          "probability": 0.9842
+        },
+        {
+          "time": 334.18,
+          "end": 334.48,
+          "text": "高",
+          "probability": 0.4853
+        },
+        {
+          "time": 334.58,
+          "end": 335.42,
+          "text": "级",
+          "probability": 0.4033
+        },
+        {
+          "time": 335.72,
+          "end": 336.02,
+          "text": "主",
+          "probability": 0.2206
+        },
+        {
+          "time": 336.82,
+          "end": 337.12,
+          "text": "天",
+          "probability": 0.8597
+        }
+      ]
+    },
+    {
+      "time": 339.28,
+      "end": 344.64,
+      "text": "哈利路亚哈利路",
+      "words": [
+        {
+          "time": 339.28,
+          "end": 339.58,
+          "text": "哈",
+          "probability": 0.9986
+        },
+        {
+          "time": 339.62,
+          "end": 339.92,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 340.06,
+          "end": 340.36,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 340.46,
+          "end": 342.06,
+          "text": "亚",
+          "probability": 0.9999
+        },
+        {
+          "time": 342.92,
+          "end": 343.22,
+          "text": "哈",
+          "probability": 0.9996
+        },
+        {
+          "time": 343.76,
+          "end": 344.06,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 344.5,
+          "end": 344.8,
+          "text": "路",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 344.64,
+      "end": 345.14,
+      "text": "亚",
+      "words": [
+        {
+          "time": 344.64,
+          "end": 345.14,
+          "text": "亚",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 346.56,
+      "end": 351.2,
+      "text": "你的心是直到永远",
+      "words": [
+        {
+          "time": 346.56,
+          "end": 346.86,
+          "text": "你的",
+          "probability": 0.8172
+        },
+        {
+          "time": 347.02,
+          "end": 347.32,
+          "text": "心",
+          "probability": 0.9385
+        },
+        {
+          "time": 348.0,
+          "end": 348.3,
+          "text": "是",
+          "probability": 0.4297
+        },
+        {
+          "time": 348.52,
+          "end": 348.82,
+          "text": "直",
+          "probability": 0.617
+        },
+        {
+          "time": 349.08,
+          "end": 349.38,
+          "text": "到",
+          "probability": 0.9948
+        },
+        {
+          "time": 349.9,
+          "end": 350.2,
+          "text": "永",
+          "probability": 0.9804
+        },
+        {
+          "time": 350.9,
+          "end": 351.2,
+          "text": "远",
+          "probability": 0.6344
+        }
+      ]
+    },
+    {
+      "time": 360.86,
+      "end": 361.8,
+      "text": "你的心",
+      "words": [
+        {
+          "time": 360.86,
+          "end": 361.16,
+          "text": "你的",
+          "probability": 0.4351
+        },
+        {
+          "time": 361.5,
+          "end": 361.8,
+          "text": "心",
+          "probability": 0.4677
+        }
+      ]
+    },
+    {
+      "time": 363.18,
+      "end": 366.44,
+      "text": "爱到解驻天",
+      "words": [
+        {
+          "time": 363.18,
+          "end": 363.48,
+          "text": "爱",
+          "probability": 0.3656
+        },
+        {
+          "time": 364.32,
+          "end": 364.62,
+          "text": "到",
+          "probability": 0.3094
+        },
+        {
+          "time": 364.6,
+          "end": 364.9,
+          "text": "解",
+          "probability": 0.1756
+        },
+        {
+          "time": 364.86,
+          "end": 365.4,
+          "text": "驻",
+          "probability": 0.2371
+        },
+        {
+          "time": 366.14,
+          "end": 366.44,
+          "text": "天",
+          "probability": 0.6885
+        }
+      ]
+    },
+    {
+      "time": 375.22,
+      "end": 381.28,
+      "text": "你的心是直到永远",
+      "words": [
+        {
+          "time": 375.22,
+          "end": 375.52,
+          "text": "你的",
+          "probability": 0.7958
+        },
+        {
+          "time": 375.64,
+          "end": 375.94,
+          "text": "心",
+          "probability": 0.9583
+        },
+        {
+          "time": 376.68,
+          "end": 376.98,
+          "text": "是",
+          "probability": 0.4899
+        },
+        {
+          "time": 377.1,
+          "end": 377.4,
+          "text": "直",
+          "probability": 0.5488
+        },
+        {
+          "time": 377.68,
+          "end": 377.98,
+          "text": "到",
+          "probability": 0.9774
+        },
+        {
+          "time": 378.48,
+          "end": 378.78,
+          "text": "永",
+          "probability": 0.7536
+        },
+        {
+          "time": 379.2,
+          "end": 381.28,
+          "text": "远",
+          "probability": 0.5192
+        }
+      ]
+    },
+    {
+      "time": 382.1,
+      "end": 388.04,
+      "text": "哈利路亚哈利路",
+      "words": [
+        {
+          "time": 382.1,
+          "end": 382.4,
+          "text": "哈",
+          "probability": 0.4518
+        },
+        {
+          "time": 382.38,
+          "end": 382.68,
+          "text": "利",
+          "probability": 0.87
+        },
+        {
+          "time": 382.96,
+          "end": 383.26,
+          "text": "路",
+          "probability": 0.8923
+        },
+        {
+          "time": 382.96,
+          "end": 385.28,
+          "text": "亚",
+          "probability": 0.7967
+        },
+        {
+          "time": 386.26,
+          "end": 386.56,
+          "text": "哈",
+          "probability": 0.9939
+        },
+        {
+          "time": 386.8,
+          "end": 387.1,
+          "text": "利",
+          "probability": 0.996
+        },
+        {
+          "time": 387.74,
+          "end": 388.04,
+          "text": "路",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 388.28,
+      "end": 394.14,
+      "text": "亚你的慈爱抱紧主天",
+      "words": [
+        {
+          "time": 388.28,
+          "end": 388.74,
+          "text": "亚",
+          "probability": 0.9995
+        },
+        {
+          "time": 389.5,
+          "end": 389.8,
+          "text": "你的",
+          "probability": 0.8897
+        },
+        {
+          "time": 389.96,
+          "end": 390.46,
+          "text": "慈",
+          "probability": 0.2249
+        },
+        {
+          "time": 390.92,
+          "end": 391.22,
+          "text": "爱",
+          "probability": 0.9633
+        },
+        {
+          "time": 391.64,
+          "end": 391.94,
+          "text": "抱",
+          "probability": 0.2534
+        },
+        {
+          "time": 391.94,
+          "end": 392.68,
+          "text": "紧",
+          "probability": 0.7211
+        },
+        {
+          "time": 392.96,
+          "end": 393.26,
+          "text": "主",
+          "probability": 0.4748
+        },
+        {
+          "time": 393.84,
+          "end": 394.14,
+          "text": "天",
+          "probability": 0.6567
+        }
+      ]
+    },
+    {
+      "time": 396.26,
+      "end": 396.86,
+      "text": "Hall",
+      "words": [
+        {
+          "time": 396.26,
+          "end": 396.56,
+          "text": "H",
+          "probability": 0.316
+        },
+        {
+          "time": 396.56,
+          "end": 396.86,
+          "text": "all",
+          "probability": 0.9438
+        }
+      ]
+    },
+    {
+      "time": 398.48,
+      "end": 398.78,
+      "text": "elujah",
+      "words": [
+        {
+          "time": 398.48,
+          "end": 398.78,
+          "text": "elujah",
+          "probability": 0.9648
+        }
+      ]
+    },
+    {
+      "time": 400.2,
+      "end": 402.2,
+      "text": "Hallelujah",
+      "words": [
+        {
+          "time": 400.2,
+          "end": 400.5,
+          "text": "H",
+          "probability": 0.4787
+        },
+        {
+          "time": 400.68,
+          "end": 400.98,
+          "text": "all",
+          "probability": 0.9983
+        },
+        {
+          "time": 401.9,
+          "end": 402.2,
+          "text": "elujah",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 403.88,
+      "end": 409.7,
+      "text": "你的心事直到永远",
+      "words": [
+        {
+          "time": 403.88,
+          "end": 404.18,
+          "text": "你的",
+          "probability": 0.8144
+        },
+        {
+          "time": 404.46,
+          "end": 404.76,
+          "text": "心",
+          "probability": 0.956
+        },
+        {
+          "time": 405.32,
+          "end": 405.62,
+          "text": "事",
+          "probability": 0.7589
+        },
+        {
+          "time": 406.4,
+          "end": 406.7,
+          "text": "直",
+          "probability": 0.9538
+        },
+        {
+          "time": 406.92,
+          "end": 407.22,
+          "text": "到",
+          "probability": 0.9993
+        },
+        {
+          "time": 407.7,
+          "end": 408.0,
+          "text": "永",
+          "probability": 0.9999
+        },
+        {
+          "time": 408.18,
+          "end": 409.7,
+          "text": "远",
+          "probability": 0.6998
+        }
+      ]
+    },
+    {
+      "time": 410.98,
+      "end": 415.68,
+      "text": "你的心事直到永远",
+      "words": [
+        {
+          "time": 410.98,
+          "end": 411.28,
+          "text": "你的",
+          "probability": 0.9763
+        },
+        {
+          "time": 411.6,
+          "end": 411.9,
+          "text": "心",
+          "probability": 0.999
+        },
+        {
+          "time": 412.12,
+          "end": 412.42,
+          "text": "事",
+          "probability": 0.9997
+        },
+        {
+          "time": 412.8,
+          "end": 413.1,
+          "text": "直",
+          "probability": 0.9998
+        },
+        {
+          "time": 413.58,
+          "end": 413.88,
+          "text": "到",
+          "probability": 0.9999
+        },
+        {
+          "time": 414.38,
+          "end": 414.68,
+          "text": "永",
+          "probability": 1.0
+        },
+        {
+          "time": 415.38,
+          "end": 415.68,
+          "text": "远",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 417.92,
+      "end": 422.84,
+      "text": "你的心事直到永远",
+      "words": [
+        {
+          "time": 417.92,
+          "end": 418.22,
+          "text": "你的",
+          "probability": 0.6345
+        },
+        {
+          "time": 418.68,
+          "end": 418.98,
+          "text": "心",
+          "probability": 0.9998
+        },
+        {
+          "time": 419.54,
+          "end": 419.84,
+          "text": "事",
+          "probability": 0.9999
+        },
+        {
+          "time": 420.06,
+          "end": 420.36,
+          "text": "直",
+          "probability": 0.9999
+        },
+        {
+          "time": 420.74,
+          "end": 421.04,
+          "text": "到",
+          "probability": 0.9999
+        },
+        {
+          "time": 421.52,
+          "end": 421.82,
+          "text": "永",
+          "probability": 0.9999
+        },
+        {
+          "time": 422.54,
+          "end": 422.84,
+          "text": "远",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 425.12,
+      "end": 432.16,
+      "text": "直到永远直到永远",
+      "words": [
+        {
+          "time": 425.12,
+          "end": 425.42,
+          "text": "直",
+          "probability": 0.9067
+        },
+        {
+          "time": 425.4,
+          "end": 425.7,
+          "text": "到",
+          "probability": 0.9992
+        },
+        {
+          "time": 425.82,
+          "end": 426.12,
+          "text": "永",
+          "probability": 0.9995
+        },
+        {
+          "time": 426.26,
+          "end": 428.24,
+          "text": "远",
+          "probability": 0.9086
+        },
+        {
+          "time": 428.4,
+          "end": 428.7,
+          "text": "直",
+          "probability": 0.9475
+        },
+        {
+          "time": 428.68,
+          "end": 428.98,
+          "text": "到",
+          "probability": 0.9999
+        },
+        {
+          "time": 429.08,
+          "end": 429.38,
+          "text": "永",
+          "probability": 1.0
+        },
+        {
+          "time": 429.92,
+          "end": 432.16,
+          "text": "远",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 432.16,
+      "end": 435.02,
+      "text": "HallelujahHallelujah",
+      "words": [
+        {
+          "time": 432.16,
+          "end": 432.46,
+          "text": "H",
+          "probability": 0.4895
+        },
+        {
+          "time": 432.32,
+          "end": 432.62,
+          "text": "all",
+          "probability": 0.8943
+        },
+        {
+          "time": 432.96,
+          "end": 433.26,
+          "text": "elujah",
+          "probability": 0.8536
+        },
+        {
+          "time": 433.74,
+          "end": 434.04,
+          "text": "H",
+          "probability": 0.9573
+        },
+        {
+          "time": 433.86,
+          "end": 434.16,
+          "text": "all",
+          "probability": 0.9993
+        },
+        {
+          "time": 434.72,
+          "end": 435.02,
+          "text": "elujah",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 441.5,
+      "end": 444.16,
+      "text": "我赞美你",
+      "words": [
+        {
+          "time": 441.5,
+          "end": 441.8,
+          "text": "我",
+          "probability": 0.4539
+        },
+        {
+          "time": 441.9,
+          "end": 442.54,
+          "text": "赞",
+          "probability": 0.8444
+        },
+        {
+          "time": 443.22,
+          "end": 443.52,
+          "text": "美",
+          "probability": 0.9263
+        },
+        {
+          "time": 443.86,
+          "end": 444.16,
+          "text": "你",
+          "probability": 0.9282
+        }
+      ]
+    },
+    {
+      "time": 446.22,
+      "end": 447.5,
+      "text": "赞美",
+      "words": [
+        {
+          "time": 446.22,
+          "end": 446.82,
+          "text": "赞",
+          "probability": 0.5083
+        },
+        {
+          "time": 447.2,
+          "end": 447.5,
+          "text": "美",
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "time": 449.36,
+      "end": 450.74,
+      "text": "你的心事",
+      "words": [
+        {
+          "time": 449.36,
+          "end": 449.66,
+          "text": "你的",
+          "probability": 0.7894
+        },
+        {
+          "time": 449.74,
+          "end": 450.04,
+          "text": "心",
+          "probability": 0.9123
+        },
+        {
+          "time": 450.44,
+          "end": 450.74,
+          "text": "事",
+          "probability": 0.8633
+        }
+      ]
+    },
+    {
+      "time": 452.74,
+      "end": 454.88,
+      "text": "你的慈爱",
+      "words": [
+        {
+          "time": 452.74,
+          "end": 453.04,
+          "text": "你的",
+          "probability": 0.5763
+        },
+        {
+          "time": 453.12,
+          "end": 453.68,
+          "text": "慈",
+          "probability": 0.9817
+        },
+        {
+          "time": 454.58,
+          "end": 454.88,
+          "text": "爱",
+          "probability": 0.8504
+        }
+      ]
+    },
+    {
+      "time": 456.26,
+      "end": 457.84,
+      "text": "哈利路亚",
+      "words": [
+        {
+          "time": 456.26,
+          "end": 456.56,
+          "text": "哈",
+          "probability": 0.5628
+        },
+        {
+          "time": 456.38,
+          "end": 456.68,
+          "text": "利",
+          "probability": 0.9068
+        },
+        {
+          "time": 456.76,
+          "end": 457.06,
+          "text": "路",
+          "probability": 0.9101
+        },
+        {
+          "time": 457.16,
+          "end": 457.84,
+          "text": "亚",
+          "probability": 0.7469
+        }
+      ]
+    },
+    {
+      "time": 459.54,
+      "end": 465.76,
+      "text": "哈利路亚哈利路亚祝",
+      "words": [
+        {
+          "time": 459.54,
+          "end": 459.84,
+          "text": "哈",
+          "probability": 0.9809
+        },
+        {
+          "time": 459.68,
+          "end": 459.98,
+          "text": "利",
+          "probability": 0.999
+        },
+        {
+          "time": 460.04,
+          "end": 460.34,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 460.58,
+          "end": 461.08,
+          "text": "亚",
+          "probability": 0.9998
+        },
+        {
+          "time": 461.96,
+          "end": 462.26,
+          "text": "哈",
+          "probability": 0.9938
+        },
+        {
+          "time": 463.02,
+          "end": 463.32,
+          "text": "利",
+          "probability": 0.9992
+        },
+        {
+          "time": 463.16,
+          "end": 463.46,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 463.34,
+          "end": 463.8,
+          "text": "亚",
+          "probability": 0.9998
+        },
+        {
+          "time": 464.14,
+          "end": 465.94,
+          "text": "祝",
+          "probability": 0.6744
+        }
+      ]
+    },
+    {
+      "time": 465.76,
+      "end": 469.38,
+      "text": "爱你的慈爱永远长存",
+      "words": [
+        {
+          "time": 465.76,
+          "end": 466.06,
+          "text": "爱",
+          "probability": 0.4529
+        },
+        {
+          "time": 466.0,
+          "end": 466.3,
+          "text": "你的",
+          "probability": 0.9878
+        },
+        {
+          "time": 466.28,
+          "end": 466.64,
+          "text": "慈",
+          "probability": 0.9995
+        },
+        {
+          "time": 466.6,
+          "end": 466.9,
+          "text": "爱",
+          "probability": 0.9992
+        },
+        {
+          "time": 467.94,
+          "end": 468.24,
+          "text": "永",
+          "probability": 0.999
+        },
+        {
+          "time": 468.22,
+          "end": 468.62,
+          "text": "远",
+          "probability": 0.9996
+        },
+        {
+          "time": 468.7,
+          "end": 469.0,
+          "text": "长",
+          "probability": 0.9705
+        },
+        {
+          "time": 469.08,
+          "end": 469.38,
+          "text": "存",
+          "probability": 0.9855
+        }
+      ]
+    }
+  ]
+}

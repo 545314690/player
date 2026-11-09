@@ -1,0 +1,1805 @@
+{
+  "id": "s2157dd43d721",
+  "file": "113-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "94451372e049a20ce3856a63ad3e65087fbe39d32358c9ebfacea42ed6f38f7f",
+  "fullDuration": 285.074286,
+  "lines": [
+    {
+      "time": 13.16,
+      "end": 15.38,
+      "text": "作词 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :李宗盛作曲 :",
+      "words": [
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "作",
+          "probability": 0.1007
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "词",
+          "probability": 0.3773
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": " :",
+          "probability": 0.6278
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "李",
+          "probability": 0.0802
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "宗",
+          "probability": 0.5156
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "盛",
+          "probability": 0.8792
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "作",
+          "probability": 0.5224
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "曲",
+          "probability": 0.7295
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": " :",
+          "probability": 0.9133
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "李",
+          "probability": 0.5015
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "宗",
+          "probability": 0.9881
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "盛",
+          "probability": 0.9952
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "作",
+          "probability": 0.2663
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "曲",
+          "probability": 0.8051
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": " :",
+          "probability": 0.961
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "李",
+          "probability": 0.6961
+        },
+        {
+          "time": 13.16,
+          "end": 13.46,
+          "text": "宗",
+          "probability": 0.9877
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "盛",
+          "probability": 0.9962
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "作",
+          "probability": 0.3132
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "曲",
+          "probability": 0.8897
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": " :",
+          "probability": 0.9653
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "李",
+          "probability": 0.8031
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "宗",
+          "probability": 0.9877
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "盛",
+          "probability": 0.9967
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "作",
+          "probability": 0.3329
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "曲",
+          "probability": 0.8935
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": " :",
+          "probability": 0.9755
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "李",
+          "probability": 0.8666
+        },
+        {
+          "time": 13.24,
+          "end": 13.54,
+          "text": "宗",
+          "probability": 0.9883
+        },
+        {
+          "time": 13.32,
+          "end": 13.62,
+          "text": "盛",
+          "probability": 0.9972
+        },
+        {
+          "time": 13.58,
+          "end": 13.88,
+          "text": "作",
+          "probability": 0.3267
+        },
+        {
+          "time": 13.58,
+          "end": 13.88,
+          "text": "曲",
+          "probability": 0.8994
+        },
+        {
+          "time": 13.58,
+          "end": 13.88,
+          "text": " :",
+          "probability": 0.9794
+        },
+        {
+          "time": 13.6,
+          "end": 13.9,
+          "text": "李",
+          "probability": 0.8997
+        },
+        {
+          "time": 13.6,
+          "end": 13.9,
+          "text": "宗",
+          "probability": 0.9888
+        },
+        {
+          "time": 13.7,
+          "end": 14.0,
+          "text": "盛",
+          "probability": 0.9973
+        },
+        {
+          "time": 15.08,
+          "end": 15.38,
+          "text": "作",
+          "probability": 0.4153
+        },
+        {
+          "time": 15.08,
+          "end": 15.38,
+          "text": "曲",
+          "probability": 0.9289
+        },
+        {
+          "time": 15.08,
+          "end": 15.38,
+          "text": " :",
+          "probability": 0.9809
+        }
+      ]
+    },
+    {
+      "time": 16.86,
+      "end": 20.36,
+      "text": "李宗盛作曲 :李宗盛作曲 :",
+      "words": [
+        {
+          "time": 16.86,
+          "end": 17.16,
+          "text": "李",
+          "probability": 0.9058
+        },
+        {
+          "time": 16.86,
+          "end": 17.16,
+          "text": "宗",
+          "probability": 0.9896
+        },
+        {
+          "time": 16.86,
+          "end": 17.34,
+          "text": "盛",
+          "probability": 0.9976
+        },
+        {
+          "time": 17.98,
+          "end": 18.28,
+          "text": "作",
+          "probability": 0.3537
+        },
+        {
+          "time": 17.98,
+          "end": 18.28,
+          "text": "曲",
+          "probability": 0.9046
+        },
+        {
+          "time": 17.98,
+          "end": 18.28,
+          "text": " :",
+          "probability": 0.9835
+        },
+        {
+          "time": 18.8,
+          "end": 19.1,
+          "text": "李",
+          "probability": 0.9109
+        },
+        {
+          "time": 18.8,
+          "end": 19.44,
+          "text": "宗",
+          "probability": 0.991
+        },
+        {
+          "time": 19.84,
+          "end": 20.26,
+          "text": "盛",
+          "probability": 0.998
+        },
+        {
+          "time": 20.02,
+          "end": 20.32,
+          "text": "作",
+          "probability": 0.5203
+        },
+        {
+          "time": 20.02,
+          "end": 20.32,
+          "text": "曲",
+          "probability": 0.9426
+        },
+        {
+          "time": 20.06,
+          "end": 20.36,
+          "text": " :",
+          "probability": 0.9844
+        }
+      ]
+    },
+    {
+      "time": 22.38,
+      "end": 23.74,
+      "text": "李宗盛作曲 :",
+      "words": [
+        {
+          "time": 22.38,
+          "end": 22.68,
+          "text": "李",
+          "probability": 0.9169
+        },
+        {
+          "time": 22.38,
+          "end": 22.68,
+          "text": "宗",
+          "probability": 0.9929
+        },
+        {
+          "time": 22.38,
+          "end": 23.22,
+          "text": "盛",
+          "probability": 0.9982
+        },
+        {
+          "time": 23.42,
+          "end": 23.72,
+          "text": "作",
+          "probability": 0.4166
+        },
+        {
+          "time": 23.42,
+          "end": 23.72,
+          "text": "曲",
+          "probability": 0.9345
+        },
+        {
+          "time": 23.44,
+          "end": 23.74,
+          "text": " :",
+          "probability": 0.9852
+        }
+      ]
+    },
+    {
+      "time": 25.18,
+      "end": 26.16,
+      "text": "李宗盛",
+      "words": [
+        {
+          "time": 25.18,
+          "end": 25.48,
+          "text": "李",
+          "probability": 0.9221
+        },
+        {
+          "time": 25.18,
+          "end": 25.64,
+          "text": "宗",
+          "probability": 0.9925
+        },
+        {
+          "time": 25.38,
+          "end": 26.16,
+          "text": "盛",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 37.28,
+      "end": 38.52,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 37.28,
+          "end": 37.58,
+          "text": "Z",
+          "probability": 0.2372
+        },
+        {
+          "time": 37.3,
+          "end": 37.6,
+          "text": "ither",
+          "probability": 0.9954
+        },
+        {
+          "time": 37.48,
+          "end": 37.78,
+          "text": " Har",
+          "probability": 0.9986
+        },
+        {
+          "time": 38.22,
+          "end": 38.52,
+          "text": "p",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 57.62,
+      "end": 61.32,
+      "text": "主已为你我而预备",
+      "words": [
+        {
+          "time": 57.62,
+          "end": 57.92,
+          "text": "主",
+          "probability": 0.5542
+        },
+        {
+          "time": 57.94,
+          "end": 58.24,
+          "text": "已",
+          "probability": 0.4756
+        },
+        {
+          "time": 58.32,
+          "end": 58.62,
+          "text": "为",
+          "probability": 0.917
+        },
+        {
+          "time": 58.66,
+          "end": 58.96,
+          "text": "你",
+          "probability": 0.9595
+        },
+        {
+          "time": 59.26,
+          "end": 59.56,
+          "text": "我",
+          "probability": 0.9829
+        },
+        {
+          "time": 59.9,
+          "end": 60.2,
+          "text": "而",
+          "probability": 0.9642
+        },
+        {
+          "time": 60.1,
+          "end": 60.52,
+          "text": "预",
+          "probability": 0.9442
+        },
+        {
+          "time": 60.48,
+          "end": 61.32,
+          "text": "备",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 66.58,
+      "end": 72.82,
+      "text": "无论是住在美丽的高山或",
+      "words": [
+        {
+          "time": 66.58,
+          "end": 66.88,
+          "text": "无",
+          "probability": 0.9728
+        },
+        {
+          "time": 66.86,
+          "end": 67.24,
+          "text": "论",
+          "probability": 0.9999
+        },
+        {
+          "time": 67.3,
+          "end": 67.6,
+          "text": "是",
+          "probability": 0.9977
+        },
+        {
+          "time": 67.62,
+          "end": 67.92,
+          "text": "住",
+          "probability": 0.9628
+        },
+        {
+          "time": 68.54,
+          "end": 68.84,
+          "text": "在",
+          "probability": 0.9992
+        },
+        {
+          "time": 69.62,
+          "end": 69.92,
+          "text": "美",
+          "probability": 0.7922
+        },
+        {
+          "time": 69.92,
+          "end": 70.36,
+          "text": "丽",
+          "probability": 0.999
+        },
+        {
+          "time": 70.34,
+          "end": 70.64,
+          "text": "的",
+          "probability": 0.9945
+        },
+        {
+          "time": 70.7,
+          "end": 71.0,
+          "text": "高",
+          "probability": 0.9853
+        },
+        {
+          "time": 71.28,
+          "end": 71.58,
+          "text": "山",
+          "probability": 0.9963
+        },
+        {
+          "time": 72.52,
+          "end": 72.82,
+          "text": "或",
+          "probability": 0.9968
+        }
+      ]
+    },
+    {
+      "time": 72.94,
+      "end": 78.92,
+      "text": "是躺我在阴暗的游谷当",
+      "words": [
+        {
+          "time": 72.94,
+          "end": 73.24,
+          "text": "是",
+          "probability": 0.9955
+        },
+        {
+          "time": 73.2,
+          "end": 73.6,
+          "text": "躺",
+          "probability": 0.4887
+        },
+        {
+          "time": 74.36,
+          "end": 74.66,
+          "text": "我在",
+          "probability": 0.4612
+        },
+        {
+          "time": 75.52,
+          "end": 75.94,
+          "text": "阴",
+          "probability": 0.4042
+        },
+        {
+          "time": 75.86,
+          "end": 76.26,
+          "text": "暗",
+          "probability": 0.9631
+        },
+        {
+          "time": 76.28,
+          "end": 76.58,
+          "text": "的",
+          "probability": 0.779
+        },
+        {
+          "time": 76.6,
+          "end": 77.02,
+          "text": "游",
+          "probability": 0.4813
+        },
+        {
+          "time": 76.98,
+          "end": 77.58,
+          "text": "谷",
+          "probability": 0.3218
+        },
+        {
+          "time": 78.62,
+          "end": 78.92,
+          "text": "当",
+          "probability": 0.9886
+        }
+      ]
+    },
+    {
+      "time": 78.98,
+      "end": 84.94,
+      "text": "你抬起头你将会发现就",
+      "words": [
+        {
+          "time": 78.98,
+          "end": 79.28,
+          "text": "你",
+          "probability": 0.9965
+        },
+        {
+          "time": 79.26,
+          "end": 79.64,
+          "text": "抬",
+          "probability": 0.9234
+        },
+        {
+          "time": 79.72,
+          "end": 80.02,
+          "text": "起",
+          "probability": 0.9951
+        },
+        {
+          "time": 80.2,
+          "end": 80.5,
+          "text": "头",
+          "probability": 0.9944
+        },
+        {
+          "time": 81.6,
+          "end": 81.9,
+          "text": "你",
+          "probability": 0.4662
+        },
+        {
+          "time": 81.96,
+          "end": 82.26,
+          "text": "将",
+          "probability": 0.9994
+        },
+        {
+          "time": 82.32,
+          "end": 82.62,
+          "text": "会",
+          "probability": 0.9999
+        },
+        {
+          "time": 82.64,
+          "end": 82.94,
+          "text": "发",
+          "probability": 0.9995
+        },
+        {
+          "time": 83.24,
+          "end": 83.54,
+          "text": "现",
+          "probability": 0.9997
+        },
+        {
+          "time": 84.64,
+          "end": 84.94,
+          "text": "就",
+          "probability": 0.9367
+        }
+      ]
+    },
+    {
+      "time": 84.98,
+      "end": 88.38,
+      "text": "已为你我而预备",
+      "words": [
+        {
+          "time": 84.98,
+          "end": 85.28,
+          "text": "已",
+          "probability": 0.4345
+        },
+        {
+          "time": 85.38,
+          "end": 85.68,
+          "text": "为",
+          "probability": 0.9483
+        },
+        {
+          "time": 85.74,
+          "end": 86.04,
+          "text": "你",
+          "probability": 0.9936
+        },
+        {
+          "time": 86.24,
+          "end": 86.54,
+          "text": "我",
+          "probability": 0.9483
+        },
+        {
+          "time": 87.02,
+          "end": 87.32,
+          "text": "而",
+          "probability": 0.4538
+        },
+        {
+          "time": 87.18,
+          "end": 87.58,
+          "text": "预",
+          "probability": 0.9208
+        },
+        {
+          "time": 87.6,
+          "end": 88.38,
+          "text": "备",
+          "probability": 0.9941
+        }
+      ]
+    },
+    {
+      "time": 89.76,
+      "end": 95.54,
+      "text": "云上太阳它总不改变",
+      "words": [
+        {
+          "time": 89.76,
+          "end": 90.14,
+          "text": "云",
+          "probability": 0.8222
+        },
+        {
+          "time": 90.28,
+          "end": 90.58,
+          "text": "上",
+          "probability": 0.9562
+        },
+        {
+          "time": 91.24,
+          "end": 91.54,
+          "text": "太",
+          "probability": 0.998
+        },
+        {
+          "time": 92.08,
+          "end": 92.5,
+          "text": "阳",
+          "probability": 0.9958
+        },
+        {
+          "time": 92.86,
+          "end": 93.16,
+          "text": "它",
+          "probability": 0.6973
+        },
+        {
+          "time": 93.24,
+          "end": 93.54,
+          "text": "总",
+          "probability": 0.9934
+        },
+        {
+          "time": 94.08,
+          "end": 94.38,
+          "text": "不",
+          "probability": 0.9993
+        },
+        {
+          "time": 94.74,
+          "end": 95.04,
+          "text": "改",
+          "probability": 0.9942
+        },
+        {
+          "time": 95.04,
+          "end": 95.54,
+          "text": "变",
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "time": 95.82,
+      "end": 102.22,
+      "text": "虽然小雨洒在脸上云",
+      "words": [
+        {
+          "time": 95.82,
+          "end": 96.22,
+          "text": "虽",
+          "probability": 0.9927
+        },
+        {
+          "time": 96.3,
+          "end": 96.6,
+          "text": "然",
+          "probability": 0.9995
+        },
+        {
+          "time": 96.86,
+          "end": 97.16,
+          "text": "小",
+          "probability": 0.434
+        },
+        {
+          "time": 97.82,
+          "end": 98.12,
+          "text": "雨",
+          "probability": 0.6736
+        },
+        {
+          "time": 98.1,
+          "end": 98.48,
+          "text": "洒",
+          "probability": 0.5556
+        },
+        {
+          "time": 98.56,
+          "end": 98.86,
+          "text": "在",
+          "probability": 0.9985
+        },
+        {
+          "time": 98.92,
+          "end": 99.38,
+          "text": "脸",
+          "probability": 0.993
+        },
+        {
+          "time": 100.18,
+          "end": 100.48,
+          "text": "上",
+          "probability": 0.9998
+        },
+        {
+          "time": 100.7,
+          "end": 102.22,
+          "text": "云",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 102.34,
+      "end": 108.7,
+      "text": "上太阳它总不改变",
+      "words": [
+        {
+          "time": 102.34,
+          "end": 102.64,
+          "text": "上",
+          "probability": 0.9999
+        },
+        {
+          "time": 103.3,
+          "end": 103.6,
+          "text": "太",
+          "probability": 1.0
+        },
+        {
+          "time": 104.1,
+          "end": 104.52,
+          "text": "阳",
+          "probability": 1.0
+        },
+        {
+          "time": 104.92,
+          "end": 105.22,
+          "text": "它",
+          "probability": 0.994
+        },
+        {
+          "time": 105.32,
+          "end": 105.62,
+          "text": "总",
+          "probability": 0.9997
+        },
+        {
+          "time": 105.84,
+          "end": 106.14,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 106.88,
+          "end": 107.18,
+          "text": "改",
+          "probability": 0.9998
+        },
+        {
+          "time": 107.4,
+          "end": 108.7,
+          "text": "变",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 109.64,
+      "end": 109.94,
+      "text": "啊",
+      "words": [
+        {
+          "time": 109.64,
+          "end": 109.94,
+          "text": "啊",
+          "probability": 0.433
+        }
+      ]
+    },
+    {
+      "time": 111.32,
+      "end": 114.2,
+      "text": "它不改变",
+      "words": [
+        {
+          "time": 111.32,
+          "end": 111.62,
+          "text": "它",
+          "probability": 0.8564
+        },
+        {
+          "time": 111.98,
+          "end": 112.28,
+          "text": "不",
+          "probability": 0.9979
+        },
+        {
+          "time": 112.54,
+          "end": 112.84,
+          "text": "改",
+          "probability": 0.9996
+        },
+        {
+          "time": 113.9,
+          "end": 114.2,
+          "text": "变",
+          "probability": 0.7476
+        }
+      ]
+    },
+    {
+      "time": 139.44,
+      "end": 139.9,
+      "text": "Zither",
+      "words": [
+        {
+          "time": 139.44,
+          "end": 139.74,
+          "text": "Z",
+          "probability": 0.4097
+        },
+        {
+          "time": 139.6,
+          "end": 139.9,
+          "text": "ither",
+          "probability": 0.9906
+        }
+      ]
+    },
+    {
+      "time": 144.6,
+      "end": 145.46,
+      "text": "Harp",
+      "words": [
+        {
+          "time": 144.6,
+          "end": 144.9,
+          "text": " Har",
+          "probability": 0.9983
+        },
+        {
+          "time": 145.16,
+          "end": 145.46,
+          "text": "p",
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "time": 169.52,
+      "end": 175.24,
+      "text": "云上太阳它总不改变",
+      "words": [
+        {
+          "time": 169.52,
+          "end": 169.92,
+          "text": "云",
+          "probability": 0.3933
+        },
+        {
+          "time": 170.02,
+          "end": 170.32,
+          "text": "上",
+          "probability": 0.9893
+        },
+        {
+          "time": 170.88,
+          "end": 171.18,
+          "text": "太",
+          "probability": 0.9934
+        },
+        {
+          "time": 171.8,
+          "end": 172.2,
+          "text": "阳",
+          "probability": 0.7956
+        },
+        {
+          "time": 172.58,
+          "end": 172.88,
+          "text": "它",
+          "probability": 0.7156
+        },
+        {
+          "time": 172.92,
+          "end": 173.22,
+          "text": "总",
+          "probability": 0.96
+        },
+        {
+          "time": 173.64,
+          "end": 173.94,
+          "text": "不",
+          "probability": 0.9959
+        },
+        {
+          "time": 174.4,
+          "end": 174.7,
+          "text": "改",
+          "probability": 0.9978
+        },
+        {
+          "time": 174.74,
+          "end": 175.24,
+          "text": "变",
+          "probability": 0.9936
+        }
+      ]
+    },
+    {
+      "time": 175.5,
+      "end": 180.16,
+      "text": "虽然小雨洒在脸上",
+      "words": [
+        {
+          "time": 175.5,
+          "end": 175.92,
+          "text": "虽",
+          "probability": 0.9847
+        },
+        {
+          "time": 175.96,
+          "end": 176.26,
+          "text": "然",
+          "probability": 0.9985
+        },
+        {
+          "time": 176.48,
+          "end": 176.78,
+          "text": "小",
+          "probability": 0.668
+        },
+        {
+          "time": 177.46,
+          "end": 177.76,
+          "text": "雨",
+          "probability": 0.7863
+        },
+        {
+          "time": 177.78,
+          "end": 178.14,
+          "text": "洒",
+          "probability": 0.34
+        },
+        {
+          "time": 178.24,
+          "end": 178.54,
+          "text": "在",
+          "probability": 0.9984
+        },
+        {
+          "time": 178.56,
+          "end": 179.2,
+          "text": "脸",
+          "probability": 0.9882
+        },
+        {
+          "time": 179.86,
+          "end": 180.16,
+          "text": "上",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 181.54,
+      "end": 188.48,
+      "text": "云上太阳它总不改变",
+      "words": [
+        {
+          "time": 181.54,
+          "end": 181.94,
+          "text": "云",
+          "probability": 0.9997
+        },
+        {
+          "time": 182.04,
+          "end": 182.34,
+          "text": "上",
+          "probability": 0.9999
+        },
+        {
+          "time": 182.7,
+          "end": 183.0,
+          "text": "太",
+          "probability": 0.9999
+        },
+        {
+          "time": 183.82,
+          "end": 184.22,
+          "text": "阳",
+          "probability": 0.9999
+        },
+        {
+          "time": 184.62,
+          "end": 184.92,
+          "text": "它",
+          "probability": 0.9995
+        },
+        {
+          "time": 184.96,
+          "end": 185.26,
+          "text": "总",
+          "probability": 0.9996
+        },
+        {
+          "time": 185.48,
+          "end": 185.78,
+          "text": "不",
+          "probability": 0.9995
+        },
+        {
+          "time": 186.44,
+          "end": 186.74,
+          "text": "改",
+          "probability": 0.9994
+        },
+        {
+          "time": 186.82,
+          "end": 188.48,
+          "text": "变",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 189.14,
+      "end": 189.44,
+      "text": "它",
+      "words": [
+        {
+          "time": 189.14,
+          "end": 189.44,
+          "text": "它",
+          "probability": 0.698
+        }
+      ]
+    },
+    {
+      "time": 191.4,
+      "end": 193.76,
+      "text": "不改变",
+      "words": [
+        {
+          "time": 191.4,
+          "end": 191.7,
+          "text": "不",
+          "probability": 0.9195
+        },
+        {
+          "time": 192.4,
+          "end": 192.7,
+          "text": "改",
+          "probability": 0.9997
+        },
+        {
+          "time": 192.98,
+          "end": 193.76,
+          "text": "变",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 195.12,
+      "end": 200.76,
+      "text": "雨上太阳它从不改变",
+      "words": [
+        {
+          "time": 195.12,
+          "end": 195.42,
+          "text": "雨",
+          "probability": 0.488
+        },
+        {
+          "time": 195.5,
+          "end": 195.8,
+          "text": "上",
+          "probability": 0.6213
+        },
+        {
+          "time": 196.74,
+          "end": 197.04,
+          "text": "太",
+          "probability": 0.9935
+        },
+        {
+          "time": 197.42,
+          "end": 197.72,
+          "text": "阳",
+          "probability": 0.5367
+        },
+        {
+          "time": 198.14,
+          "end": 198.44,
+          "text": "它",
+          "probability": 0.7041
+        },
+        {
+          "time": 198.46,
+          "end": 198.76,
+          "text": "从",
+          "probability": 0.6338
+        },
+        {
+          "time": 199.38,
+          "end": 199.68,
+          "text": "不",
+          "probability": 0.9963
+        },
+        {
+          "time": 199.98,
+          "end": 200.28,
+          "text": "改",
+          "probability": 0.9992
+        },
+        {
+          "time": 200.46,
+          "end": 200.76,
+          "text": "变",
+          "probability": 0.9939
+        }
+      ]
+    },
+    {
+      "time": 201.04,
+      "end": 205.56,
+      "text": "虽然小雨少在脸上",
+      "words": [
+        {
+          "time": 201.04,
+          "end": 201.48,
+          "text": "虽",
+          "probability": 0.9884
+        },
+        {
+          "time": 201.5,
+          "end": 201.8,
+          "text": "然",
+          "probability": 0.9998
+        },
+        {
+          "time": 202.4,
+          "end": 202.7,
+          "text": "小",
+          "probability": 0.7981
+        },
+        {
+          "time": 202.94,
+          "end": 203.24,
+          "text": "雨",
+          "probability": 0.8975
+        },
+        {
+          "time": 203.36,
+          "end": 203.66,
+          "text": "少",
+          "probability": 0.0933
+        },
+        {
+          "time": 203.78,
+          "end": 204.08,
+          "text": "在",
+          "probability": 0.8627
+        },
+        {
+          "time": 204.12,
+          "end": 204.58,
+          "text": "脸",
+          "probability": 0.7852
+        },
+        {
+          "time": 205.26,
+          "end": 205.56,
+          "text": "上",
+          "probability": 0.9916
+        }
+      ]
+    },
+    {
+      "time": 207.14,
+      "end": 213.46,
+      "text": "雨上太阳它从不改变",
+      "words": [
+        {
+          "time": 207.14,
+          "end": 207.44,
+          "text": "雨",
+          "probability": 0.9978
+        },
+        {
+          "time": 207.54,
+          "end": 207.84,
+          "text": "上",
+          "probability": 0.9627
+        },
+        {
+          "time": 208.92,
+          "end": 209.22,
+          "text": "太",
+          "probability": 0.9987
+        },
+        {
+          "time": 209.4,
+          "end": 209.7,
+          "text": "阳",
+          "probability": 0.9999
+        },
+        {
+          "time": 210.16,
+          "end": 210.46,
+          "text": "它",
+          "probability": 0.9992
+        },
+        {
+          "time": 210.5,
+          "end": 210.8,
+          "text": "从",
+          "probability": 0.9983
+        },
+        {
+          "time": 210.98,
+          "end": 211.28,
+          "text": "不",
+          "probability": 0.9996
+        },
+        {
+          "time": 212.0,
+          "end": 212.3,
+          "text": "改",
+          "probability": 0.9997
+        },
+        {
+          "time": 213.16,
+          "end": 213.46,
+          "text": "变",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 214.7,
+      "end": 215.0,
+      "text": "它",
+      "words": [
+        {
+          "time": 214.7,
+          "end": 215.0,
+          "text": "它",
+          "probability": 0.832
+        }
+      ]
+    },
+    {
+      "time": 216.58,
+      "end": 219.22,
+      "text": "它不改变",
+      "words": [
+        {
+          "time": 216.58,
+          "end": 216.88,
+          "text": "它",
+          "probability": 0.9985
+        },
+        {
+          "time": 217.1,
+          "end": 217.4,
+          "text": "不",
+          "probability": 0.9811
+        },
+        {
+          "time": 217.92,
+          "end": 218.22,
+          "text": "改",
+          "probability": 0.9999
+        },
+        {
+          "time": 218.92,
+          "end": 219.22,
+          "text": "变",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 220.7,
+      "end": 226.28,
+      "text": "一生太阳它从不改变",
+      "words": [
+        {
+          "time": 220.7,
+          "end": 221.0,
+          "text": "一",
+          "probability": 0.5224
+        },
+        {
+          "time": 221.12,
+          "end": 221.42,
+          "text": "生",
+          "probability": 0.9007
+        },
+        {
+          "time": 221.92,
+          "end": 222.22,
+          "text": "太",
+          "probability": 0.8881
+        },
+        {
+          "time": 223.0,
+          "end": 223.3,
+          "text": "阳",
+          "probability": 0.863
+        },
+        {
+          "time": 223.74,
+          "end": 224.04,
+          "text": "它",
+          "probability": 0.5872
+        },
+        {
+          "time": 224.02,
+          "end": 224.32,
+          "text": "从",
+          "probability": 0.9655
+        },
+        {
+          "time": 224.78,
+          "end": 225.08,
+          "text": "不",
+          "probability": 0.9958
+        },
+        {
+          "time": 225.56,
+          "end": 225.86,
+          "text": "改",
+          "probability": 0.9972
+        },
+        {
+          "time": 225.98,
+          "end": 226.28,
+          "text": "变",
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "time": 226.64,
+      "end": 230.98,
+      "text": "虽然小月苍在脸上",
+      "words": [
+        {
+          "time": 226.64,
+          "end": 227.04,
+          "text": "虽",
+          "probability": 0.7435
+        },
+        {
+          "time": 227.1,
+          "end": 227.4,
+          "text": "然",
+          "probability": 0.9999
+        },
+        {
+          "time": 227.82,
+          "end": 228.12,
+          "text": "小",
+          "probability": 0.3531
+        },
+        {
+          "time": 228.62,
+          "end": 228.92,
+          "text": "月",
+          "probability": 0.1731
+        },
+        {
+          "time": 228.92,
+          "end": 229.28,
+          "text": "苍",
+          "probability": 0.2914
+        },
+        {
+          "time": 229.36,
+          "end": 229.66,
+          "text": "在",
+          "probability": 0.9921
+        },
+        {
+          "time": 229.74,
+          "end": 230.34,
+          "text": "脸",
+          "probability": 0.9599
+        },
+        {
+          "time": 230.68,
+          "end": 230.98,
+          "text": "上",
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "time": 232.7,
+      "end": 237.98,
+      "text": "一生太阳它从不改",
+      "words": [
+        {
+          "time": 232.7,
+          "end": 233.0,
+          "text": "一",
+          "probability": 0.9917
+        },
+        {
+          "time": 233.12,
+          "end": 233.42,
+          "text": "生",
+          "probability": 0.9997
+        },
+        {
+          "time": 234.54,
+          "end": 234.84,
+          "text": "太",
+          "probability": 0.9997
+        },
+        {
+          "time": 235.04,
+          "end": 235.34,
+          "text": "阳",
+          "probability": 1.0
+        },
+        {
+          "time": 235.78,
+          "end": 236.08,
+          "text": "它",
+          "probability": 0.9995
+        },
+        {
+          "time": 236.12,
+          "end": 236.42,
+          "text": "从",
+          "probability": 0.9974
+        },
+        {
+          "time": 236.68,
+          "end": 236.98,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 237.68,
+          "end": 237.98,
+          "text": "改",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 239.4,
+      "end": 239.7,
+      "text": "变",
+      "words": [
+        {
+          "time": 239.4,
+          "end": 239.7,
+          "text": "变",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 244.12,
+      "end": 244.42,
+      "text": "啊",
+      "words": [
+        {
+          "time": 244.12,
+          "end": 244.42,
+          "text": "啊",
+          "probability": 0.6657
+        }
+      ]
+    },
+    {
+      "time": 246.48,
+      "end": 248.52,
+      "text": "怕不改",
+      "words": [
+        {
+          "time": 246.48,
+          "end": 246.78,
+          "text": "怕",
+          "probability": 0.4847
+        },
+        {
+          "time": 247.26,
+          "end": 247.56,
+          "text": "不",
+          "probability": 0.9716
+        },
+        {
+          "time": 248.22,
+          "end": 248.52,
+          "text": "改",
+          "probability": 0.9716
+        }
+      ]
+    },
+    {
+      "time": 250.52,
+      "end": 250.82,
+      "text": "变",
+      "words": [
+        {
+          "time": 250.52,
+          "end": 250.82,
+          "text": "变",
+          "probability": 0.4938
+        }
+      ]
+    },
+    {
+      "time": 256.6,
+      "end": 260.08,
+      "text": "就以为你我而",
+      "words": [
+        {
+          "time": 256.6,
+          "end": 256.9,
+          "text": "就",
+          "probability": 0.8852
+        },
+        {
+          "time": 257.0,
+          "end": 257.3,
+          "text": "以",
+          "probability": 0.6947
+        },
+        {
+          "time": 257.5,
+          "end": 257.8,
+          "text": "为",
+          "probability": 0.9911
+        },
+        {
+          "time": 257.9,
+          "end": 258.2,
+          "text": "你",
+          "probability": 0.9476
+        },
+        {
+          "time": 258.62,
+          "end": 258.92,
+          "text": "我",
+          "probability": 0.9672
+        },
+        {
+          "time": 259.78,
+          "end": 260.08,
+          "text": "而",
+          "probability": 0.973
+        }
+      ]
+    },
+    {
+      "time": 262.14,
+      "end": 262.44,
+      "text": "预备",
+      "words": [
+        {
+          "time": 262.14,
+          "end": 262.44,
+          "text": "预备",
+          "probability": 0.928
+        }
+      ]
+    },
+    {
+      "time": 281.92,
+      "end": 282.22,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "优",
+          "probability": 0.401
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "优",
+          "probability": 0.9977
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "独",
+          "probability": 0.9937
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "播",
+          "probability": 0.9966
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "剧",
+          "probability": 0.9972
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "场",
+          "probability": 0.9981
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "——",
+          "probability": 0.9979
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "Yo",
+          "probability": 0.9974
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "Yo",
+          "probability": 0.9975
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": " Television",
+          "probability": 0.9939
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": " Series",
+          "probability": 0.9979
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": " Exc",
+          "probability": 0.9966
+        },
+        {
+          "time": 281.92,
+          "end": 282.22,
+          "text": "lusive",
+          "probability": 0.9979
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "30268",
+  "waveform": {
+    "source": "30268",
+    "url": "https://www.izanmei.cc/song/30268.html",
+    "audio": "https://play.izanm.org/song/p/30268.mp3",
+    "offset": 0.024,
+    "scale": 1.0,
+    "residual": 0.0,
+    "coverage": 0.999622,
+    "windows": [
+      {
+        "localStart": 16.279,
+        "sourceStart": 16.303,
+        "offset": 0.024,
+        "coefficient": 0.997517
+      },
+      {
+        "localStart": 40.699,
+        "sourceStart": 40.723,
+        "offset": 0.024,
+        "coefficient": 0.99861
+      },
+      {
+        "localStart": 65.118,
+        "sourceStart": 65.142,
+        "offset": 0.024,
+        "coefficient": 0.99941
+      },
+      {
+        "localStart": 89.537,
+        "sourceStart": 89.561,
+        "offset": 0.024,
+        "coefficient": 0.998333
+      },
+      {
+        "localStart": 113.957,
+        "sourceStart": 113.981,
+        "offset": 0.024,
+        "coefficient": 0.997945
+      },
+      {
+        "localStart": 138.376,
+        "sourceStart": 138.4,
+        "offset": 0.024,
+        "coefficient": 0.998313
+      },
+      {
+        "localStart": 162.796,
+        "sourceStart": 162.82,
+        "offset": 0.024,
+        "coefficient": 0.998825
+      },
+      {
+        "localStart": 183.145,
+        "sourceStart": 183.169,
+        "offset": 0.024,
+        "coefficient": 0.999282
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "se1bb28a30c18",
+  "file": "277标竿人生路.mp3",
+  "fullDuration": 203.52,
+  "recordingHash": "2077659b531b0bd02c2e4db56a7015c9868850308e3b3009e1f691e725320c9a",
+  "lines": []
+}

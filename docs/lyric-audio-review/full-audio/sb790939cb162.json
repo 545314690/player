@@ -1,0 +1,1779 @@
+{
+  "id": "sb790939cb162",
+  "file": "029-.mp3",
+  "language": "zh",
+  "model": "Whisper large-v3-turbo audited q4 weights dequantized; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "45460922fe3f5ae0941f4ae5667457e492f84e4ae1510ec5bd03af7d8fd09fef",
+  "fullDuration": 152.006531,
+  "lines": [
+    {
+      "time": 0,
+      "end": 2.8,
+      "text": "作词 :王晋录作曲 :王晋录",
+      "words": [
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "作",
+          "probability": 0.0301
+        },
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": "词",
+          "probability": 0.7587
+        },
+        {
+          "time": 0,
+          "end": 0.28,
+          "text": " :",
+          "probability": 0.4868
+        },
+        {
+          "time": 0.2,
+          "end": 0.5,
+          "text": "王",
+          "probability": 0.0292
+        },
+        {
+          "time": 0.3,
+          "end": 0.6,
+          "text": "晋",
+          "probability": 0.0433
+        },
+        {
+          "time": 0.4,
+          "end": 0.7,
+          "text": "录",
+          "probability": 0.0472
+        },
+        {
+          "time": 1.18,
+          "end": 1.48,
+          "text": "作",
+          "probability": 0.4588
+        },
+        {
+          "time": 1.18,
+          "end": 1.48,
+          "text": "曲",
+          "probability": 0.6459
+        },
+        {
+          "time": 1.54,
+          "end": 1.84,
+          "text": " :",
+          "probability": 0.7798
+        },
+        {
+          "time": 2.04,
+          "end": 2.34,
+          "text": "王",
+          "probability": 0.5762
+        },
+        {
+          "time": 2.04,
+          "end": 2.34,
+          "text": "晋",
+          "probability": 0.9253
+        },
+        {
+          "time": 2.5,
+          "end": 2.8,
+          "text": "录",
+          "probability": 0.9726
+        }
+      ]
+    },
+    {
+      "time": 4.6,
+      "end": 10.02,
+      "text": "作曲 :王晋录作曲 :王晋录作曲 :王晋录作曲 :王晋录作曲 :王晋录作曲 :王晋录作曲 :王晋录作",
+      "words": [
+        {
+          "time": 4.6,
+          "end": 4.9,
+          "text": "作",
+          "probability": 0.5274
+        },
+        {
+          "time": 4.6,
+          "end": 4.9,
+          "text": "曲",
+          "probability": 0.8122
+        },
+        {
+          "time": 4.6,
+          "end": 4.9,
+          "text": " :",
+          "probability": 0.9147
+        },
+        {
+          "time": 4.74,
+          "end": 5.04,
+          "text": "王",
+          "probability": 0.8461
+        },
+        {
+          "time": 4.78,
+          "end": 5.16,
+          "text": "晋",
+          "probability": 0.9714
+        },
+        {
+          "time": 4.88,
+          "end": 5.22,
+          "text": "录",
+          "probability": 0.993
+        },
+        {
+          "time": 5.16,
+          "end": 5.46,
+          "text": "作",
+          "probability": 0.556
+        },
+        {
+          "time": 5.16,
+          "end": 5.46,
+          "text": "曲",
+          "probability": 0.8939
+        },
+        {
+          "time": 5.16,
+          "end": 5.46,
+          "text": " :",
+          "probability": 0.9491
+        },
+        {
+          "time": 5.16,
+          "end": 5.46,
+          "text": "王",
+          "probability": 0.9155
+        },
+        {
+          "time": 5.16,
+          "end": 5.46,
+          "text": "晋",
+          "probability": 0.9784
+        },
+        {
+          "time": 5.16,
+          "end": 5.46,
+          "text": "录",
+          "probability": 0.9955
+        },
+        {
+          "time": 5.26,
+          "end": 5.56,
+          "text": "作",
+          "probability": 0.5037
+        },
+        {
+          "time": 5.26,
+          "end": 5.56,
+          "text": "曲",
+          "probability": 0.9085
+        },
+        {
+          "time": 5.26,
+          "end": 5.56,
+          "text": " :",
+          "probability": 0.9672
+        },
+        {
+          "time": 5.28,
+          "end": 5.58,
+          "text": "王",
+          "probability": 0.9448
+        },
+        {
+          "time": 5.4,
+          "end": 5.7,
+          "text": "晋",
+          "probability": 0.9842
+        },
+        {
+          "time": 5.42,
+          "end": 5.72,
+          "text": "录",
+          "probability": 0.9958
+        },
+        {
+          "time": 5.42,
+          "end": 5.72,
+          "text": "作",
+          "probability": 0.4801
+        },
+        {
+          "time": 5.42,
+          "end": 5.72,
+          "text": "曲",
+          "probability": 0.9165
+        },
+        {
+          "time": 5.42,
+          "end": 5.72,
+          "text": " :",
+          "probability": 0.9734
+        },
+        {
+          "time": 6.28,
+          "end": 6.58,
+          "text": "王",
+          "probability": 0.9598
+        },
+        {
+          "time": 6.28,
+          "end": 6.58,
+          "text": "晋",
+          "probability": 0.986
+        },
+        {
+          "time": 6.28,
+          "end": 6.58,
+          "text": "录",
+          "probability": 0.9966
+        },
+        {
+          "time": 6.56,
+          "end": 6.86,
+          "text": "作",
+          "probability": 0.3272
+        },
+        {
+          "time": 6.56,
+          "end": 6.86,
+          "text": "曲",
+          "probability": 0.9231
+        },
+        {
+          "time": 6.56,
+          "end": 6.86,
+          "text": " :",
+          "probability": 0.9771
+        },
+        {
+          "time": 7.28,
+          "end": 7.58,
+          "text": "王",
+          "probability": 0.9632
+        },
+        {
+          "time": 7.46,
+          "end": 7.76,
+          "text": "晋",
+          "probability": 0.9885
+        },
+        {
+          "time": 7.46,
+          "end": 7.76,
+          "text": "录",
+          "probability": 0.997
+        },
+        {
+          "time": 7.92,
+          "end": 8.22,
+          "text": "作",
+          "probability": 0.3186
+        },
+        {
+          "time": 7.92,
+          "end": 8.22,
+          "text": "曲",
+          "probability": 0.9503
+        },
+        {
+          "time": 7.92,
+          "end": 8.22,
+          "text": " :",
+          "probability": 0.9747
+        },
+        {
+          "time": 8.46,
+          "end": 8.76,
+          "text": "王",
+          "probability": 0.9698
+        },
+        {
+          "time": 8.46,
+          "end": 8.76,
+          "text": "晋",
+          "probability": 0.9885
+        },
+        {
+          "time": 8.46,
+          "end": 8.76,
+          "text": "录",
+          "probability": 0.997
+        },
+        {
+          "time": 8.56,
+          "end": 8.86,
+          "text": "作",
+          "probability": 0.197
+        },
+        {
+          "time": 8.56,
+          "end": 8.86,
+          "text": "曲",
+          "probability": 0.95
+        },
+        {
+          "time": 8.6,
+          "end": 8.9,
+          "text": " :",
+          "probability": 0.9785
+        },
+        {
+          "time": 8.7,
+          "end": 9.0,
+          "text": "王",
+          "probability": 0.9733
+        },
+        {
+          "time": 8.76,
+          "end": 9.06,
+          "text": "晋",
+          "probability": 0.9901
+        },
+        {
+          "time": 8.76,
+          "end": 9.06,
+          "text": "录",
+          "probability": 0.9966
+        },
+        {
+          "time": 10.02,
+          "end": 10.32,
+          "text": "作",
+          "probability": 0.1949
+        }
+      ]
+    },
+    {
+      "time": 10.02,
+      "end": 15.62,
+      "text": "曲 :王晋录作曲 :王晋录作曲 :王晋录王晋录甘者身似我",
+      "words": [
+        {
+          "time": 10.02,
+          "end": 10.32,
+          "text": "曲",
+          "probability": 0.9653
+        },
+        {
+          "time": 10.28,
+          "end": 10.58,
+          "text": " :",
+          "probability": 0.9785
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "王",
+          "probability": 0.9751
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "晋",
+          "probability": 0.9902
+        },
+        {
+          "time": 10.58,
+          "end": 10.88,
+          "text": "录",
+          "probability": 0.9968
+        },
+        {
+          "time": 11.04,
+          "end": 11.34,
+          "text": "作",
+          "probability": 0.1723
+        },
+        {
+          "time": 11.04,
+          "end": 11.34,
+          "text": "曲",
+          "probability": 0.961
+        },
+        {
+          "time": 11.4,
+          "end": 11.7,
+          "text": " :",
+          "probability": 0.9787
+        },
+        {
+          "time": 11.5,
+          "end": 11.8,
+          "text": "王",
+          "probability": 0.9767
+        },
+        {
+          "time": 11.5,
+          "end": 11.8,
+          "text": "晋",
+          "probability": 0.9908
+        },
+        {
+          "time": 11.5,
+          "end": 11.8,
+          "text": "录",
+          "probability": 0.9972
+        },
+        {
+          "time": 11.84,
+          "end": 12.14,
+          "text": "作",
+          "probability": 0.1329
+        },
+        {
+          "time": 11.84,
+          "end": 12.14,
+          "text": "曲",
+          "probability": 0.9902
+        },
+        {
+          "time": 12.76,
+          "end": 13.06,
+          "text": " :",
+          "probability": 0.9734
+        },
+        {
+          "time": 12.76,
+          "end": 13.06,
+          "text": "王",
+          "probability": 0.9807
+        },
+        {
+          "time": 12.76,
+          "end": 13.06,
+          "text": "晋",
+          "probability": 0.9916
+        },
+        {
+          "time": 12.76,
+          "end": 13.06,
+          "text": "录",
+          "probability": 0.9975
+        },
+        {
+          "time": 12.76,
+          "end": 13.06,
+          "text": "王",
+          "probability": 0.063
+        },
+        {
+          "time": 12.76,
+          "end": 13.06,
+          "text": "晋",
+          "probability": 0.9833
+        },
+        {
+          "time": 12.76,
+          "end": 13.06,
+          "text": "录",
+          "probability": 0.9965
+        },
+        {
+          "time": 12.84,
+          "end": 13.64,
+          "text": "甘",
+          "probability": 0.1444
+        },
+        {
+          "time": 13.56,
+          "end": 13.86,
+          "text": "者",
+          "probability": 0.2858
+        },
+        {
+          "time": 14.08,
+          "end": 14.38,
+          "text": "身",
+          "probability": 0.2916
+        },
+        {
+          "time": 14.88,
+          "end": 15.24,
+          "text": "似",
+          "probability": 0.2226
+        },
+        {
+          "time": 15.32,
+          "end": 15.62,
+          "text": "我",
+          "probability": 0.9603
+        }
+      ]
+    },
+    {
+      "time": 15.64,
+      "end": 22.4,
+      "text": "救宿主甘者身丰富于备甘",
+      "words": [
+        {
+          "time": 15.64,
+          "end": 15.94,
+          "text": "救",
+          "probability": 0.6072
+        },
+        {
+          "time": 16.0,
+          "end": 16.72,
+          "text": "宿",
+          "probability": 0.265
+        },
+        {
+          "time": 16.8,
+          "end": 17.1,
+          "text": "主",
+          "probability": 0.8075
+        },
+        {
+          "time": 17.5,
+          "end": 18.02,
+          "text": "甘",
+          "probability": 0.972
+        },
+        {
+          "time": 18.0,
+          "end": 18.3,
+          "text": "者",
+          "probability": 0.9963
+        },
+        {
+          "time": 18.52,
+          "end": 18.82,
+          "text": "身",
+          "probability": 0.9976
+        },
+        {
+          "time": 19.3,
+          "end": 19.66,
+          "text": "丰",
+          "probability": 0.2744
+        },
+        {
+          "time": 19.56,
+          "end": 19.86,
+          "text": "富",
+          "probability": 0.9342
+        },
+        {
+          "time": 20.06,
+          "end": 20.36,
+          "text": "于",
+          "probability": 0.3676
+        },
+        {
+          "time": 20.52,
+          "end": 20.82,
+          "text": "备",
+          "probability": 0.2109
+        },
+        {
+          "time": 21.92,
+          "end": 22.44,
+          "text": "甘",
+          "probability": 0.9629
+        }
+      ]
+    },
+    {
+      "time": 22.4,
+      "end": 28.44,
+      "text": "者身和余的痛在感谢神住",
+      "words": [
+        {
+          "time": 22.4,
+          "end": 22.7,
+          "text": "者",
+          "probability": 0.9961
+        },
+        {
+          "time": 22.94,
+          "end": 23.24,
+          "text": "身",
+          "probability": 0.9975
+        },
+        {
+          "time": 23.82,
+          "end": 24.12,
+          "text": "和",
+          "probability": 0.3983
+        },
+        {
+          "time": 24.12,
+          "end": 24.48,
+          "text": "余",
+          "probability": 0.0576
+        },
+        {
+          "time": 24.48,
+          "end": 24.78,
+          "text": "的",
+          "probability": 0.3366
+        },
+        {
+          "time": 24.96,
+          "end": 25.26,
+          "text": "痛",
+          "probability": 0.6028
+        },
+        {
+          "time": 25.7,
+          "end": 26.0,
+          "text": "在",
+          "probability": 0.782
+        },
+        {
+          "time": 26.52,
+          "end": 26.82,
+          "text": "感",
+          "probability": 0.389
+        },
+        {
+          "time": 26.78,
+          "end": 27.08,
+          "text": "谢",
+          "probability": 0.4066
+        },
+        {
+          "time": 27.48,
+          "end": 27.78,
+          "text": "神",
+          "probability": 0.871
+        },
+        {
+          "time": 28.14,
+          "end": 28.44,
+          "text": "住",
+          "probability": 0.6383
+        }
+      ]
+    },
+    {
+      "time": 28.54,
+      "end": 34.08,
+      "text": "在我谱感谢神自温暖春",
+      "words": [
+        {
+          "time": 28.54,
+          "end": 28.84,
+          "text": "在",
+          "probability": 0.9988
+        },
+        {
+          "time": 28.92,
+          "end": 29.22,
+          "text": "我",
+          "probability": 0.9691
+        },
+        {
+          "time": 29.24,
+          "end": 29.74,
+          "text": "谱",
+          "probability": 0.1796
+        },
+        {
+          "time": 30.74,
+          "end": 31.04,
+          "text": "感",
+          "probability": 0.9947
+        },
+        {
+          "time": 31.14,
+          "end": 31.44,
+          "text": "谢",
+          "probability": 0.9987
+        },
+        {
+          "time": 31.8,
+          "end": 32.1,
+          "text": "神",
+          "probability": 0.9977
+        },
+        {
+          "time": 32.52,
+          "end": 32.82,
+          "text": "自",
+          "probability": 0.3433
+        },
+        {
+          "time": 32.82,
+          "end": 33.22,
+          "text": "温",
+          "probability": 0.5516
+        },
+        {
+          "time": 33.16,
+          "end": 33.56,
+          "text": "暖",
+          "probability": 0.6853
+        },
+        {
+          "time": 33.78,
+          "end": 34.08,
+          "text": "春",
+          "probability": 0.9888
+        }
+      ]
+    },
+    {
+      "time": 34.36,
+      "end": 40.04,
+      "text": "天感谢神赐量秋剑感谢",
+      "words": [
+        {
+          "time": 34.36,
+          "end": 34.66,
+          "text": "天",
+          "probability": 0.9539
+        },
+        {
+          "time": 35.1,
+          "end": 35.4,
+          "text": "感",
+          "probability": 0.9984
+        },
+        {
+          "time": 35.46,
+          "end": 35.76,
+          "text": "谢",
+          "probability": 0.9994
+        },
+        {
+          "time": 36.18,
+          "end": 36.48,
+          "text": "神",
+          "probability": 0.9889
+        },
+        {
+          "time": 36.8,
+          "end": 37.18,
+          "text": "赐",
+          "probability": 0.3571
+        },
+        {
+          "time": 37.22,
+          "end": 37.52,
+          "text": "量",
+          "probability": 0.3707
+        },
+        {
+          "time": 37.52,
+          "end": 37.82,
+          "text": "秋",
+          "probability": 0.2182
+        },
+        {
+          "time": 37.94,
+          "end": 38.68,
+          "text": "剑",
+          "probability": 0.0973
+        },
+        {
+          "time": 39.44,
+          "end": 39.74,
+          "text": "感",
+          "probability": 0.9971
+        },
+        {
+          "time": 39.74,
+          "end": 40.04,
+          "text": "谢",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 40.26,
+      "end": 45.78,
+      "text": "神没干我眼泪感谢神自",
+      "words": [
+        {
+          "time": 40.26,
+          "end": 40.56,
+          "text": "神",
+          "probability": 0.999
+        },
+        {
+          "time": 41.16,
+          "end": 41.46,
+          "text": "没",
+          "probability": 0.3932
+        },
+        {
+          "time": 41.4,
+          "end": 41.7,
+          "text": "干",
+          "probability": 0.4088
+        },
+        {
+          "time": 41.84,
+          "end": 42.14,
+          "text": "我",
+          "probability": 0.9703
+        },
+        {
+          "time": 42.5,
+          "end": 42.8,
+          "text": "眼",
+          "probability": 0.995
+        },
+        {
+          "time": 42.9,
+          "end": 43.36,
+          "text": "泪",
+          "probability": 0.99
+        },
+        {
+          "time": 43.78,
+          "end": 44.08,
+          "text": "感",
+          "probability": 0.9982
+        },
+        {
+          "time": 44.08,
+          "end": 44.38,
+          "text": "谢",
+          "probability": 0.9993
+        },
+        {
+          "time": 44.58,
+          "end": 44.88,
+          "text": "神",
+          "probability": 0.9991
+        },
+        {
+          "time": 45.48,
+          "end": 45.78,
+          "text": "自",
+          "probability": 0.9724
+        }
+      ]
+    },
+    {
+      "time": 45.88,
+      "end": 47.04,
+      "text": "我暗恋",
+      "words": [
+        {
+          "time": 45.88,
+          "end": 46.18,
+          "text": "我",
+          "probability": 0.9924
+        },
+        {
+          "time": 46.14,
+          "end": 46.58,
+          "text": "暗",
+          "probability": 0.1312
+        },
+        {
+          "time": 46.64,
+          "end": 47.04,
+          "text": "恋",
+          "probability": 0.2378
+        }
+      ]
+    },
+    {
+      "time": 50.14,
+      "end": 55.76,
+      "text": "感谢神徒高梦迎魂今者身",
+      "words": [
+        {
+          "time": 50.14,
+          "end": 50.44,
+          "text": "感",
+          "probability": 0.9057
+        },
+        {
+          "time": 50.56,
+          "end": 50.86,
+          "text": "谢",
+          "probability": 0.9996
+        },
+        {
+          "time": 51.14,
+          "end": 51.44,
+          "text": "神",
+          "probability": 0.998
+        },
+        {
+          "time": 51.9,
+          "end": 52.3,
+          "text": "徒",
+          "probability": 0.1841
+        },
+        {
+          "time": 52.28,
+          "end": 52.58,
+          "text": "高",
+          "probability": 0.7792
+        },
+        {
+          "time": 52.62,
+          "end": 53.02,
+          "text": "梦",
+          "probability": 0.8088
+        },
+        {
+          "time": 53.28,
+          "end": 53.58,
+          "text": "迎",
+          "probability": 0.2382
+        },
+        {
+          "time": 53.76,
+          "end": 54.2,
+          "text": "魂",
+          "probability": 0.7138
+        },
+        {
+          "time": 54.62,
+          "end": 54.92,
+          "text": "今",
+          "probability": 0.3279
+        },
+        {
+          "time": 54.88,
+          "end": 55.18,
+          "text": "者",
+          "probability": 0.4723
+        },
+        {
+          "time": 55.46,
+          "end": 55.76,
+          "text": "身",
+          "probability": 0.6214
+        }
+      ]
+    },
+    {
+      "time": 56.28,
+      "end": 61.92,
+      "text": "美无谁情今者身我曾经风",
+      "words": [
+        {
+          "time": 56.28,
+          "end": 56.58,
+          "text": "美",
+          "probability": 0.3833
+        },
+        {
+          "time": 56.6,
+          "end": 56.9,
+          "text": "无",
+          "probability": 0.209
+        },
+        {
+          "time": 56.98,
+          "end": 57.28,
+          "text": "谁",
+          "probability": 0.5568
+        },
+        {
+          "time": 57.4,
+          "end": 57.7,
+          "text": "情",
+          "probability": 0.2896
+        },
+        {
+          "time": 58.8,
+          "end": 59.1,
+          "text": "今",
+          "probability": 0.9939
+        },
+        {
+          "time": 59.12,
+          "end": 59.42,
+          "text": "者",
+          "probability": 0.9991
+        },
+        {
+          "time": 60.02,
+          "end": 60.32,
+          "text": "身",
+          "probability": 0.9989
+        },
+        {
+          "time": 60.48,
+          "end": 60.78,
+          "text": "我",
+          "probability": 0.9469
+        },
+        {
+          "time": 60.78,
+          "end": 61.08,
+          "text": "曾",
+          "probability": 0.5976
+        },
+        {
+          "time": 61.18,
+          "end": 61.48,
+          "text": "经",
+          "probability": 0.9682
+        },
+        {
+          "time": 61.62,
+          "end": 61.92,
+          "text": "风",
+          "probability": 0.6471
+        }
+      ]
+    },
+    {
+      "time": 62.24,
+      "end": 66.16,
+      "text": "暴今者身奉负共应",
+      "words": [
+        {
+          "time": 62.24,
+          "end": 62.7,
+          "text": "暴",
+          "probability": 0.2726
+        },
+        {
+          "time": 63.08,
+          "end": 63.38,
+          "text": "今",
+          "probability": 0.9972
+        },
+        {
+          "time": 63.42,
+          "end": 63.72,
+          "text": "者",
+          "probability": 0.9997
+        },
+        {
+          "time": 64.08,
+          "end": 64.38,
+          "text": "身",
+          "probability": 0.9978
+        },
+        {
+          "time": 64.66,
+          "end": 65.08,
+          "text": "奉",
+          "probability": 0.5714
+        },
+        {
+          "time": 65.02,
+          "end": 65.44,
+          "text": "负",
+          "probability": 0.1885
+        },
+        {
+          "time": 65.42,
+          "end": 65.72,
+          "text": "共",
+          "probability": 0.3692
+        },
+        {
+          "time": 65.86,
+          "end": 66.16,
+          "text": "应",
+          "probability": 0.2088
+        }
+      ]
+    },
+    {
+      "time": 67.4,
+      "end": 73.12,
+      "text": "今者身似我父与乐在全梦",
+      "words": [
+        {
+          "time": 67.4,
+          "end": 67.7,
+          "text": "今",
+          "probability": 0.9952
+        },
+        {
+          "time": 67.68,
+          "end": 67.98,
+          "text": "者",
+          "probability": 0.999
+        },
+        {
+          "time": 68.66,
+          "end": 68.96,
+          "text": "身",
+          "probability": 0.9992
+        },
+        {
+          "time": 69.0,
+          "end": 69.34,
+          "text": "似",
+          "probability": 0.2025
+        },
+        {
+          "time": 69.42,
+          "end": 69.72,
+          "text": "我",
+          "probability": 0.9825
+        },
+        {
+          "time": 69.78,
+          "end": 70.08,
+          "text": "父",
+          "probability": 0.2711
+        },
+        {
+          "time": 70.12,
+          "end": 70.76,
+          "text": "与",
+          "probability": 0.4434
+        },
+        {
+          "time": 70.86,
+          "end": 71.16,
+          "text": "乐",
+          "probability": 0.8773
+        },
+        {
+          "time": 71.66,
+          "end": 71.96,
+          "text": "在",
+          "probability": 0.9286
+        },
+        {
+          "time": 72.0,
+          "end": 72.3,
+          "text": "全",
+          "probability": 0.1798
+        },
+        {
+          "time": 72.34,
+          "end": 73.12,
+          "text": "梦",
+          "probability": 0.1271
+        }
+      ]
+    },
+    {
+      "time": 73.3,
+      "end": 79.14,
+      "text": "里等安慰今者身似无限人",
+      "words": [
+        {
+          "time": 73.3,
+          "end": 73.6,
+          "text": "里",
+          "probability": 0.5598
+        },
+        {
+          "time": 73.66,
+          "end": 73.96,
+          "text": "等",
+          "probability": 0.7205
+        },
+        {
+          "time": 74.02,
+          "end": 74.32,
+          "text": "安",
+          "probability": 0.5893
+        },
+        {
+          "time": 74.38,
+          "end": 75.18,
+          "text": "慰",
+          "probability": 0.9341
+        },
+        {
+          "time": 75.9,
+          "end": 76.2,
+          "text": "今",
+          "probability": 0.9961
+        },
+        {
+          "time": 76.2,
+          "end": 76.5,
+          "text": "者",
+          "probability": 0.9988
+        },
+        {
+          "time": 77.22,
+          "end": 77.52,
+          "text": "身",
+          "probability": 0.9997
+        },
+        {
+          "time": 77.52,
+          "end": 77.88,
+          "text": "似",
+          "probability": 0.9699
+        },
+        {
+          "time": 77.98,
+          "end": 78.28,
+          "text": "无",
+          "probability": 0.9756
+        },
+        {
+          "time": 78.34,
+          "end": 78.64,
+          "text": "限",
+          "probability": 0.9065
+        },
+        {
+          "time": 78.84,
+          "end": 79.14,
+          "text": "人",
+          "probability": 0.8892
+        }
+      ]
+    },
+    {
+      "time": 79.46,
+      "end": 83.6,
+      "text": "天感着身无悲止路",
+      "words": [
+        {
+          "time": 79.46,
+          "end": 79.76,
+          "text": "天",
+          "probability": 0.6025
+        },
+        {
+          "time": 80.32,
+          "end": 80.62,
+          "text": "感",
+          "probability": 0.447
+        },
+        {
+          "time": 80.58,
+          "end": 80.88,
+          "text": "着",
+          "probability": 0.2833
+        },
+        {
+          "time": 81.06,
+          "end": 81.36,
+          "text": "身",
+          "probability": 0.2779
+        },
+        {
+          "time": 81.96,
+          "end": 82.26,
+          "text": "无",
+          "probability": 0.6417
+        },
+        {
+          "time": 82.26,
+          "end": 82.64,
+          "text": "悲",
+          "probability": 0.2953
+        },
+        {
+          "time": 82.7,
+          "end": 83.0,
+          "text": "止",
+          "probability": 0.5062
+        },
+        {
+          "time": 83.3,
+          "end": 83.6,
+          "text": "路",
+          "probability": 0.1688
+        }
+      ]
+    },
+    {
+      "time": 85.16,
+      "end": 85.46,
+      "text": "感",
+      "words": [
+        {
+          "time": 85.16,
+          "end": 85.46,
+          "text": "感",
+          "probability": 0.9651
+        }
+      ]
+    },
+    {
+      "time": 95.6,
+      "end": 101.6,
+      "text": "着身似老旁玫瑰感着身玫",
+      "words": [
+        {
+          "time": 95.6,
+          "end": 95.9,
+          "text": "着",
+          "probability": 0.9869
+        },
+        {
+          "time": 96.26,
+          "end": 96.56,
+          "text": "身",
+          "probability": 0.9927
+        },
+        {
+          "time": 96.94,
+          "end": 97.28,
+          "text": "似",
+          "probability": 0.7709
+        },
+        {
+          "time": 97.34,
+          "end": 97.64,
+          "text": "老",
+          "probability": 0.4488
+        },
+        {
+          "time": 97.62,
+          "end": 98.02,
+          "text": "旁",
+          "probability": 0.103
+        },
+        {
+          "time": 98.18,
+          "end": 98.7,
+          "text": "玫",
+          "probability": 0.8823
+        },
+        {
+          "time": 98.8,
+          "end": 99.2,
+          "text": "瑰",
+          "probability": 0.9788
+        },
+        {
+          "time": 99.56,
+          "end": 99.86,
+          "text": "感",
+          "probability": 0.9991
+        },
+        {
+          "time": 99.94,
+          "end": 100.24,
+          "text": "着",
+          "probability": 0.9983
+        },
+        {
+          "time": 100.56,
+          "end": 100.86,
+          "text": "身",
+          "probability": 0.999
+        },
+        {
+          "time": 101.3,
+          "end": 101.66,
+          "text": "玫",
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "time": 101.6,
+      "end": 107.34,
+      "text": "瑰有此感着身似家庭幻",
+      "words": [
+        {
+          "time": 101.6,
+          "end": 102.0,
+          "text": "瑰",
+          "probability": 0.9995
+        },
+        {
+          "time": 102.04,
+          "end": 102.34,
+          "text": "有",
+          "probability": 0.5346
+        },
+        {
+          "time": 102.4,
+          "end": 102.7,
+          "text": "此",
+          "probability": 0.1947
+        },
+        {
+          "time": 103.88,
+          "end": 104.18,
+          "text": "感",
+          "probability": 0.9932
+        },
+        {
+          "time": 104.22,
+          "end": 104.52,
+          "text": "着",
+          "probability": 0.9972
+        },
+        {
+          "time": 104.7,
+          "end": 105.0,
+          "text": "身",
+          "probability": 0.9992
+        },
+        {
+          "time": 105.56,
+          "end": 105.94,
+          "text": "似",
+          "probability": 0.9656
+        },
+        {
+          "time": 105.96,
+          "end": 106.26,
+          "text": "家",
+          "probability": 0.7403
+        },
+        {
+          "time": 106.26,
+          "end": 106.68,
+          "text": "庭",
+          "probability": 0.8266
+        },
+        {
+          "time": 106.74,
+          "end": 107.34,
+          "text": "幻",
+          "probability": 0.6366
+        }
+      ]
+    },
+    {
+      "time": 107.46,
+      "end": 113.06,
+      "text": "月感谢神有福般无感谢",
+      "words": [
+        {
+          "time": 107.46,
+          "end": 107.76,
+          "text": "月",
+          "probability": 0.202
+        },
+        {
+          "time": 108.26,
+          "end": 108.56,
+          "text": "感",
+          "probability": 0.5186
+        },
+        {
+          "time": 108.56,
+          "end": 108.86,
+          "text": "谢",
+          "probability": 0.3118
+        },
+        {
+          "time": 109.02,
+          "end": 109.32,
+          "text": "神",
+          "probability": 0.6714
+        },
+        {
+          "time": 109.88,
+          "end": 110.18,
+          "text": "有",
+          "probability": 0.4139
+        },
+        {
+          "time": 110.24,
+          "end": 110.54,
+          "text": "福",
+          "probability": 0.9964
+        },
+        {
+          "time": 110.62,
+          "end": 110.92,
+          "text": "般",
+          "probability": 0.3421
+        },
+        {
+          "time": 111.06,
+          "end": 111.36,
+          "text": "无",
+          "probability": 0.1466
+        },
+        {
+          "time": 112.42,
+          "end": 112.72,
+          "text": "感",
+          "probability": 0.9951
+        },
+        {
+          "time": 112.76,
+          "end": 113.06,
+          "text": "谢",
+          "probability": 0.9991
+        }
+      ]
+    },
+    {
+      "time": 113.52,
+      "end": 119.36,
+      "text": "神似喜乐有收感谢神众天悲",
+      "words": [
+        {
+          "time": 113.52,
+          "end": 113.82,
+          "text": "神",
+          "probability": 0.987
+        },
+        {
+          "time": 114.02,
+          "end": 114.4,
+          "text": "似",
+          "probability": 0.2389
+        },
+        {
+          "time": 114.46,
+          "end": 114.76,
+          "text": "喜",
+          "probability": 0.4606
+        },
+        {
+          "time": 114.76,
+          "end": 115.06,
+          "text": "乐",
+          "probability": 0.2189
+        },
+        {
+          "time": 115.38,
+          "end": 115.68,
+          "text": "有",
+          "probability": 0.215
+        },
+        {
+          "time": 115.88,
+          "end": 116.18,
+          "text": "收",
+          "probability": 0.0954
+        },
+        {
+          "time": 116.62,
+          "end": 116.92,
+          "text": "感",
+          "probability": 0.9988
+        },
+        {
+          "time": 116.98,
+          "end": 117.28,
+          "text": "谢",
+          "probability": 0.9992
+        },
+        {
+          "time": 117.68,
+          "end": 117.98,
+          "text": "神",
+          "probability": 0.9952
+        },
+        {
+          "time": 118.22,
+          "end": 118.66,
+          "text": "众",
+          "probability": 0.5318
+        },
+        {
+          "time": 118.7,
+          "end": 119.0,
+          "text": "天",
+          "probability": 0.3816
+        },
+        {
+          "time": 118.98,
+          "end": 119.36,
+          "text": "悲",
+          "probability": 0.5038
+        }
+      ]
+    },
+    {
+      "time": 119.42,
+      "end": 125.5,
+      "text": "哀感谢神似明天盼望要",
+      "words": [
+        {
+          "time": 119.42,
+          "end": 120.46,
+          "text": "哀",
+          "probability": 0.1685
+        },
+        {
+          "time": 120.84,
+          "end": 121.14,
+          "text": "感",
+          "probability": 0.9977
+        },
+        {
+          "time": 121.22,
+          "end": 121.52,
+          "text": "谢",
+          "probability": 0.9992
+        },
+        {
+          "time": 121.88,
+          "end": 122.18,
+          "text": "神",
+          "probability": 0.9994
+        },
+        {
+          "time": 122.5,
+          "end": 122.88,
+          "text": "似",
+          "probability": 0.9192
+        },
+        {
+          "time": 122.92,
+          "end": 123.22,
+          "text": "明",
+          "probability": 0.5419
+        },
+        {
+          "time": 123.28,
+          "end": 123.58,
+          "text": "天",
+          "probability": 0.9917
+        },
+        {
+          "time": 123.68,
+          "end": 124.3,
+          "text": "盼",
+          "probability": 0.5242
+        },
+        {
+          "time": 124.5,
+          "end": 124.8,
+          "text": "望",
+          "probability": 0.5756
+        },
+        {
+          "time": 125.3,
+          "end": 125.6,
+          "text": "要",
+          "probability": 0.3569
+        }
+      ]
+    },
+    {
+      "time": 125.5,
+      "end": 128.66,
+      "text": "感谢之道永远",
+      "words": [
+        {
+          "time": 125.5,
+          "end": 125.8,
+          "text": "感",
+          "probability": 0.8851
+        },
+        {
+          "time": 126.3,
+          "end": 126.6,
+          "text": "谢",
+          "probability": 0.9672
+        },
+        {
+          "time": 126.8,
+          "end": 127.1,
+          "text": "之",
+          "probability": 0.1257
+        },
+        {
+          "time": 127.24,
+          "end": 127.54,
+          "text": "道",
+          "probability": 0.3691
+        },
+        {
+          "time": 127.62,
+          "end": 127.92,
+          "text": "永",
+          "probability": 0.9508
+        },
+        {
+          "time": 127.98,
+          "end": 128.66,
+          "text": "远",
+          "probability": 0.8887
+        }
+      ]
+    },
+    {
+      "time": 148.1,
+      "end": 148.4,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "优",
+          "probability": 0.4664
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "优",
+          "probability": 0.9954
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "独",
+          "probability": 0.9907
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "播",
+          "probability": 0.9893
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "剧",
+          "probability": 0.9888
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "场",
+          "probability": 0.9897
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "——",
+          "probability": 0.9949
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "Yo",
+          "probability": 0.9908
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "Yo",
+          "probability": 0.9941
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": " Television",
+          "probability": 0.9756
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": " Series",
+          "probability": 0.9903
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": " Exc",
+          "probability": 0.9931
+        },
+        {
+          "time": 148.1,
+          "end": 148.4,
+          "text": "lusive",
+          "probability": 0.9925
+        }
+      ]
+    }
+  ]
+}

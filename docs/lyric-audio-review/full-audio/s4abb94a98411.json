@@ -1,0 +1,3381 @@
+{
+  "id": "s4abb94a98411",
+  "file": "193-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "5541e141124fe817108f36b00f4e401edf2906d91acd40dc2274ed23075d9e1b",
+  "fullDuration": 297.864,
+  "lines": [
+    {
+      "time": 22.22,
+      "end": 28.18,
+      "text": "主事爱主事爱主事爱主爱永远不更改主",
+      "words": [
+        {
+          "time": 22.22,
+          "end": 22.52,
+          "text": "主",
+          "probability": 0.494
+        },
+        {
+          "time": 22.6,
+          "end": 22.9,
+          "text": "事",
+          "probability": 0.335
+        },
+        {
+          "time": 23.04,
+          "end": 23.34,
+          "text": "爱",
+          "probability": 0.4779
+        },
+        {
+          "time": 23.68,
+          "end": 23.98,
+          "text": "主",
+          "probability": 0.9511
+        },
+        {
+          "time": 24.08,
+          "end": 24.38,
+          "text": "事",
+          "probability": 0.9887
+        },
+        {
+          "time": 24.48,
+          "end": 24.78,
+          "text": "爱",
+          "probability": 0.9962
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "主",
+          "probability": 0.9915
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "事",
+          "probability": 0.9917
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "主",
+          "probability": 0.8423
+        },
+        {
+          "time": 25.34,
+          "end": 25.64,
+          "text": "爱",
+          "probability": 0.987
+        },
+        {
+          "time": 25.7,
+          "end": 26.0,
+          "text": "永",
+          "probability": 0.8527
+        },
+        {
+          "time": 26.1,
+          "end": 26.4,
+          "text": "远",
+          "probability": 0.997
+        },
+        {
+          "time": 26.5,
+          "end": 26.8,
+          "text": "不",
+          "probability": 0.9904
+        },
+        {
+          "time": 26.78,
+          "end": 27.08,
+          "text": "更",
+          "probability": 0.8329
+        },
+        {
+          "time": 27.22,
+          "end": 27.52,
+          "text": "改",
+          "probability": 0.9808
+        },
+        {
+          "time": 27.88,
+          "end": 28.18,
+          "text": "主",
+          "probability": 0.6804
+        }
+      ]
+    },
+    {
+      "time": 28.24,
+      "end": 34.06,
+      "text": "是爱主是爱主爱永远不离开主是",
+      "words": [
+        {
+          "time": 28.24,
+          "end": 28.54,
+          "text": "是",
+          "probability": 0.8468
+        },
+        {
+          "time": 28.66,
+          "end": 28.96,
+          "text": "爱",
+          "probability": 0.7352
+        },
+        {
+          "time": 29.3,
+          "end": 29.6,
+          "text": "主",
+          "probability": 0.996
+        },
+        {
+          "time": 29.66,
+          "end": 29.96,
+          "text": "是",
+          "probability": 0.9968
+        },
+        {
+          "time": 30.02,
+          "end": 30.32,
+          "text": "爱",
+          "probability": 0.997
+        },
+        {
+          "time": 30.58,
+          "end": 30.88,
+          "text": "主",
+          "probability": 0.9877
+        },
+        {
+          "time": 30.94,
+          "end": 31.24,
+          "text": "爱",
+          "probability": 0.9272
+        },
+        {
+          "time": 31.3,
+          "end": 31.6,
+          "text": "永",
+          "probability": 0.9868
+        },
+        {
+          "time": 31.58,
+          "end": 32.0,
+          "text": "远",
+          "probability": 0.9988
+        },
+        {
+          "time": 32.12,
+          "end": 32.42,
+          "text": "不",
+          "probability": 0.9973
+        },
+        {
+          "time": 32.3,
+          "end": 32.76,
+          "text": "离",
+          "probability": 0.9979
+        },
+        {
+          "time": 32.88,
+          "end": 33.18,
+          "text": "开",
+          "probability": 0.9998
+        },
+        {
+          "time": 33.38,
+          "end": 33.68,
+          "text": "主",
+          "probability": 0.9812
+        },
+        {
+          "time": 33.76,
+          "end": 34.06,
+          "text": "是",
+          "probability": 0.9956
+        }
+      ]
+    },
+    {
+      "time": 34.26,
+      "end": 40.16,
+      "text": "爱主是爱主爱永远不更改主是爱",
+      "words": [
+        {
+          "time": 34.26,
+          "end": 34.56,
+          "text": "爱",
+          "probability": 0.9995
+        },
+        {
+          "time": 34.84,
+          "end": 35.14,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 35.26,
+          "end": 35.56,
+          "text": "是",
+          "probability": 0.9984
+        },
+        {
+          "time": 35.6,
+          "end": 35.9,
+          "text": "爱",
+          "probability": 0.9997
+        },
+        {
+          "time": 36.2,
+          "end": 36.5,
+          "text": "主",
+          "probability": 0.9996
+        },
+        {
+          "time": 36.58,
+          "end": 36.88,
+          "text": "爱",
+          "probability": 0.9983
+        },
+        {
+          "time": 36.88,
+          "end": 37.18,
+          "text": "永",
+          "probability": 0.9988
+        },
+        {
+          "time": 37.2,
+          "end": 37.6,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 37.62,
+          "end": 37.92,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.88,
+          "end": 38.18,
+          "text": "更",
+          "probability": 0.9674
+        },
+        {
+          "time": 38.4,
+          "end": 38.7,
+          "text": "改",
+          "probability": 0.9904
+        },
+        {
+          "time": 38.98,
+          "end": 39.28,
+          "text": "主",
+          "probability": 0.9995
+        },
+        {
+          "time": 39.34,
+          "end": 39.64,
+          "text": "是",
+          "probability": 0.9963
+        },
+        {
+          "time": 39.86,
+          "end": 40.16,
+          "text": "爱",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 40.44,
+      "end": 45.02,
+      "text": "主是爱主爱永远不离开",
+      "words": [
+        {
+          "time": 40.44,
+          "end": 40.74,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 40.8,
+          "end": 41.1,
+          "text": "是",
+          "probability": 0.9985
+        },
+        {
+          "time": 41.22,
+          "end": 41.52,
+          "text": "爱",
+          "probability": 0.9999
+        },
+        {
+          "time": 41.78,
+          "end": 42.08,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 42.14,
+          "end": 42.44,
+          "text": "爱",
+          "probability": 0.9992
+        },
+        {
+          "time": 42.48,
+          "end": 42.78,
+          "text": "永",
+          "probability": 0.9996
+        },
+        {
+          "time": 42.76,
+          "end": 43.16,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 43.24,
+          "end": 43.54,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 43.48,
+          "end": 43.9,
+          "text": "离",
+          "probability": 0.9998
+        },
+        {
+          "time": 44.72,
+          "end": 45.02,
+          "text": "开",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 47.0,
+      "end": 52.56,
+      "text": "清醒的人可看见心灵诚实的回忆摆",
+      "words": [
+        {
+          "time": 47.0,
+          "end": 47.3,
+          "text": "清",
+          "probability": 0.4909
+        },
+        {
+          "time": 47.4,
+          "end": 47.7,
+          "text": "醒",
+          "probability": 0.9693
+        },
+        {
+          "time": 47.92,
+          "end": 48.22,
+          "text": "的人",
+          "probability": 0.9954
+        },
+        {
+          "time": 48.76,
+          "end": 49.06,
+          "text": "可",
+          "probability": 0.7676
+        },
+        {
+          "time": 49.12,
+          "end": 49.42,
+          "text": "看",
+          "probability": 0.9842
+        },
+        {
+          "time": 49.56,
+          "end": 49.86,
+          "text": "见",
+          "probability": 0.9994
+        },
+        {
+          "time": 50.18,
+          "end": 50.48,
+          "text": "心",
+          "probability": 0.9732
+        },
+        {
+          "time": 50.44,
+          "end": 50.84,
+          "text": "灵",
+          "probability": 0.9934
+        },
+        {
+          "time": 50.78,
+          "end": 51.18,
+          "text": "诚",
+          "probability": 0.8865
+        },
+        {
+          "time": 51.12,
+          "end": 51.42,
+          "text": "实",
+          "probability": 0.9961
+        },
+        {
+          "time": 51.28,
+          "end": 51.58,
+          "text": "的",
+          "probability": 0.9939
+        },
+        {
+          "time": 51.5,
+          "end": 51.8,
+          "text": "回",
+          "probability": 0.8495
+        },
+        {
+          "time": 51.82,
+          "end": 52.16,
+          "text": "忆",
+          "probability": 0.9725
+        },
+        {
+          "time": 52.18,
+          "end": 52.56,
+          "text": "摆",
+          "probability": 0.4917
+        }
+      ]
+    },
+    {
+      "time": 52.58,
+      "end": 58.46,
+      "text": "在他点中全心来敬拜顺",
+      "words": [
+        {
+          "time": 52.58,
+          "end": 52.88,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 52.92,
+          "end": 53.22,
+          "text": "他",
+          "probability": 0.4823
+        },
+        {
+          "time": 53.28,
+          "end": 53.58,
+          "text": "点",
+          "probability": 0.4378
+        },
+        {
+          "time": 53.96,
+          "end": 54.26,
+          "text": "中",
+          "probability": 0.7991
+        },
+        {
+          "time": 54.66,
+          "end": 54.96,
+          "text": "全",
+          "probability": 0.8219
+        },
+        {
+          "time": 55.08,
+          "end": 55.38,
+          "text": "心",
+          "probability": 0.839
+        },
+        {
+          "time": 55.76,
+          "end": 56.06,
+          "text": "来",
+          "probability": 0.858
+        },
+        {
+          "time": 56.02,
+          "end": 56.44,
+          "text": "敬",
+          "probability": 0.9465
+        },
+        {
+          "time": 56.6,
+          "end": 56.9,
+          "text": "拜",
+          "probability": 0.98
+        },
+        {
+          "time": 58.06,
+          "end": 58.46,
+          "text": "顺",
+          "probability": 0.8689
+        }
+      ]
+    },
+    {
+      "time": 58.5,
+      "end": 64.04,
+      "text": "服的人可听见千费的子民神喜悦在",
+      "words": [
+        {
+          "time": 58.5,
+          "end": 58.8,
+          "text": "服",
+          "probability": 0.879
+        },
+        {
+          "time": 59.12,
+          "end": 59.42,
+          "text": "的人",
+          "probability": 0.9935
+        },
+        {
+          "time": 59.94,
+          "end": 60.24,
+          "text": "可",
+          "probability": 0.6391
+        },
+        {
+          "time": 60.28,
+          "end": 60.58,
+          "text": "听",
+          "probability": 0.992
+        },
+        {
+          "time": 60.76,
+          "end": 61.06,
+          "text": "见",
+          "probability": 0.9994
+        },
+        {
+          "time": 61.24,
+          "end": 61.54,
+          "text": "千",
+          "probability": 0.2907
+        },
+        {
+          "time": 61.56,
+          "end": 61.9,
+          "text": "费",
+          "probability": 0.3518
+        },
+        {
+          "time": 61.78,
+          "end": 62.08,
+          "text": "的",
+          "probability": 0.9975
+        },
+        {
+          "time": 62.02,
+          "end": 62.32,
+          "text": "子",
+          "probability": 0.8072
+        },
+        {
+          "time": 62.34,
+          "end": 62.64,
+          "text": "民",
+          "probability": 0.6081
+        },
+        {
+          "time": 62.68,
+          "end": 62.98,
+          "text": "神",
+          "probability": 0.4628
+        },
+        {
+          "time": 63.0,
+          "end": 63.3,
+          "text": "喜",
+          "probability": 0.9418
+        },
+        {
+          "time": 63.34,
+          "end": 63.64,
+          "text": "悦",
+          "probability": 0.9638
+        },
+        {
+          "time": 63.74,
+          "end": 64.04,
+          "text": "在",
+          "probability": 0.772
+        }
+      ]
+    },
+    {
+      "time": 64.14,
+      "end": 69.92,
+      "text": "他爱中复复来敬拜主",
+      "words": [
+        {
+          "time": 64.14,
+          "end": 64.44,
+          "text": "他",
+          "probability": 0.8736
+        },
+        {
+          "time": 64.48,
+          "end": 64.78,
+          "text": "爱",
+          "probability": 0.9935
+        },
+        {
+          "time": 64.98,
+          "end": 65.28,
+          "text": "中",
+          "probability": 0.9994
+        },
+        {
+          "time": 65.78,
+          "end": 66.18,
+          "text": "复",
+          "probability": 0.1472
+        },
+        {
+          "time": 66.14,
+          "end": 66.64,
+          "text": "复",
+          "probability": 0.9372
+        },
+        {
+          "time": 66.9,
+          "end": 67.2,
+          "text": "来",
+          "probability": 0.999
+        },
+        {
+          "time": 67.16,
+          "end": 67.58,
+          "text": "敬",
+          "probability": 0.9688
+        },
+        {
+          "time": 68.42,
+          "end": 68.72,
+          "text": "拜",
+          "probability": 0.9861
+        },
+        {
+          "time": 69.62,
+          "end": 69.92,
+          "text": "主",
+          "probability": 0.7967
+        }
+      ]
+    },
+    {
+      "time": 70.06,
+      "end": 75.92,
+      "text": "是爱主是爱主爱永远不更改主是",
+      "words": [
+        {
+          "time": 70.06,
+          "end": 70.36,
+          "text": "是",
+          "probability": 0.7117
+        },
+        {
+          "time": 70.46,
+          "end": 70.76,
+          "text": "爱",
+          "probability": 0.9982
+        },
+        {
+          "time": 71.12,
+          "end": 71.42,
+          "text": "主",
+          "probability": 0.9992
+        },
+        {
+          "time": 71.52,
+          "end": 71.82,
+          "text": "是",
+          "probability": 0.9986
+        },
+        {
+          "time": 71.86,
+          "end": 72.16,
+          "text": "爱",
+          "probability": 0.9997
+        },
+        {
+          "time": 72.42,
+          "end": 72.72,
+          "text": "主",
+          "probability": 0.9977
+        },
+        {
+          "time": 72.78,
+          "end": 73.08,
+          "text": "爱",
+          "probability": 0.9865
+        },
+        {
+          "time": 73.12,
+          "end": 73.42,
+          "text": "永",
+          "probability": 0.9912
+        },
+        {
+          "time": 73.44,
+          "end": 73.84,
+          "text": "远",
+          "probability": 0.9996
+        },
+        {
+          "time": 73.94,
+          "end": 74.24,
+          "text": "不",
+          "probability": 0.9997
+        },
+        {
+          "time": 74.18,
+          "end": 74.48,
+          "text": "更",
+          "probability": 0.9261
+        },
+        {
+          "time": 74.64,
+          "end": 74.94,
+          "text": "改",
+          "probability": 0.9768
+        },
+        {
+          "time": 75.24,
+          "end": 75.54,
+          "text": "主",
+          "probability": 0.9997
+        },
+        {
+          "time": 75.62,
+          "end": 75.92,
+          "text": "是",
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "time": 76.1,
+      "end": 82.0,
+      "text": "爱主是爱主爱永远不离开主是爱",
+      "words": [
+        {
+          "time": 76.1,
+          "end": 76.4,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 76.72,
+          "end": 77.02,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 77.08,
+          "end": 77.38,
+          "text": "是",
+          "probability": 0.9987
+        },
+        {
+          "time": 77.44,
+          "end": 77.74,
+          "text": "爱",
+          "probability": 0.9999
+        },
+        {
+          "time": 77.98,
+          "end": 78.28,
+          "text": "主",
+          "probability": 0.999
+        },
+        {
+          "time": 78.4,
+          "end": 78.7,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 78.7,
+          "end": 79.0,
+          "text": "永",
+          "probability": 0.9989
+        },
+        {
+          "time": 79.0,
+          "end": 79.4,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 79.46,
+          "end": 79.76,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 79.72,
+          "end": 80.16,
+          "text": "离",
+          "probability": 0.9989
+        },
+        {
+          "time": 80.28,
+          "end": 80.58,
+          "text": "开",
+          "probability": 0.9999
+        },
+        {
+          "time": 80.94,
+          "end": 81.24,
+          "text": "主",
+          "probability": 0.9993
+        },
+        {
+          "time": 81.22,
+          "end": 81.52,
+          "text": "是",
+          "probability": 0.9948
+        },
+        {
+          "time": 81.7,
+          "end": 82.0,
+          "text": "爱",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 82.32,
+      "end": 88.18,
+      "text": "主是爱主爱永远不更改主是爱主",
+      "words": [
+        {
+          "time": 82.32,
+          "end": 82.62,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 82.66,
+          "end": 82.96,
+          "text": "是",
+          "probability": 0.9984
+        },
+        {
+          "time": 83.06,
+          "end": 83.36,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 83.56,
+          "end": 83.86,
+          "text": "主",
+          "probability": 0.9869
+        },
+        {
+          "time": 83.96,
+          "end": 84.26,
+          "text": "爱",
+          "probability": 0.9983
+        },
+        {
+          "time": 84.3,
+          "end": 84.6,
+          "text": "永",
+          "probability": 0.9994
+        },
+        {
+          "time": 84.6,
+          "end": 85.0,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 85.04,
+          "end": 85.34,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 85.34,
+          "end": 85.64,
+          "text": "更",
+          "probability": 0.9994
+        },
+        {
+          "time": 85.82,
+          "end": 86.12,
+          "text": "改",
+          "probability": 0.9996
+        },
+        {
+          "time": 86.4,
+          "end": 86.7,
+          "text": "主",
+          "probability": 0.7602
+        },
+        {
+          "time": 86.8,
+          "end": 87.1,
+          "text": "是",
+          "probability": 0.7763
+        },
+        {
+          "time": 87.26,
+          "end": 87.56,
+          "text": "爱",
+          "probability": 0.9949
+        },
+        {
+          "time": 87.88,
+          "end": 88.18,
+          "text": "主",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 88.26,
+      "end": 92.14,
+      "text": "是爱主爱永远不离开",
+      "words": [
+        {
+          "time": 88.26,
+          "end": 88.56,
+          "text": "是",
+          "probability": 0.998
+        },
+        {
+          "time": 88.64,
+          "end": 88.94,
+          "text": "爱",
+          "probability": 0.9995
+        },
+        {
+          "time": 89.18,
+          "end": 89.48,
+          "text": "主",
+          "probability": 0.9954
+        },
+        {
+          "time": 89.52,
+          "end": 89.82,
+          "text": "爱",
+          "probability": 0.9355
+        },
+        {
+          "time": 89.86,
+          "end": 90.16,
+          "text": "永",
+          "probability": 0.9961
+        },
+        {
+          "time": 90.16,
+          "end": 90.56,
+          "text": "远",
+          "probability": 0.9997
+        },
+        {
+          "time": 90.7,
+          "end": 91.0,
+          "text": "不",
+          "probability": 0.9995
+        },
+        {
+          "time": 90.9,
+          "end": 91.3,
+          "text": "离",
+          "probability": 0.9958
+        },
+        {
+          "time": 91.84,
+          "end": 92.14,
+          "text": "开",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 103.12,
+      "end": 109.02,
+      "text": "主是爱主是爱主爱永远不更改主",
+      "words": [
+        {
+          "time": 103.12,
+          "end": 103.42,
+          "text": "主",
+          "probability": 0.9967
+        },
+        {
+          "time": 103.54,
+          "end": 103.84,
+          "text": "是",
+          "probability": 0.9975
+        },
+        {
+          "time": 104.02,
+          "end": 104.32,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 104.62,
+          "end": 104.92,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 105.02,
+          "end": 105.32,
+          "text": "是",
+          "probability": 0.998
+        },
+        {
+          "time": 105.38,
+          "end": 105.68,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 105.96,
+          "end": 106.26,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 106.3,
+          "end": 106.6,
+          "text": "爱",
+          "probability": 0.9978
+        },
+        {
+          "time": 106.62,
+          "end": 106.92,
+          "text": "永",
+          "probability": 0.9994
+        },
+        {
+          "time": 106.92,
+          "end": 107.3,
+          "text": "远",
+          "probability": 0.9999
+        },
+        {
+          "time": 107.4,
+          "end": 107.7,
+          "text": "不",
+          "probability": 0.9998
+        },
+        {
+          "time": 107.66,
+          "end": 107.96,
+          "text": "更",
+          "probability": 0.5825
+        },
+        {
+          "time": 108.12,
+          "end": 108.42,
+          "text": "改",
+          "probability": 0.9516
+        },
+        {
+          "time": 108.72,
+          "end": 109.02,
+          "text": "主",
+          "probability": 0.9532
+        }
+      ]
+    },
+    {
+      "time": 109.1,
+      "end": 114.62,
+      "text": "是爱主是爱主爱永远不离开主",
+      "words": [
+        {
+          "time": 109.1,
+          "end": 109.4,
+          "text": "是",
+          "probability": 0.997
+        },
+        {
+          "time": 109.58,
+          "end": 109.88,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 110.2,
+          "end": 110.5,
+          "text": "主",
+          "probability": 1.0
+        },
+        {
+          "time": 110.58,
+          "end": 110.88,
+          "text": "是",
+          "probability": 0.9971
+        },
+        {
+          "time": 110.92,
+          "end": 111.22,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 111.5,
+          "end": 111.8,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 111.88,
+          "end": 112.18,
+          "text": "爱",
+          "probability": 0.9981
+        },
+        {
+          "time": 112.2,
+          "end": 112.5,
+          "text": "永",
+          "probability": 0.9991
+        },
+        {
+          "time": 112.5,
+          "end": 112.88,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 112.96,
+          "end": 113.26,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 113.26,
+          "end": 113.66,
+          "text": "离",
+          "probability": 0.9997
+        },
+        {
+          "time": 113.68,
+          "end": 113.98,
+          "text": "开",
+          "probability": 1.0
+        },
+        {
+          "time": 114.32,
+          "end": 114.62,
+          "text": "主",
+          "probability": 0.8025
+        }
+      ]
+    },
+    {
+      "time": 114.7,
+      "end": 120.58,
+      "text": "是爱主是爱主爱永远不更改主是",
+      "words": [
+        {
+          "time": 114.7,
+          "end": 115.0,
+          "text": "是",
+          "probability": 0.8448
+        },
+        {
+          "time": 115.18,
+          "end": 115.48,
+          "text": "爱",
+          "probability": 0.9879
+        },
+        {
+          "time": 115.74,
+          "end": 116.04,
+          "text": "主",
+          "probability": 0.9984
+        },
+        {
+          "time": 116.14,
+          "end": 116.44,
+          "text": "是",
+          "probability": 0.9988
+        },
+        {
+          "time": 116.56,
+          "end": 116.86,
+          "text": "爱",
+          "probability": 0.9997
+        },
+        {
+          "time": 117.1,
+          "end": 117.4,
+          "text": "主",
+          "probability": 0.9977
+        },
+        {
+          "time": 117.44,
+          "end": 117.74,
+          "text": "爱",
+          "probability": 0.9633
+        },
+        {
+          "time": 117.78,
+          "end": 118.08,
+          "text": "永",
+          "probability": 0.9981
+        },
+        {
+          "time": 118.08,
+          "end": 118.48,
+          "text": "远",
+          "probability": 0.9995
+        },
+        {
+          "time": 118.58,
+          "end": 118.88,
+          "text": "不",
+          "probability": 0.9508
+        },
+        {
+          "time": 118.84,
+          "end": 119.14,
+          "text": "更",
+          "probability": 0.6057
+        },
+        {
+          "time": 119.32,
+          "end": 119.62,
+          "text": "改",
+          "probability": 0.994
+        },
+        {
+          "time": 119.9,
+          "end": 120.2,
+          "text": "主",
+          "probability": 0.9968
+        },
+        {
+          "time": 120.28,
+          "end": 120.58,
+          "text": "是",
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "time": 120.76,
+      "end": 125.5,
+      "text": "爱主是爱主爱永远不离开",
+      "words": [
+        {
+          "time": 120.76,
+          "end": 121.06,
+          "text": "爱",
+          "probability": 0.9999
+        },
+        {
+          "time": 121.34,
+          "end": 121.64,
+          "text": "主",
+          "probability": 1.0
+        },
+        {
+          "time": 121.72,
+          "end": 122.02,
+          "text": "是",
+          "probability": 0.9982
+        },
+        {
+          "time": 122.06,
+          "end": 122.36,
+          "text": "爱",
+          "probability": 0.9999
+        },
+        {
+          "time": 122.68,
+          "end": 122.98,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 123.0,
+          "end": 123.3,
+          "text": "爱",
+          "probability": 0.999
+        },
+        {
+          "time": 123.36,
+          "end": 123.66,
+          "text": "永",
+          "probability": 0.9998
+        },
+        {
+          "time": 123.66,
+          "end": 124.06,
+          "text": "远",
+          "probability": 0.9999
+        },
+        {
+          "time": 124.12,
+          "end": 124.42,
+          "text": "不",
+          "probability": 0.9998
+        },
+        {
+          "time": 124.4,
+          "end": 124.8,
+          "text": "离",
+          "probability": 0.9996
+        },
+        {
+          "time": 125.2,
+          "end": 125.5,
+          "text": "开",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 142.2,
+      "end": 148.06,
+      "text": "主是爱主是爱主爱永远不更改主",
+      "words": [
+        {
+          "time": 142.2,
+          "end": 142.5,
+          "text": "主",
+          "probability": 0.928
+        },
+        {
+          "time": 142.62,
+          "end": 142.92,
+          "text": "是",
+          "probability": 0.8241
+        },
+        {
+          "time": 143.08,
+          "end": 143.38,
+          "text": "爱",
+          "probability": 0.9248
+        },
+        {
+          "time": 143.66,
+          "end": 143.96,
+          "text": "主",
+          "probability": 0.9962
+        },
+        {
+          "time": 144.08,
+          "end": 144.38,
+          "text": "是",
+          "probability": 0.9971
+        },
+        {
+          "time": 144.42,
+          "end": 144.72,
+          "text": "爱",
+          "probability": 0.9995
+        },
+        {
+          "time": 145.0,
+          "end": 145.3,
+          "text": "主",
+          "probability": 0.9974
+        },
+        {
+          "time": 145.36,
+          "end": 145.66,
+          "text": "爱",
+          "probability": 0.9752
+        },
+        {
+          "time": 145.68,
+          "end": 145.98,
+          "text": "永",
+          "probability": 0.9975
+        },
+        {
+          "time": 145.98,
+          "end": 146.38,
+          "text": "远",
+          "probability": 0.9986
+        },
+        {
+          "time": 146.5,
+          "end": 146.8,
+          "text": "不",
+          "probability": 0.982
+        },
+        {
+          "time": 146.72,
+          "end": 147.02,
+          "text": "更",
+          "probability": 0.9881
+        },
+        {
+          "time": 147.18,
+          "end": 147.48,
+          "text": "改",
+          "probability": 0.9889
+        },
+        {
+          "time": 147.76,
+          "end": 148.06,
+          "text": "主",
+          "probability": 0.9878
+        }
+      ]
+    },
+    {
+      "time": 148.14,
+      "end": 153.66,
+      "text": "是爱主是爱主爱永远不离开主",
+      "words": [
+        {
+          "time": 148.14,
+          "end": 148.44,
+          "text": "是",
+          "probability": 0.9979
+        },
+        {
+          "time": 148.62,
+          "end": 148.92,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 149.22,
+          "end": 149.52,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 149.64,
+          "end": 149.94,
+          "text": "是",
+          "probability": 0.9981
+        },
+        {
+          "time": 149.98,
+          "end": 150.28,
+          "text": "爱",
+          "probability": 0.9999
+        },
+        {
+          "time": 150.56,
+          "end": 150.86,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 150.92,
+          "end": 151.22,
+          "text": "爱",
+          "probability": 0.9954
+        },
+        {
+          "time": 151.24,
+          "end": 151.54,
+          "text": "永",
+          "probability": 0.9992
+        },
+        {
+          "time": 151.54,
+          "end": 151.96,
+          "text": "远",
+          "probability": 0.9999
+        },
+        {
+          "time": 152.02,
+          "end": 152.32,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 152.3,
+          "end": 152.74,
+          "text": "离",
+          "probability": 0.9896
+        },
+        {
+          "time": 152.86,
+          "end": 153.16,
+          "text": "开",
+          "probability": 0.9999
+        },
+        {
+          "time": 153.36,
+          "end": 153.66,
+          "text": "主",
+          "probability": 0.9718
+        }
+      ]
+    },
+    {
+      "time": 153.76,
+      "end": 159.62,
+      "text": "是爱主是爱主爱永远不更改主是",
+      "words": [
+        {
+          "time": 153.76,
+          "end": 154.06,
+          "text": "是",
+          "probability": 0.996
+        },
+        {
+          "time": 154.24,
+          "end": 154.54,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 154.82,
+          "end": 155.12,
+          "text": "主",
+          "probability": 0.9998
+        },
+        {
+          "time": 155.26,
+          "end": 155.56,
+          "text": "是",
+          "probability": 0.9979
+        },
+        {
+          "time": 155.6,
+          "end": 155.9,
+          "text": "爱",
+          "probability": 0.9999
+        },
+        {
+          "time": 156.2,
+          "end": 156.5,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "爱",
+          "probability": 0.9955
+        },
+        {
+          "time": 156.84,
+          "end": 157.14,
+          "text": "永",
+          "probability": 0.9993
+        },
+        {
+          "time": 157.14,
+          "end": 157.56,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 157.58,
+          "end": 157.88,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 157.9,
+          "end": 158.2,
+          "text": "更",
+          "probability": 0.9996
+        },
+        {
+          "time": 158.36,
+          "end": 158.66,
+          "text": "改",
+          "probability": 0.9998
+        },
+        {
+          "time": 158.94,
+          "end": 159.24,
+          "text": "主",
+          "probability": 0.9989
+        },
+        {
+          "time": 159.32,
+          "end": 159.62,
+          "text": "是",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 159.82,
+      "end": 164.74,
+      "text": "爱主是爱主爱永远不离开",
+      "words": [
+        {
+          "time": 159.82,
+          "end": 160.12,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 160.4,
+          "end": 160.7,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 160.82,
+          "end": 161.12,
+          "text": "是",
+          "probability": 0.9971
+        },
+        {
+          "time": 161.16,
+          "end": 161.46,
+          "text": "爱",
+          "probability": 0.9998
+        },
+        {
+          "time": 161.74,
+          "end": 162.04,
+          "text": "主",
+          "probability": 0.9999
+        },
+        {
+          "time": 162.12,
+          "end": 162.42,
+          "text": "爱",
+          "probability": 0.9966
+        },
+        {
+          "time": 162.44,
+          "end": 162.74,
+          "text": "永",
+          "probability": 0.9977
+        },
+        {
+          "time": 162.74,
+          "end": 163.12,
+          "text": "远",
+          "probability": 1.0
+        },
+        {
+          "time": 163.2,
+          "end": 163.5,
+          "text": "不",
+          "probability": 0.9999
+        },
+        {
+          "time": 163.5,
+          "end": 163.9,
+          "text": "离",
+          "probability": 0.9995
+        },
+        {
+          "time": 164.44,
+          "end": 164.74,
+          "text": "开",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 166.96,
+      "end": 172.9,
+      "text": "清醒的人可看见心灵诚实会明白在",
+      "words": [
+        {
+          "time": 166.96,
+          "end": 167.26,
+          "text": "清",
+          "probability": 0.462
+        },
+        {
+          "time": 167.38,
+          "end": 167.68,
+          "text": "醒",
+          "probability": 0.8625
+        },
+        {
+          "time": 167.94,
+          "end": 168.24,
+          "text": "的人",
+          "probability": 0.9915
+        },
+        {
+          "time": 168.74,
+          "end": 169.04,
+          "text": "可",
+          "probability": 0.6722
+        },
+        {
+          "time": 169.12,
+          "end": 169.42,
+          "text": "看",
+          "probability": 0.9961
+        },
+        {
+          "time": 169.54,
+          "end": 169.84,
+          "text": "见",
+          "probability": 0.9958
+        },
+        {
+          "time": 170.16,
+          "end": 170.46,
+          "text": "心",
+          "probability": 0.9207
+        },
+        {
+          "time": 170.44,
+          "end": 170.8,
+          "text": "灵",
+          "probability": 0.8399
+        },
+        {
+          "time": 170.76,
+          "end": 171.14,
+          "text": "诚",
+          "probability": 0.7053
+        },
+        {
+          "time": 171.12,
+          "end": 171.42,
+          "text": "实",
+          "probability": 0.9772
+        },
+        {
+          "time": 171.54,
+          "end": 171.84,
+          "text": "会",
+          "probability": 0.7371
+        },
+        {
+          "time": 172.12,
+          "end": 172.42,
+          "text": "明白",
+          "probability": 0.9967
+        },
+        {
+          "time": 172.6,
+          "end": 172.9,
+          "text": "在",
+          "probability": 0.5431
+        }
+      ]
+    },
+    {
+      "time": 172.92,
+      "end": 178.42,
+      "text": "他眼中全心来敬拜清",
+      "words": [
+        {
+          "time": 172.92,
+          "end": 173.22,
+          "text": "他",
+          "probability": 0.7632
+        },
+        {
+          "time": 173.26,
+          "end": 173.56,
+          "text": "眼",
+          "probability": 0.7728
+        },
+        {
+          "time": 173.82,
+          "end": 174.12,
+          "text": "中",
+          "probability": 0.9993
+        },
+        {
+          "time": 174.68,
+          "end": 174.98,
+          "text": "全",
+          "probability": 0.973
+        },
+        {
+          "time": 175.06,
+          "end": 175.36,
+          "text": "心",
+          "probability": 0.9521
+        },
+        {
+          "time": 175.76,
+          "end": 176.06,
+          "text": "来",
+          "probability": 0.9958
+        },
+        {
+          "time": 176.04,
+          "end": 176.44,
+          "text": "敬",
+          "probability": 0.9492
+        },
+        {
+          "time": 176.96,
+          "end": 177.26,
+          "text": "拜",
+          "probability": 0.9844
+        },
+        {
+          "time": 178.2,
+          "end": 178.5,
+          "text": "清",
+          "probability": 0.5321
+        }
+      ]
+    },
+    {
+      "time": 178.42,
+      "end": 184.06,
+      "text": "醒的人可听见千倍自明神喜悦在",
+      "words": [
+        {
+          "time": 178.42,
+          "end": 178.72,
+          "text": "醒",
+          "probability": 0.9833
+        },
+        {
+          "time": 179.0,
+          "end": 179.3,
+          "text": "的人",
+          "probability": 0.9977
+        },
+        {
+          "time": 179.92,
+          "end": 180.22,
+          "text": "可",
+          "probability": 0.999
+        },
+        {
+          "time": 180.26,
+          "end": 180.56,
+          "text": "听",
+          "probability": 0.9986
+        },
+        {
+          "time": 180.8,
+          "end": 181.1,
+          "text": "见",
+          "probability": 0.9999
+        },
+        {
+          "time": 181.26,
+          "end": 181.56,
+          "text": "千",
+          "probability": 0.4251
+        },
+        {
+          "time": 181.64,
+          "end": 181.94,
+          "text": "倍",
+          "probability": 0.231
+        },
+        {
+          "time": 182.02,
+          "end": 182.32,
+          "text": "自",
+          "probability": 0.5228
+        },
+        {
+          "time": 182.32,
+          "end": 182.62,
+          "text": "明",
+          "probability": 0.4992
+        },
+        {
+          "time": 182.66,
+          "end": 182.96,
+          "text": "神",
+          "probability": 0.1851
+        },
+        {
+          "time": 183.04,
+          "end": 183.34,
+          "text": "喜",
+          "probability": 0.9095
+        },
+        {
+          "time": 183.36,
+          "end": 183.66,
+          "text": "悦",
+          "probability": 0.3149
+        },
+        {
+          "time": 183.76,
+          "end": 184.06,
+          "text": "在",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 184.14,
+      "end": 187.6,
+      "text": "他爱中不顾来敬",
+      "words": [
+        {
+          "time": 184.14,
+          "end": 184.44,
+          "text": "他",
+          "probability": 0.9823
+        },
+        {
+          "time": 184.48,
+          "end": 184.78,
+          "text": "爱",
+          "probability": 0.9241
+        },
+        {
+          "time": 184.98,
+          "end": 185.28,
+          "text": "中",
+          "probability": 0.999
+        },
+        {
+          "time": 185.88,
+          "end": 186.18,
+          "text": "不",
+          "probability": 0.3022
+        },
+        {
+          "time": 186.18,
+          "end": 186.68,
+          "text": "顾",
+          "probability": 0.2049
+        },
+        {
+          "time": 186.92,
+          "end": 187.22,
+          "text": "来",
+          "probability": 0.9931
+        },
+        {
+          "time": 187.2,
+          "end": 187.6,
+          "text": "敬",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 189.32,
+      "end": 194.92,
+      "text": "拜主是爱主是爱主爱永远不更改",
+      "words": [
+        {
+          "time": 189.32,
+          "end": 189.62,
+          "text": "拜",
+          "probability": 0.9997
+        },
+        {
+          "time": 189.66,
+          "end": 189.96,
+          "text": "主",
+          "probability": 0.8187
+        },
+        {
+          "time": 190.14,
+          "end": 190.44,
+          "text": "是",
+          "probability": 0.8828
+        },
+        {
+          "time": 190.52,
+          "end": 190.82,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 191.16,
+          "end": 191.46,
+          "text": "主",
+          "probability": 0.9981
+        },
+        {
+          "time": 191.54,
+          "end": 191.84,
+          "text": "是",
+          "probability": 0.9986
+        },
+        {
+          "time": 191.86,
+          "end": 192.16,
+          "text": "爱",
+          "probability": 0.9994
+        },
+        {
+          "time": 192.44,
+          "end": 192.74,
+          "text": "主",
+          "probability": 0.9826
+        },
+        {
+          "time": 192.78,
+          "end": 193.08,
+          "text": "爱",
+          "probability": 0.9908
+        },
+        {
+          "time": 193.14,
+          "end": 193.44,
+          "text": "永",
+          "probability": 0.999
+        },
+        {
+          "time": 193.46,
+          "end": 193.84,
+          "text": "远",
+          "probability": 0.9993
+        },
+        {
+          "time": 193.92,
+          "end": 194.22,
+          "text": "不",
+          "probability": 0.9974
+        },
+        {
+          "time": 194.18,
+          "end": 194.48,
+          "text": "更",
+          "probability": 0.9142
+        },
+        {
+          "time": 194.62,
+          "end": 194.92,
+          "text": "改",
+          "probability": 0.9796
+        }
+      ]
+    },
+    {
+      "time": 195.24,
+      "end": 198.32,
+      "text": "主是爱主是爱主",
+      "words": [
+        {
+          "time": 195.24,
+          "end": 195.54,
+          "text": "主",
+          "probability": 0.8926
+        },
+        {
+          "time": 195.62,
+          "end": 195.92,
+          "text": "是",
+          "probability": 0.8577
+        },
+        {
+          "time": 196.1,
+          "end": 196.4,
+          "text": "爱",
+          "probability": 0.9685
+        },
+        {
+          "time": 196.64,
+          "end": 196.94,
+          "text": "主",
+          "probability": 0.9948
+        },
+        {
+          "time": 197.08,
+          "end": 197.38,
+          "text": "是",
+          "probability": 0.9982
+        },
+        {
+          "time": 197.46,
+          "end": 197.76,
+          "text": "爱",
+          "probability": 0.9992
+        },
+        {
+          "time": 198.02,
+          "end": 198.32,
+          "text": "主",
+          "probability": 0.9917
+        }
+      ]
+    },
+    {
+      "time": 202.6,
+      "end": 206.12,
+      "text": "是爱主爱永远不离开",
+      "words": [
+        {
+          "time": 202.6,
+          "end": 202.9,
+          "text": "是",
+          "probability": 0.4762
+        },
+        {
+          "time": 203.06,
+          "end": 203.36,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 203.58,
+          "end": 203.88,
+          "text": "主",
+          "probability": 0.9777
+        },
+        {
+          "time": 203.94,
+          "end": 204.24,
+          "text": "爱",
+          "probability": 0.7985
+        },
+        {
+          "time": 204.26,
+          "end": 204.56,
+          "text": "永",
+          "probability": 0.9981
+        },
+        {
+          "time": 204.58,
+          "end": 205.0,
+          "text": "远",
+          "probability": 0.9987
+        },
+        {
+          "time": 205.06,
+          "end": 205.36,
+          "text": "不",
+          "probability": 0.9986
+        },
+        {
+          "time": 205.3,
+          "end": 205.76,
+          "text": "离",
+          "probability": 0.761
+        },
+        {
+          "time": 205.82,
+          "end": 206.12,
+          "text": "开",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 224.78,
+      "end": 227.68,
+      "text": "主是爱主是爱主是爱主是",
+      "words": [
+        {
+          "time": 224.78,
+          "end": 225.08,
+          "text": "主",
+          "probability": 0.8346
+        },
+        {
+          "time": 225.0,
+          "end": 225.3,
+          "text": "是",
+          "probability": 0.7248
+        },
+        {
+          "time": 225.36,
+          "end": 225.66,
+          "text": "爱",
+          "probability": 0.9593
+        },
+        {
+          "time": 225.94,
+          "end": 226.24,
+          "text": "主",
+          "probability": 0.9874
+        },
+        {
+          "time": 226.3,
+          "end": 226.6,
+          "text": "是",
+          "probability": 0.9212
+        },
+        {
+          "time": 226.3,
+          "end": 226.6,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 226.74,
+          "end": 227.04,
+          "text": "主",
+          "probability": 0.8273
+        },
+        {
+          "time": 227.0,
+          "end": 227.3,
+          "text": "是",
+          "probability": 0.8941
+        },
+        {
+          "time": 227.0,
+          "end": 227.3,
+          "text": "爱",
+          "probability": 0.998
+        },
+        {
+          "time": 227.34,
+          "end": 227.64,
+          "text": "主",
+          "probability": 0.8803
+        },
+        {
+          "time": 227.38,
+          "end": 227.68,
+          "text": "是",
+          "probability": 0.7822
+        }
+      ]
+    },
+    {
+      "time": 230.94,
+      "end": 235.78,
+      "text": "爱主是爱主是爱主是爱主是",
+      "words": [
+        {
+          "time": 230.94,
+          "end": 231.24,
+          "text": "爱",
+          "probability": 0.9939
+        },
+        {
+          "time": 231.5,
+          "end": 231.8,
+          "text": "主",
+          "probability": 0.9607
+        },
+        {
+          "time": 231.9,
+          "end": 232.2,
+          "text": "是",
+          "probability": 0.6233
+        },
+        {
+          "time": 231.9,
+          "end": 232.2,
+          "text": "爱",
+          "probability": 0.9879
+        },
+        {
+          "time": 232.28,
+          "end": 232.58,
+          "text": "主",
+          "probability": 0.9344
+        },
+        {
+          "time": 232.58,
+          "end": 232.88,
+          "text": "是",
+          "probability": 0.5551
+        },
+        {
+          "time": 232.7,
+          "end": 233.0,
+          "text": "爱",
+          "probability": 0.9847
+        },
+        {
+          "time": 232.92,
+          "end": 233.22,
+          "text": "主",
+          "probability": 0.8436
+        },
+        {
+          "time": 233.0,
+          "end": 233.3,
+          "text": "是",
+          "probability": 0.6441
+        },
+        {
+          "time": 233.92,
+          "end": 234.22,
+          "text": "爱",
+          "probability": 0.9871
+        },
+        {
+          "time": 235.3,
+          "end": 235.6,
+          "text": "主",
+          "probability": 0.8119
+        },
+        {
+          "time": 235.48,
+          "end": 235.78,
+          "text": "是",
+          "probability": 0.7712
+        }
+      ]
+    },
+    {
+      "time": 237.96,
+      "end": 243.8,
+      "text": "爱主是爱主是爱主是爱",
+      "words": [
+        {
+          "time": 237.96,
+          "end": 238.26,
+          "text": "爱",
+          "probability": 0.991
+        },
+        {
+          "time": 238.58,
+          "end": 238.88,
+          "text": "主",
+          "probability": 0.8795
+        },
+        {
+          "time": 238.72,
+          "end": 239.02,
+          "text": "是",
+          "probability": 0.8429
+        },
+        {
+          "time": 239.34,
+          "end": 239.64,
+          "text": "爱",
+          "probability": 0.9937
+        },
+        {
+          "time": 239.88,
+          "end": 240.18,
+          "text": "主",
+          "probability": 0.9269
+        },
+        {
+          "time": 241.12,
+          "end": 241.42,
+          "text": "是",
+          "probability": 0.8801
+        },
+        {
+          "time": 242.1,
+          "end": 242.4,
+          "text": "爱",
+          "probability": 0.9952
+        },
+        {
+          "time": 242.66,
+          "end": 242.96,
+          "text": "主",
+          "probability": 0.96
+        },
+        {
+          "time": 242.94,
+          "end": 243.24,
+          "text": "是",
+          "probability": 0.8975
+        },
+        {
+          "time": 243.5,
+          "end": 243.8,
+          "text": "爱",
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "time": 244.12,
+      "end": 249.96,
+      "text": "主是爱主是爱主是爱主是爱主是爱主",
+      "words": [
+        {
+          "time": 244.12,
+          "end": 244.42,
+          "text": "主",
+          "probability": 0.9709
+        },
+        {
+          "time": 244.38,
+          "end": 244.68,
+          "text": "是",
+          "probability": 0.9115
+        },
+        {
+          "time": 244.92,
+          "end": 245.22,
+          "text": "爱",
+          "probability": 0.9962
+        },
+        {
+          "time": 245.48,
+          "end": 245.78,
+          "text": "主",
+          "probability": 0.9785
+        },
+        {
+          "time": 245.88,
+          "end": 246.18,
+          "text": "是",
+          "probability": 0.9171
+        },
+        {
+          "time": 245.88,
+          "end": 246.18,
+          "text": "爱",
+          "probability": 0.9961
+        },
+        {
+          "time": 246.26,
+          "end": 246.56,
+          "text": "主",
+          "probability": 0.9823
+        },
+        {
+          "time": 246.56,
+          "end": 246.86,
+          "text": "是",
+          "probability": 0.9154
+        },
+        {
+          "time": 246.56,
+          "end": 246.86,
+          "text": "爱",
+          "probability": 0.9961
+        },
+        {
+          "time": 246.86,
+          "end": 247.16,
+          "text": "主",
+          "probability": 0.9841
+        },
+        {
+          "time": 247.14,
+          "end": 247.44,
+          "text": "是",
+          "probability": 0.9162
+        },
+        {
+          "time": 247.66,
+          "end": 247.96,
+          "text": "爱",
+          "probability": 0.996
+        },
+        {
+          "time": 248.26,
+          "end": 248.56,
+          "text": "主",
+          "probability": 0.9848
+        },
+        {
+          "time": 248.6,
+          "end": 248.9,
+          "text": "是",
+          "probability": 0.9135
+        },
+        {
+          "time": 249.14,
+          "end": 249.44,
+          "text": "爱",
+          "probability": 0.9959
+        },
+        {
+          "time": 249.74,
+          "end": 250.04,
+          "text": "主",
+          "probability": 0.9848
+        }
+      ]
+    },
+    {
+      "time": 249.96,
+      "end": 255.6,
+      "text": "是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主是爱主",
+      "words": [
+        {
+          "time": 249.96,
+          "end": 250.26,
+          "text": "是",
+          "probability": 0.9126
+        },
+        {
+          "time": 250.48,
+          "end": 250.78,
+          "text": "爱",
+          "probability": 0.9957
+        },
+        {
+          "time": 250.48,
+          "end": 250.78,
+          "text": "主",
+          "probability": 0.9846
+        },
+        {
+          "time": 250.48,
+          "end": 250.78,
+          "text": "是",
+          "probability": 0.9095
+        },
+        {
+          "time": 250.48,
+          "end": 250.78,
+          "text": "爱",
+          "probability": 0.9955
+        },
+        {
+          "time": 250.48,
+          "end": 250.78,
+          "text": "主",
+          "probability": 0.9851
+        },
+        {
+          "time": 250.48,
+          "end": 250.78,
+          "text": "是",
+          "probability": 0.9057
+        },
+        {
+          "time": 250.48,
+          "end": 250.78,
+          "text": "爱",
+          "probability": 0.9953
+        },
+        {
+          "time": 251.04,
+          "end": 251.34,
+          "text": "主",
+          "probability": 0.9838
+        },
+        {
+          "time": 251.42,
+          "end": 251.72,
+          "text": "是",
+          "probability": 0.9025
+        },
+        {
+          "time": 251.42,
+          "end": 251.72,
+          "text": "爱",
+          "probability": 0.995
+        },
+        {
+          "time": 251.42,
+          "end": 251.72,
+          "text": "主",
+          "probability": 0.9819
+        },
+        {
+          "time": 251.42,
+          "end": 251.72,
+          "text": "是",
+          "probability": 0.8978
+        },
+        {
+          "time": 251.42,
+          "end": 251.72,
+          "text": "爱",
+          "probability": 0.9949
+        },
+        {
+          "time": 251.42,
+          "end": 251.72,
+          "text": "主",
+          "probability": 0.9809
+        },
+        {
+          "time": 251.46,
+          "end": 251.76,
+          "text": "是",
+          "probability": 0.8854
+        },
+        {
+          "time": 251.46,
+          "end": 251.76,
+          "text": "爱",
+          "probability": 0.9939
+        },
+        {
+          "time": 251.82,
+          "end": 252.12,
+          "text": "主",
+          "probability": 0.9789
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8851
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9939
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9778
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8784
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9933
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9754
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8797
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9928
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9744
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8712
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9929
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9735
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8632
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9929
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9738
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8626
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9927
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.973
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8615
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9927
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9713
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8538
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9927
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9737
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8557
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.993
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9743
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8552
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.993
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9756
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8486
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9931
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9758
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8486
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9932
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9764
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8419
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9935
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9768
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8455
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9936
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9776
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8407
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9938
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9794
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8403
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9939
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9797
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8359
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9941
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9808
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8337
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9944
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.981
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8302
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9943
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.981
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8303
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9946
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9821
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8272
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9946
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9827
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8282
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9949
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9824
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8219
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9949
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9831
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8221
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9949
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9836
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.821
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9949
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9838
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8127
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.995
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9847
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8071
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9952
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9849
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8048
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9951
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9861
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.8044
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.995
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9858
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.796
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9951
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "主",
+          "probability": 0.9859
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "是",
+          "probability": 0.7962
+        },
+        {
+          "time": 252.1,
+          "end": 252.4,
+          "text": "爱",
+          "probability": 0.9952
+        },
+        {
+          "time": 252.48,
+          "end": 252.78,
+          "text": "主",
+          "probability": 0.9857
+        },
+        {
+          "time": 252.6,
+          "end": 252.9,
+          "text": "是",
+          "probability": 0.7977
+        },
+        {
+          "time": 252.92,
+          "end": 253.22,
+          "text": "爱",
+          "probability": 0.9953
+        },
+        {
+          "time": 253.84,
+          "end": 254.14,
+          "text": "主",
+          "probability": 0.9868
+        },
+        {
+          "time": 254.1,
+          "end": 254.4,
+          "text": "是",
+          "probability": 0.7903
+        },
+        {
+          "time": 254.58,
+          "end": 254.88,
+          "text": "爱",
+          "probability": 0.9953
+        },
+        {
+          "time": 255.3,
+          "end": 255.6,
+          "text": "主",
+          "probability": 0.6338
+        }
+      ]
+    },
+    {
+      "time": 255.7,
+      "end": 256.0,
+      "text": "是",
+      "words": [
+        {
+          "time": 255.7,
+          "end": 256.0,
+          "text": "是",
+          "probability": 0.8294
+        }
+      ]
+    },
+    {
+      "time": 260.3,
+      "end": 264.76,
+      "text": "爱主是爱主是爱永远不更改",
+      "words": [
+        {
+          "time": 260.3,
+          "end": 260.6,
+          "text": "爱",
+          "probability": 0.9884
+        },
+        {
+          "time": 260.9,
+          "end": 261.2,
+          "text": "主",
+          "probability": 0.9563
+        },
+        {
+          "time": 261.32,
+          "end": 261.62,
+          "text": "是",
+          "probability": 0.7945
+        },
+        {
+          "time": 261.7,
+          "end": 262.0,
+          "text": "爱",
+          "probability": 0.9991
+        },
+        {
+          "time": 262.22,
+          "end": 262.52,
+          "text": "主",
+          "probability": 0.8011
+        },
+        {
+          "time": 262.64,
+          "end": 262.94,
+          "text": "是",
+          "probability": 0.5797
+        },
+        {
+          "time": 262.64,
+          "end": 262.94,
+          "text": "爱",
+          "probability": 0.9986
+        },
+        {
+          "time": 262.92,
+          "end": 263.22,
+          "text": "永",
+          "probability": 0.3833
+        },
+        {
+          "time": 263.22,
+          "end": 263.62,
+          "text": "远",
+          "probability": 0.9992
+        },
+        {
+          "time": 263.66,
+          "end": 263.96,
+          "text": "不",
+          "probability": 0.9974
+        },
+        {
+          "time": 263.98,
+          "end": 264.28,
+          "text": "更",
+          "probability": 0.2374
+        },
+        {
+          "time": 264.46,
+          "end": 264.76,
+          "text": "改",
+          "probability": 0.9828
+        }
+      ]
+    },
+    {
+      "time": 294.84,
+      "end": 295.14,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "优",
+          "probability": 0.5027
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "优",
+          "probability": 0.9983
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "独",
+          "probability": 0.9942
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "播",
+          "probability": 0.9963
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "剧",
+          "probability": 0.9974
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "场",
+          "probability": 0.9971
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "——",
+          "probability": 0.9976
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "Yo",
+          "probability": 0.9962
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "Yo",
+          "probability": 0.9978
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": " Television",
+          "probability": 0.9939
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": " Series",
+          "probability": 0.9982
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": " Exc",
+          "probability": 0.9967
+        },
+        {
+          "time": 294.84,
+          "end": 295.14,
+          "text": "lusive",
+          "probability": 0.9979
+        }
+      ]
+    }
+  ]
+}

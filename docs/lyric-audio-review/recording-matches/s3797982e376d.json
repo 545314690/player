@@ -1,0 +1,54 @@
+{
+  "id": "s3797982e376d",
+  "file": "070-天.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "23095",
+      "offset": 37.307,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.806495,
+      "windows": [
+        {
+          "localStart": 18.104,
+          "sourceStart": 54.802,
+          "offset": 36.6985,
+          "coefficient": 0.080654
+        },
+        {
+          "localStart": 45.26,
+          "sourceStart": 83.212,
+          "offset": 37.9525,
+          "coefficient": 0.056812
+        },
+        {
+          "localStart": 72.415,
+          "sourceStart": 110.064,
+          "offset": 37.649,
+          "coefficient": 0.057439
+        },
+        {
+          "localStart": 99.572,
+          "sourceStart": 136.76,
+          "offset": 37.188,
+          "coefficient": 0.063462
+        },
+        {
+          "localStart": 126.727,
+          "sourceStart": 162.186,
+          "offset": 35.459,
+          "coefficient": 0.095724
+        },
+        {
+          "localStart": 153.883,
+          "sourceStart": 190.759,
+          "offset": 36.876,
+          "coefficient": 0.056434
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

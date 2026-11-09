@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "4026",
+  "waveform": {
+    "source": "4026",
+    "url": "https://www.izanmei.cc/song/4026.html",
+    "audio": "https://play.izanm.org/song/p/4026.mp3",
+    "offset": 0.024565,
+    "scale": 1.00001083,
+    "residual": 0.000925,
+    "coverage": 0.999243,
+    "windows": [
+      {
+        "localStart": 8.317,
+        "sourceStart": 8.342,
+        "offset": 0.025,
+        "coefficient": 0.990795
+      },
+      {
+        "localStart": 20.794,
+        "sourceStart": 20.819,
+        "offset": 0.025,
+        "coefficient": 0.98886
+      },
+      {
+        "localStart": 33.27,
+        "sourceStart": 33.294,
+        "offset": 0.025,
+        "coefficient": 0.984494
+      },
+      {
+        "localStart": 45.746,
+        "sourceStart": 45.771,
+        "offset": 0.025,
+        "coefficient": 0.983745
+      },
+      {
+        "localStart": 58.222,
+        "sourceStart": 58.247,
+        "offset": 0.025,
+        "coefficient": 0.983333
+      },
+      {
+        "localStart": 70.698,
+        "sourceStart": 70.724,
+        "offset": 0.025,
+        "coefficient": 0.981997
+      },
+      {
+        "localStart": 83.174,
+        "sourceStart": 83.2,
+        "offset": 0.025,
+        "coefficient": 0.97738
+      },
+      {
+        "localStart": 93.572,
+        "sourceStart": 93.597,
+        "offset": 0.025,
+        "coefficient": 0.999776
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 0.98913,
+  "id": "se71e074b8638",
+  "file": "137这里有神的同在.mp3",
+  "fullDuration": 103.993469,
+  "recordingHash": "7a38747ccece6596c0806ed349ae0d45900fd945103ca6b00bc1beac1543867d",
+  "lines": []
+}

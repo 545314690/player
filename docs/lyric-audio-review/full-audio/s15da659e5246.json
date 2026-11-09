@@ -1,0 +1,2326 @@
+{
+  "id": "s15da659e5246",
+  "file": "204-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "c06efb7e5b167f7c7cb65143fffb91d08b0bd9b2edcde98b65498231676772c8",
+  "fullDuration": 272.64,
+  "lines": [
+    {
+      "time": 22.8,
+      "end": 25.82,
+      "text": "主持平安",
+      "words": [
+        {
+          "time": 22.8,
+          "end": 23.1,
+          "text": "主",
+          "probability": 0.2698
+        },
+        {
+          "time": 23.78,
+          "end": 24.08,
+          "text": "持",
+          "probability": 0.9323
+        },
+        {
+          "time": 24.54,
+          "end": 24.84,
+          "text": "平",
+          "probability": 0.6298
+        },
+        {
+          "time": 25.52,
+          "end": 25.82,
+          "text": "安",
+          "probability": 0.8589
+        }
+      ]
+    },
+    {
+      "time": 27.08,
+      "end": 31.3,
+      "text": "他已才会中间各关地乡",
+      "words": [
+        {
+          "time": 27.08,
+          "end": 27.38,
+          "text": "他",
+          "probability": 0.2515
+        },
+        {
+          "time": 27.44,
+          "end": 27.74,
+          "text": "已",
+          "probability": 0.3655
+        },
+        {
+          "time": 27.74,
+          "end": 28.04,
+          "text": "才",
+          "probability": 0.2544
+        },
+        {
+          "time": 28.08,
+          "end": 28.38,
+          "text": "会",
+          "probability": 0.7998
+        },
+        {
+          "time": 28.42,
+          "end": 28.72,
+          "text": "中",
+          "probability": 0.6392
+        },
+        {
+          "time": 28.82,
+          "end": 29.12,
+          "text": "间",
+          "probability": 0.9671
+        },
+        {
+          "time": 29.24,
+          "end": 29.54,
+          "text": "各",
+          "probability": 0.6307
+        },
+        {
+          "time": 29.78,
+          "end": 30.08,
+          "text": "关",
+          "probability": 0.1432
+        },
+        {
+          "time": 30.2,
+          "end": 30.5,
+          "text": "地",
+          "probability": 0.2725
+        },
+        {
+          "time": 30.58,
+          "end": 31.3,
+          "text": "乡",
+          "probability": 0.3165
+        }
+      ]
+    },
+    {
+      "time": 34.12,
+      "end": 36.9,
+      "text": "主持平安",
+      "words": [
+        {
+          "time": 34.12,
+          "end": 34.42,
+          "text": "主",
+          "probability": 0.7884
+        },
+        {
+          "time": 35.02,
+          "end": 35.32,
+          "text": "持",
+          "probability": 0.4917
+        },
+        {
+          "time": 35.7,
+          "end": 36.0,
+          "text": "平",
+          "probability": 0.9712
+        },
+        {
+          "time": 36.6,
+          "end": 36.9,
+          "text": "安",
+          "probability": 0.9974
+        }
+      ]
+    },
+    {
+      "time": 39.68,
+      "end": 41.64,
+      "text": "主持平",
+      "words": [
+        {
+          "time": 39.68,
+          "end": 39.98,
+          "text": "主",
+          "probability": 0.9968
+        },
+        {
+          "time": 40.72,
+          "end": 41.02,
+          "text": "持",
+          "probability": 0.9995
+        },
+        {
+          "time": 41.34,
+          "end": 41.64,
+          "text": "平",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 43.46,
+      "end": 43.76,
+      "text": "安",
+      "words": [
+        {
+          "time": 43.46,
+          "end": 43.76,
+          "text": "安",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 45.46,
+      "end": 51.24,
+      "text": "主持平安他已才会中",
+      "words": [
+        {
+          "time": 45.46,
+          "end": 45.76,
+          "text": "主",
+          "probability": 0.9993
+        },
+        {
+          "time": 46.32,
+          "end": 46.62,
+          "text": "持",
+          "probability": 0.9998
+        },
+        {
+          "time": 46.98,
+          "end": 47.28,
+          "text": "平",
+          "probability": 0.9999
+        },
+        {
+          "time": 48.32,
+          "end": 48.62,
+          "text": "安",
+          "probability": 0.9998
+        },
+        {
+          "time": 49.6,
+          "end": 49.9,
+          "text": "他",
+          "probability": 0.8705
+        },
+        {
+          "time": 49.88,
+          "end": 50.18,
+          "text": "已",
+          "probability": 0.9976
+        },
+        {
+          "time": 50.24,
+          "end": 50.54,
+          "text": "才",
+          "probability": 0.9984
+        },
+        {
+          "time": 50.58,
+          "end": 50.88,
+          "text": "会",
+          "probability": 0.9997
+        },
+        {
+          "time": 50.94,
+          "end": 51.24,
+          "text": "中",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 51.32,
+      "end": 53.6,
+      "text": "间各关地乡",
+      "words": [
+        {
+          "time": 51.32,
+          "end": 51.62,
+          "text": "间",
+          "probability": 0.9998
+        },
+        {
+          "time": 51.78,
+          "end": 52.08,
+          "text": "各",
+          "probability": 0.999
+        },
+        {
+          "time": 52.3,
+          "end": 52.6,
+          "text": "关",
+          "probability": 0.9983
+        },
+        {
+          "time": 52.74,
+          "end": 53.04,
+          "text": "地",
+          "probability": 0.9995
+        },
+        {
+          "time": 53.14,
+          "end": 53.6,
+          "text": "乡",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 56.66,
+      "end": 59.82,
+      "text": "祝使命啊",
+      "words": [
+        {
+          "time": 56.66,
+          "end": 57.3,
+          "text": "祝",
+          "probability": 0.376
+        },
+        {
+          "time": 57.58,
+          "end": 57.88,
+          "text": "使",
+          "probability": 0.2311
+        },
+        {
+          "time": 58.34,
+          "end": 58.64,
+          "text": "命",
+          "probability": 0.1165
+        },
+        {
+          "time": 59.52,
+          "end": 59.82,
+          "text": "啊",
+          "probability": 0.8218
+        }
+      ]
+    },
+    {
+      "time": 62.14,
+      "end": 64.16,
+      "text": "祝使命",
+      "words": [
+        {
+          "time": 62.14,
+          "end": 62.86,
+          "text": "祝",
+          "probability": 0.9851
+        },
+        {
+          "time": 63.2,
+          "end": 63.5,
+          "text": "使",
+          "probability": 0.9995
+        },
+        {
+          "time": 63.86,
+          "end": 64.16,
+          "text": "命",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 67.38,
+      "end": 73.88,
+      "text": "啊将有力写给他因",
+      "words": [
+        {
+          "time": 67.38,
+          "end": 67.68,
+          "text": "啊",
+          "probability": 0.9981
+        },
+        {
+          "time": 68.08,
+          "end": 68.38,
+          "text": "将",
+          "probability": 0.7046
+        },
+        {
+          "time": 68.76,
+          "end": 69.06,
+          "text": "有",
+          "probability": 0.1307
+        },
+        {
+          "time": 69.42,
+          "end": 69.72,
+          "text": "力",
+          "probability": 0.173
+        },
+        {
+          "time": 69.98,
+          "end": 70.7,
+          "text": "写",
+          "probability": 0.0635
+        },
+        {
+          "time": 71.08,
+          "end": 71.38,
+          "text": "给",
+          "probability": 0.929
+        },
+        {
+          "time": 72.34,
+          "end": 72.64,
+          "text": "他",
+          "probability": 0.7143
+        },
+        {
+          "time": 73.58,
+          "end": 73.88,
+          "text": "因",
+          "probability": 0.4227
+        }
+      ]
+    },
+    {
+      "time": 74.0,
+      "end": 81.2,
+      "text": "他不愿意祝使命",
+      "words": [
+        {
+          "time": 74.0,
+          "end": 74.3,
+          "text": "他",
+          "probability": 0.9463
+        },
+        {
+          "time": 74.52,
+          "end": 74.82,
+          "text": "不",
+          "probability": 0.1257
+        },
+        {
+          "time": 75.3,
+          "end": 75.7,
+          "text": "愿",
+          "probability": 0.15
+        },
+        {
+          "time": 76.06,
+          "end": 76.36,
+          "text": "意",
+          "probability": 0.8404
+        },
+        {
+          "time": 76.74,
+          "end": 79.74,
+          "text": "祝",
+          "probability": 0.7913
+        },
+        {
+          "time": 80.16,
+          "end": 80.46,
+          "text": "使",
+          "probability": 0.9998
+        },
+        {
+          "time": 80.9,
+          "end": 81.2,
+          "text": "命",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 81.94,
+      "end": 82.24,
+      "text": "啊",
+      "words": [
+        {
+          "time": 81.94,
+          "end": 82.24,
+          "text": "啊",
+          "probability": 0.9945
+        }
+      ]
+    },
+    {
+      "time": 84.9,
+      "end": 88.08,
+      "text": "祝福祉革命",
+      "words": [
+        {
+          "time": 84.9,
+          "end": 85.56,
+          "text": "祝",
+          "probability": 0.204
+        },
+        {
+          "time": 86.08,
+          "end": 86.38,
+          "text": "福",
+          "probability": 0.5555
+        },
+        {
+          "time": 86.48,
+          "end": 86.88,
+          "text": "祉",
+          "probability": 0.0774
+        },
+        {
+          "time": 87.04,
+          "end": 87.34,
+          "text": "革",
+          "probability": 0.0506
+        },
+        {
+          "time": 87.78,
+          "end": 88.08,
+          "text": "命",
+          "probability": 0.5675
+        }
+      ]
+    },
+    {
+      "time": 113.44,
+      "end": 119.04,
+      "text": "主持平安,他已参回中",
+      "words": [
+        {
+          "time": 113.44,
+          "end": 113.74,
+          "text": "主",
+          "probability": 0.7439
+        },
+        {
+          "time": 114.02,
+          "end": 114.32,
+          "text": "持",
+          "probability": 0.7647
+        },
+        {
+          "time": 114.8,
+          "end": 115.1,
+          "text": "平",
+          "probability": 0.9976
+        },
+        {
+          "time": 115.72,
+          "end": 116.02,
+          "text": "安",
+          "probability": 0.9954
+        },
+        {
+          "time": 116.84,
+          "end": 117.14,
+          "text": ",",
+          "probability": 0.3303
+        },
+        {
+          "time": 117.38,
+          "end": 117.68,
+          "text": "他",
+          "probability": 0.135
+        },
+        {
+          "time": 117.74,
+          "end": 118.04,
+          "text": "已",
+          "probability": 0.7688
+        },
+        {
+          "time": 118.0,
+          "end": 118.4,
+          "text": "参",
+          "probability": 0.134
+        },
+        {
+          "time": 118.38,
+          "end": 118.68,
+          "text": "回",
+          "probability": 0.5928
+        },
+        {
+          "time": 118.74,
+          "end": 119.04,
+          "text": "中",
+          "probability": 0.9229
+        }
+      ]
+    },
+    {
+      "time": 119.12,
+      "end": 121.38,
+      "text": "间各断地乡。",
+      "words": [
+        {
+          "time": 119.12,
+          "end": 119.42,
+          "text": "间",
+          "probability": 0.9947
+        },
+        {
+          "time": 119.52,
+          "end": 119.82,
+          "text": "各",
+          "probability": 0.6331
+        },
+        {
+          "time": 119.88,
+          "end": 120.46,
+          "text": "断",
+          "probability": 0.2385
+        },
+        {
+          "time": 120.5,
+          "end": 120.8,
+          "text": "地",
+          "probability": 0.7243
+        },
+        {
+          "time": 120.84,
+          "end": 121.38,
+          "text": "乡",
+          "probability": 0.1948
+        },
+        {
+          "time": 121.08,
+          "end": 121.38,
+          "text": "。",
+          "probability": 0.3758
+        }
+      ]
+    },
+    {
+      "time": 124.52,
+      "end": 127.56,
+      "text": "主持平安",
+      "words": [
+        {
+          "time": 124.52,
+          "end": 124.82,
+          "text": "主",
+          "probability": 0.843
+        },
+        {
+          "time": 125.28,
+          "end": 125.58,
+          "text": "持",
+          "probability": 0.9995
+        },
+        {
+          "time": 126.08,
+          "end": 126.38,
+          "text": "平",
+          "probability": 1.0
+        },
+        {
+          "time": 127.26,
+          "end": 127.56,
+          "text": "安",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 129.16,
+      "end": 132.98,
+      "text": ",主持平安。",
+      "words": [
+        {
+          "time": 129.16,
+          "end": 129.46,
+          "text": ",",
+          "probability": 0.9868
+        },
+        {
+          "time": 130.12,
+          "end": 130.42,
+          "text": "主",
+          "probability": 0.9933
+        },
+        {
+          "time": 130.98,
+          "end": 131.28,
+          "text": "持",
+          "probability": 0.998
+        },
+        {
+          "time": 131.74,
+          "end": 132.04,
+          "text": "平",
+          "probability": 1.0
+        },
+        {
+          "time": 132.64,
+          "end": 132.94,
+          "text": "安",
+          "probability": 0.9999
+        },
+        {
+          "time": 132.68,
+          "end": 132.98,
+          "text": "。",
+          "probability": 0.7197
+        }
+      ]
+    },
+    {
+      "time": 135.82,
+      "end": 141.58,
+      "text": "主持平安把一材会终",
+      "words": [
+        {
+          "time": 135.82,
+          "end": 136.12,
+          "text": "主",
+          "probability": 0.6035
+        },
+        {
+          "time": 136.56,
+          "end": 136.86,
+          "text": "持",
+          "probability": 0.6595
+        },
+        {
+          "time": 137.4,
+          "end": 137.7,
+          "text": "平",
+          "probability": 0.8306
+        },
+        {
+          "time": 138.6,
+          "end": 138.9,
+          "text": "安",
+          "probability": 0.9313
+        },
+        {
+          "time": 139.94,
+          "end": 140.24,
+          "text": "把",
+          "probability": 0.1448
+        },
+        {
+          "time": 140.2,
+          "end": 140.5,
+          "text": "一",
+          "probability": 0.2111
+        },
+        {
+          "time": 140.52,
+          "end": 140.9,
+          "text": "材",
+          "probability": 0.1001
+        },
+        {
+          "time": 140.92,
+          "end": 141.22,
+          "text": "会",
+          "probability": 0.166
+        },
+        {
+          "time": 141.22,
+          "end": 141.58,
+          "text": "终",
+          "probability": 0.4012
+        }
+      ]
+    },
+    {
+      "time": 141.64,
+      "end": 143.98,
+      "text": "成更换理下",
+      "words": [
+        {
+          "time": 141.64,
+          "end": 141.94,
+          "text": "成",
+          "probability": 0.2688
+        },
+        {
+          "time": 142.12,
+          "end": 142.42,
+          "text": "更",
+          "probability": 0.109
+        },
+        {
+          "time": 142.48,
+          "end": 142.94,
+          "text": "换",
+          "probability": 0.0912
+        },
+        {
+          "time": 143.02,
+          "end": 143.32,
+          "text": "理",
+          "probability": 0.148
+        },
+        {
+          "time": 143.68,
+          "end": 143.98,
+          "text": "下",
+          "probability": 0.2021
+        }
+      ]
+    },
+    {
+      "time": 147.1,
+      "end": 150.42,
+      "text": "主持平安",
+      "words": [
+        {
+          "time": 147.1,
+          "end": 147.4,
+          "text": "主",
+          "probability": 0.9979
+        },
+        {
+          "time": 147.96,
+          "end": 148.26,
+          "text": "持",
+          "probability": 0.9994
+        },
+        {
+          "time": 148.72,
+          "end": 149.02,
+          "text": "平",
+          "probability": 0.9999
+        },
+        {
+          "time": 150.12,
+          "end": 150.42,
+          "text": "安",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 152.62,
+      "end": 154.62,
+      "text": "主持平",
+      "words": [
+        {
+          "time": 152.62,
+          "end": 152.92,
+          "text": "主",
+          "probability": 0.9931
+        },
+        {
+          "time": 153.44,
+          "end": 153.74,
+          "text": "持",
+          "probability": 0.9997
+        },
+        {
+          "time": 154.32,
+          "end": 154.62,
+          "text": "平",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 157.3,
+      "end": 162.52,
+      "text": "安相拥的世界上",
+      "words": [
+        {
+          "time": 157.3,
+          "end": 157.6,
+          "text": "安",
+          "probability": 0.9999
+        },
+        {
+          "time": 158.48,
+          "end": 158.78,
+          "text": "相",
+          "probability": 0.1723
+        },
+        {
+          "time": 158.9,
+          "end": 159.26,
+          "text": "拥",
+          "probability": 0.1034
+        },
+        {
+          "time": 159.88,
+          "end": 160.18,
+          "text": "的",
+          "probability": 0.1925
+        },
+        {
+          "time": 161.3,
+          "end": 161.6,
+          "text": "世界",
+          "probability": 0.4015
+        },
+        {
+          "time": 162.22,
+          "end": 162.52,
+          "text": "上",
+          "probability": 0.1745
+        }
+      ]
+    },
+    {
+      "time": 163.82,
+      "end": 166.7,
+      "text": "在大土的地",
+      "words": [
+        {
+          "time": 163.82,
+          "end": 164.12,
+          "text": "在",
+          "probability": 0.0594
+        },
+        {
+          "time": 164.3,
+          "end": 164.6,
+          "text": "大",
+          "probability": 0.0446
+        },
+        {
+          "time": 164.78,
+          "end": 165.08,
+          "text": "土",
+          "probability": 0.1605
+        },
+        {
+          "time": 165.72,
+          "end": 166.02,
+          "text": "的",
+          "probability": 0.3751
+        },
+        {
+          "time": 166.4,
+          "end": 166.7,
+          "text": "地",
+          "probability": 0.1701
+        }
+      ]
+    },
+    {
+      "time": 169.64,
+      "end": 172.74,
+      "text": "出生命啊",
+      "words": [
+        {
+          "time": 169.64,
+          "end": 169.94,
+          "text": "出",
+          "probability": 0.1374
+        },
+        {
+          "time": 170.8,
+          "end": 171.1,
+          "text": "生",
+          "probability": 0.1102
+        },
+        {
+          "time": 171.5,
+          "end": 171.8,
+          "text": "命",
+          "probability": 0.33
+        },
+        {
+          "time": 172.44,
+          "end": 172.74,
+          "text": "啊",
+          "probability": 0.2325
+        }
+      ]
+    },
+    {
+      "time": 175.32,
+      "end": 178.4,
+      "text": "出生命啊",
+      "words": [
+        {
+          "time": 175.32,
+          "end": 175.62,
+          "text": "出",
+          "probability": 0.9863
+        },
+        {
+          "time": 176.2,
+          "end": 176.5,
+          "text": "生",
+          "probability": 0.9991
+        },
+        {
+          "time": 177.1,
+          "end": 177.4,
+          "text": "命",
+          "probability": 0.9985
+        },
+        {
+          "time": 178.1,
+          "end": 178.4,
+          "text": "啊",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 180.98,
+      "end": 185.18,
+      "text": "相拥的世界上",
+      "words": [
+        {
+          "time": 180.98,
+          "end": 181.28,
+          "text": "相",
+          "probability": 0.9748
+        },
+        {
+          "time": 181.52,
+          "end": 182.0,
+          "text": "拥",
+          "probability": 0.992
+        },
+        {
+          "time": 182.54,
+          "end": 182.84,
+          "text": "的",
+          "probability": 0.9924
+        },
+        {
+          "time": 183.96,
+          "end": 184.26,
+          "text": "世界",
+          "probability": 0.9989
+        },
+        {
+          "time": 184.88,
+          "end": 185.18,
+          "text": "上",
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "time": 186.5,
+      "end": 189.64,
+      "text": "因祂公园地",
+      "words": [
+        {
+          "time": 186.5,
+          "end": 186.8,
+          "text": "因",
+          "probability": 0.2304
+        },
+        {
+          "time": 186.76,
+          "end": 187.2,
+          "text": "祂",
+          "probability": 0.4927
+        },
+        {
+          "time": 187.34,
+          "end": 187.64,
+          "text": "公",
+          "probability": 0.0808
+        },
+        {
+          "time": 188.26,
+          "end": 188.64,
+          "text": "园",
+          "probability": 0.1189
+        },
+        {
+          "time": 189.34,
+          "end": 189.64,
+          "text": "地",
+          "probability": 0.5145
+        }
+      ]
+    },
+    {
+      "time": 192.4,
+      "end": 195.1,
+      "text": "主持平安",
+      "words": [
+        {
+          "time": 192.4,
+          "end": 192.7,
+          "text": "主",
+          "probability": 0.7276
+        },
+        {
+          "time": 193.1,
+          "end": 193.4,
+          "text": "持",
+          "probability": 0.744
+        },
+        {
+          "time": 193.88,
+          "end": 194.18,
+          "text": "平",
+          "probability": 0.8899
+        },
+        {
+          "time": 194.8,
+          "end": 195.1,
+          "text": "安",
+          "probability": 0.9915
+        }
+      ]
+    },
+    {
+      "time": 197.88,
+      "end": 199.86,
+      "text": "主持平",
+      "words": [
+        {
+          "time": 197.88,
+          "end": 198.18,
+          "text": "主",
+          "probability": 0.9916
+        },
+        {
+          "time": 198.78,
+          "end": 199.08,
+          "text": "持",
+          "probability": 0.9999
+        },
+        {
+          "time": 199.56,
+          "end": 199.86,
+          "text": "平",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 202.72,
+      "end": 207.74,
+      "text": "安降流于血液地",
+      "words": [
+        {
+          "time": 202.72,
+          "end": 203.02,
+          "text": "安",
+          "probability": 0.9999
+        },
+        {
+          "time": 203.52,
+          "end": 203.82,
+          "text": "降",
+          "probability": 0.1199
+        },
+        {
+          "time": 204.32,
+          "end": 204.62,
+          "text": "流",
+          "probability": 0.3457
+        },
+        {
+          "time": 204.98,
+          "end": 205.28,
+          "text": "于",
+          "probability": 0.6123
+        },
+        {
+          "time": 205.78,
+          "end": 206.08,
+          "text": "血",
+          "probability": 0.13
+        },
+        {
+          "time": 206.52,
+          "end": 206.88,
+          "text": "液",
+          "probability": 0.4435
+        },
+        {
+          "time": 207.44,
+          "end": 207.74,
+          "text": "地",
+          "probability": 0.1953
+        }
+      ]
+    },
+    {
+      "time": 209.04,
+      "end": 212.18,
+      "text": "因祂公园地",
+      "words": [
+        {
+          "time": 209.04,
+          "end": 209.34,
+          "text": "因",
+          "probability": 0.8434
+        },
+        {
+          "time": 209.3,
+          "end": 209.72,
+          "text": "祂",
+          "probability": 0.9995
+        },
+        {
+          "time": 210.0,
+          "end": 210.3,
+          "text": "公",
+          "probability": 0.9978
+        },
+        {
+          "time": 210.74,
+          "end": 211.1,
+          "text": "园",
+          "probability": 0.9996
+        },
+        {
+          "time": 211.88,
+          "end": 212.18,
+          "text": "地",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 214.92,
+      "end": 217.64,
+      "text": "主持平安",
+      "words": [
+        {
+          "time": 214.92,
+          "end": 215.22,
+          "text": "主",
+          "probability": 0.4421
+        },
+        {
+          "time": 215.7,
+          "end": 216.0,
+          "text": "持",
+          "probability": 0.7147
+        },
+        {
+          "time": 216.36,
+          "end": 216.66,
+          "text": "平",
+          "probability": 0.908
+        },
+        {
+          "time": 217.34,
+          "end": 217.64,
+          "text": "安",
+          "probability": 0.5778
+        }
+      ]
+    },
+    {
+      "time": 220.64,
+      "end": 222.48,
+      "text": "主持平",
+      "words": [
+        {
+          "time": 220.64,
+          "end": 220.94,
+          "text": "主",
+          "probability": 0.9908
+        },
+        {
+          "time": 221.34,
+          "end": 221.64,
+          "text": "持",
+          "probability": 0.9994
+        },
+        {
+          "time": 222.18,
+          "end": 222.48,
+          "text": "平",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 225.24,
+      "end": 231.16,
+      "text": "安将有日全一旦",
+      "words": [
+        {
+          "time": 225.24,
+          "end": 225.54,
+          "text": "安",
+          "probability": 0.9997
+        },
+        {
+          "time": 226.26,
+          "end": 226.56,
+          "text": "将",
+          "probability": 0.2128
+        },
+        {
+          "time": 226.84,
+          "end": 227.14,
+          "text": "有",
+          "probability": 0.1833
+        },
+        {
+          "time": 227.58,
+          "end": 227.88,
+          "text": "日",
+          "probability": 0.1569
+        },
+        {
+          "time": 228.34,
+          "end": 228.64,
+          "text": "全",
+          "probability": 0.0836
+        },
+        {
+          "time": 229.22,
+          "end": 229.52,
+          "text": "一",
+          "probability": 0.1427
+        },
+        {
+          "time": 229.58,
+          "end": 231.16,
+          "text": "旦",
+          "probability": 0.0834
+        }
+      ]
+    },
+    {
+      "time": 231.66,
+      "end": 234.18,
+      "text": "今他公元一",
+      "words": [
+        {
+          "time": 231.66,
+          "end": 231.96,
+          "text": "今",
+          "probability": 0.0919
+        },
+        {
+          "time": 232.1,
+          "end": 232.4,
+          "text": "他",
+          "probability": 0.0768
+        },
+        {
+          "time": 232.62,
+          "end": 232.92,
+          "text": "公",
+          "probability": 0.1824
+        },
+        {
+          "time": 233.46,
+          "end": 233.76,
+          "text": "元",
+          "probability": 0.3437
+        },
+        {
+          "time": 233.88,
+          "end": 234.18,
+          "text": "一",
+          "probability": 0.2116
+        }
+      ]
+    },
+    {
+      "time": 237.34,
+      "end": 239.76,
+      "text": "祝福祉福",
+      "words": [
+        {
+          "time": 237.34,
+          "end": 238.0,
+          "text": "祝",
+          "probability": 0.2599
+        },
+        {
+          "time": 238.44,
+          "end": 238.74,
+          "text": "福",
+          "probability": 0.4734
+        },
+        {
+          "time": 239.18,
+          "end": 239.48,
+          "text": "祉",
+          "probability": 0.1648
+        },
+        {
+          "time": 239.46,
+          "end": 239.76,
+          "text": "福",
+          "probability": 0.076
+        }
+      ]
+    },
+    {
+      "time": 241.94,
+      "end": 243.38,
+      "text": "祉福",
+      "words": [
+        {
+          "time": 241.94,
+          "end": 242.24,
+          "text": "祉",
+          "probability": 0.6669
+        },
+        {
+          "time": 243.08,
+          "end": 243.38,
+          "text": "福",
+          "probability": 0.4044
+        }
+      ]
+    },
+    {
+      "time": 245.78,
+      "end": 251.26,
+      "text": "祉福祉福祉福祉",
+      "words": [
+        {
+          "time": 245.78,
+          "end": 248.12,
+          "text": "祉",
+          "probability": 0.8608
+        },
+        {
+          "time": 248.8,
+          "end": 249.1,
+          "text": "福",
+          "probability": 0.7401
+        },
+        {
+          "time": 248.8,
+          "end": 250.46,
+          "text": "祉",
+          "probability": 0.9205
+        },
+        {
+          "time": 250.46,
+          "end": 250.76,
+          "text": "福",
+          "probability": 0.8949
+        },
+        {
+          "time": 251.1,
+          "end": 251.4,
+          "text": "祉",
+          "probability": 0.9454
+        },
+        {
+          "time": 251.22,
+          "end": 251.52,
+          "text": "福",
+          "probability": 0.9316
+        },
+        {
+          "time": 251.26,
+          "end": 251.56,
+          "text": "祉",
+          "probability": 0.9637
+        }
+      ]
+    },
+    {
+      "time": 251.26,
+      "end": 256.68,
+      "text": "福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉",
+      "words": [
+        {
+          "time": 251.26,
+          "end": 251.56,
+          "text": "福",
+          "probability": 0.9578
+        },
+        {
+          "time": 251.38,
+          "end": 251.68,
+          "text": "祉",
+          "probability": 0.976
+        },
+        {
+          "time": 251.38,
+          "end": 251.68,
+          "text": "福",
+          "probability": 0.9686
+        },
+        {
+          "time": 251.74,
+          "end": 252.04,
+          "text": "祉",
+          "probability": 0.9824
+        },
+        {
+          "time": 251.74,
+          "end": 252.04,
+          "text": "福",
+          "probability": 0.9798
+        },
+        {
+          "time": 251.74,
+          "end": 252.04,
+          "text": "祉",
+          "probability": 0.985
+        },
+        {
+          "time": 251.74,
+          "end": 252.04,
+          "text": "福",
+          "probability": 0.9812
+        },
+        {
+          "time": 252.34,
+          "end": 252.94,
+          "text": "祉",
+          "probability": 0.9901
+        },
+        {
+          "time": 252.64,
+          "end": 252.94,
+          "text": "福",
+          "probability": 0.9853
+        },
+        {
+          "time": 252.96,
+          "end": 254.16,
+          "text": "祉",
+          "probability": 0.9924
+        },
+        {
+          "time": 253.86,
+          "end": 254.16,
+          "text": "福",
+          "probability": 0.9883
+        },
+        {
+          "time": 254.04,
+          "end": 254.4,
+          "text": "祉",
+          "probability": 0.9938
+        },
+        {
+          "time": 254.42,
+          "end": 254.72,
+          "text": "福",
+          "probability": 0.9906
+        },
+        {
+          "time": 254.42,
+          "end": 254.76,
+          "text": "祉",
+          "probability": 0.9955
+        },
+        {
+          "time": 255.36,
+          "end": 255.66,
+          "text": "福",
+          "probability": 0.9934
+        },
+        {
+          "time": 255.38,
+          "end": 256.42,
+          "text": "祉",
+          "probability": 0.9965
+        },
+        {
+          "time": 256.12,
+          "end": 256.42,
+          "text": "福",
+          "probability": 0.9943
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "祉",
+          "probability": 0.9971
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "福",
+          "probability": 0.9952
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "祉",
+          "probability": 0.9978
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "福",
+          "probability": 0.9956
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "祉",
+          "probability": 0.9981
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "福",
+          "probability": 0.9961
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "祉",
+          "probability": 0.9984
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "福",
+          "probability": 0.9968
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "祉",
+          "probability": 0.9985
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "福",
+          "probability": 0.9968
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "祉",
+          "probability": 0.9988
+        },
+        {
+          "time": 256.34,
+          "end": 256.64,
+          "text": "福",
+          "probability": 0.9972
+        },
+        {
+          "time": 256.44,
+          "end": 256.98,
+          "text": "祉",
+          "probability": 0.9988
+        }
+      ]
+    },
+    {
+      "time": 256.68,
+      "end": 258.1,
+      "text": "福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福",
+      "words": [
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "福",
+          "probability": 0.9976
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "祉",
+          "probability": 0.9989
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "福",
+          "probability": 0.9977
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "祉",
+          "probability": 0.999
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "福",
+          "probability": 0.9976
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "祉",
+          "probability": 0.9991
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "祉",
+          "probability": 0.9991
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "祉",
+          "probability": 0.9992
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "祉",
+          "probability": 0.9992
+        },
+        {
+          "time": 256.68,
+          "end": 256.98,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 256.68,
+          "end": 257.18,
+          "text": "祉",
+          "probability": 0.9993
+        },
+        {
+          "time": 256.88,
+          "end": 257.18,
+          "text": "福",
+          "probability": 0.9981
+        },
+        {
+          "time": 256.88,
+          "end": 257.18,
+          "text": "祉",
+          "probability": 0.9992
+        },
+        {
+          "time": 256.88,
+          "end": 257.18,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 256.88,
+          "end": 257.18,
+          "text": "祉",
+          "probability": 0.9993
+        },
+        {
+          "time": 256.88,
+          "end": 257.18,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 256.88,
+          "end": 257.18,
+          "text": "祉",
+          "probability": 0.9993
+        },
+        {
+          "time": 256.88,
+          "end": 257.18,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 257.74,
+          "end": 258.04,
+          "text": "福",
+          "probability": 0.9981
+        },
+        {
+          "time": 257.8,
+          "end": 258.1,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 257.8,
+          "end": 258.1,
+          "text": "福",
+          "probability": 0.998
+        },
+        {
+          "time": 257.8,
+          "end": 258.1,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 257.8,
+          "end": 258.1,
+          "text": "福",
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "time": 259.62,
+      "end": 266.1,
+      "text": "祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福祉福",
+      "words": [
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9979
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9978
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9976
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9976
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9977
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9976
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9976
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9975
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9974
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9973
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9972
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9972
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9972
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9969
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9969
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.62,
+          "end": 259.92,
+          "text": "福",
+          "probability": 0.9969
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "福",
+          "probability": 0.9967
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "福",
+          "probability": 0.9967
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "福",
+          "probability": 0.9967
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "福",
+          "probability": 0.9963
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "祉",
+          "probability": 0.9995
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "福",
+          "probability": 0.996
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 259.96,
+          "end": 260.26,
+          "text": "福",
+          "probability": 0.9962
+        },
+        {
+          "time": 260.28,
+          "end": 260.7,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 260.5,
+          "end": 260.8,
+          "text": "福",
+          "probability": 0.9959
+        },
+        {
+          "time": 260.64,
+          "end": 260.94,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 260.84,
+          "end": 261.14,
+          "text": "福",
+          "probability": 0.9958
+        },
+        {
+          "time": 260.9,
+          "end": 261.2,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 261.0,
+          "end": 261.3,
+          "text": "福",
+          "probability": 0.9958
+        },
+        {
+          "time": 261.0,
+          "end": 261.4,
+          "text": "祉",
+          "probability": 0.9993
+        },
+        {
+          "time": 261.84,
+          "end": 262.14,
+          "text": "福",
+          "probability": 0.9956
+        },
+        {
+          "time": 261.9,
+          "end": 262.2,
+          "text": "祉",
+          "probability": 0.9994
+        },
+        {
+          "time": 262.1,
+          "end": 262.4,
+          "text": "福",
+          "probability": 0.9954
+        },
+        {
+          "time": 262.1,
+          "end": 262.6,
+          "text": "祉",
+          "probability": 0.9993
+        },
+        {
+          "time": 262.72,
+          "end": 263.02,
+          "text": "福",
+          "probability": 0.9954
+        },
+        {
+          "time": 262.74,
+          "end": 263.22,
+          "text": "祉",
+          "probability": 0.9993
+        },
+        {
+          "time": 263.26,
+          "end": 263.56,
+          "text": "福",
+          "probability": 0.9953
+        },
+        {
+          "time": 263.46,
+          "end": 263.76,
+          "text": "祉",
+          "probability": 0.9993
+        },
+        {
+          "time": 263.78,
+          "end": 264.08,
+          "text": "福",
+          "probability": 0.9953
+        },
+        {
+          "time": 264.04,
+          "end": 264.34,
+          "text": "祉",
+          "probability": 0.9992
+        },
+        {
+          "time": 264.56,
+          "end": 264.86,
+          "text": "福",
+          "probability": 0.995
+        },
+        {
+          "time": 264.62,
+          "end": 265.0,
+          "text": "祉",
+          "probability": 0.9992
+        },
+        {
+          "time": 265.8,
+          "end": 266.1,
+          "text": "福",
+          "probability": 0.9948
+        }
+      ]
+    },
+    {
+      "time": 269.8,
+      "end": 270.1,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "优",
+          "probability": 0.3636
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "优",
+          "probability": 0.997
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "独",
+          "probability": 0.9948
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "播",
+          "probability": 0.9968
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "剧",
+          "probability": 0.9973
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "场",
+          "probability": 0.9979
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "——",
+          "probability": 0.9982
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "Yo",
+          "probability": 0.9975
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "Yo",
+          "probability": 0.998
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": " Television",
+          "probability": 0.9953
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": " Series",
+          "probability": 0.9982
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": " Exc",
+          "probability": 0.9968
+        },
+        {
+          "time": 269.8,
+          "end": 270.1,
+          "text": "lusive",
+          "probability": 0.998
+        }
+      ]
+    }
+  ]
+}

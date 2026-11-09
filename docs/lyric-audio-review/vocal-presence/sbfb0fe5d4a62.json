@@ -1,0 +1,213 @@
+{
+  "id": "sbfb0fe5d4a62",
+  "file": "043.欢乐颂.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 13.18,
+      "tags": {
+        "Singing": 0.23279,
+        "Choir": 0.12141,
+        "Speech": 0.03812,
+        "Piano": 0.00156,
+        "Electric piano": 0.00077,
+        "Music": 0.84352,
+        "Musical instrument": 0.032
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.84352
+        },
+        {
+          "label": "Singing",
+          "score": 0.23279
+        },
+        {
+          "label": "Christian music",
+          "score": 0.20552
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.12752
+        },
+        {
+          "label": "Choir",
+          "score": 0.12141
+        }
+      ]
+    },
+    {
+      "time": 28.56,
+      "tags": {
+        "Singing": 0.26936,
+        "Choir": 0.17483,
+        "Speech": 0.03354,
+        "Piano": 0.00136,
+        "Electric piano": 0.00043,
+        "Music": 0.86401,
+        "Musical instrument": 0.02548
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.86401
+        },
+        {
+          "label": "Christian music",
+          "score": 0.27876
+        },
+        {
+          "label": "Singing",
+          "score": 0.26936
+        },
+        {
+          "label": "Choir",
+          "score": 0.17483
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.12843
+        }
+      ]
+    },
+    {
+      "time": 43.94,
+      "tags": {
+        "Singing": 0.04685,
+        "Choir": 0.00247,
+        "Speech": 0.02354,
+        "Piano": 0.00606,
+        "Electric piano": 0.00347,
+        "Music": 0.83685,
+        "Musical instrument": 0.25442
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.83685
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.25442
+        },
+        {
+          "label": "Guitar",
+          "score": 0.22369
+        },
+        {
+          "label": "Plucked string instrument",
+          "score": 0.17429
+        },
+        {
+          "label": "Psychedelic rock",
+          "score": 0.12808
+        }
+      ]
+    },
+    {
+      "time": 59.32,
+      "tags": {
+        "Singing": 0.2381,
+        "Choir": 0.07321,
+        "Speech": 0.06617,
+        "Piano": 0.00176,
+        "Electric piano": 0.00067,
+        "Music": 0.85853,
+        "Musical instrument": 0.0478
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.85853
+        },
+        {
+          "label": "Singing",
+          "score": 0.2381
+        },
+        {
+          "label": "Christian music",
+          "score": 0.16706
+        },
+        {
+          "label": "Jingle (music)",
+          "score": 0.09511
+        },
+        {
+          "label": "Gospel music",
+          "score": 0.08761
+        }
+      ]
+    },
+    {
+      "time": 74.69,
+      "tags": {
+        "Singing": 0.15972,
+        "Choir": 0.01088,
+        "Speech": 0.08445,
+        "Piano": 0.00196,
+        "Electric piano": 0.00133,
+        "Music": 0.8298,
+        "Musical instrument": 0.10666
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.8298
+        },
+        {
+          "label": "Singing",
+          "score": 0.15972
+        },
+        {
+          "label": "Musical instrument",
+          "score": 0.10666
+        },
+        {
+          "label": "Guitar",
+          "score": 0.0926
+        },
+        {
+          "label": "Ska",
+          "score": 0.08572
+        }
+      ]
+    },
+    {
+      "time": 90.07,
+      "tags": {
+        "Singing": 0.04196,
+        "Choir": 0.00857,
+        "Speech": 0.01688,
+        "Piano": 0.00476,
+        "Electric piano": 0.00209,
+        "Music": 0.76088,
+        "Musical instrument": 0.092
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.76088
+        },
+        {
+          "label": "Swing music",
+          "score": 0.36026
+        },
+        {
+          "label": "Brass instrument",
+          "score": 0.28422
+        },
+        {
+          "label": "Trumpet",
+          "score": 0.17107
+        },
+        {
+          "label": "Trombone",
+          "score": 0.1575
+        }
+      ]
+    }
+  ]
+}

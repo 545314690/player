@@ -1,0 +1,74 @@
+{
+  "id": "s4e344e6eca71",
+  "file": "240-.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "34361",
+      "offset": -208.9105,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.112015,
+      "windows": [
+        {
+          "localStart": 224.613,
+          "sourceStart": 14.951,
+          "offset": -209.6625,
+          "coefficient": 0.043768
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "18772",
+      "offset": -212.92,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.359234,
+      "windows": [
+        {
+          "localStart": 224.613,
+          "sourceStart": 10.134,
+          "offset": -214.4795,
+          "coefficient": 0.05062
+        },
+        {
+          "localStart": 285.872,
+          "sourceStart": 71.374,
+          "offset": -214.498,
+          "coefficient": 0.050763
+        },
+        {
+          "localStart": 347.13,
+          "sourceStart": 135.575,
+          "offset": -211.555,
+          "coefficient": 0.055949
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "54911",
+      "offset": -4.872,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.2527,
+      "windows": [
+        {
+          "localStart": 40.839,
+          "sourceStart": 34.427,
+          "offset": -6.4115,
+          "coefficient": 0.049064
+        },
+        {
+          "localStart": 102.097,
+          "sourceStart": 99.157,
+          "offset": -2.9395,
+          "coefficient": 0.122641
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

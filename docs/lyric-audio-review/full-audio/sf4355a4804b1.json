@@ -1,0 +1,1934 @@
+{
+  "id": "sf4355a4804b1",
+  "file": "276哈利路亚(你真奇妙).mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "f50f418a4c5dd99c758bf1329334fd8506ffb0365646e763c80e90a39fba91a0",
+  "fullDuration": 238.89775,
+  "lines": [
+    {
+      "time": 4.74,
+      "end": 5.9,
+      "text": "阿雷阿雷阿雷作词:阿雷作曲:阿雷作曲:阿雷",
+      "words": [
+        {
+          "time": 4.74,
+          "end": 5.04,
+          "text": "阿",
+          "probability": 0.2836
+        },
+        {
+          "time": 4.74,
+          "end": 5.14,
+          "text": "雷",
+          "probability": 0.2732
+        },
+        {
+          "time": 4.84,
+          "end": 5.14,
+          "text": "阿",
+          "probability": 0.1007
+        },
+        {
+          "time": 4.84,
+          "end": 5.2,
+          "text": "雷",
+          "probability": 0.8989
+        },
+        {
+          "time": 4.94,
+          "end": 5.24,
+          "text": "阿",
+          "probability": 0.153
+        },
+        {
+          "time": 4.96,
+          "end": 5.28,
+          "text": "雷",
+          "probability": 0.9592
+        },
+        {
+          "time": 5.0,
+          "end": 5.3,
+          "text": "作",
+          "probability": 0.3388
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "词",
+          "probability": 0.6441
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": ":",
+          "probability": 0.9091
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "阿",
+          "probability": 0.1442
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "雷",
+          "probability": 0.9572
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "作",
+          "probability": 0.3057
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "曲",
+          "probability": 0.9785
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": ":",
+          "probability": 0.9596
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "阿",
+          "probability": 0.446
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "雷",
+          "probability": 0.9692
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "作",
+          "probability": 0.4076
+        },
+        {
+          "time": 5.6,
+          "end": 5.9,
+          "text": "曲",
+          "probability": 0.9184
+        },
+        {
+          "time": 5.6,
+          "end": 5.9,
+          "text": ":",
+          "probability": 0.9975
+        },
+        {
+          "time": 5.6,
+          "end": 5.9,
+          "text": "阿",
+          "probability": 0.717
+        },
+        {
+          "time": 5.6,
+          "end": 5.9,
+          "text": "雷",
+          "probability": 0.9782
+        }
+      ]
+    },
+    {
+      "time": 10.52,
+      "end": 11.94,
+      "text": "作曲:阿雷作曲:",
+      "words": [
+        {
+          "time": 10.52,
+          "end": 10.82,
+          "text": "作",
+          "probability": 0.6068
+        },
+        {
+          "time": 10.6,
+          "end": 10.9,
+          "text": "曲",
+          "probability": 0.975
+        },
+        {
+          "time": 10.6,
+          "end": 10.9,
+          "text": ":",
+          "probability": 0.9925
+        },
+        {
+          "time": 10.9,
+          "end": 11.2,
+          "text": "阿",
+          "probability": 0.767
+        },
+        {
+          "time": 10.9,
+          "end": 11.26,
+          "text": "雷",
+          "probability": 0.9804
+        },
+        {
+          "time": 10.98,
+          "end": 11.28,
+          "text": "作",
+          "probability": 0.362
+        },
+        {
+          "time": 11.62,
+          "end": 11.92,
+          "text": "曲",
+          "probability": 0.9459
+        },
+        {
+          "time": 11.64,
+          "end": 11.94,
+          "text": ":",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 16.32,
+      "end": 16.76,
+      "text": "阿雷作曲:",
+      "words": [
+        {
+          "time": 16.32,
+          "end": 16.62,
+          "text": "阿",
+          "probability": 0.8316
+        },
+        {
+          "time": 16.32,
+          "end": 16.62,
+          "text": "雷",
+          "probability": 0.9844
+        },
+        {
+          "time": 16.32,
+          "end": 16.62,
+          "text": "作",
+          "probability": 0.7509
+        },
+        {
+          "time": 16.4,
+          "end": 16.7,
+          "text": "曲",
+          "probability": 0.9744
+        },
+        {
+          "time": 16.46,
+          "end": 16.76,
+          "text": ":",
+          "probability": 0.9963
+        }
+      ]
+    },
+    {
+      "time": 18.1,
+      "end": 18.56,
+      "text": "阿雷作曲",
+      "words": [
+        {
+          "time": 18.1,
+          "end": 18.4,
+          "text": "阿",
+          "probability": 0.8336
+        },
+        {
+          "time": 18.1,
+          "end": 18.42,
+          "text": "雷",
+          "probability": 0.9854
+        },
+        {
+          "time": 18.22,
+          "end": 18.52,
+          "text": "作",
+          "probability": 0.4101
+        },
+        {
+          "time": 18.26,
+          "end": 18.56,
+          "text": "曲",
+          "probability": 0.9691
+        }
+      ]
+    },
+    {
+      "time": 21.28,
+      "end": 26.16,
+      "text": ":阿雷作曲:阿雷阿雷作曲:阿雷阿雷作曲:阿雷阿雷作曲:阿雷阿雷作曲:阿雷",
+      "words": [
+        {
+          "time": 21.28,
+          "end": 21.58,
+          "text": ":",
+          "probability": 0.9993
+        },
+        {
+          "time": 21.28,
+          "end": 21.58,
+          "text": "阿",
+          "probability": 0.8735
+        },
+        {
+          "time": 21.62,
+          "end": 22.06,
+          "text": "雷",
+          "probability": 0.9892
+        },
+        {
+          "time": 22.82,
+          "end": 23.12,
+          "text": "作",
+          "probability": 0.8368
+        },
+        {
+          "time": 22.82,
+          "end": 23.12,
+          "text": "曲",
+          "probability": 0.9779
+        },
+        {
+          "time": 22.82,
+          "end": 23.12,
+          "text": ":",
+          "probability": 0.9973
+        },
+        {
+          "time": 22.82,
+          "end": 23.12,
+          "text": "阿",
+          "probability": 0.871
+        },
+        {
+          "time": 22.82,
+          "end": 23.12,
+          "text": "雷",
+          "probability": 0.9891
+        },
+        {
+          "time": 22.82,
+          "end": 23.12,
+          "text": "阿",
+          "probability": 0.5464
+        },
+        {
+          "time": 23.0,
+          "end": 23.3,
+          "text": "雷",
+          "probability": 0.9899
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "作",
+          "probability": 0.8333
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "曲",
+          "probability": 0.9665
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": ":",
+          "probability": 0.9994
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "阿",
+          "probability": 0.9079
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "雷",
+          "probability": 0.9898
+        },
+        {
+          "time": 24.4,
+          "end": 24.7,
+          "text": "阿",
+          "probability": 0.4958
+        },
+        {
+          "time": 24.4,
+          "end": 24.76,
+          "text": "雷",
+          "probability": 0.9934
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "作",
+          "probability": 0.4329
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "曲",
+          "probability": 0.9695
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "阿",
+          "probability": 0.9444
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "雷",
+          "probability": 0.9927
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "阿",
+          "probability": 0.6664
+        },
+        {
+          "time": 24.62,
+          "end": 24.92,
+          "text": "雷",
+          "probability": 0.9949
+        },
+        {
+          "time": 24.82,
+          "end": 25.12,
+          "text": "作",
+          "probability": 0.544
+        },
+        {
+          "time": 24.82,
+          "end": 25.12,
+          "text": "曲",
+          "probability": 0.9812
+        },
+        {
+          "time": 24.82,
+          "end": 25.12,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 24.82,
+          "end": 25.12,
+          "text": "阿",
+          "probability": 0.9556
+        },
+        {
+          "time": 24.82,
+          "end": 25.12,
+          "text": "雷",
+          "probability": 0.9945
+        },
+        {
+          "time": 24.82,
+          "end": 25.12,
+          "text": "阿",
+          "probability": 0.447
+        },
+        {
+          "time": 24.82,
+          "end": 25.26,
+          "text": "雷",
+          "probability": 0.9947
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "作",
+          "probability": 0.8742
+        },
+        {
+          "time": 25.0,
+          "end": 25.3,
+          "text": "曲",
+          "probability": 0.9871
+        },
+        {
+          "time": 25.6,
+          "end": 25.9,
+          "text": ":",
+          "probability": 0.9994
+        },
+        {
+          "time": 25.86,
+          "end": 26.16,
+          "text": "阿",
+          "probability": 0.9592
+        },
+        {
+          "time": 25.86,
+          "end": 26.16,
+          "text": "雷",
+          "probability": 0.9951
+        }
+      ]
+    },
+    {
+      "time": 28.6,
+      "end": 30.28,
+      "text": "阿里路亚",
+      "words": [
+        {
+          "time": 28.6,
+          "end": 28.9,
+          "text": "阿",
+          "probability": 0.2056
+        },
+        {
+          "time": 29.04,
+          "end": 29.34,
+          "text": "里",
+          "probability": 0.1844
+        },
+        {
+          "time": 29.44,
+          "end": 29.74,
+          "text": "路",
+          "probability": 0.5158
+        },
+        {
+          "time": 29.58,
+          "end": 30.28,
+          "text": "亚",
+          "probability": 0.5527
+        }
+      ]
+    },
+    {
+      "time": 58.12,
+      "end": 61.78,
+      "text": "Hallelujah, you are all the",
+      "words": [
+        {
+          "time": 58.12,
+          "end": 58.42,
+          "text": "H",
+          "probability": 0.235
+        },
+        {
+          "time": 58.52,
+          "end": 58.82,
+          "text": "all",
+          "probability": 0.9743
+        },
+        {
+          "time": 59.06,
+          "end": 59.36,
+          "text": "elujah",
+          "probability": 0.9501
+        },
+        {
+          "time": 60.48,
+          "end": 60.78,
+          "text": ",",
+          "probability": 0.3885
+        },
+        {
+          "time": 60.88,
+          "end": 61.18,
+          "text": " you",
+          "probability": 0.0832
+        },
+        {
+          "time": 60.92,
+          "end": 61.22,
+          "text": " are",
+          "probability": 0.1654
+        },
+        {
+          "time": 61.48,
+          "end": 61.78,
+          "text": " all",
+          "probability": 0.1236
+        },
+        {
+          "time": 61.48,
+          "end": 61.78,
+          "text": " the",
+          "probability": 0.0424
+        }
+      ]
+    },
+    {
+      "time": 63.2,
+      "end": 63.94,
+      "text": "glory.",
+      "words": [
+        {
+          "time": 63.2,
+          "end": 63.5,
+          "text": " glory",
+          "probability": 0.1032
+        },
+        {
+          "time": 63.64,
+          "end": 63.94,
+          "text": ".",
+          "probability": 0.3333
+        }
+      ]
+    },
+    {
+      "time": 87.72,
+      "end": 93.96,
+      "text": "哈利路亚包座上的高扬哈",
+      "words": [
+        {
+          "time": 87.72,
+          "end": 88.02,
+          "text": "哈",
+          "probability": 0.4004
+        },
+        {
+          "time": 88.22,
+          "end": 88.52,
+          "text": "利",
+          "probability": 0.5447
+        },
+        {
+          "time": 88.52,
+          "end": 88.82,
+          "text": "路",
+          "probability": 0.8196
+        },
+        {
+          "time": 88.74,
+          "end": 89.44,
+          "text": "亚",
+          "probability": 0.6148
+        },
+        {
+          "time": 90.44,
+          "end": 90.74,
+          "text": "包",
+          "probability": 0.2113
+        },
+        {
+          "time": 90.82,
+          "end": 91.2,
+          "text": "座",
+          "probability": 0.8772
+        },
+        {
+          "time": 91.32,
+          "end": 91.62,
+          "text": "上",
+          "probability": 0.8303
+        },
+        {
+          "time": 91.8,
+          "end": 92.1,
+          "text": "的",
+          "probability": 0.8883
+        },
+        {
+          "time": 92.3,
+          "end": 92.6,
+          "text": "高",
+          "probability": 0.5504
+        },
+        {
+          "time": 92.7,
+          "end": 93.12,
+          "text": "扬",
+          "probability": 0.0779
+        },
+        {
+          "time": 93.66,
+          "end": 93.96,
+          "text": "哈",
+          "probability": 0.9931
+        }
+      ]
+    },
+    {
+      "time": 95.58,
+      "end": 101.32,
+      "text": "利路亚你是爱骨转眼变成",
+      "words": [
+        {
+          "time": 95.58,
+          "end": 95.88,
+          "text": "利",
+          "probability": 0.9997
+        },
+        {
+          "time": 95.9,
+          "end": 96.2,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 96.16,
+          "end": 97.44,
+          "text": "亚",
+          "probability": 0.9996
+        },
+        {
+          "time": 98.12,
+          "end": 98.42,
+          "text": "你是",
+          "probability": 0.9539
+        },
+        {
+          "time": 98.64,
+          "end": 98.94,
+          "text": "爱",
+          "probability": 0.9919
+        },
+        {
+          "time": 98.9,
+          "end": 99.34,
+          "text": "骨",
+          "probability": 0.1507
+        },
+        {
+          "time": 99.52,
+          "end": 100.0,
+          "text": "转",
+          "probability": 0.7525
+        },
+        {
+          "time": 100.08,
+          "end": 100.38,
+          "text": "眼",
+          "probability": 0.9469
+        },
+        {
+          "time": 100.42,
+          "end": 100.8,
+          "text": "变",
+          "probability": 0.95
+        },
+        {
+          "time": 101.02,
+          "end": 101.32,
+          "text": "成",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 101.44,
+      "end": 107.34,
+      "text": "幻想哈利路亚从天涯到海",
+      "words": [
+        {
+          "time": 101.44,
+          "end": 101.9,
+          "text": "幻",
+          "probability": 0.8516
+        },
+        {
+          "time": 101.98,
+          "end": 102.28,
+          "text": "想",
+          "probability": 0.5503
+        },
+        {
+          "time": 103.38,
+          "end": 103.68,
+          "text": "哈",
+          "probability": 0.9994
+        },
+        {
+          "time": 103.88,
+          "end": 104.18,
+          "text": "利",
+          "probability": 0.9997
+        },
+        {
+          "time": 104.2,
+          "end": 104.5,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 104.46,
+          "end": 105.06,
+          "text": "亚",
+          "probability": 0.9999
+        },
+        {
+          "time": 105.32,
+          "end": 105.62,
+          "text": "从",
+          "probability": 0.9984
+        },
+        {
+          "time": 105.66,
+          "end": 105.96,
+          "text": "天",
+          "probability": 0.9977
+        },
+        {
+          "time": 105.98,
+          "end": 106.34,
+          "text": "涯",
+          "probability": 0.9686
+        },
+        {
+          "time": 106.36,
+          "end": 106.66,
+          "text": "到",
+          "probability": 0.9997
+        },
+        {
+          "time": 107.04,
+          "end": 107.34,
+          "text": "海",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 107.66,
+      "end": 107.96,
+      "text": "角",
+      "words": [
+        {
+          "time": 107.66,
+          "end": 107.96,
+          "text": "角",
+          "probability": 0.9953
+        }
+      ]
+    },
+    {
+      "time": 109.88,
+      "end": 115.58,
+      "text": "哈利路亚指引我方向",
+      "words": [
+        {
+          "time": 109.88,
+          "end": 110.18,
+          "text": "哈",
+          "probability": 0.9967
+        },
+        {
+          "time": 110.34,
+          "end": 110.64,
+          "text": "利",
+          "probability": 0.9997
+        },
+        {
+          "time": 110.7,
+          "end": 111.0,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 110.96,
+          "end": 111.88,
+          "text": "亚",
+          "probability": 0.9998
+        },
+        {
+          "time": 113.02,
+          "end": 113.32,
+          "text": "指",
+          "probability": 0.3169
+        },
+        {
+          "time": 113.54,
+          "end": 113.84,
+          "text": "引",
+          "probability": 0.86
+        },
+        {
+          "time": 114.04,
+          "end": 114.34,
+          "text": "我",
+          "probability": 0.9951
+        },
+        {
+          "time": 114.5,
+          "end": 114.8,
+          "text": "方",
+          "probability": 0.7755
+        },
+        {
+          "time": 115.28,
+          "end": 115.58,
+          "text": "向",
+          "probability": 0.9971
+        }
+      ]
+    },
+    {
+      "time": 117.26,
+      "end": 122.74,
+      "text": "哈利路亚配得一切容忧",
+      "words": [
+        {
+          "time": 117.26,
+          "end": 117.56,
+          "text": "哈",
+          "probability": 0.355
+        },
+        {
+          "time": 117.72,
+          "end": 118.02,
+          "text": "利",
+          "probability": 0.6448
+        },
+        {
+          "time": 118.04,
+          "end": 118.34,
+          "text": "路",
+          "probability": 0.8758
+        },
+        {
+          "time": 118.22,
+          "end": 118.86,
+          "text": "亚",
+          "probability": 0.7849
+        },
+        {
+          "time": 119.96,
+          "end": 120.26,
+          "text": "配",
+          "probability": 0.2609
+        },
+        {
+          "time": 120.44,
+          "end": 120.74,
+          "text": "得",
+          "probability": 0.6603
+        },
+        {
+          "time": 120.82,
+          "end": 121.12,
+          "text": "一",
+          "probability": 0.9867
+        },
+        {
+          "time": 121.3,
+          "end": 121.6,
+          "text": "切",
+          "probability": 0.9995
+        },
+        {
+          "time": 121.9,
+          "end": 122.2,
+          "text": "容",
+          "probability": 0.3158
+        },
+        {
+          "time": 122.44,
+          "end": 122.74,
+          "text": "忧",
+          "probability": 0.2445
+        }
+      ]
+    },
+    {
+      "time": 124.58,
+      "end": 130.32,
+      "text": "哈利路亚你是软弱转眼变",
+      "words": [
+        {
+          "time": 124.58,
+          "end": 124.88,
+          "text": "哈",
+          "probability": 0.9971
+        },
+        {
+          "time": 125.08,
+          "end": 125.38,
+          "text": "利",
+          "probability": 0.9995
+        },
+        {
+          "time": 125.4,
+          "end": 125.7,
+          "text": "路",
+          "probability": 0.9997
+        },
+        {
+          "time": 125.68,
+          "end": 126.9,
+          "text": "亚",
+          "probability": 0.9998
+        },
+        {
+          "time": 127.6,
+          "end": 127.9,
+          "text": "你是",
+          "probability": 0.2569
+        },
+        {
+          "time": 128.14,
+          "end": 128.52,
+          "text": "软",
+          "probability": 0.9871
+        },
+        {
+          "time": 128.46,
+          "end": 128.98,
+          "text": "弱",
+          "probability": 0.9931
+        },
+        {
+          "time": 129.06,
+          "end": 129.56,
+          "text": "转",
+          "probability": 0.977
+        },
+        {
+          "time": 129.66,
+          "end": 129.96,
+          "text": "眼",
+          "probability": 0.8747
+        },
+        {
+          "time": 129.98,
+          "end": 130.32,
+          "text": "变",
+          "probability": 0.9807
+        }
+      ]
+    },
+    {
+      "time": 130.58,
+      "end": 136.44,
+      "text": "成当家哈利路亚你什么都",
+      "words": [
+        {
+          "time": 130.58,
+          "end": 130.88,
+          "text": "成",
+          "probability": 0.9976
+        },
+        {
+          "time": 131.04,
+          "end": 131.34,
+          "text": "当",
+          "probability": 0.3901
+        },
+        {
+          "time": 131.54,
+          "end": 131.84,
+          "text": "家",
+          "probability": 0.3249
+        },
+        {
+          "time": 132.88,
+          "end": 133.18,
+          "text": "哈",
+          "probability": 0.9991
+        },
+        {
+          "time": 133.4,
+          "end": 133.7,
+          "text": "利",
+          "probability": 0.9995
+        },
+        {
+          "time": 133.72,
+          "end": 134.02,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 133.96,
+          "end": 134.58,
+          "text": "亚",
+          "probability": 0.9999
+        },
+        {
+          "time": 134.9,
+          "end": 135.2,
+          "text": "你",
+          "probability": 0.9744
+        },
+        {
+          "time": 135.46,
+          "end": 135.76,
+          "text": "什么",
+          "probability": 0.9963
+        },
+        {
+          "time": 136.14,
+          "end": 136.44,
+          "text": "都",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 136.52,
+      "end": 137.44,
+      "text": "明显",
+      "words": [
+        {
+          "time": 136.52,
+          "end": 136.82,
+          "text": "明",
+          "probability": 0.9779
+        },
+        {
+          "time": 137.08,
+          "end": 137.44,
+          "text": "显",
+          "probability": 0.3439
+        }
+      ]
+    },
+    {
+      "time": 140.84,
+      "end": 141.14,
+      "text": "哈",
+      "words": [
+        {
+          "time": 140.84,
+          "end": 141.14,
+          "text": "哈",
+          "probability": 0.9818
+        }
+      ]
+    },
+    {
+      "time": 143.42,
+      "end": 144.6,
+      "text": "利路亚",
+      "words": [
+        {
+          "time": 143.42,
+          "end": 143.72,
+          "text": "利",
+          "probability": 0.7142
+        },
+        {
+          "time": 143.8,
+          "end": 144.1,
+          "text": "路",
+          "probability": 0.9997
+        },
+        {
+          "time": 144.04,
+          "end": 144.6,
+          "text": "亚",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 146.18,
+      "end": 152.04,
+      "text": "你真是奇妙哈利路亚",
+      "words": [
+        {
+          "time": 146.18,
+          "end": 146.48,
+          "text": "你",
+          "probability": 0.7913
+        },
+        {
+          "time": 146.54,
+          "end": 146.84,
+          "text": "真",
+          "probability": 0.99
+        },
+        {
+          "time": 147.08,
+          "end": 147.38,
+          "text": "是",
+          "probability": 0.8982
+        },
+        {
+          "time": 147.54,
+          "end": 147.84,
+          "text": "奇",
+          "probability": 0.9788
+        },
+        {
+          "time": 148.5,
+          "end": 149.06,
+          "text": "妙",
+          "probability": 0.9986
+        },
+        {
+          "time": 150.2,
+          "end": 150.5,
+          "text": "哈",
+          "probability": 0.5521
+        },
+        {
+          "time": 150.66,
+          "end": 150.96,
+          "text": "利",
+          "probability": 0.6451
+        },
+        {
+          "time": 151.0,
+          "end": 151.3,
+          "text": "路",
+          "probability": 0.8338
+        },
+        {
+          "time": 151.2,
+          "end": 152.04,
+          "text": "亚",
+          "probability": 0.8023
+        }
+      ]
+    },
+    {
+      "time": 152.76,
+      "end": 155.4,
+      "text": "帽座上的高雅",
+      "words": [
+        {
+          "time": 152.76,
+          "end": 153.2,
+          "text": "帽",
+          "probability": 0.1618
+        },
+        {
+          "time": 153.2,
+          "end": 153.62,
+          "text": "座",
+          "probability": 0.456
+        },
+        {
+          "time": 153.68,
+          "end": 153.98,
+          "text": "上",
+          "probability": 0.9241
+        },
+        {
+          "time": 154.14,
+          "end": 154.44,
+          "text": "的",
+          "probability": 0.9934
+        },
+        {
+          "time": 154.66,
+          "end": 154.96,
+          "text": "高",
+          "probability": 0.9087
+        },
+        {
+          "time": 155.0,
+          "end": 155.4,
+          "text": "雅",
+          "probability": 0.0986
+        }
+      ]
+    },
+    {
+      "time": 157.32,
+      "end": 162.92,
+      "text": "哈利路亚你是爱护转眼变",
+      "words": [
+        {
+          "time": 157.32,
+          "end": 157.62,
+          "text": "哈",
+          "probability": 0.9995
+        },
+        {
+          "time": 157.8,
+          "end": 158.1,
+          "text": "利",
+          "probability": 0.9996
+        },
+        {
+          "time": 158.16,
+          "end": 158.46,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 158.4,
+          "end": 159.7,
+          "text": "亚",
+          "probability": 0.9997
+        },
+        {
+          "time": 160.26,
+          "end": 160.56,
+          "text": "你是",
+          "probability": 0.3987
+        },
+        {
+          "time": 160.82,
+          "end": 161.12,
+          "text": "爱",
+          "probability": 0.9721
+        },
+        {
+          "time": 161.1,
+          "end": 161.52,
+          "text": "护",
+          "probability": 0.29
+        },
+        {
+          "time": 161.68,
+          "end": 162.16,
+          "text": "转",
+          "probability": 0.6889
+        },
+        {
+          "time": 162.22,
+          "end": 162.52,
+          "text": "眼",
+          "probability": 0.9459
+        },
+        {
+          "time": 162.56,
+          "end": 162.92,
+          "text": "变",
+          "probability": 0.7909
+        }
+      ]
+    },
+    {
+      "time": 163.16,
+      "end": 168.78,
+      "text": "成幻想哈利路亚从天涯到",
+      "words": [
+        {
+          "time": 163.16,
+          "end": 163.46,
+          "text": "成",
+          "probability": 0.996
+        },
+        {
+          "time": 163.5,
+          "end": 164.0,
+          "text": "幻",
+          "probability": 0.5743
+        },
+        {
+          "time": 164.06,
+          "end": 164.36,
+          "text": "想",
+          "probability": 0.7499
+        },
+        {
+          "time": 165.38,
+          "end": 165.68,
+          "text": "哈",
+          "probability": 0.9996
+        },
+        {
+          "time": 165.84,
+          "end": 166.14,
+          "text": "利",
+          "probability": 0.9999
+        },
+        {
+          "time": 166.18,
+          "end": 166.48,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 166.36,
+          "end": 166.98,
+          "text": "亚",
+          "probability": 0.9999
+        },
+        {
+          "time": 167.26,
+          "end": 167.56,
+          "text": "从",
+          "probability": 0.9968
+        },
+        {
+          "time": 167.64,
+          "end": 167.94,
+          "text": "天",
+          "probability": 0.9949
+        },
+        {
+          "time": 167.94,
+          "end": 168.32,
+          "text": "涯",
+          "probability": 0.7353
+        },
+        {
+          "time": 168.48,
+          "end": 168.78,
+          "text": "到",
+          "probability": 0.9928
+        }
+      ]
+    },
+    {
+      "time": 169.06,
+      "end": 170.12,
+      "text": "海距降",
+      "words": [
+        {
+          "time": 169.06,
+          "end": 169.36,
+          "text": "海",
+          "probability": 0.9503
+        },
+        {
+          "time": 169.36,
+          "end": 169.8,
+          "text": "距",
+          "probability": 0.2109
+        },
+        {
+          "time": 169.82,
+          "end": 170.12,
+          "text": "降",
+          "probability": 0.3661
+        }
+      ]
+    },
+    {
+      "time": 171.64,
+      "end": 173.4,
+      "text": "哈利路亚",
+      "words": [
+        {
+          "time": 171.64,
+          "end": 171.94,
+          "text": "哈",
+          "probability": 0.9837
+        },
+        {
+          "time": 172.1,
+          "end": 172.4,
+          "text": "利",
+          "probability": 0.9999
+        },
+        {
+          "time": 172.46,
+          "end": 172.76,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 172.64,
+          "end": 173.4,
+          "text": "亚",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 174.76,
+      "end": 180.52,
+      "text": "只隐我方向哈利路亚",
+      "words": [
+        {
+          "time": 174.76,
+          "end": 175.06,
+          "text": "只",
+          "probability": 0.5152
+        },
+        {
+          "time": 175.18,
+          "end": 175.58,
+          "text": "隐",
+          "probability": 0.1812
+        },
+        {
+          "time": 175.7,
+          "end": 176.0,
+          "text": "我",
+          "probability": 0.2912
+        },
+        {
+          "time": 176.48,
+          "end": 176.78,
+          "text": "方",
+          "probability": 0.9465
+        },
+        {
+          "time": 177.6,
+          "end": 177.9,
+          "text": "向",
+          "probability": 0.9993
+        },
+        {
+          "time": 179.0,
+          "end": 179.3,
+          "text": "哈",
+          "probability": 0.5255
+        },
+        {
+          "time": 179.26,
+          "end": 179.56,
+          "text": "利",
+          "probability": 0.7342
+        },
+        {
+          "time": 179.62,
+          "end": 179.92,
+          "text": "路",
+          "probability": 0.7923
+        },
+        {
+          "time": 179.76,
+          "end": 180.52,
+          "text": "亚",
+          "probability": 0.7711
+        }
+      ]
+    },
+    {
+      "time": 181.44,
+      "end": 184.02,
+      "text": "陪那一切荣耀",
+      "words": [
+        {
+          "time": 181.44,
+          "end": 181.86,
+          "text": "陪",
+          "probability": 0.6498
+        },
+        {
+          "time": 181.96,
+          "end": 182.26,
+          "text": "那",
+          "probability": 0.3663
+        },
+        {
+          "time": 182.38,
+          "end": 182.68,
+          "text": "一",
+          "probability": 0.9992
+        },
+        {
+          "time": 182.74,
+          "end": 183.04,
+          "text": "切",
+          "probability": 0.9991
+        },
+        {
+          "time": 183.26,
+          "end": 183.68,
+          "text": "荣",
+          "probability": 0.7429
+        },
+        {
+          "time": 183.72,
+          "end": 184.02,
+          "text": "耀",
+          "probability": 0.9089
+        }
+      ]
+    },
+    {
+      "time": 186.16,
+      "end": 192.06,
+      "text": "哈利路亚你是若若转眼变成",
+      "words": [
+        {
+          "time": 186.16,
+          "end": 186.46,
+          "text": "哈",
+          "probability": 0.9996
+        },
+        {
+          "time": 186.42,
+          "end": 186.72,
+          "text": "利",
+          "probability": 0.9992
+        },
+        {
+          "time": 186.78,
+          "end": 187.08,
+          "text": "路",
+          "probability": 0.9998
+        },
+        {
+          "time": 187.02,
+          "end": 188.26,
+          "text": "亚",
+          "probability": 0.9977
+        },
+        {
+          "time": 189.0,
+          "end": 189.3,
+          "text": "你是",
+          "probability": 0.8676
+        },
+        {
+          "time": 189.44,
+          "end": 189.8,
+          "text": "若",
+          "probability": 0.5733
+        },
+        {
+          "time": 189.76,
+          "end": 190.22,
+          "text": "若",
+          "probability": 0.8711
+        },
+        {
+          "time": 190.32,
+          "end": 190.8,
+          "text": "转",
+          "probability": 0.9211
+        },
+        {
+          "time": 190.86,
+          "end": 191.16,
+          "text": "眼",
+          "probability": 0.8682
+        },
+        {
+          "time": 191.2,
+          "end": 191.54,
+          "text": "变",
+          "probability": 0.9953
+        },
+        {
+          "time": 191.76,
+          "end": 192.06,
+          "text": "成",
+          "probability": 0.9963
+        }
+      ]
+    },
+    {
+      "time": 192.26,
+      "end": 197.92,
+      "text": "更强哈利路亚你什么都明",
+      "words": [
+        {
+          "time": 192.26,
+          "end": 192.56,
+          "text": "更",
+          "probability": 0.7537
+        },
+        {
+          "time": 192.88,
+          "end": 193.2,
+          "text": "强",
+          "probability": 0.877
+        },
+        {
+          "time": 193.98,
+          "end": 194.28,
+          "text": "哈",
+          "probability": 0.9997
+        },
+        {
+          "time": 194.48,
+          "end": 194.78,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 194.82,
+          "end": 195.12,
+          "text": "路",
+          "probability": 0.9999
+        },
+        {
+          "time": 195.04,
+          "end": 195.66,
+          "text": "亚",
+          "probability": 0.9997
+        },
+        {
+          "time": 195.94,
+          "end": 196.24,
+          "text": "你",
+          "probability": 0.9906
+        },
+        {
+          "time": 196.5,
+          "end": 196.8,
+          "text": "什么",
+          "probability": 0.9988
+        },
+        {
+          "time": 197.14,
+          "end": 197.44,
+          "text": "都",
+          "probability": 0.9999
+        },
+        {
+          "time": 197.62,
+          "end": 197.92,
+          "text": "明",
+          "probability": 0.8029
+        }
+      ]
+    },
+    {
+      "time": 198.28,
+      "end": 198.58,
+      "text": "亮",
+      "words": [
+        {
+          "time": 198.28,
+          "end": 198.58,
+          "text": "亮",
+          "probability": 0.4275
+        }
+      ]
+    },
+    {
+      "time": 200.32,
+      "end": 201.66,
+      "text": "哈利路亚",
+      "words": [
+        {
+          "time": 200.32,
+          "end": 200.62,
+          "text": "哈",
+          "probability": 0.9915
+        },
+        {
+          "time": 200.8,
+          "end": 201.1,
+          "text": "利",
+          "probability": 0.9998
+        },
+        {
+          "time": 201.14,
+          "end": 201.44,
+          "text": "路",
+          "probability": 1.0
+        },
+        {
+          "time": 201.36,
+          "end": 201.66,
+          "text": "亚",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 203.36,
+      "end": 209.16,
+      "text": "你是软弱转眼变成刚才哈利",
+      "words": [
+        {
+          "time": 203.36,
+          "end": 203.66,
+          "text": "你是",
+          "probability": 0.956
+        },
+        {
+          "time": 203.84,
+          "end": 204.18,
+          "text": "软",
+          "probability": 0.4522
+        },
+        {
+          "time": 204.24,
+          "end": 204.64,
+          "text": "弱",
+          "probability": 0.5881
+        },
+        {
+          "time": 204.7,
+          "end": 205.2,
+          "text": "转",
+          "probability": 0.6776
+        },
+        {
+          "time": 205.24,
+          "end": 205.54,
+          "text": "眼",
+          "probability": 0.9922
+        },
+        {
+          "time": 205.56,
+          "end": 205.94,
+          "text": "变",
+          "probability": 0.8272
+        },
+        {
+          "time": 206.14,
+          "end": 206.44,
+          "text": "成",
+          "probability": 0.9631
+        },
+        {
+          "time": 206.6,
+          "end": 206.9,
+          "text": "刚",
+          "probability": 0.1445
+        },
+        {
+          "time": 207.2,
+          "end": 207.5,
+          "text": "才",
+          "probability": 0.8393
+        },
+        {
+          "time": 208.36,
+          "end": 208.66,
+          "text": "哈",
+          "probability": 0.5626
+        },
+        {
+          "time": 208.86,
+          "end": 209.16,
+          "text": "利",
+          "probability": 0.8987
+        }
+      ]
+    },
+    {
+      "time": 209.22,
+      "end": 213.3,
+      "text": "路呀你什么都比呀",
+      "words": [
+        {
+          "time": 209.22,
+          "end": 209.52,
+          "text": "路",
+          "probability": 0.9067
+        },
+        {
+          "time": 209.76,
+          "end": 210.06,
+          "text": "呀",
+          "probability": 0.7374
+        },
+        {
+          "time": 210.32,
+          "end": 210.62,
+          "text": "你",
+          "probability": 0.7925
+        },
+        {
+          "time": 210.9,
+          "end": 211.2,
+          "text": "什么",
+          "probability": 0.2416
+        },
+        {
+          "time": 211.58,
+          "end": 211.88,
+          "text": "都",
+          "probability": 0.9899
+        },
+        {
+          "time": 212.18,
+          "end": 212.48,
+          "text": "比",
+          "probability": 0.2672
+        },
+        {
+          "time": 213.0,
+          "end": 213.3,
+          "text": "呀",
+          "probability": 0.6103
+        }
+      ]
+    },
+    {
+      "time": 236.36,
+      "end": 236.66,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "优",
+          "probability": 0.3515
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "优",
+          "probability": 0.9973
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "独",
+          "probability": 0.9944
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "播",
+          "probability": 0.9968
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "剧",
+          "probability": 0.9974
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "场",
+          "probability": 0.9979
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "——",
+          "probability": 0.9983
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "Yo",
+          "probability": 0.9975
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "Yo",
+          "probability": 0.9981
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": " Television",
+          "probability": 0.9944
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": " Series",
+          "probability": 0.9981
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": " Exc",
+          "probability": 0.9967
+        },
+        {
+          "time": 236.36,
+          "end": 236.66,
+          "text": "lusive",
+          "probability": 0.998
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "sddb23612a446",
+  "file": "263-注目看耶稣.mp3",
+  "model": "PANNs Cnn6_mAP=0.343 official AudioSet checkpoint",
+  "source": "https://zenodo.org/records/3987831",
+  "policy": "auxiliary instrument/voice evidence; scores are not proof of lyric completeness",
+  "windows": [
+    {
+      "time": 26.53,
+      "tags": {
+        "Singing": 0.15902,
+        "Choir": 0.00623,
+        "Speech": 0.0045,
+        "Piano": 0.01282,
+        "Electric piano": 0.00411,
+        "Music": 0.81037,
+        "Musical instrument": 0.0373
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.81037
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.16973
+        },
+        {
+          "label": "Singing",
+          "score": 0.15902
+        },
+        {
+          "label": "Lullaby",
+          "score": 0.15556
+        },
+        {
+          "label": "Christian music",
+          "score": 0.0876
+        }
+      ]
+    },
+    {
+      "time": 57.47,
+      "tags": {
+        "Singing": 0.11412,
+        "Choir": 0.02092,
+        "Speech": 0.02324,
+        "Piano": 0.00623,
+        "Electric piano": 0.00442,
+        "Music": 0.78735,
+        "Musical instrument": 0.02313
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.78735
+        },
+        {
+          "label": "Christian music",
+          "score": 0.16765
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.12178
+        },
+        {
+          "label": "Singing",
+          "score": 0.11412
+        },
+        {
+          "label": "Soul music",
+          "score": 0.10203
+        }
+      ]
+    },
+    {
+      "time": 88.42,
+      "tags": {
+        "Singing": 0.23608,
+        "Choir": 0.01761,
+        "Speech": 0.01136,
+        "Piano": 0.00874,
+        "Electric piano": 0.00493,
+        "Music": 0.74147,
+        "Musical instrument": 0.05543
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.74147
+        },
+        {
+          "label": "Singing",
+          "score": 0.23608
+        },
+        {
+          "label": "Christian music",
+          "score": 0.17593
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.1684
+        },
+        {
+          "label": "Soul music",
+          "score": 0.08366
+        }
+      ]
+    },
+    {
+      "time": 119.37,
+      "tags": {
+        "Singing": 0.00552,
+        "Choir": 0.00088,
+        "Speech": 0.01837,
+        "Piano": 0.03591,
+        "Electric piano": 0.04033,
+        "Music": 0.60261,
+        "Musical instrument": 0.03163
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.60261
+        },
+        {
+          "label": "New-age music",
+          "score": 0.25796
+        },
+        {
+          "label": "Background music",
+          "score": 0.19675
+        },
+        {
+          "label": "Jingle, tinkle",
+          "score": 0.14955
+        },
+        {
+          "label": "Sad music",
+          "score": 0.13198
+        }
+      ]
+    },
+    {
+      "time": 150.31,
+      "tags": {
+        "Singing": 0.13923,
+        "Choir": 0.00385,
+        "Speech": 0.01036,
+        "Piano": 0.00788,
+        "Electric piano": 0.0037,
+        "Music": 0.76929,
+        "Musical instrument": 0.03322
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.76929
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.13992
+        },
+        {
+          "label": "Singing",
+          "score": 0.13923
+        },
+        {
+          "label": "Soul music",
+          "score": 0.10865
+        },
+        {
+          "label": "Christian music",
+          "score": 0.09414
+        }
+      ]
+    },
+    {
+      "time": 181.26,
+      "tags": {
+        "Singing": 0.29439,
+        "Choir": 0.06718,
+        "Speech": 0.00849,
+        "Piano": 0.00268,
+        "Electric piano": 0.00076,
+        "Music": 0.81214,
+        "Musical instrument": 0.05573
+      },
+      "top": [
+        {
+          "label": "Music",
+          "score": 0.81214
+        },
+        {
+          "label": "Singing",
+          "score": 0.29439
+        },
+        {
+          "label": "Christian music",
+          "score": 0.21039
+        },
+        {
+          "label": "Vocal music",
+          "score": 0.14747
+        },
+        {
+          "label": "Christmas music",
+          "score": 0.10618
+        }
+      ]
+    }
+  ]
+}

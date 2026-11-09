@@ -1,0 +1,54 @@
+{
+  "id": "s26e39eaa90b7",
+  "file": "253-我心切切渴慕你.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "38834",
+      "offset": 53.7655,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.775617,
+      "windows": [
+        {
+          "localStart": 23.64,
+          "sourceStart": 77.724,
+          "offset": 54.084,
+          "coefficient": 0.189125
+        },
+        {
+          "localStart": 59.099,
+          "sourceStart": 112.192,
+          "offset": 53.093,
+          "coefficient": 0.192907
+        },
+        {
+          "localStart": 94.559,
+          "sourceStart": 148.304,
+          "offset": 53.745,
+          "coefficient": 0.078431
+        },
+        {
+          "localStart": 130.018,
+          "sourceStart": 182.109,
+          "offset": 52.091,
+          "coefficient": 0.096165
+        },
+        {
+          "localStart": 165.478,
+          "sourceStart": 221.228,
+          "offset": 55.7495,
+          "coefficient": 0.110427
+        },
+        {
+          "localStart": 200.938,
+          "sourceStart": 255.871,
+          "offset": 54.9335,
+          "coefficient": 0.140493
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

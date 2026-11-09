@@ -1,0 +1,152 @@
+{
+  "id": "sc5bb35927e0f",
+  "file": "086.为爱而生.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "34229",
+      "offset": 21.748,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.880414,
+      "windows": [
+        {
+          "localStart": 24.492,
+          "sourceStart": 45.964,
+          "offset": 21.4715,
+          "coefficient": 0.069399
+        },
+        {
+          "localStart": 61.231,
+          "sourceStart": 82.143,
+          "offset": 20.912,
+          "coefficient": 0.067967
+        },
+        {
+          "localStart": 97.969,
+          "sourceStart": 121.073,
+          "offset": 23.104,
+          "coefficient": 0.072094
+        },
+        {
+          "localStart": 134.708,
+          "sourceStart": 154.655,
+          "offset": 19.9475,
+          "coefficient": 0.064289
+        },
+        {
+          "localStart": 171.447,
+          "sourceStart": 193.94,
+          "offset": 22.4925,
+          "coefficient": 0.086135
+        },
+        {
+          "localStart": 208.185,
+          "sourceStart": 228.768,
+          "offset": 20.5825,
+          "coefficient": 0.06906
+        },
+        {
+          "localStart": 244.924,
+          "sourceStart": 265.538,
+          "offset": 20.6135,
+          "coefficient": 0.063575
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "49735",
+      "offset": -48.91,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.766808,
+      "windows": [
+        {
+          "localStart": 61.231,
+          "sourceStart": 14.206,
+          "offset": -47.025,
+          "coefficient": 0.031969
+        },
+        {
+          "localStart": 97.969,
+          "sourceStart": 47.531,
+          "offset": -50.4385,
+          "coefficient": 0.046734
+        },
+        {
+          "localStart": 134.708,
+          "sourceStart": 86.603,
+          "offset": -48.1045,
+          "coefficient": 0.08
+        },
+        {
+          "localStart": 171.447,
+          "sourceStart": 121.903,
+          "offset": -49.5435,
+          "coefficient": 0.022539
+        },
+        {
+          "localStart": 208.185,
+          "sourceStart": 160.919,
+          "offset": -47.2665,
+          "coefficient": 0.05301
+        },
+        {
+          "localStart": 244.924,
+          "sourceStart": 197.078,
+          "offset": -47.8455,
+          "coefficient": 0.04877
+        },
+        {
+          "localStart": 275.539,
+          "sourceStart": 225.769,
+          "offset": -49.77,
+          "coefficient": 0.068831
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "49731",
+      "offset": 35.4385,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.651226,
+      "windows": [
+        {
+          "localStart": 24.492,
+          "sourceStart": 59.06,
+          "offset": 34.5685,
+          "coefficient": 0.061741
+        },
+        {
+          "localStart": 61.231,
+          "sourceStart": 97.081,
+          "offset": 35.85,
+          "coefficient": 0.04092
+        },
+        {
+          "localStart": 97.969,
+          "sourceStart": 131.519,
+          "offset": 33.5495,
+          "coefficient": 0.038527
+        },
+        {
+          "localStart": 134.708,
+          "sourceStart": 171.351,
+          "offset": 36.6425,
+          "coefficient": 0.046809
+        },
+        {
+          "localStart": 171.447,
+          "sourceStart": 207.335,
+          "offset": 35.8885,
+          "coefficient": 0.031675
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

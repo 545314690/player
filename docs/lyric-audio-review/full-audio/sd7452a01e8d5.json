@@ -1,0 +1,70 @@
+{
+  "method": "complete published lyric and full-recording waveform proof",
+  "source": "3648",
+  "waveform": {
+    "source": "3648",
+    "url": "https://www.izanmei.cc/song/3648.html",
+    "audio": "https://play.izanm.org/song/p/3648.mp3",
+    "offset": -0.056623,
+    "scale": 0.999998179,
+    "residual": 0.000725,
+    "coverage": 0.9993,
+    "windows": [
+      {
+        "localStart": 22.213,
+        "sourceStart": 22.156,
+        "offset": -0.057,
+        "coefficient": 0.971002
+      },
+      {
+        "localStart": 55.533,
+        "sourceStart": 55.477,
+        "offset": -0.057,
+        "coefficient": 0.962571
+      },
+      {
+        "localStart": 88.853,
+        "sourceStart": 88.796,
+        "offset": -0.057,
+        "coefficient": 0.963543
+      },
+      {
+        "localStart": 122.174,
+        "sourceStart": 122.117,
+        "offset": -0.057,
+        "coefficient": 0.958584
+      },
+      {
+        "localStart": 155.494,
+        "sourceStart": 155.437,
+        "offset": -0.057,
+        "coefficient": 0.946523
+      },
+      {
+        "localStart": 188.814,
+        "sourceStart": 188.757,
+        "offset": -0.057,
+        "coefficient": 0.963831
+      },
+      {
+        "localStart": 222.134,
+        "sourceStart": 222.077,
+        "offset": -0.057,
+        "coefficient": 0.943827
+      },
+      {
+        "localStart": 249.901,
+        "sourceStart": 249.844,
+        "offset": -0.057,
+        "coefficient": 0.942495
+      }
+    ],
+    "accepted": true
+  },
+  "textCoverage": 1.0,
+  "id": "sd7452a01e8d5",
+  "file": "125主啊,我到你面前.mp3",
+  "fullDuration": 277.668,
+  "recordingHash": "c4a159eb54d9b384a576909c550594f50c162947fccb300e06eba6bb79d9f4f5",
+  "lines": []
+}

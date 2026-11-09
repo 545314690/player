@@ -1,0 +1,124 @@
+{
+  "id": "s9b4c5012b56f",
+  "file": "031光明之子.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "23069",
+      "offset": -13.528,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.938254,
+      "windows": [
+        {
+          "localStart": 17.527,
+          "sourceStart": 3.978,
+          "offset": -13.5485,
+          "coefficient": 0.67273
+        },
+        {
+          "localStart": 43.818,
+          "sourceStart": 30.275,
+          "offset": -13.543,
+          "coefficient": 0.618703
+        },
+        {
+          "localStart": 70.109,
+          "sourceStart": 56.571,
+          "offset": -13.5375,
+          "coefficient": 0.756823
+        },
+        {
+          "localStart": 96.4,
+          "sourceStart": 82.888,
+          "offset": -13.512,
+          "coefficient": 0.604482
+        },
+        {
+          "localStart": 122.69,
+          "sourceStart": 109.165,
+          "offset": -13.5255,
+          "coefficient": 0.78202
+        },
+        {
+          "localStart": 148.981,
+          "sourceStart": 135.461,
+          "offset": -13.52,
+          "coefficient": 0.772661
+        },
+        {
+          "localStart": 175.272,
+          "sourceStart": 161.758,
+          "offset": -13.514,
+          "coefficient": 0.70029
+        },
+        {
+          "localStart": 197.181,
+          "sourceStart": 183.672,
+          "offset": -13.509,
+          "coefficient": 0.781499
+        }
+      ],
+      "accepted": false
+    },
+    {
+      "source": "51867",
+      "offset": -14.036,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.935935,
+      "windows": [
+        {
+          "localStart": 17.527,
+          "sourceStart": 3.003,
+          "offset": -14.5235,
+          "coefficient": 0.01213
+        },
+        {
+          "localStart": 43.818,
+          "sourceStart": 29.383,
+          "offset": -14.435,
+          "coefficient": 0.040375
+        },
+        {
+          "localStart": 70.109,
+          "sourceStart": 57.767,
+          "offset": -12.341,
+          "coefficient": 0.036771
+        },
+        {
+          "localStart": 96.4,
+          "sourceStart": 80.713,
+          "offset": -15.686,
+          "coefficient": 0.016556
+        },
+        {
+          "localStart": 122.69,
+          "sourceStart": 109.15,
+          "offset": -13.5405,
+          "coefficient": 0.051681
+        },
+        {
+          "localStart": 148.981,
+          "sourceStart": 136.599,
+          "offset": -12.382,
+          "coefficient": 0.033138
+        },
+        {
+          "localStart": 175.272,
+          "sourceStart": 163.056,
+          "offset": -12.2155,
+          "coefficient": 0.048179
+        },
+        {
+          "localStart": 197.181,
+          "sourceStart": 182.974,
+          "offset": -14.207,
+          "coefficient": 0.059057
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

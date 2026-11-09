@@ -1,0 +1,1911 @@
+{
+  "id": "s6e8c2d5a68d5",
+  "file": "065十字架的爱_女声.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "11aaa39d9772df82d125ba0fc643cb76e8c93a80c4048e5099a8728542778bfb",
+  "fullDuration": 195.510375,
+  "lines": [
+    {
+      "time": 0.24,
+      "end": 5.58,
+      "text": "《世纪》《世纪》《世纪》《世纪》《世纪》《世纪》《世纪》《世纪》《世纪》",
+      "words": [
+        {
+          "time": 0.24,
+          "end": 0.54,
+          "text": "《",
+          "probability": 0.1237
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "世",
+          "probability": 0.062
+        },
+        {
+          "time": 0.36,
+          "end": 0.72,
+          "text": "纪",
+          "probability": 0.0744
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "》",
+          "probability": 0.2709
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "《",
+          "probability": 0.3492
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "世",
+          "probability": 0.5067
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "纪",
+          "probability": 0.9911
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "》",
+          "probability": 0.689
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "《",
+          "probability": 0.3475
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "世",
+          "probability": 0.673
+        },
+        {
+          "time": 1.46,
+          "end": 1.76,
+          "text": "纪",
+          "probability": 0.993
+        },
+        {
+          "time": 1.48,
+          "end": 1.78,
+          "text": "》",
+          "probability": 0.8936
+        },
+        {
+          "time": 1.72,
+          "end": 2.02,
+          "text": "《",
+          "probability": 0.4097
+        },
+        {
+          "time": 1.72,
+          "end": 2.02,
+          "text": "世",
+          "probability": 0.7734
+        },
+        {
+          "time": 1.72,
+          "end": 2.02,
+          "text": "纪",
+          "probability": 0.9938
+        },
+        {
+          "time": 1.72,
+          "end": 2.02,
+          "text": "》",
+          "probability": 0.9285
+        },
+        {
+          "time": 1.78,
+          "end": 2.08,
+          "text": "《",
+          "probability": 0.5373
+        },
+        {
+          "time": 1.86,
+          "end": 2.16,
+          "text": "世",
+          "probability": 0.8209
+        },
+        {
+          "time": 1.88,
+          "end": 2.2,
+          "text": "纪",
+          "probability": 0.9936
+        },
+        {
+          "time": 1.9,
+          "end": 2.2,
+          "text": "》",
+          "probability": 0.9478
+        },
+        {
+          "time": 2.0,
+          "end": 2.3,
+          "text": "《",
+          "probability": 0.4821
+        },
+        {
+          "time": 2.36,
+          "end": 2.66,
+          "text": "世",
+          "probability": 0.9043
+        },
+        {
+          "time": 2.38,
+          "end": 2.68,
+          "text": "纪",
+          "probability": 0.9938
+        },
+        {
+          "time": 2.38,
+          "end": 2.68,
+          "text": "》",
+          "probability": 0.9685
+        },
+        {
+          "time": 2.62,
+          "end": 2.92,
+          "text": "《",
+          "probability": 0.6479
+        },
+        {
+          "time": 2.88,
+          "end": 3.18,
+          "text": "世",
+          "probability": 0.9472
+        },
+        {
+          "time": 2.88,
+          "end": 3.18,
+          "text": "纪",
+          "probability": 0.9935
+        },
+        {
+          "time": 2.88,
+          "end": 3.18,
+          "text": "》",
+          "probability": 0.982
+        },
+        {
+          "time": 2.96,
+          "end": 3.26,
+          "text": "《",
+          "probability": 0.634
+        },
+        {
+          "time": 3.16,
+          "end": 3.46,
+          "text": "世",
+          "probability": 0.9496
+        },
+        {
+          "time": 3.16,
+          "end": 3.48,
+          "text": "纪",
+          "probability": 0.9944
+        },
+        {
+          "time": 3.24,
+          "end": 3.54,
+          "text": "》",
+          "probability": 0.9818
+        },
+        {
+          "time": 4.38,
+          "end": 4.68,
+          "text": "《",
+          "probability": 0.8014
+        },
+        {
+          "time": 5.28,
+          "end": 5.58,
+          "text": "世",
+          "probability": 0.9547
+        },
+        {
+          "time": 5.28,
+          "end": 5.58,
+          "text": "纪",
+          "probability": 0.9952
+        },
+        {
+          "time": 5.28,
+          "end": 5.58,
+          "text": "》",
+          "probability": 0.9879
+        }
+      ]
+    },
+    {
+      "time": 7.26,
+      "end": 7.7,
+      "text": "《世纪》",
+      "words": [
+        {
+          "time": 7.26,
+          "end": 7.56,
+          "text": "《",
+          "probability": 0.753
+        },
+        {
+          "time": 7.38,
+          "end": 7.68,
+          "text": "世",
+          "probability": 0.9545
+        },
+        {
+          "time": 7.4,
+          "end": 7.7,
+          "text": "纪",
+          "probability": 0.9956
+        },
+        {
+          "time": 7.4,
+          "end": 7.7,
+          "text": "》",
+          "probability": 0.9889
+        }
+      ]
+    },
+    {
+      "time": 11.66,
+      "end": 12.08,
+      "text": "《世纪》",
+      "words": [
+        {
+          "time": 11.66,
+          "end": 11.96,
+          "text": "《",
+          "probability": 0.7576
+        },
+        {
+          "time": 11.66,
+          "end": 11.96,
+          "text": "世",
+          "probability": 0.9624
+        },
+        {
+          "time": 11.66,
+          "end": 11.98,
+          "text": "纪",
+          "probability": 0.9958
+        },
+        {
+          "time": 11.78,
+          "end": 12.08,
+          "text": "》",
+          "probability": 0.9914
+        }
+      ]
+    },
+    {
+      "time": 26.74,
+      "end": 32.42,
+      "text": "耶稣用十字架十字架的爱飞掉了",
+      "words": [
+        {
+          "time": 26.74,
+          "end": 27.04,
+          "text": "耶",
+          "probability": 0.9442
+        },
+        {
+          "time": 27.0,
+          "end": 27.36,
+          "text": "稣",
+          "probability": 0.9752
+        },
+        {
+          "time": 27.64,
+          "end": 27.94,
+          "text": "用",
+          "probability": 0.9682
+        },
+        {
+          "time": 27.86,
+          "end": 28.16,
+          "text": "十",
+          "probability": 0.9325
+        },
+        {
+          "time": 28.14,
+          "end": 28.44,
+          "text": "字",
+          "probability": 0.9939
+        },
+        {
+          "time": 28.44,
+          "end": 28.86,
+          "text": "架",
+          "probability": 0.967
+        },
+        {
+          "time": 28.96,
+          "end": 29.26,
+          "text": "十",
+          "probability": 0.4537
+        },
+        {
+          "time": 29.28,
+          "end": 29.58,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 29.48,
+          "end": 29.84,
+          "text": "架",
+          "probability": 0.9983
+        },
+        {
+          "time": 29.8,
+          "end": 30.1,
+          "text": "的",
+          "probability": 0.865
+        },
+        {
+          "time": 30.52,
+          "end": 30.82,
+          "text": "爱",
+          "probability": 0.9402
+        },
+        {
+          "time": 31.34,
+          "end": 31.84,
+          "text": "飞",
+          "probability": 0.8874
+        },
+        {
+          "time": 31.88,
+          "end": 32.18,
+          "text": "掉",
+          "probability": 0.9262
+        },
+        {
+          "time": 32.22,
+          "end": 32.52,
+          "text": "了",
+          "probability": 0.9979
+        }
+      ]
+    },
+    {
+      "time": 32.42,
+      "end": 34.0,
+      "text": "代代元朝",
+      "words": [
+        {
+          "time": 32.42,
+          "end": 32.72,
+          "text": "代",
+          "probability": 0.8463
+        },
+        {
+          "time": 32.68,
+          "end": 32.98,
+          "text": "代",
+          "probability": 0.9986
+        },
+        {
+          "time": 33.16,
+          "end": 33.46,
+          "text": "元",
+          "probability": 0.6838
+        },
+        {
+          "time": 33.7,
+          "end": 34.0,
+          "text": "朝",
+          "probability": 0.9834
+        }
+      ]
+    },
+    {
+      "time": 35.92,
+      "end": 41.92,
+      "text": "耶稣用十字架十字架的爱所堵了我们",
+      "words": [
+        {
+          "time": 35.92,
+          "end": 36.22,
+          "text": "耶",
+          "probability": 0.999
+        },
+        {
+          "time": 36.08,
+          "end": 36.52,
+          "text": "稣",
+          "probability": 0.9999
+        },
+        {
+          "time": 36.64,
+          "end": 36.94,
+          "text": "用",
+          "probability": 1.0
+        },
+        {
+          "time": 36.94,
+          "end": 37.24,
+          "text": "十",
+          "probability": 0.9999
+        },
+        {
+          "time": 37.22,
+          "end": 37.52,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 37.54,
+          "end": 37.92,
+          "text": "架",
+          "probability": 1.0
+        },
+        {
+          "time": 38.02,
+          "end": 38.32,
+          "text": "十",
+          "probability": 0.9957
+        },
+        {
+          "time": 38.3,
+          "end": 38.6,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 38.5,
+          "end": 38.86,
+          "text": "架",
+          "probability": 1.0
+        },
+        {
+          "time": 38.8,
+          "end": 39.1,
+          "text": "的",
+          "probability": 0.9983
+        },
+        {
+          "time": 39.58,
+          "end": 39.88,
+          "text": "爱",
+          "probability": 0.9996
+        },
+        {
+          "time": 40.38,
+          "end": 40.68,
+          "text": "所",
+          "probability": 0.4411
+        },
+        {
+          "time": 40.78,
+          "end": 41.14,
+          "text": "堵",
+          "probability": 0.2033
+        },
+        {
+          "time": 41.12,
+          "end": 41.42,
+          "text": "了",
+          "probability": 0.9927
+        },
+        {
+          "time": 41.62,
+          "end": 41.92,
+          "text": "我们",
+          "probability": 0.9986
+        }
+      ]
+    },
+    {
+      "time": 42.02,
+      "end": 43.7,
+      "text": "的军力",
+      "words": [
+        {
+          "time": 42.02,
+          "end": 42.32,
+          "text": "的",
+          "probability": 0.999
+        },
+        {
+          "time": 42.18,
+          "end": 42.58,
+          "text": "军",
+          "probability": 0.6992
+        },
+        {
+          "time": 43.4,
+          "end": 43.7,
+          "text": "力",
+          "probability": 0.2879
+        }
+      ]
+    },
+    {
+      "time": 45.14,
+      "end": 50.86,
+      "text": "他用十字架十字架的爱政府全",
+      "words": [
+        {
+          "time": 45.14,
+          "end": 45.44,
+          "text": "他",
+          "probability": 0.4772
+        },
+        {
+          "time": 45.7,
+          "end": 46.0,
+          "text": "用",
+          "probability": 0.9947
+        },
+        {
+          "time": 46.02,
+          "end": 46.32,
+          "text": "十",
+          "probability": 1.0
+        },
+        {
+          "time": 46.3,
+          "end": 46.6,
+          "text": "字",
+          "probability": 0.9999
+        },
+        {
+          "time": 46.58,
+          "end": 46.94,
+          "text": "架",
+          "probability": 1.0
+        },
+        {
+          "time": 47.1,
+          "end": 47.4,
+          "text": "十",
+          "probability": 0.9984
+        },
+        {
+          "time": 47.38,
+          "end": 47.68,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 47.6,
+          "end": 47.96,
+          "text": "架",
+          "probability": 1.0
+        },
+        {
+          "time": 47.92,
+          "end": 48.22,
+          "text": "的",
+          "probability": 0.9984
+        },
+        {
+          "time": 48.68,
+          "end": 48.98,
+          "text": "爱",
+          "probability": 0.9988
+        },
+        {
+          "time": 50.12,
+          "end": 50.42,
+          "text": "政府",
+          "probability": 0.5704
+        },
+        {
+          "time": 50.56,
+          "end": 50.86,
+          "text": "全",
+          "probability": 0.5378
+        }
+      ]
+    },
+    {
+      "time": 51.22,
+      "end": 56.66,
+      "text": "人类无不屈膝无不",
+      "words": [
+        {
+          "time": 51.22,
+          "end": 51.52,
+          "text": "人",
+          "probability": 0.9494
+        },
+        {
+          "time": 51.72,
+          "end": 53.16,
+          "text": "类",
+          "probability": 0.9557
+        },
+        {
+          "time": 54.2,
+          "end": 54.5,
+          "text": "无",
+          "probability": 0.6847
+        },
+        {
+          "time": 54.86,
+          "end": 55.16,
+          "text": "不",
+          "probability": 0.9878
+        },
+        {
+          "time": 55.02,
+          "end": 55.52,
+          "text": "屈",
+          "probability": 0.7464
+        },
+        {
+          "time": 55.58,
+          "end": 56.0,
+          "text": "膝",
+          "probability": 0.5426
+        },
+        {
+          "time": 56.14,
+          "end": 56.44,
+          "text": "无",
+          "probability": 0.9891
+        },
+        {
+          "time": 56.48,
+          "end": 56.78,
+          "text": "不",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 56.66,
+      "end": 61.7,
+      "text": "靠尘一肃基督为救主",
+      "words": [
+        {
+          "time": 56.66,
+          "end": 57.2,
+          "text": "靠",
+          "probability": 0.5143
+        },
+        {
+          "time": 57.18,
+          "end": 57.78,
+          "text": "尘",
+          "probability": 0.2047
+        },
+        {
+          "time": 58.38,
+          "end": 58.68,
+          "text": "一",
+          "probability": 0.3118
+        },
+        {
+          "time": 58.58,
+          "end": 58.98,
+          "text": "肃",
+          "probability": 0.2607
+        },
+        {
+          "time": 58.92,
+          "end": 59.22,
+          "text": "基",
+          "probability": 0.8251
+        },
+        {
+          "time": 59.18,
+          "end": 59.56,
+          "text": "督",
+          "probability": 0.994
+        },
+        {
+          "time": 59.58,
+          "end": 59.88,
+          "text": "为",
+          "probability": 0.8982
+        },
+        {
+          "time": 60.2,
+          "end": 60.5,
+          "text": "救",
+          "probability": 0.5529
+        },
+        {
+          "time": 61.4,
+          "end": 61.7,
+          "text": "主",
+          "probability": 0.6647
+        }
+      ]
+    },
+    {
+      "time": 63.54,
+      "end": 69.38,
+      "text": "叫不怕香虫虫山山脚开山",
+      "words": [
+        {
+          "time": 63.54,
+          "end": 63.84,
+          "text": "叫",
+          "probability": 0.2314
+        },
+        {
+          "time": 64.1,
+          "end": 64.4,
+          "text": "不",
+          "probability": 0.609
+        },
+        {
+          "time": 64.54,
+          "end": 64.84,
+          "text": "怕",
+          "probability": 0.3388
+        },
+        {
+          "time": 65.14,
+          "end": 65.44,
+          "text": "香",
+          "probability": 0.2135
+        },
+        {
+          "time": 65.46,
+          "end": 66.04,
+          "text": "虫",
+          "probability": 0.2782
+        },
+        {
+          "time": 66.04,
+          "end": 66.66,
+          "text": "虫",
+          "probability": 0.8753
+        },
+        {
+          "time": 67.0,
+          "end": 67.3,
+          "text": "山",
+          "probability": 0.4617
+        },
+        {
+          "time": 68.28,
+          "end": 68.58,
+          "text": "山",
+          "probability": 0.5623
+        },
+        {
+          "time": 68.4,
+          "end": 68.72,
+          "text": "脚",
+          "probability": 0.1088
+        },
+        {
+          "time": 68.72,
+          "end": 69.02,
+          "text": "开",
+          "probability": 0.4057
+        },
+        {
+          "time": 69.08,
+          "end": 69.38,
+          "text": "山",
+          "probability": 0.9536
+        }
+      ]
+    },
+    {
+      "time": 69.64,
+      "end": 70.98,
+      "text": "山脉",
+      "words": [
+        {
+          "time": 69.64,
+          "end": 69.94,
+          "text": "山",
+          "probability": 0.8847
+        },
+        {
+          "time": 70.08,
+          "end": 70.98,
+          "text": "脉",
+          "probability": 0.3081
+        }
+      ]
+    },
+    {
+      "time": 72.48,
+      "end": 78.12,
+      "text": "到那主人一生无求无怨也无故我们是神",
+      "words": [
+        {
+          "time": 72.48,
+          "end": 72.78,
+          "text": "到",
+          "probability": 0.0743
+        },
+        {
+          "time": 72.72,
+          "end": 73.02,
+          "text": "那",
+          "probability": 0.7822
+        },
+        {
+          "time": 73.02,
+          "end": 73.32,
+          "text": "主",
+          "probability": 0.1577
+        },
+        {
+          "time": 73.22,
+          "end": 73.52,
+          "text": "人",
+          "probability": 0.5984
+        },
+        {
+          "time": 73.46,
+          "end": 73.76,
+          "text": "一",
+          "probability": 0.983
+        },
+        {
+          "time": 73.68,
+          "end": 73.98,
+          "text": "生",
+          "probability": 0.8578
+        },
+        {
+          "time": 73.94,
+          "end": 74.24,
+          "text": "无",
+          "probability": 0.9415
+        },
+        {
+          "time": 74.2,
+          "end": 74.5,
+          "text": "求",
+          "probability": 0.9521
+        },
+        {
+          "time": 74.52,
+          "end": 74.82,
+          "text": "无",
+          "probability": 0.9828
+        },
+        {
+          "time": 74.74,
+          "end": 75.1,
+          "text": "怨",
+          "probability": 0.8658
+        },
+        {
+          "time": 75.08,
+          "end": 75.38,
+          "text": "也",
+          "probability": 0.9382
+        },
+        {
+          "time": 75.4,
+          "end": 75.7,
+          "text": "无",
+          "probability": 0.9994
+        },
+        {
+          "time": 75.76,
+          "end": 76.06,
+          "text": "故",
+          "probability": 0.2676
+        },
+        {
+          "time": 77.24,
+          "end": 77.54,
+          "text": "我们",
+          "probability": 0.9786
+        },
+        {
+          "time": 77.58,
+          "end": 77.88,
+          "text": "是",
+          "probability": 0.9975
+        },
+        {
+          "time": 77.92,
+          "end": 78.22,
+          "text": "神",
+          "probability": 0.9867
+        }
+      ]
+    },
+    {
+      "time": 78.12,
+      "end": 79.52,
+      "text": "的夫人",
+      "words": [
+        {
+          "time": 78.12,
+          "end": 78.42,
+          "text": "的",
+          "probability": 0.9943
+        },
+        {
+          "time": 78.58,
+          "end": 78.88,
+          "text": "夫",
+          "probability": 0.4367
+        },
+        {
+          "time": 79.22,
+          "end": 79.52,
+          "text": "人",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 102.54,
+      "end": 108.24,
+      "text": "耶稣用十字架十字架的海醉掉了",
+      "words": [
+        {
+          "time": 102.54,
+          "end": 102.84,
+          "text": "耶",
+          "probability": 0.9251
+        },
+        {
+          "time": 102.82,
+          "end": 103.2,
+          "text": "稣",
+          "probability": 0.9915
+        },
+        {
+          "time": 103.36,
+          "end": 103.66,
+          "text": "用",
+          "probability": 0.9284
+        },
+        {
+          "time": 103.66,
+          "end": 103.96,
+          "text": "十",
+          "probability": 0.512
+        },
+        {
+          "time": 103.96,
+          "end": 104.26,
+          "text": "字",
+          "probability": 0.9984
+        },
+        {
+          "time": 104.3,
+          "end": 104.74,
+          "text": "架",
+          "probability": 0.9045
+        },
+        {
+          "time": 104.82,
+          "end": 105.12,
+          "text": "十",
+          "probability": 0.9065
+        },
+        {
+          "time": 105.14,
+          "end": 105.44,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 105.36,
+          "end": 105.74,
+          "text": "架",
+          "probability": 0.991
+        },
+        {
+          "time": 105.7,
+          "end": 106.0,
+          "text": "的",
+          "probability": 0.7776
+        },
+        {
+          "time": 106.44,
+          "end": 106.74,
+          "text": "海",
+          "probability": 0.5344
+        },
+        {
+          "time": 107.2,
+          "end": 107.64,
+          "text": "醉",
+          "probability": 0.1774
+        },
+        {
+          "time": 107.72,
+          "end": 108.02,
+          "text": "掉",
+          "probability": 0.1071
+        },
+        {
+          "time": 108.06,
+          "end": 108.36,
+          "text": "了",
+          "probability": 0.9602
+        }
+      ]
+    },
+    {
+      "time": 108.24,
+      "end": 109.94,
+      "text": "奶奶元朝",
+      "words": [
+        {
+          "time": 108.24,
+          "end": 108.54,
+          "text": "奶",
+          "probability": 0.5469
+        },
+        {
+          "time": 108.48,
+          "end": 108.78,
+          "text": "奶",
+          "probability": 0.9966
+        },
+        {
+          "time": 109.04,
+          "end": 109.34,
+          "text": "元",
+          "probability": 0.3822
+        },
+        {
+          "time": 109.64,
+          "end": 109.94,
+          "text": "朝",
+          "probability": 0.9868
+        }
+      ]
+    },
+    {
+      "time": 111.66,
+      "end": 117.62,
+      "text": "耶稣用十字架十字架的爱所夺了我们",
+      "words": [
+        {
+          "time": 111.66,
+          "end": 111.96,
+          "text": "耶",
+          "probability": 0.9651
+        },
+        {
+          "time": 111.8,
+          "end": 112.24,
+          "text": "稣",
+          "probability": 0.9831
+        },
+        {
+          "time": 112.44,
+          "end": 112.74,
+          "text": "用",
+          "probability": 0.9786
+        },
+        {
+          "time": 112.64,
+          "end": 112.94,
+          "text": "十",
+          "probability": 0.957
+        },
+        {
+          "time": 112.94,
+          "end": 113.24,
+          "text": "字",
+          "probability": 0.9982
+        },
+        {
+          "time": 113.24,
+          "end": 113.64,
+          "text": "架",
+          "probability": 0.9589
+        },
+        {
+          "time": 113.74,
+          "end": 114.04,
+          "text": "十",
+          "probability": 0.9953
+        },
+        {
+          "time": 114.04,
+          "end": 114.34,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 114.26,
+          "end": 114.64,
+          "text": "架",
+          "probability": 0.9987
+        },
+        {
+          "time": 114.58,
+          "end": 114.88,
+          "text": "的",
+          "probability": 0.9647
+        },
+        {
+          "time": 115.34,
+          "end": 115.64,
+          "text": "爱",
+          "probability": 0.9759
+        },
+        {
+          "time": 116.1,
+          "end": 116.4,
+          "text": "所",
+          "probability": 0.644
+        },
+        {
+          "time": 116.48,
+          "end": 116.84,
+          "text": "夺",
+          "probability": 0.5309
+        },
+        {
+          "time": 116.72,
+          "end": 117.02,
+          "text": "了",
+          "probability": 0.9258
+        },
+        {
+          "time": 117.32,
+          "end": 117.62,
+          "text": "我们",
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "time": 117.76,
+      "end": 119.06,
+      "text": "的军力",
+      "words": [
+        {
+          "time": 117.76,
+          "end": 118.06,
+          "text": "的",
+          "probability": 0.9897
+        },
+        {
+          "time": 117.9,
+          "end": 118.32,
+          "text": "军",
+          "probability": 0.569
+        },
+        {
+          "time": 118.76,
+          "end": 119.06,
+          "text": "力",
+          "probability": 0.45
+        }
+      ]
+    },
+    {
+      "time": 120.64,
+      "end": 126.38,
+      "text": "他用十字架十字架的爱丈夫全",
+      "words": [
+        {
+          "time": 120.64,
+          "end": 120.94,
+          "text": "他",
+          "probability": 0.8113
+        },
+        {
+          "time": 121.3,
+          "end": 121.6,
+          "text": "用",
+          "probability": 0.9769
+        },
+        {
+          "time": 121.6,
+          "end": 121.9,
+          "text": "十",
+          "probability": 1.0
+        },
+        {
+          "time": 121.88,
+          "end": 122.18,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 122.16,
+          "end": 122.48,
+          "text": "架",
+          "probability": 1.0
+        },
+        {
+          "time": 122.64,
+          "end": 122.94,
+          "text": "十",
+          "probability": 0.9993
+        },
+        {
+          "time": 122.9,
+          "end": 123.2,
+          "text": "字",
+          "probability": 1.0
+        },
+        {
+          "time": 123.14,
+          "end": 123.5,
+          "text": "架",
+          "probability": 1.0
+        },
+        {
+          "time": 123.42,
+          "end": 123.72,
+          "text": "的",
+          "probability": 0.9996
+        },
+        {
+          "time": 124.28,
+          "end": 124.58,
+          "text": "爱",
+          "probability": 0.9984
+        },
+        {
+          "time": 125.62,
+          "end": 125.92,
+          "text": "丈夫",
+          "probability": 0.8289
+        },
+        {
+          "time": 126.08,
+          "end": 126.38,
+          "text": "全",
+          "probability": 0.7926
+        }
+      ]
+    },
+    {
+      "time": 126.64,
+      "end": 132.56,
+      "text": "人类无不屈膝无不靠",
+      "words": [
+        {
+          "time": 126.64,
+          "end": 126.94,
+          "text": "人",
+          "probability": 0.9846
+        },
+        {
+          "time": 127.4,
+          "end": 129.44,
+          "text": "类",
+          "probability": 0.9774
+        },
+        {
+          "time": 129.58,
+          "end": 129.88,
+          "text": "无",
+          "probability": 0.4643
+        },
+        {
+          "time": 130.18,
+          "end": 130.48,
+          "text": "不",
+          "probability": 0.875
+        },
+        {
+          "time": 130.4,
+          "end": 130.88,
+          "text": "屈",
+          "probability": 0.7691
+        },
+        {
+          "time": 131.0,
+          "end": 131.44,
+          "text": "膝",
+          "probability": 0.5921
+        },
+        {
+          "time": 131.54,
+          "end": 131.84,
+          "text": "无",
+          "probability": 0.9875
+        },
+        {
+          "time": 131.84,
+          "end": 132.14,
+          "text": "不",
+          "probability": 0.9998
+        },
+        {
+          "time": 132.02,
+          "end": 132.56,
+          "text": "靠",
+          "probability": 0.5851
+        }
+      ]
+    },
+    {
+      "time": 132.62,
+      "end": 136.78,
+      "text": "尘你所基督为救主",
+      "words": [
+        {
+          "time": 132.62,
+          "end": 133.24,
+          "text": "尘",
+          "probability": 0.2583
+        },
+        {
+          "time": 133.68,
+          "end": 133.98,
+          "text": "你",
+          "probability": 0.1399
+        },
+        {
+          "time": 133.94,
+          "end": 134.24,
+          "text": "所",
+          "probability": 0.961
+        },
+        {
+          "time": 134.18,
+          "end": 134.48,
+          "text": "基",
+          "probability": 0.3978
+        },
+        {
+          "time": 134.4,
+          "end": 134.74,
+          "text": "督",
+          "probability": 0.9962
+        },
+        {
+          "time": 134.78,
+          "end": 135.08,
+          "text": "为",
+          "probability": 0.8883
+        },
+        {
+          "time": 135.46,
+          "end": 135.76,
+          "text": "救",
+          "probability": 0.6699
+        },
+        {
+          "time": 136.48,
+          "end": 136.78,
+          "text": "主",
+          "probability": 0.5939
+        }
+      ]
+    },
+    {
+      "time": 138.7,
+      "end": 144.4,
+      "text": "叫不他想重处上手而交开山",
+      "words": [
+        {
+          "time": 138.7,
+          "end": 139.0,
+          "text": "叫",
+          "probability": 0.2148
+        },
+        {
+          "time": 139.22,
+          "end": 139.52,
+          "text": "不",
+          "probability": 0.2677
+        },
+        {
+          "time": 139.68,
+          "end": 139.98,
+          "text": "他",
+          "probability": 0.5512
+        },
+        {
+          "time": 140.24,
+          "end": 140.54,
+          "text": "想",
+          "probability": 0.3057
+        },
+        {
+          "time": 140.76,
+          "end": 141.06,
+          "text": "重",
+          "probability": 0.4012
+        },
+        {
+          "time": 141.26,
+          "end": 141.76,
+          "text": "处",
+          "probability": 0.4618
+        },
+        {
+          "time": 142.02,
+          "end": 142.32,
+          "text": "上",
+          "probability": 0.4322
+        },
+        {
+          "time": 142.92,
+          "end": 143.22,
+          "text": "手",
+          "probability": 0.4809
+        },
+        {
+          "time": 143.26,
+          "end": 143.56,
+          "text": "而",
+          "probability": 0.3911
+        },
+        {
+          "time": 143.4,
+          "end": 143.7,
+          "text": "交",
+          "probability": 0.5436
+        },
+        {
+          "time": 143.72,
+          "end": 144.02,
+          "text": "开",
+          "probability": 0.7995
+        },
+        {
+          "time": 144.1,
+          "end": 144.4,
+          "text": "山",
+          "probability": 0.8253
+        }
+      ]
+    },
+    {
+      "time": 144.68,
+      "end": 145.72,
+      "text": "上吗",
+      "words": [
+        {
+          "time": 144.68,
+          "end": 144.98,
+          "text": "上",
+          "probability": 0.8817
+        },
+        {
+          "time": 145.42,
+          "end": 145.72,
+          "text": "吗",
+          "probability": 0.3048
+        }
+      ]
+    },
+    {
+      "time": 147.54,
+      "end": 153.24,
+      "text": "我那主意生无求无怨也无悔我们是神",
+      "words": [
+        {
+          "time": 147.54,
+          "end": 147.84,
+          "text": "我",
+          "probability": 0.1769
+        },
+        {
+          "time": 147.76,
+          "end": 148.06,
+          "text": "那",
+          "probability": 0.3709
+        },
+        {
+          "time": 148.08,
+          "end": 148.38,
+          "text": "主",
+          "probability": 0.0997
+        },
+        {
+          "time": 148.36,
+          "end": 148.66,
+          "text": "意",
+          "probability": 0.1772
+        },
+        {
+          "time": 148.78,
+          "end": 149.08,
+          "text": "生",
+          "probability": 0.308
+        },
+        {
+          "time": 149.06,
+          "end": 149.36,
+          "text": "无",
+          "probability": 0.9826
+        },
+        {
+          "time": 149.32,
+          "end": 149.62,
+          "text": "求",
+          "probability": 0.9818
+        },
+        {
+          "time": 149.64,
+          "end": 149.94,
+          "text": "无",
+          "probability": 0.9068
+        },
+        {
+          "time": 149.9,
+          "end": 150.2,
+          "text": "怨",
+          "probability": 0.7697
+        },
+        {
+          "time": 150.2,
+          "end": 150.5,
+          "text": "也",
+          "probability": 0.9396
+        },
+        {
+          "time": 150.54,
+          "end": 150.84,
+          "text": "无",
+          "probability": 0.9986
+        },
+        {
+          "time": 150.88,
+          "end": 151.36,
+          "text": "悔",
+          "probability": 0.9318
+        },
+        {
+          "time": 152.4,
+          "end": 152.7,
+          "text": "我们",
+          "probability": 0.9518
+        },
+        {
+          "time": 152.7,
+          "end": 153.0,
+          "text": "是",
+          "probability": 0.9581
+        },
+        {
+          "time": 153.02,
+          "end": 153.32,
+          "text": "神",
+          "probability": 0.7529
+        }
+      ]
+    },
+    {
+      "time": 153.24,
+      "end": 154.56,
+      "text": "的孤人",
+      "words": [
+        {
+          "time": 153.24,
+          "end": 153.54,
+          "text": "的",
+          "probability": 0.9305
+        },
+        {
+          "time": 153.58,
+          "end": 154.06,
+          "text": "孤",
+          "probability": 0.1727
+        },
+        {
+          "time": 154.26,
+          "end": 154.56,
+          "text": "人",
+          "probability": 0.4984
+        }
+      ]
+    },
+    {
+      "time": 156.9,
+      "end": 162.7,
+      "text": "叫不他想重处上手儿敲开山",
+      "words": [
+        {
+          "time": 156.9,
+          "end": 157.2,
+          "text": "叫",
+          "probability": 0.9898
+        },
+        {
+          "time": 157.44,
+          "end": 157.74,
+          "text": "不",
+          "probability": 0.9993
+        },
+        {
+          "time": 157.88,
+          "end": 158.18,
+          "text": "他",
+          "probability": 0.9981
+        },
+        {
+          "time": 158.48,
+          "end": 158.78,
+          "text": "想",
+          "probability": 0.9949
+        },
+        {
+          "time": 159.02,
+          "end": 159.32,
+          "text": "重",
+          "probability": 0.8574
+        },
+        {
+          "time": 159.4,
+          "end": 159.88,
+          "text": "处",
+          "probability": 0.9998
+        },
+        {
+          "time": 160.1,
+          "end": 160.4,
+          "text": "上",
+          "probability": 0.9983
+        },
+        {
+          "time": 161.2,
+          "end": 161.5,
+          "text": "手",
+          "probability": 0.4925
+        },
+        {
+          "time": 161.48,
+          "end": 161.78,
+          "text": "儿",
+          "probability": 0.2101
+        },
+        {
+          "time": 161.6,
+          "end": 161.98,
+          "text": "敲",
+          "probability": 0.7268
+        },
+        {
+          "time": 161.94,
+          "end": 162.24,
+          "text": "开",
+          "probability": 0.9879
+        },
+        {
+          "time": 162.4,
+          "end": 162.7,
+          "text": "山",
+          "probability": 0.7393
+        }
+      ]
+    },
+    {
+      "time": 162.98,
+      "end": 168.68,
+      "text": "山河报答主一生无求无怨也",
+      "words": [
+        {
+          "time": 162.98,
+          "end": 163.28,
+          "text": "山",
+          "probability": 0.7247
+        },
+        {
+          "time": 163.4,
+          "end": 165.22,
+          "text": "河",
+          "probability": 0.1358
+        },
+        {
+          "time": 165.64,
+          "end": 165.94,
+          "text": "报",
+          "probability": 0.2968
+        },
+        {
+          "time": 165.92,
+          "end": 166.22,
+          "text": "答",
+          "probability": 0.9843
+        },
+        {
+          "time": 166.28,
+          "end": 166.58,
+          "text": "主",
+          "probability": 0.902
+        },
+        {
+          "time": 166.68,
+          "end": 166.98,
+          "text": "一",
+          "probability": 0.7919
+        },
+        {
+          "time": 167.0,
+          "end": 167.3,
+          "text": "生",
+          "probability": 0.995
+        },
+        {
+          "time": 167.26,
+          "end": 167.56,
+          "text": "无",
+          "probability": 0.9898
+        },
+        {
+          "time": 167.52,
+          "end": 167.82,
+          "text": "求",
+          "probability": 0.9898
+        },
+        {
+          "time": 167.78,
+          "end": 168.08,
+          "text": "无",
+          "probability": 0.9904
+        },
+        {
+          "time": 168.0,
+          "end": 168.36,
+          "text": "怨",
+          "probability": 0.8281
+        },
+        {
+          "time": 168.38,
+          "end": 168.68,
+          "text": "也",
+          "probability": 0.9706
+        }
+      ]
+    },
+    {
+      "time": 168.72,
+      "end": 173.18,
+      "text": "无悔我们是神的父人",
+      "words": [
+        {
+          "time": 168.72,
+          "end": 169.02,
+          "text": "无",
+          "probability": 0.9977
+        },
+        {
+          "time": 169.04,
+          "end": 169.58,
+          "text": "悔",
+          "probability": 0.9919
+        },
+        {
+          "time": 170.72,
+          "end": 171.02,
+          "text": "我们",
+          "probability": 0.9944
+        },
+        {
+          "time": 171.06,
+          "end": 171.36,
+          "text": "是",
+          "probability": 0.9976
+        },
+        {
+          "time": 171.42,
+          "end": 171.72,
+          "text": "神",
+          "probability": 0.9033
+        },
+        {
+          "time": 171.62,
+          "end": 171.92,
+          "text": "的",
+          "probability": 0.9977
+        },
+        {
+          "time": 172.14,
+          "end": 172.44,
+          "text": "父",
+          "probability": 0.4099
+        },
+        {
+          "time": 172.88,
+          "end": 173.18,
+          "text": "人",
+          "probability": 0.7097
+        }
+      ]
+    },
+    {
+      "time": 194.04,
+      "end": 194.34,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "优",
+          "probability": 0.5285
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "优",
+          "probability": 0.9976
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "独",
+          "probability": 0.9954
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "播",
+          "probability": 0.9969
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "剧",
+          "probability": 0.9974
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "场",
+          "probability": 0.998
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "——",
+          "probability": 0.9982
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "Yo",
+          "probability": 0.9974
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "Yo",
+          "probability": 0.9979
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": " Television",
+          "probability": 0.9929
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": " Series",
+          "probability": 0.998
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": " Exc",
+          "probability": 0.9968
+        },
+        {
+          "time": 194.04,
+          "end": 194.34,
+          "text": "lusive",
+          "probability": 0.9981
+        }
+      ]
+    }
+  ]
+}

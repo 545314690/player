@@ -1,0 +1,2843 @@
+{
+  "id": "sbd97e21743b2",
+  "file": "265-只愿得着你.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "5fff4bd08130cecd0a8aef92b03bcabeab53b75dda1f6283bcdca637160f918d",
+  "fullDuration": 250.723063,
+  "lines": [
+    {
+      "time": 0.34,
+      "end": 5.58,
+      "text": "作词 :作曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编曲 :编",
+      "words": [
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "作",
+          "probability": 0.2366
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": "词",
+          "probability": 0.4052
+        },
+        {
+          "time": 0.34,
+          "end": 0.64,
+          "text": " :",
+          "probability": 0.524
+        },
+        {
+          "time": 1.12,
+          "end": 1.42,
+          "text": "作",
+          "probability": 0.0301
+        },
+        {
+          "time": 1.12,
+          "end": 1.42,
+          "text": "曲",
+          "probability": 0.6895
+        },
+        {
+          "time": 1.12,
+          "end": 1.42,
+          "text": " :",
+          "probability": 0.8849
+        },
+        {
+          "time": 1.12,
+          "end": 1.42,
+          "text": "编",
+          "probability": 0.0877
+        },
+        {
+          "time": 1.12,
+          "end": 1.42,
+          "text": "曲",
+          "probability": 0.7976
+        },
+        {
+          "time": 1.12,
+          "end": 1.42,
+          "text": " :",
+          "probability": 0.8736
+        },
+        {
+          "time": 1.32,
+          "end": 1.62,
+          "text": "编",
+          "probability": 0.6364
+        },
+        {
+          "time": 1.58,
+          "end": 1.88,
+          "text": "曲",
+          "probability": 0.8951
+        },
+        {
+          "time": 1.58,
+          "end": 1.88,
+          "text": " :",
+          "probability": 0.8635
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.8607
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9174
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.864
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.925
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9378
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8693
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9463
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9454
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8766
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9601
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9524
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8774
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9652
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9568
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8774
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.969
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9648
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8778
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9729
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9658
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8749
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9761
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.968
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8786
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9787
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9688
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8713
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9803
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9683
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8748
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9802
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.973
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8762
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9812
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9718
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8724
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9823
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9741
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.877
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9816
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9731
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.876
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9822
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9747
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8716
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9826
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9751
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8762
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9837
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9767
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8748
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9826
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9782
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8739
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9835
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9778
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.879
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9828
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9766
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8795
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "编",
+          "probability": 0.9826
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": "曲",
+          "probability": 0.9787
+        },
+        {
+          "time": 1.6,
+          "end": 1.9,
+          "text": " :",
+          "probability": 0.8804
+        },
+        {
+          "time": 1.6,
+          "end": 1.92,
+          "text": "编",
+          "probability": 0.983
+        },
+        {
+          "time": 1.68,
+          "end": 1.98,
+          "text": "曲",
+          "probability": 0.9791
+        },
+        {
+          "time": 1.7,
+          "end": 2.0,
+          "text": " :",
+          "probability": 0.8835
+        },
+        {
+          "time": 1.72,
+          "end": 2.02,
+          "text": "编",
+          "probability": 0.9832
+        },
+        {
+          "time": 1.72,
+          "end": 2.02,
+          "text": "曲",
+          "probability": 0.98
+        },
+        {
+          "time": 1.72,
+          "end": 2.02,
+          "text": " :",
+          "probability": 0.8845
+        },
+        {
+          "time": 1.74,
+          "end": 2.04,
+          "text": "编",
+          "probability": 0.9839
+        },
+        {
+          "time": 1.74,
+          "end": 2.04,
+          "text": "曲",
+          "probability": 0.9799
+        },
+        {
+          "time": 1.74,
+          "end": 2.04,
+          "text": " :",
+          "probability": 0.8883
+        },
+        {
+          "time": 1.74,
+          "end": 2.04,
+          "text": "编",
+          "probability": 0.9828
+        },
+        {
+          "time": 1.74,
+          "end": 2.04,
+          "text": "曲",
+          "probability": 0.9801
+        },
+        {
+          "time": 1.74,
+          "end": 2.04,
+          "text": " :",
+          "probability": 0.8872
+        },
+        {
+          "time": 2.06,
+          "end": 2.36,
+          "text": "编",
+          "probability": 0.9833
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": "曲",
+          "probability": 0.9808
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": " :",
+          "probability": 0.8924
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": "编",
+          "probability": 0.9825
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": "曲",
+          "probability": 0.9815
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": " :",
+          "probability": 0.8935
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": "编",
+          "probability": 0.9834
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": "曲",
+          "probability": 0.9814
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": " :",
+          "probability": 0.8969
+        },
+        {
+          "time": 2.1,
+          "end": 2.4,
+          "text": "编",
+          "probability": 0.9832
+        },
+        {
+          "time": 2.12,
+          "end": 2.42,
+          "text": "曲",
+          "probability": 0.9824
+        },
+        {
+          "time": 2.3,
+          "end": 2.6,
+          "text": " :",
+          "probability": 0.8979
+        },
+        {
+          "time": 2.54,
+          "end": 2.84,
+          "text": "编",
+          "probability": 0.9833
+        },
+        {
+          "time": 2.7,
+          "end": 3.0,
+          "text": "曲",
+          "probability": 0.9832
+        },
+        {
+          "time": 3.58,
+          "end": 3.88,
+          "text": " :",
+          "probability": 0.9072
+        },
+        {
+          "time": 4.16,
+          "end": 4.48,
+          "text": "编",
+          "probability": 0.9836
+        },
+        {
+          "time": 4.3,
+          "end": 4.6,
+          "text": "曲",
+          "probability": 0.9832
+        },
+        {
+          "time": 4.32,
+          "end": 4.62,
+          "text": " :",
+          "probability": 0.9048
+        },
+        {
+          "time": 4.52,
+          "end": 4.84,
+          "text": "编",
+          "probability": 0.9845
+        },
+        {
+          "time": 4.56,
+          "end": 4.86,
+          "text": "曲",
+          "probability": 0.9834
+        },
+        {
+          "time": 4.88,
+          "end": 5.18,
+          "text": " :",
+          "probability": 0.9107
+        },
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "编",
+          "probability": 0.9838
+        }
+      ]
+    },
+    {
+      "time": 5.58,
+      "end": 6.32,
+      "text": "曲 :",
+      "words": [
+        {
+          "time": 5.58,
+          "end": 5.88,
+          "text": "曲",
+          "probability": 0.9842
+        },
+        {
+          "time": 6.02,
+          "end": 6.32,
+          "text": " :",
+          "probability": 0.911
+        }
+      ]
+    },
+    {
+      "time": 10.2,
+      "end": 10.52,
+      "text": "编曲 :",
+      "words": [
+        {
+          "time": 10.2,
+          "end": 10.5,
+          "text": "编",
+          "probability": 0.984
+        },
+        {
+          "time": 10.2,
+          "end": 10.5,
+          "text": "曲",
+          "probability": 0.9833
+        },
+        {
+          "time": 10.22,
+          "end": 10.52,
+          "text": " :",
+          "probability": 0.9141
+        }
+      ]
+    },
+    {
+      "time": 14.6,
+      "end": 18.42,
+      "text": "编曲 :编曲 :编曲 :",
+      "words": [
+        {
+          "time": 14.6,
+          "end": 15.04,
+          "text": "编",
+          "probability": 0.9847
+        },
+        {
+          "time": 15.14,
+          "end": 15.44,
+          "text": "曲",
+          "probability": 0.9852
+        },
+        {
+          "time": 15.56,
+          "end": 15.86,
+          "text": " :",
+          "probability": 0.9158
+        },
+        {
+          "time": 15.68,
+          "end": 16.12,
+          "text": "编",
+          "probability": 0.9849
+        },
+        {
+          "time": 16.96,
+          "end": 17.26,
+          "text": "曲",
+          "probability": 0.9846
+        },
+        {
+          "time": 17.28,
+          "end": 17.58,
+          "text": " :",
+          "probability": 0.9186
+        },
+        {
+          "time": 17.44,
+          "end": 17.9,
+          "text": "编",
+          "probability": 0.9853
+        },
+        {
+          "time": 17.6,
+          "end": 17.9,
+          "text": "曲",
+          "probability": 0.985
+        },
+        {
+          "time": 18.12,
+          "end": 18.42,
+          "text": " :",
+          "probability": 0.9266
+        }
+      ]
+    },
+    {
+      "time": 20.86,
+      "end": 25.14,
+      "text": "编曲 :编曲 :",
+      "words": [
+        {
+          "time": 20.86,
+          "end": 21.32,
+          "text": "编",
+          "probability": 0.9857
+        },
+        {
+          "time": 21.4,
+          "end": 21.7,
+          "text": "曲",
+          "probability": 0.985
+        },
+        {
+          "time": 22.46,
+          "end": 22.76,
+          "text": " :",
+          "probability": 0.9288
+        },
+        {
+          "time": 23.46,
+          "end": 24.78,
+          "text": "编",
+          "probability": 0.9849
+        },
+        {
+          "time": 24.66,
+          "end": 24.96,
+          "text": "曲",
+          "probability": 0.985
+        },
+        {
+          "time": 24.84,
+          "end": 25.14,
+          "text": " :",
+          "probability": 0.9304
+        }
+      ]
+    },
+    {
+      "time": 27.68,
+      "end": 33.22,
+      "text": "编曲 :只夸认识",
+      "words": [
+        {
+          "time": 27.68,
+          "end": 28.7,
+          "text": "编",
+          "probability": 0.9863
+        },
+        {
+          "time": 29.18,
+          "end": 29.48,
+          "text": "曲",
+          "probability": 0.9854
+        },
+        {
+          "time": 29.64,
+          "end": 29.94,
+          "text": " :",
+          "probability": 0.9333
+        },
+        {
+          "time": 31.12,
+          "end": 31.42,
+          "text": "只",
+          "probability": 0.9231
+        },
+        {
+          "time": 31.54,
+          "end": 32.2,
+          "text": "夸",
+          "probability": 0.168
+        },
+        {
+          "time": 32.4,
+          "end": 32.8,
+          "text": "认",
+          "probability": 0.9235
+        },
+        {
+          "time": 32.8,
+          "end": 33.22,
+          "text": "识",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 33.64,
+      "end": 39.24,
+      "text": "你我的主我的王我的唯一",
+      "words": [
+        {
+          "time": 33.64,
+          "end": 33.94,
+          "text": "你",
+          "probability": 0.9521
+        },
+        {
+          "time": 34.74,
+          "end": 35.04,
+          "text": "我的",
+          "probability": 0.9991
+        },
+        {
+          "time": 35.16,
+          "end": 35.46,
+          "text": "主",
+          "probability": 0.9563
+        },
+        {
+          "time": 36.52,
+          "end": 36.82,
+          "text": "我的",
+          "probability": 0.9935
+        },
+        {
+          "time": 36.86,
+          "end": 37.16,
+          "text": "王",
+          "probability": 0.8992
+        },
+        {
+          "time": 37.66,
+          "end": 37.96,
+          "text": "我的",
+          "probability": 0.9974
+        },
+        {
+          "time": 38.04,
+          "end": 38.48,
+          "text": "唯",
+          "probability": 0.4609
+        },
+        {
+          "time": 38.94,
+          "end": 39.24,
+          "text": "一",
+          "probability": 0.9286
+        }
+      ]
+    },
+    {
+      "time": 41.42,
+      "end": 48.56,
+      "text": "以你恩典我站在只身体敬",
+      "words": [
+        {
+          "time": 41.42,
+          "end": 41.72,
+          "text": "以",
+          "probability": 0.4865
+        },
+        {
+          "time": 41.66,
+          "end": 41.96,
+          "text": "你",
+          "probability": 0.8527
+        },
+        {
+          "time": 42.04,
+          "end": 42.34,
+          "text": "恩",
+          "probability": 0.7251
+        },
+        {
+          "time": 42.34,
+          "end": 42.78,
+          "text": "典",
+          "probability": 0.975
+        },
+        {
+          "time": 43.2,
+          "end": 43.5,
+          "text": "我",
+          "probability": 0.9991
+        },
+        {
+          "time": 43.58,
+          "end": 43.88,
+          "text": "站",
+          "probability": 0.9991
+        },
+        {
+          "time": 44.08,
+          "end": 44.38,
+          "text": "在",
+          "probability": 1.0
+        },
+        {
+          "time": 44.46,
+          "end": 44.76,
+          "text": "只",
+          "probability": 0.3706
+        },
+        {
+          "time": 44.92,
+          "end": 45.22,
+          "text": "身",
+          "probability": 0.9288
+        },
+        {
+          "time": 45.62,
+          "end": 45.92,
+          "text": "体",
+          "probability": 0.8997
+        },
+        {
+          "time": 46.38,
+          "end": 48.62,
+          "text": "敬",
+          "probability": 0.4825
+        }
+      ]
+    },
+    {
+      "time": 48.56,
+      "end": 52.94,
+      "text": "拜你在你的荣光里",
+      "words": [
+        {
+          "time": 48.56,
+          "end": 48.86,
+          "text": "拜",
+          "probability": 0.9889
+        },
+        {
+          "time": 49.1,
+          "end": 49.4,
+          "text": "你",
+          "probability": 0.6291
+        },
+        {
+          "time": 50.14,
+          "end": 50.44,
+          "text": "在",
+          "probability": 0.986
+        },
+        {
+          "time": 50.9,
+          "end": 51.2,
+          "text": "你的",
+          "probability": 0.9883
+        },
+        {
+          "time": 51.34,
+          "end": 51.78,
+          "text": "荣",
+          "probability": 0.9213
+        },
+        {
+          "time": 51.9,
+          "end": 52.2,
+          "text": "光",
+          "probability": 0.9949
+        },
+        {
+          "time": 52.64,
+          "end": 52.94,
+          "text": "里",
+          "probability": 0.9901
+        }
+      ]
+    },
+    {
+      "time": 55.3,
+      "end": 61.38,
+      "text": "我已无所有唯有生命献给你",
+      "words": [
+        {
+          "time": 55.3,
+          "end": 55.6,
+          "text": "我",
+          "probability": 0.9652
+        },
+        {
+          "time": 55.78,
+          "end": 56.08,
+          "text": "已",
+          "probability": 0.6192
+        },
+        {
+          "time": 56.24,
+          "end": 56.54,
+          "text": "无",
+          "probability": 0.9848
+        },
+        {
+          "time": 57.42,
+          "end": 57.72,
+          "text": "所有",
+          "probability": 0.9714
+        },
+        {
+          "time": 58.54,
+          "end": 58.9,
+          "text": "唯",
+          "probability": 0.7693
+        },
+        {
+          "time": 58.76,
+          "end": 59.06,
+          "text": "有",
+          "probability": 0.9845
+        },
+        {
+          "time": 59.16,
+          "end": 59.46,
+          "text": "生",
+          "probability": 0.9516
+        },
+        {
+          "time": 59.56,
+          "end": 59.86,
+          "text": "命",
+          "probability": 0.9999
+        },
+        {
+          "time": 59.88,
+          "end": 60.32,
+          "text": "献",
+          "probability": 0.8607
+        },
+        {
+          "time": 60.42,
+          "end": 60.72,
+          "text": "给",
+          "probability": 0.9995
+        },
+        {
+          "time": 61.08,
+          "end": 61.38,
+          "text": "你",
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "time": 62.16,
+      "end": 66.86,
+      "text": "我的主我的王我的唯一",
+      "words": [
+        {
+          "time": 62.16,
+          "end": 62.46,
+          "text": "我的",
+          "probability": 0.9975
+        },
+        {
+          "time": 62.58,
+          "end": 62.88,
+          "text": "主",
+          "probability": 0.9554
+        },
+        {
+          "time": 63.9,
+          "end": 64.2,
+          "text": "我的",
+          "probability": 0.9951
+        },
+        {
+          "time": 64.28,
+          "end": 64.58,
+          "text": "王",
+          "probability": 0.9642
+        },
+        {
+          "time": 65.08,
+          "end": 65.38,
+          "text": "我的",
+          "probability": 0.9982
+        },
+        {
+          "time": 65.46,
+          "end": 65.92,
+          "text": "唯",
+          "probability": 0.3887
+        },
+        {
+          "time": 66.56,
+          "end": 66.86,
+          "text": "一",
+          "probability": 0.9011
+        }
+      ]
+    },
+    {
+      "time": 68.86,
+      "end": 74.7,
+      "text": "只为宝贵的主谁能与你相比",
+      "words": [
+        {
+          "time": 68.86,
+          "end": 69.16,
+          "text": "只",
+          "probability": 0.989
+        },
+        {
+          "time": 69.08,
+          "end": 69.38,
+          "text": "为",
+          "probability": 0.9977
+        },
+        {
+          "time": 69.44,
+          "end": 69.96,
+          "text": "宝",
+          "probability": 0.9952
+        },
+        {
+          "time": 70.16,
+          "end": 70.58,
+          "text": "贵",
+          "probability": 0.9956
+        },
+        {
+          "time": 70.58,
+          "end": 70.88,
+          "text": "的",
+          "probability": 0.6552
+        },
+        {
+          "time": 70.96,
+          "end": 71.26,
+          "text": "主",
+          "probability": 0.9972
+        },
+        {
+          "time": 72.3,
+          "end": 72.6,
+          "text": "谁",
+          "probability": 0.9991
+        },
+        {
+          "time": 72.5,
+          "end": 72.8,
+          "text": "能",
+          "probability": 0.9982
+        },
+        {
+          "time": 72.84,
+          "end": 73.66,
+          "text": "与",
+          "probability": 0.9995
+        },
+        {
+          "time": 73.7,
+          "end": 74.0,
+          "text": "你",
+          "probability": 0.8705
+        },
+        {
+          "time": 74.06,
+          "end": 74.36,
+          "text": "相",
+          "probability": 0.9982
+        },
+        {
+          "time": 74.4,
+          "end": 74.7,
+          "text": "比",
+          "probability": 0.8532
+        }
+      ]
+    },
+    {
+      "time": 75.86,
+      "end": 80.12,
+      "text": "我将万事抛弃为得着你",
+      "words": [
+        {
+          "time": 75.86,
+          "end": 76.16,
+          "text": "我",
+          "probability": 0.999
+        },
+        {
+          "time": 76.32,
+          "end": 76.62,
+          "text": "将",
+          "probability": 0.9994
+        },
+        {
+          "time": 76.64,
+          "end": 76.94,
+          "text": "万",
+          "probability": 0.9984
+        },
+        {
+          "time": 77.04,
+          "end": 77.34,
+          "text": "事",
+          "probability": 0.8989
+        },
+        {
+          "time": 77.4,
+          "end": 77.78,
+          "text": "抛",
+          "probability": 0.9841
+        },
+        {
+          "time": 77.68,
+          "end": 78.2,
+          "text": "弃",
+          "probability": 0.9937
+        },
+        {
+          "time": 78.48,
+          "end": 78.78,
+          "text": "为",
+          "probability": 0.9786
+        },
+        {
+          "time": 78.8,
+          "end": 79.1,
+          "text": "得",
+          "probability": 0.9648
+        },
+        {
+          "time": 79.18,
+          "end": 79.48,
+          "text": "着",
+          "probability": 0.9187
+        },
+        {
+          "time": 79.82,
+          "end": 80.12,
+          "text": "你",
+          "probability": 0.9989
+        }
+      ]
+    },
+    {
+      "time": 82.54,
+      "end": 88.1,
+      "text": "只为神界的主单单相赴于",
+      "words": [
+        {
+          "time": 82.54,
+          "end": 82.84,
+          "text": "只",
+          "probability": 0.9992
+        },
+        {
+          "time": 82.8,
+          "end": 83.1,
+          "text": "为",
+          "probability": 0.9997
+        },
+        {
+          "time": 83.24,
+          "end": 83.54,
+          "text": "神",
+          "probability": 0.4813
+        },
+        {
+          "time": 84.0,
+          "end": 84.3,
+          "text": "界",
+          "probability": 0.2748
+        },
+        {
+          "time": 84.26,
+          "end": 84.56,
+          "text": "的",
+          "probability": 0.9416
+        },
+        {
+          "time": 84.72,
+          "end": 85.02,
+          "text": "主",
+          "probability": 0.9966
+        },
+        {
+          "time": 85.96,
+          "end": 86.26,
+          "text": "单",
+          "probability": 0.3449
+        },
+        {
+          "time": 86.18,
+          "end": 86.48,
+          "text": "单",
+          "probability": 0.8059
+        },
+        {
+          "time": 86.64,
+          "end": 86.94,
+          "text": "相",
+          "probability": 0.6466
+        },
+        {
+          "time": 87.34,
+          "end": 87.76,
+          "text": "赴",
+          "probability": 0.432
+        },
+        {
+          "time": 87.8,
+          "end": 88.1,
+          "text": "于",
+          "probability": 0.9465
+        }
+      ]
+    },
+    {
+      "time": 88.74,
+      "end": 94.56,
+      "text": "你主求带领我倾听你心意得着几度",
+      "words": [
+        {
+          "time": 88.74,
+          "end": 89.04,
+          "text": "你",
+          "probability": 0.9619
+        },
+        {
+          "time": 89.52,
+          "end": 89.82,
+          "text": "主",
+          "probability": 0.5497
+        },
+        {
+          "time": 90.0,
+          "end": 90.3,
+          "text": "求",
+          "probability": 0.436
+        },
+        {
+          "time": 90.24,
+          "end": 90.6,
+          "text": "带",
+          "probability": 0.998
+        },
+        {
+          "time": 90.46,
+          "end": 90.78,
+          "text": "领",
+          "probability": 0.9991
+        },
+        {
+          "time": 90.88,
+          "end": 91.18,
+          "text": "我",
+          "probability": 0.9998
+        },
+        {
+          "time": 91.3,
+          "end": 91.68,
+          "text": "倾",
+          "probability": 0.9714
+        },
+        {
+          "time": 91.68,
+          "end": 91.98,
+          "text": "听",
+          "probability": 0.9932
+        },
+        {
+          "time": 91.94,
+          "end": 92.24,
+          "text": "你",
+          "probability": 0.9844
+        },
+        {
+          "time": 92.22,
+          "end": 92.52,
+          "text": "心",
+          "probability": 0.9874
+        },
+        {
+          "time": 92.68,
+          "end": 92.98,
+          "text": "意",
+          "probability": 0.9892
+        },
+        {
+          "time": 93.32,
+          "end": 93.62,
+          "text": "得",
+          "probability": 0.9856
+        },
+        {
+          "time": 93.64,
+          "end": 93.94,
+          "text": "着",
+          "probability": 0.8975
+        },
+        {
+          "time": 93.82,
+          "end": 94.2,
+          "text": "几",
+          "probability": 0.3916
+        },
+        {
+          "time": 94.26,
+          "end": 94.56,
+          "text": "度",
+          "probability": 0.9938
+        }
+      ]
+    },
+    {
+      "time": 94.78,
+      "end": 97.26,
+      "text": "要我的朝廷",
+      "words": [
+        {
+          "time": 94.78,
+          "end": 95.08,
+          "text": "要",
+          "probability": 0.5885
+        },
+        {
+          "time": 95.9,
+          "end": 96.2,
+          "text": "我的",
+          "probability": 0.772
+        },
+        {
+          "time": 96.52,
+          "end": 96.82,
+          "text": "朝",
+          "probability": 0.4507
+        },
+        {
+          "time": 96.78,
+          "end": 97.26,
+          "text": "廷",
+          "probability": 0.5831
+        }
+      ]
+    },
+    {
+      "time": 99.92,
+      "end": 104.18,
+      "text": "你的恩典令我导致圣地",
+      "words": [
+        {
+          "time": 99.92,
+          "end": 100.22,
+          "text": "你的",
+          "probability": 0.982
+        },
+        {
+          "time": 100.44,
+          "end": 100.74,
+          "text": "恩",
+          "probability": 0.8617
+        },
+        {
+          "time": 100.78,
+          "end": 101.32,
+          "text": "典",
+          "probability": 0.9824
+        },
+        {
+          "time": 101.52,
+          "end": 101.82,
+          "text": "令",
+          "probability": 0.3772
+        },
+        {
+          "time": 102.04,
+          "end": 102.34,
+          "text": "我",
+          "probability": 0.9981
+        },
+        {
+          "time": 102.32,
+          "end": 102.72,
+          "text": "导",
+          "probability": 0.3935
+        },
+        {
+          "time": 102.7,
+          "end": 103.12,
+          "text": "致",
+          "probability": 0.9901
+        },
+        {
+          "time": 103.16,
+          "end": 103.62,
+          "text": "圣",
+          "probability": 0.448
+        },
+        {
+          "time": 103.88,
+          "end": 104.18,
+          "text": "地",
+          "probability": 0.6318
+        }
+      ]
+    },
+    {
+      "time": 106.58,
+      "end": 111.02,
+      "text": "浮浮在你的荣光里",
+      "words": [
+        {
+          "time": 106.58,
+          "end": 107.02,
+          "text": "浮",
+          "probability": 0.1634
+        },
+        {
+          "time": 107.08,
+          "end": 107.6,
+          "text": "浮",
+          "probability": 0.6714
+        },
+        {
+          "time": 108.42,
+          "end": 108.72,
+          "text": "在",
+          "probability": 0.9648
+        },
+        {
+          "time": 109.16,
+          "end": 109.46,
+          "text": "你的",
+          "probability": 0.9945
+        },
+        {
+          "time": 109.58,
+          "end": 110.04,
+          "text": "荣",
+          "probability": 0.511
+        },
+        {
+          "time": 110.16,
+          "end": 110.46,
+          "text": "光",
+          "probability": 0.9908
+        },
+        {
+          "time": 110.72,
+          "end": 111.02,
+          "text": "里",
+          "probability": 0.9987
+        }
+      ]
+    },
+    {
+      "time": 113.6,
+      "end": 119.78,
+      "text": "我已无可况只狂认识你",
+      "words": [
+        {
+          "time": 113.6,
+          "end": 113.9,
+          "text": "我",
+          "probability": 0.9939
+        },
+        {
+          "time": 114.14,
+          "end": 114.44,
+          "text": "已",
+          "probability": 0.6972
+        },
+        {
+          "time": 114.6,
+          "end": 114.9,
+          "text": "无",
+          "probability": 0.9787
+        },
+        {
+          "time": 115.24,
+          "end": 115.54,
+          "text": "可",
+          "probability": 0.8134
+        },
+        {
+          "time": 115.98,
+          "end": 116.28,
+          "text": "况",
+          "probability": 0.3699
+        },
+        {
+          "time": 116.92,
+          "end": 117.22,
+          "text": "只",
+          "probability": 0.8583
+        },
+        {
+          "time": 117.3,
+          "end": 117.92,
+          "text": "狂",
+          "probability": 0.4975
+        },
+        {
+          "time": 118.18,
+          "end": 118.58,
+          "text": "认",
+          "probability": 0.8253
+        },
+        {
+          "time": 118.58,
+          "end": 118.98,
+          "text": "识",
+          "probability": 0.9985
+        },
+        {
+          "time": 119.48,
+          "end": 119.78,
+          "text": "你",
+          "probability": 0.9684
+        }
+      ]
+    },
+    {
+      "time": 120.48,
+      "end": 125.02,
+      "text": "我的主我的王我的唯一",
+      "words": [
+        {
+          "time": 120.48,
+          "end": 120.78,
+          "text": "我的",
+          "probability": 0.9979
+        },
+        {
+          "time": 120.9,
+          "end": 121.2,
+          "text": "主",
+          "probability": 0.9754
+        },
+        {
+          "time": 122.2,
+          "end": 122.5,
+          "text": "我的",
+          "probability": 0.996
+        },
+        {
+          "time": 122.54,
+          "end": 122.84,
+          "text": "王",
+          "probability": 0.7452
+        },
+        {
+          "time": 123.4,
+          "end": 123.7,
+          "text": "我的",
+          "probability": 0.9966
+        },
+        {
+          "time": 123.74,
+          "end": 124.2,
+          "text": "唯",
+          "probability": 0.6888
+        },
+        {
+          "time": 124.72,
+          "end": 125.02,
+          "text": "一",
+          "probability": 0.9258
+        }
+      ]
+    },
+    {
+      "time": 127.18,
+      "end": 131.84,
+      "text": "以你恩典我站在只身体",
+      "words": [
+        {
+          "time": 127.18,
+          "end": 127.48,
+          "text": "以",
+          "probability": 0.2391
+        },
+        {
+          "time": 127.38,
+          "end": 127.68,
+          "text": "你",
+          "probability": 0.8093
+        },
+        {
+          "time": 127.78,
+          "end": 128.08,
+          "text": "恩",
+          "probability": 0.9641
+        },
+        {
+          "time": 128.12,
+          "end": 128.54,
+          "text": "典",
+          "probability": 0.9019
+        },
+        {
+          "time": 128.92,
+          "end": 129.22,
+          "text": "我",
+          "probability": 0.997
+        },
+        {
+          "time": 129.34,
+          "end": 129.64,
+          "text": "站",
+          "probability": 0.999
+        },
+        {
+          "time": 129.82,
+          "end": 130.12,
+          "text": "在",
+          "probability": 1.0
+        },
+        {
+          "time": 130.2,
+          "end": 130.5,
+          "text": "只",
+          "probability": 0.4567
+        },
+        {
+          "time": 130.68,
+          "end": 130.98,
+          "text": "身",
+          "probability": 0.4245
+        },
+        {
+          "time": 131.54,
+          "end": 131.84,
+          "text": "体",
+          "probability": 0.9618
+        }
+      ]
+    },
+    {
+      "time": 133.98,
+      "end": 138.6,
+      "text": "请爱你在你的荣光里",
+      "words": [
+        {
+          "time": 133.98,
+          "end": 134.28,
+          "text": "请",
+          "probability": 0.6022
+        },
+        {
+          "time": 134.26,
+          "end": 134.56,
+          "text": "爱",
+          "probability": 0.8611
+        },
+        {
+          "time": 135.66,
+          "end": 135.96,
+          "text": "你在",
+          "probability": 0.7688
+        },
+        {
+          "time": 136.66,
+          "end": 136.96,
+          "text": "你的",
+          "probability": 0.9752
+        },
+        {
+          "time": 137.02,
+          "end": 137.48,
+          "text": "荣",
+          "probability": 0.5345
+        },
+        {
+          "time": 137.62,
+          "end": 137.92,
+          "text": "光",
+          "probability": 0.2267
+        },
+        {
+          "time": 138.3,
+          "end": 138.6,
+          "text": "里",
+          "probability": 0.9944
+        }
+      ]
+    },
+    {
+      "time": 140.98,
+      "end": 147.1,
+      "text": "我一无所有唯有生命献给你",
+      "words": [
+        {
+          "time": 140.98,
+          "end": 141.28,
+          "text": "我",
+          "probability": 0.9878
+        },
+        {
+          "time": 141.46,
+          "end": 141.76,
+          "text": "一",
+          "probability": 0.7532
+        },
+        {
+          "time": 141.94,
+          "end": 142.24,
+          "text": "无",
+          "probability": 0.8969
+        },
+        {
+          "time": 143.14,
+          "end": 143.44,
+          "text": "所有",
+          "probability": 0.9782
+        },
+        {
+          "time": 144.28,
+          "end": 144.62,
+          "text": "唯",
+          "probability": 0.8014
+        },
+        {
+          "time": 144.44,
+          "end": 144.74,
+          "text": "有",
+          "probability": 0.9898
+        },
+        {
+          "time": 144.8,
+          "end": 145.1,
+          "text": "生",
+          "probability": 0.849
+        },
+        {
+          "time": 145.26,
+          "end": 145.56,
+          "text": "命",
+          "probability": 0.9999
+        },
+        {
+          "time": 145.56,
+          "end": 146.02,
+          "text": "献",
+          "probability": 0.8947
+        },
+        {
+          "time": 146.12,
+          "end": 146.42,
+          "text": "给",
+          "probability": 0.9996
+        },
+        {
+          "time": 146.8,
+          "end": 147.1,
+          "text": "你",
+          "probability": 0.9943
+        }
+      ]
+    },
+    {
+      "time": 147.88,
+      "end": 152.22,
+      "text": "我的主我的王我的唯一",
+      "words": [
+        {
+          "time": 147.88,
+          "end": 148.18,
+          "text": "我的",
+          "probability": 0.9945
+        },
+        {
+          "time": 148.32,
+          "end": 148.62,
+          "text": "主",
+          "probability": 0.9834
+        },
+        {
+          "time": 149.62,
+          "end": 149.92,
+          "text": "我的",
+          "probability": 0.9965
+        },
+        {
+          "time": 150.0,
+          "end": 150.3,
+          "text": "王",
+          "probability": 0.9636
+        },
+        {
+          "time": 150.8,
+          "end": 151.1,
+          "text": "我的",
+          "probability": 0.9975
+        },
+        {
+          "time": 151.16,
+          "end": 151.58,
+          "text": "唯",
+          "probability": 0.76
+        },
+        {
+          "time": 151.92,
+          "end": 152.22,
+          "text": "一",
+          "probability": 0.9473
+        }
+      ]
+    },
+    {
+      "time": 154.6,
+      "end": 160.38,
+      "text": "只为宝贵的主谁能与你相比",
+      "words": [
+        {
+          "time": 154.6,
+          "end": 154.9,
+          "text": "只",
+          "probability": 0.9781
+        },
+        {
+          "time": 154.8,
+          "end": 155.1,
+          "text": "为",
+          "probability": 0.9978
+        },
+        {
+          "time": 155.08,
+          "end": 155.5,
+          "text": "宝",
+          "probability": 0.9916
+        },
+        {
+          "time": 155.88,
+          "end": 156.3,
+          "text": "贵",
+          "probability": 0.992
+        },
+        {
+          "time": 156.3,
+          "end": 156.6,
+          "text": "的",
+          "probability": 0.5023
+        },
+        {
+          "time": 156.7,
+          "end": 157.0,
+          "text": "主",
+          "probability": 0.9985
+        },
+        {
+          "time": 158.02,
+          "end": 158.32,
+          "text": "谁",
+          "probability": 0.9969
+        },
+        {
+          "time": 158.2,
+          "end": 158.5,
+          "text": "能",
+          "probability": 0.9943
+        },
+        {
+          "time": 158.54,
+          "end": 159.28,
+          "text": "与",
+          "probability": 0.9989
+        },
+        {
+          "time": 159.4,
+          "end": 159.7,
+          "text": "你",
+          "probability": 0.9573
+        },
+        {
+          "time": 159.72,
+          "end": 160.02,
+          "text": "相",
+          "probability": 0.9975
+        },
+        {
+          "time": 160.08,
+          "end": 160.38,
+          "text": "比",
+          "probability": 0.6246
+        }
+      ]
+    },
+    {
+      "time": 161.54,
+      "end": 165.72,
+      "text": "我将万事抛弃为了着你",
+      "words": [
+        {
+          "time": 161.54,
+          "end": 161.84,
+          "text": "我",
+          "probability": 0.9926
+        },
+        {
+          "time": 161.96,
+          "end": 162.26,
+          "text": "将",
+          "probability": 0.9995
+        },
+        {
+          "time": 162.26,
+          "end": 162.56,
+          "text": "万",
+          "probability": 0.996
+        },
+        {
+          "time": 162.64,
+          "end": 162.94,
+          "text": "事",
+          "probability": 0.7516
+        },
+        {
+          "time": 163.1,
+          "end": 163.42,
+          "text": "抛",
+          "probability": 0.8485
+        },
+        {
+          "time": 163.4,
+          "end": 163.96,
+          "text": "弃",
+          "probability": 0.9231
+        },
+        {
+          "time": 164.24,
+          "end": 164.54,
+          "text": "为",
+          "probability": 0.7705
+        },
+        {
+          "time": 164.58,
+          "end": 164.88,
+          "text": "了",
+          "probability": 0.7166
+        },
+        {
+          "time": 164.88,
+          "end": 165.18,
+          "text": "着",
+          "probability": 0.3273
+        },
+        {
+          "time": 165.42,
+          "end": 165.72,
+          "text": "你",
+          "probability": 0.9968
+        }
+      ]
+    },
+    {
+      "time": 168.28,
+      "end": 173.82,
+      "text": "只为神界的主胆胆相赴于",
+      "words": [
+        {
+          "time": 168.28,
+          "end": 168.58,
+          "text": "只",
+          "probability": 0.9653
+        },
+        {
+          "time": 168.5,
+          "end": 168.8,
+          "text": "为",
+          "probability": 0.9978
+        },
+        {
+          "time": 168.92,
+          "end": 169.22,
+          "text": "神",
+          "probability": 0.8915
+        },
+        {
+          "time": 169.74,
+          "end": 170.04,
+          "text": "界",
+          "probability": 0.3195
+        },
+        {
+          "time": 170.0,
+          "end": 170.3,
+          "text": "的",
+          "probability": 0.8006
+        },
+        {
+          "time": 170.5,
+          "end": 170.8,
+          "text": "主",
+          "probability": 0.9959
+        },
+        {
+          "time": 171.66,
+          "end": 172.02,
+          "text": "胆",
+          "probability": 0.536
+        },
+        {
+          "time": 171.9,
+          "end": 172.24,
+          "text": "胆",
+          "probability": 0.9928
+        },
+        {
+          "time": 172.3,
+          "end": 172.6,
+          "text": "相",
+          "probability": 0.2715
+        },
+        {
+          "time": 173.04,
+          "end": 173.48,
+          "text": "赴",
+          "probability": 0.4753
+        },
+        {
+          "time": 173.52,
+          "end": 173.82,
+          "text": "于",
+          "probability": 0.9471
+        }
+      ]
+    },
+    {
+      "time": 174.54,
+      "end": 180.36,
+      "text": "你主朝内灵魄请聚意心意得着基督",
+      "words": [
+        {
+          "time": 174.54,
+          "end": 174.84,
+          "text": "你",
+          "probability": 0.9355
+        },
+        {
+          "time": 175.22,
+          "end": 175.52,
+          "text": "主",
+          "probability": 0.5248
+        },
+        {
+          "time": 175.64,
+          "end": 175.94,
+          "text": "朝",
+          "probability": 0.8841
+        },
+        {
+          "time": 175.98,
+          "end": 176.28,
+          "text": "内",
+          "probability": 0.4842
+        },
+        {
+          "time": 176.2,
+          "end": 176.5,
+          "text": "灵",
+          "probability": 0.4352
+        },
+        {
+          "time": 176.44,
+          "end": 176.92,
+          "text": "魄",
+          "probability": 0.2512
+        },
+        {
+          "time": 177.08,
+          "end": 177.38,
+          "text": "请",
+          "probability": 0.3749
+        },
+        {
+          "time": 177.28,
+          "end": 177.66,
+          "text": "聚",
+          "probability": 0.1909
+        },
+        {
+          "time": 177.66,
+          "end": 177.96,
+          "text": "意",
+          "probability": 0.2352
+        },
+        {
+          "time": 177.94,
+          "end": 178.24,
+          "text": "心",
+          "probability": 0.5527
+        },
+        {
+          "time": 178.48,
+          "end": 178.78,
+          "text": "意",
+          "probability": 0.9498
+        },
+        {
+          "time": 179.06,
+          "end": 179.36,
+          "text": "得",
+          "probability": 0.8575
+        },
+        {
+          "time": 179.38,
+          "end": 179.68,
+          "text": "着",
+          "probability": 0.4826
+        },
+        {
+          "time": 179.6,
+          "end": 179.9,
+          "text": "基",
+          "probability": 0.2009
+        },
+        {
+          "time": 179.9,
+          "end": 180.36,
+          "text": "督",
+          "probability": 0.9832
+        }
+      ]
+    },
+    {
+      "time": 180.48,
+      "end": 182.9,
+      "text": "妖魔得着地",
+      "words": [
+        {
+          "time": 180.48,
+          "end": 180.78,
+          "text": "妖",
+          "probability": 0.2665
+        },
+        {
+          "time": 180.84,
+          "end": 181.14,
+          "text": "魔",
+          "probability": 0.528
+        },
+        {
+          "time": 181.7,
+          "end": 182.0,
+          "text": "得",
+          "probability": 0.9693
+        },
+        {
+          "time": 182.24,
+          "end": 182.54,
+          "text": "着",
+          "probability": 0.9938
+        },
+        {
+          "time": 182.6,
+          "end": 182.9,
+          "text": "地",
+          "probability": 0.6541
+        }
+      ]
+    },
+    {
+      "time": 185.44,
+      "end": 191.24,
+      "text": "只为宝贵的主谁敢与你相比",
+      "words": [
+        {
+          "time": 185.44,
+          "end": 185.74,
+          "text": "只",
+          "probability": 0.9974
+        },
+        {
+          "time": 185.68,
+          "end": 185.98,
+          "text": "为",
+          "probability": 0.9997
+        },
+        {
+          "time": 185.96,
+          "end": 186.5,
+          "text": "宝",
+          "probability": 0.9989
+        },
+        {
+          "time": 186.72,
+          "end": 187.14,
+          "text": "贵",
+          "probability": 0.9989
+        },
+        {
+          "time": 187.14,
+          "end": 187.44,
+          "text": "的",
+          "probability": 0.8928
+        },
+        {
+          "time": 187.6,
+          "end": 187.9,
+          "text": "主",
+          "probability": 0.9992
+        },
+        {
+          "time": 188.86,
+          "end": 189.16,
+          "text": "谁",
+          "probability": 0.998
+        },
+        {
+          "time": 189.06,
+          "end": 189.36,
+          "text": "敢",
+          "probability": 0.684
+        },
+        {
+          "time": 189.4,
+          "end": 190.16,
+          "text": "与",
+          "probability": 0.992
+        },
+        {
+          "time": 190.26,
+          "end": 190.56,
+          "text": "你",
+          "probability": 0.9873
+        },
+        {
+          "time": 190.58,
+          "end": 190.88,
+          "text": "相",
+          "probability": 0.9972
+        },
+        {
+          "time": 190.94,
+          "end": 191.24,
+          "text": "比",
+          "probability": 0.6633
+        }
+      ]
+    },
+    {
+      "time": 192.4,
+      "end": 196.82,
+      "text": "我像万事旁起为得着你",
+      "words": [
+        {
+          "time": 192.4,
+          "end": 192.7,
+          "text": "我",
+          "probability": 0.5475
+        },
+        {
+          "time": 192.84,
+          "end": 193.14,
+          "text": "像",
+          "probability": 0.3028
+        },
+        {
+          "time": 193.14,
+          "end": 193.44,
+          "text": "万",
+          "probability": 0.5291
+        },
+        {
+          "time": 193.42,
+          "end": 193.72,
+          "text": "事",
+          "probability": 0.4243
+        },
+        {
+          "time": 193.98,
+          "end": 194.32,
+          "text": "旁",
+          "probability": 0.1426
+        },
+        {
+          "time": 194.42,
+          "end": 194.72,
+          "text": "起",
+          "probability": 0.1731
+        },
+        {
+          "time": 195.08,
+          "end": 195.38,
+          "text": "为",
+          "probability": 0.5669
+        },
+        {
+          "time": 195.48,
+          "end": 195.78,
+          "text": "得",
+          "probability": 0.6966
+        },
+        {
+          "time": 195.8,
+          "end": 196.1,
+          "text": "着",
+          "probability": 0.786
+        },
+        {
+          "time": 196.52,
+          "end": 196.82,
+          "text": "你",
+          "probability": 0.8793
+        }
+      ]
+    },
+    {
+      "time": 199.14,
+      "end": 204.66,
+      "text": "只为神天一主单单相复于",
+      "words": [
+        {
+          "time": 199.14,
+          "end": 199.44,
+          "text": "只",
+          "probability": 0.9127
+        },
+        {
+          "time": 199.36,
+          "end": 199.66,
+          "text": "为",
+          "probability": 0.9355
+        },
+        {
+          "time": 200.04,
+          "end": 200.34,
+          "text": "神",
+          "probability": 0.6765
+        },
+        {
+          "time": 200.62,
+          "end": 200.92,
+          "text": "天",
+          "probability": 0.1913
+        },
+        {
+          "time": 200.9,
+          "end": 201.2,
+          "text": "一",
+          "probability": 0.3369
+        },
+        {
+          "time": 201.46,
+          "end": 201.76,
+          "text": "主",
+          "probability": 0.3279
+        },
+        {
+          "time": 202.56,
+          "end": 202.86,
+          "text": "单",
+          "probability": 0.3422
+        },
+        {
+          "time": 202.8,
+          "end": 203.1,
+          "text": "单",
+          "probability": 0.9584
+        },
+        {
+          "time": 203.18,
+          "end": 203.48,
+          "text": "相",
+          "probability": 0.6122
+        },
+        {
+          "time": 203.96,
+          "end": 204.34,
+          "text": "复",
+          "probability": 0.4248
+        },
+        {
+          "time": 204.36,
+          "end": 204.66,
+          "text": "于",
+          "probability": 0.8378
+        }
+      ]
+    },
+    {
+      "time": 205.42,
+      "end": 211.26,
+      "text": "你主求爱临火请听你心意得着基督",
+      "words": [
+        {
+          "time": 205.42,
+          "end": 205.72,
+          "text": "你",
+          "probability": 0.9463
+        },
+        {
+          "time": 206.06,
+          "end": 206.36,
+          "text": "主",
+          "probability": 0.7981
+        },
+        {
+          "time": 206.54,
+          "end": 206.84,
+          "text": "求",
+          "probability": 0.3684
+        },
+        {
+          "time": 206.88,
+          "end": 207.18,
+          "text": "爱",
+          "probability": 0.8081
+        },
+        {
+          "time": 207.06,
+          "end": 207.4,
+          "text": "临",
+          "probability": 0.3936
+        },
+        {
+          "time": 207.44,
+          "end": 207.74,
+          "text": "火",
+          "probability": 0.4979
+        },
+        {
+          "time": 207.92,
+          "end": 208.22,
+          "text": "请",
+          "probability": 0.6169
+        },
+        {
+          "time": 208.22,
+          "end": 208.52,
+          "text": "听",
+          "probability": 0.9923
+        },
+        {
+          "time": 208.54,
+          "end": 208.84,
+          "text": "你",
+          "probability": 0.9782
+        },
+        {
+          "time": 208.82,
+          "end": 209.12,
+          "text": "心",
+          "probability": 0.9665
+        },
+        {
+          "time": 209.28,
+          "end": 209.58,
+          "text": "意",
+          "probability": 0.899
+        },
+        {
+          "time": 209.94,
+          "end": 210.24,
+          "text": "得",
+          "probability": 0.7328
+        },
+        {
+          "time": 210.28,
+          "end": 210.58,
+          "text": "着",
+          "probability": 0.9518
+        },
+        {
+          "time": 210.52,
+          "end": 210.82,
+          "text": "基",
+          "probability": 0.8507
+        },
+        {
+          "time": 210.88,
+          "end": 211.26,
+          "text": "督",
+          "probability": 0.9962
+        }
+      ]
+    },
+    {
+      "time": 211.36,
+      "end": 213.88,
+      "text": "要我得着你",
+      "words": [
+        {
+          "time": 211.36,
+          "end": 211.66,
+          "text": "要",
+          "probability": 0.382
+        },
+        {
+          "time": 211.84,
+          "end": 212.14,
+          "text": "我",
+          "probability": 0.8253
+        },
+        {
+          "time": 212.58,
+          "end": 212.88,
+          "text": "得",
+          "probability": 0.9991
+        },
+        {
+          "time": 213.08,
+          "end": 213.38,
+          "text": "着",
+          "probability": 0.9991
+        },
+        {
+          "time": 213.58,
+          "end": 213.88,
+          "text": "你",
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "time": 216.48,
+      "end": 222.58,
+      "text": "主求爱临火请听你心意得着基督要我",
+      "words": [
+        {
+          "time": 216.48,
+          "end": 216.78,
+          "text": "主",
+          "probability": 0.9975
+        },
+        {
+          "time": 216.86,
+          "end": 217.16,
+          "text": "求",
+          "probability": 0.9993
+        },
+        {
+          "time": 217.16,
+          "end": 217.46,
+          "text": "爱",
+          "probability": 0.9992
+        },
+        {
+          "time": 217.34,
+          "end": 217.66,
+          "text": "临",
+          "probability": 0.9987
+        },
+        {
+          "time": 217.7,
+          "end": 218.0,
+          "text": "火",
+          "probability": 0.999
+        },
+        {
+          "time": 218.2,
+          "end": 218.5,
+          "text": "请",
+          "probability": 0.992
+        },
+        {
+          "time": 218.52,
+          "end": 218.82,
+          "text": "听",
+          "probability": 0.9995
+        },
+        {
+          "time": 218.82,
+          "end": 219.12,
+          "text": "你",
+          "probability": 0.9996
+        },
+        {
+          "time": 219.06,
+          "end": 219.36,
+          "text": "心",
+          "probability": 0.9999
+        },
+        {
+          "time": 219.56,
+          "end": 219.86,
+          "text": "意",
+          "probability": 0.9998
+        },
+        {
+          "time": 220.2,
+          "end": 220.5,
+          "text": "得",
+          "probability": 0.91
+        },
+        {
+          "time": 220.52,
+          "end": 220.82,
+          "text": "着",
+          "probability": 0.9996
+        },
+        {
+          "time": 220.78,
+          "end": 221.08,
+          "text": "基",
+          "probability": 0.9996
+        },
+        {
+          "time": 221.16,
+          "end": 221.5,
+          "text": "督",
+          "probability": 1.0
+        },
+        {
+          "time": 221.66,
+          "end": 221.96,
+          "text": "要",
+          "probability": 0.997
+        },
+        {
+          "time": 222.28,
+          "end": 222.58,
+          "text": "我",
+          "probability": 0.9973
+        }
+      ]
+    },
+    {
+      "time": 222.9,
+      "end": 224.22,
+      "text": "得着你",
+      "words": [
+        {
+          "time": 222.9,
+          "end": 223.2,
+          "text": "得",
+          "probability": 0.6061
+        },
+        {
+          "time": 223.4,
+          "end": 223.7,
+          "text": "着",
+          "probability": 0.9993
+        },
+        {
+          "time": 223.92,
+          "end": 224.22,
+          "text": "你",
+          "probability": 0.9976
+        }
+      ]
+    },
+    {
+      "time": 229.06,
+      "end": 229.42,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 229.06,
+          "end": 229.36,
+          "text": "Z",
+          "probability": 0.1643
+        },
+        {
+          "time": 229.08,
+          "end": 229.38,
+          "text": "ither",
+          "probability": 0.9932
+        },
+        {
+          "time": 229.1,
+          "end": 229.4,
+          "text": " Har",
+          "probability": 0.9956
+        },
+        {
+          "time": 229.12,
+          "end": 229.42,
+          "text": "p",
+          "probability": 0.998
+        }
+      ]
+    }
+  ]
+}

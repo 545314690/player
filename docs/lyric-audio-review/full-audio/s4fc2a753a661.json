@@ -1,0 +1,857 @@
+{
+  "id": "s4fc2a753a661",
+  "file": "075.我的心啊我的灵啊.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "e519401a27a88ef6373b052412ca3a12c9a3ce2576c44279cd6bb1b86c24fb9e",
+  "fullDuration": 123.689796,
+  "lines": [
+    {
+      "time": 8.54,
+      "end": 13.24,
+      "text": "我的心啊 我的地方",
+      "words": [
+        {
+          "time": 8.54,
+          "end": 8.84,
+          "text": "我的",
+          "probability": 0.1735
+        },
+        {
+          "time": 9.0,
+          "end": 9.3,
+          "text": "心",
+          "probability": 0.8705
+        },
+        {
+          "time": 9.8,
+          "end": 10.1,
+          "text": "啊",
+          "probability": 0.366
+        },
+        {
+          "time": 11.28,
+          "end": 11.58,
+          "text": " 我",
+          "probability": 0.3614
+        },
+        {
+          "time": 12.16,
+          "end": 12.46,
+          "text": "的",
+          "probability": 0.999
+        },
+        {
+          "time": 12.94,
+          "end": 13.24,
+          "text": "地方",
+          "probability": 0.2128
+        }
+      ]
+    },
+    {
+      "time": 15.4,
+      "end": 20.78,
+      "text": "你要一起和你心爱赞美主意",
+      "words": [
+        {
+          "time": 15.4,
+          "end": 15.7,
+          "text": "你要",
+          "probability": 0.9277
+        },
+        {
+          "time": 16.22,
+          "end": 16.52,
+          "text": "一起",
+          "probability": 0.2915
+        },
+        {
+          "time": 16.78,
+          "end": 17.08,
+          "text": "和",
+          "probability": 0.3888
+        },
+        {
+          "time": 17.08,
+          "end": 17.38,
+          "text": "你",
+          "probability": 0.4103
+        },
+        {
+          "time": 17.48,
+          "end": 17.78,
+          "text": "心",
+          "probability": 0.8669
+        },
+        {
+          "time": 18.3,
+          "end": 18.6,
+          "text": "爱",
+          "probability": 0.0786
+        },
+        {
+          "time": 18.76,
+          "end": 19.2,
+          "text": "赞",
+          "probability": 0.2836
+        },
+        {
+          "time": 19.6,
+          "end": 19.9,
+          "text": "美",
+          "probability": 0.6427
+        },
+        {
+          "time": 20.06,
+          "end": 20.36,
+          "text": "主",
+          "probability": 0.6711
+        },
+        {
+          "time": 20.48,
+          "end": 20.78,
+          "text": "意",
+          "probability": 0.3454
+        }
+      ]
+    },
+    {
+      "time": 22.02,
+      "end": 26.76,
+      "text": "我的心啊 我的地方",
+      "words": [
+        {
+          "time": 22.02,
+          "end": 22.32,
+          "text": "我的",
+          "probability": 0.9475
+        },
+        {
+          "time": 22.5,
+          "end": 22.8,
+          "text": "心",
+          "probability": 0.9996
+        },
+        {
+          "time": 23.46,
+          "end": 23.76,
+          "text": "啊",
+          "probability": 0.9984
+        },
+        {
+          "time": 24.76,
+          "end": 25.06,
+          "text": " 我",
+          "probability": 0.9972
+        },
+        {
+          "time": 25.6,
+          "end": 25.9,
+          "text": "的",
+          "probability": 0.9994
+        },
+        {
+          "time": 26.46,
+          "end": 26.76,
+          "text": "地方",
+          "probability": 0.9155
+        }
+      ]
+    },
+    {
+      "time": 28.42,
+      "end": 32.34,
+      "text": "祢要一起得来赞美",
+      "words": [
+        {
+          "time": 28.42,
+          "end": 29.08,
+          "text": "祢",
+          "probability": 0.4638
+        },
+        {
+          "time": 29.3,
+          "end": 29.6,
+          "text": "要",
+          "probability": 0.4938
+        },
+        {
+          "time": 29.88,
+          "end": 30.18,
+          "text": "一起",
+          "probability": 0.1807
+        },
+        {
+          "time": 30.54,
+          "end": 30.84,
+          "text": "得",
+          "probability": 0.5537
+        },
+        {
+          "time": 31.02,
+          "end": 31.32,
+          "text": "来",
+          "probability": 0.7254
+        },
+        {
+          "time": 31.32,
+          "end": 31.76,
+          "text": "赞",
+          "probability": 0.326
+        },
+        {
+          "time": 32.04,
+          "end": 32.34,
+          "text": "美",
+          "probability": 0.5725
+        }
+      ]
+    },
+    {
+      "time": 33.66,
+      "end": 33.96,
+      "text": "主",
+      "words": [
+        {
+          "time": 33.66,
+          "end": 33.96,
+          "text": "主",
+          "probability": 0.8082
+        }
+      ]
+    },
+    {
+      "time": 36.28,
+      "end": 43.06,
+      "text": "我的心啊 我的灵感祢",
+      "words": [
+        {
+          "time": 36.28,
+          "end": 36.58,
+          "text": "我的",
+          "probability": 0.865
+        },
+        {
+          "time": 36.98,
+          "end": 37.28,
+          "text": "心",
+          "probability": 0.9156
+        },
+        {
+          "time": 37.82,
+          "end": 38.12,
+          "text": "啊",
+          "probability": 0.5549
+        },
+        {
+          "time": 38.98,
+          "end": 39.28,
+          "text": " 我",
+          "probability": 0.5474
+        },
+        {
+          "time": 39.94,
+          "end": 40.24,
+          "text": "的",
+          "probability": 0.9624
+        },
+        {
+          "time": 40.16,
+          "end": 40.54,
+          "text": "灵",
+          "probability": 0.4456
+        },
+        {
+          "time": 41.02,
+          "end": 41.32,
+          "text": "感",
+          "probability": 0.1446
+        },
+        {
+          "time": 42.4,
+          "end": 43.06,
+          "text": "祢",
+          "probability": 0.9955
+        }
+      ]
+    },
+    {
+      "time": 43.24,
+      "end": 49.44,
+      "text": "要一起得来赞美主我的",
+      "words": [
+        {
+          "time": 43.24,
+          "end": 43.54,
+          "text": "要",
+          "probability": 0.9995
+        },
+        {
+          "time": 43.96,
+          "end": 44.26,
+          "text": "一起",
+          "probability": 0.9978
+        },
+        {
+          "time": 44.46,
+          "end": 44.76,
+          "text": "得",
+          "probability": 0.9968
+        },
+        {
+          "time": 45.6,
+          "end": 45.9,
+          "text": "来",
+          "probability": 0.9251
+        },
+        {
+          "time": 46.58,
+          "end": 47.08,
+          "text": "赞",
+          "probability": 0.9993
+        },
+        {
+          "time": 47.44,
+          "end": 47.74,
+          "text": "美",
+          "probability": 0.9996
+        },
+        {
+          "time": 47.88,
+          "end": 48.18,
+          "text": "主",
+          "probability": 0.9984
+        },
+        {
+          "time": 49.14,
+          "end": 49.44,
+          "text": "我的",
+          "probability": 0.9069
+        }
+      ]
+    },
+    {
+      "time": 50.46,
+      "end": 55.12,
+      "text": "心啊 我的灵感",
+      "words": [
+        {
+          "time": 50.46,
+          "end": 50.76,
+          "text": "心",
+          "probability": 0.9993
+        },
+        {
+          "time": 51.34,
+          "end": 51.64,
+          "text": "啊",
+          "probability": 0.998
+        },
+        {
+          "time": 52.66,
+          "end": 52.96,
+          "text": " 我",
+          "probability": 0.9897
+        },
+        {
+          "time": 53.68,
+          "end": 53.98,
+          "text": "的",
+          "probability": 0.9997
+        },
+        {
+          "time": 54.22,
+          "end": 54.52,
+          "text": "灵",
+          "probability": 0.9994
+        },
+        {
+          "time": 54.82,
+          "end": 55.12,
+          "text": "感",
+          "probability": 0.9934
+        }
+      ]
+    },
+    {
+      "time": 56.6,
+      "end": 62.2,
+      "text": "以爱一世代来责命主",
+      "words": [
+        {
+          "time": 56.6,
+          "end": 56.9,
+          "text": "以",
+          "probability": 0.1263
+        },
+        {
+          "time": 57.38,
+          "end": 57.68,
+          "text": "爱",
+          "probability": 0.1616
+        },
+        {
+          "time": 57.92,
+          "end": 58.22,
+          "text": "一",
+          "probability": 0.103
+        },
+        {
+          "time": 58.28,
+          "end": 58.58,
+          "text": "世",
+          "probability": 0.413
+        },
+        {
+          "time": 58.62,
+          "end": 58.92,
+          "text": "代",
+          "probability": 0.1112
+        },
+        {
+          "time": 58.98,
+          "end": 59.28,
+          "text": "来",
+          "probability": 0.2281
+        },
+        {
+          "time": 59.26,
+          "end": 59.72,
+          "text": "责",
+          "probability": 0.0654
+        },
+        {
+          "time": 60.58,
+          "end": 60.88,
+          "text": "命",
+          "probability": 0.0662
+        },
+        {
+          "time": 61.9,
+          "end": 62.2,
+          "text": "主",
+          "probability": 0.4316
+        }
+      ]
+    },
+    {
+      "time": 63.54,
+      "end": 70.08,
+      "text": "我一世代我一世代",
+      "words": [
+        {
+          "time": 63.54,
+          "end": 63.84,
+          "text": "我",
+          "probability": 0.3212
+        },
+        {
+          "time": 64.18,
+          "end": 64.48,
+          "text": "一",
+          "probability": 0.4465
+        },
+        {
+          "time": 64.78,
+          "end": 65.08,
+          "text": "世",
+          "probability": 0.9757
+        },
+        {
+          "time": 65.6,
+          "end": 65.9,
+          "text": "代",
+          "probability": 0.9836
+        },
+        {
+          "time": 66.88,
+          "end": 67.18,
+          "text": "我",
+          "probability": 0.9186
+        },
+        {
+          "time": 67.64,
+          "end": 67.94,
+          "text": "一",
+          "probability": 0.8457
+        },
+        {
+          "time": 68.36,
+          "end": 68.66,
+          "text": "世",
+          "probability": 0.399
+        },
+        {
+          "time": 69.78,
+          "end": 70.08,
+          "text": "代",
+          "probability": 0.984
+        }
+      ]
+    },
+    {
+      "time": 70.34,
+      "end": 72.92,
+      "text": "我一世代",
+      "words": [
+        {
+          "time": 70.34,
+          "end": 70.64,
+          "text": "我",
+          "probability": 0.7332
+        },
+        {
+          "time": 71.12,
+          "end": 71.42,
+          "text": "一",
+          "probability": 0.9555
+        },
+        {
+          "time": 71.5,
+          "end": 71.8,
+          "text": "世",
+          "probability": 0.9998
+        },
+        {
+          "time": 72.62,
+          "end": 72.92,
+          "text": "代",
+          "probability": 0.9965
+        }
+      ]
+    },
+    {
+      "time": 75.2,
+      "end": 78.68,
+      "text": "我一世代我一世",
+      "words": [
+        {
+          "time": 75.2,
+          "end": 75.5,
+          "text": "我",
+          "probability": 0.5349
+        },
+        {
+          "time": 75.68,
+          "end": 75.98,
+          "text": "一",
+          "probability": 0.9884
+        },
+        {
+          "time": 75.7,
+          "end": 76.0,
+          "text": "世",
+          "probability": 0.9998
+        },
+        {
+          "time": 76.2,
+          "end": 76.5,
+          "text": "代",
+          "probability": 0.9989
+        },
+        {
+          "time": 77.18,
+          "end": 77.48,
+          "text": "我",
+          "probability": 0.9657
+        },
+        {
+          "time": 78.12,
+          "end": 78.42,
+          "text": "一",
+          "probability": 0.9969
+        },
+        {
+          "time": 78.38,
+          "end": 78.68,
+          "text": "世",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 80.22,
+      "end": 83.4,
+      "text": "代我一世代",
+      "words": [
+        {
+          "time": 80.22,
+          "end": 80.52,
+          "text": "代",
+          "probability": 0.9982
+        },
+        {
+          "time": 80.48,
+          "end": 80.78,
+          "text": "我",
+          "probability": 0.9432
+        },
+        {
+          "time": 81.66,
+          "end": 81.96,
+          "text": "一",
+          "probability": 0.9816
+        },
+        {
+          "time": 82.28,
+          "end": 82.58,
+          "text": "世",
+          "probability": 0.9997
+        },
+        {
+          "time": 83.1,
+          "end": 83.4,
+          "text": "代",
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "time": 84.9,
+      "end": 90.46,
+      "text": "你要信心要来看我的灵魂",
+      "words": [
+        {
+          "time": 84.9,
+          "end": 85.2,
+          "text": "你要",
+          "probability": 0.444
+        },
+        {
+          "time": 85.34,
+          "end": 85.64,
+          "text": "信",
+          "probability": 0.1772
+        },
+        {
+          "time": 85.78,
+          "end": 86.08,
+          "text": "心",
+          "probability": 0.9803
+        },
+        {
+          "time": 86.22,
+          "end": 86.52,
+          "text": "要",
+          "probability": 0.1945
+        },
+        {
+          "time": 86.76,
+          "end": 87.06,
+          "text": "来",
+          "probability": 0.1322
+        },
+        {
+          "time": 87.0,
+          "end": 87.3,
+          "text": "看",
+          "probability": 0.0584
+        },
+        {
+          "time": 88.42,
+          "end": 88.72,
+          "text": "我的",
+          "probability": 0.8985
+        },
+        {
+          "time": 88.82,
+          "end": 89.22,
+          "text": "灵",
+          "probability": 0.6171
+        },
+        {
+          "time": 89.34,
+          "end": 90.46,
+          "text": "魂",
+          "probability": 0.4239
+        }
+      ]
+    },
+    {
+      "time": 91.84,
+      "end": 97.34,
+      "text": "我要信心要来唱我的灵魂",
+      "words": [
+        {
+          "time": 91.84,
+          "end": 92.14,
+          "text": "我要",
+          "probability": 0.6958
+        },
+        {
+          "time": 92.48,
+          "end": 92.78,
+          "text": "信",
+          "probability": 0.9959
+        },
+        {
+          "time": 92.9,
+          "end": 93.2,
+          "text": "心",
+          "probability": 0.9939
+        },
+        {
+          "time": 93.34,
+          "end": 93.64,
+          "text": "要",
+          "probability": 0.8792
+        },
+        {
+          "time": 93.78,
+          "end": 94.08,
+          "text": "来",
+          "probability": 0.988
+        },
+        {
+          "time": 94.18,
+          "end": 94.48,
+          "text": "唱",
+          "probability": 0.2925
+        },
+        {
+          "time": 95.42,
+          "end": 95.72,
+          "text": "我的",
+          "probability": 0.2448
+        },
+        {
+          "time": 95.88,
+          "end": 96.24,
+          "text": "灵",
+          "probability": 0.814
+        },
+        {
+          "time": 96.32,
+          "end": 97.34,
+          "text": "魂",
+          "probability": 0.9748
+        }
+      ]
+    },
+    {
+      "time": 98.76,
+      "end": 103.74,
+      "text": "你要信心要来唱我的",
+      "words": [
+        {
+          "time": 98.76,
+          "end": 99.06,
+          "text": "你要",
+          "probability": 0.9537
+        },
+        {
+          "time": 99.7,
+          "end": 100.0,
+          "text": "信",
+          "probability": 0.7906
+        },
+        {
+          "time": 100.22,
+          "end": 100.52,
+          "text": "心",
+          "probability": 0.9915
+        },
+        {
+          "time": 101.56,
+          "end": 101.86,
+          "text": "要",
+          "probability": 0.745
+        },
+        {
+          "time": 101.88,
+          "end": 102.18,
+          "text": "来",
+          "probability": 0.5449
+        },
+        {
+          "time": 102.4,
+          "end": 102.7,
+          "text": "唱",
+          "probability": 0.939
+        },
+        {
+          "time": 103.44,
+          "end": 103.74,
+          "text": "我的",
+          "probability": 0.8431
+        }
+      ]
+    },
+    {
+      "time": 109.76,
+      "end": 111.58,
+      "text": "灵魂",
+      "words": [
+        {
+          "time": 109.76,
+          "end": 110.12,
+          "text": "灵",
+          "probability": 0.991
+        },
+        {
+          "time": 110.26,
+          "end": 111.58,
+          "text": "魂",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 113.3,
+      "end": 115.94,
+      "text": "祈祷的来唱美",
+      "words": [
+        {
+          "time": 113.3,
+          "end": 113.7,
+          "text": "祈",
+          "probability": 0.0751
+        },
+        {
+          "time": 113.58,
+          "end": 114.1,
+          "text": "祷",
+          "probability": 0.2909
+        },
+        {
+          "time": 114.28,
+          "end": 114.58,
+          "text": "的",
+          "probability": 0.4061
+        },
+        {
+          "time": 114.62,
+          "end": 114.92,
+          "text": "来",
+          "probability": 0.845
+        },
+        {
+          "time": 115.04,
+          "end": 115.34,
+          "text": "唱",
+          "probability": 0.1101
+        },
+        {
+          "time": 115.64,
+          "end": 115.94,
+          "text": "美",
+          "probability": 0.165
+        }
+      ]
+    },
+    {
+      "time": 117.2,
+      "end": 117.6,
+      "text": "诗",
+      "words": [
+        {
+          "time": 117.2,
+          "end": 117.6,
+          "text": "诗",
+          "probability": 0.125
+        }
+      ]
+    }
+  ]
+}

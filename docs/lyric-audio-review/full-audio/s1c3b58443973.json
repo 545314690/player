@@ -1,0 +1,2057 @@
+{
+  "id": "s1c3b58443973",
+  "file": "188-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "56d6c14100dd82453f020e6224855aca2755df0da0baef642b15c0619b0a1cd2",
+  "fullDuration": 159.608163,
+  "lines": [
+    {
+      "time": 0.24,
+      "end": 2.68,
+      "text": "作词:王晓鸥作曲:",
+      "words": [
+        {
+          "time": 0.24,
+          "end": 0.54,
+          "text": "作",
+          "probability": 0.0621
+        },
+        {
+          "time": 0.24,
+          "end": 0.54,
+          "text": "词",
+          "probability": 0.5766
+        },
+        {
+          "time": 0.24,
+          "end": 0.54,
+          "text": ":",
+          "probability": 0.5037
+        },
+        {
+          "time": 0.62,
+          "end": 0.92,
+          "text": "王",
+          "probability": 0.0354
+        },
+        {
+          "time": 0.62,
+          "end": 0.92,
+          "text": "晓",
+          "probability": 0.0383
+        },
+        {
+          "time": 0.62,
+          "end": 1.0,
+          "text": "鸥",
+          "probability": 0.1188
+        },
+        {
+          "time": 1.36,
+          "end": 1.66,
+          "text": "作",
+          "probability": 0.5667
+        },
+        {
+          "time": 2.38,
+          "end": 2.68,
+          "text": "曲",
+          "probability": 0.8425
+        },
+        {
+          "time": 2.38,
+          "end": 2.68,
+          "text": ":",
+          "probability": 0.9922
+        }
+      ]
+    },
+    {
+      "time": 5.48,
+      "end": 5.86,
+      "text": "王晓鸥",
+      "words": [
+        {
+          "time": 5.48,
+          "end": 5.78,
+          "text": "王",
+          "probability": 0.7853
+        },
+        {
+          "time": 5.52,
+          "end": 5.82,
+          "text": "晓",
+          "probability": 0.972
+        },
+        {
+          "time": 5.52,
+          "end": 5.86,
+          "text": "鸥",
+          "probability": 0.9908
+        }
+      ]
+    },
+    {
+      "time": 7.1,
+      "end": 12.36,
+      "text": "作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作曲:王晓鸥作",
+      "words": [
+        {
+          "time": 7.1,
+          "end": 7.4,
+          "text": "作",
+          "probability": 0.5493
+        },
+        {
+          "time": 7.1,
+          "end": 7.4,
+          "text": "曲",
+          "probability": 0.8451
+        },
+        {
+          "time": 7.1,
+          "end": 7.4,
+          "text": ":",
+          "probability": 0.9973
+        },
+        {
+          "time": 7.44,
+          "end": 7.74,
+          "text": "王",
+          "probability": 0.8888
+        },
+        {
+          "time": 7.44,
+          "end": 7.74,
+          "text": "晓",
+          "probability": 0.9824
+        },
+        {
+          "time": 7.98,
+          "end": 8.3,
+          "text": "鸥",
+          "probability": 0.9944
+        },
+        {
+          "time": 8.6,
+          "end": 8.9,
+          "text": "作",
+          "probability": 0.6149
+        },
+        {
+          "time": 9.28,
+          "end": 9.58,
+          "text": "曲",
+          "probability": 0.8722
+        },
+        {
+          "time": 9.28,
+          "end": 9.58,
+          "text": ":",
+          "probability": 0.9985
+        },
+        {
+          "time": 9.28,
+          "end": 9.58,
+          "text": "王",
+          "probability": 0.9146
+        },
+        {
+          "time": 9.28,
+          "end": 9.58,
+          "text": "晓",
+          "probability": 0.9841
+        },
+        {
+          "time": 9.28,
+          "end": 9.58,
+          "text": "鸥",
+          "probability": 0.9938
+        },
+        {
+          "time": 9.58,
+          "end": 9.88,
+          "text": "作",
+          "probability": 0.4665
+        },
+        {
+          "time": 9.72,
+          "end": 10.02,
+          "text": "曲",
+          "probability": 0.8611
+        },
+        {
+          "time": 9.72,
+          "end": 10.02,
+          "text": ":",
+          "probability": 0.9988
+        },
+        {
+          "time": 9.72,
+          "end": 10.02,
+          "text": "王",
+          "probability": 0.9294
+        },
+        {
+          "time": 9.72,
+          "end": 10.02,
+          "text": "晓",
+          "probability": 0.9877
+        },
+        {
+          "time": 9.72,
+          "end": 10.04,
+          "text": "鸥",
+          "probability": 0.9932
+        },
+        {
+          "time": 9.9,
+          "end": 10.2,
+          "text": "作",
+          "probability": 0.563
+        },
+        {
+          "time": 9.9,
+          "end": 10.2,
+          "text": "曲",
+          "probability": 0.8492
+        },
+        {
+          "time": 9.9,
+          "end": 10.2,
+          "text": ":",
+          "probability": 0.999
+        },
+        {
+          "time": 10.0,
+          "end": 10.3,
+          "text": "王",
+          "probability": 0.9468
+        },
+        {
+          "time": 10.0,
+          "end": 10.48,
+          "text": "晓",
+          "probability": 0.9892
+        },
+        {
+          "time": 10.18,
+          "end": 10.48,
+          "text": "鸥",
+          "probability": 0.9926
+        },
+        {
+          "time": 10.48,
+          "end": 10.78,
+          "text": "作",
+          "probability": 0.5
+        },
+        {
+          "time": 10.48,
+          "end": 10.78,
+          "text": "曲",
+          "probability": 0.8599
+        },
+        {
+          "time": 10.48,
+          "end": 10.78,
+          "text": ":",
+          "probability": 0.9992
+        },
+        {
+          "time": 10.62,
+          "end": 10.92,
+          "text": "王",
+          "probability": 0.949
+        },
+        {
+          "time": 10.62,
+          "end": 10.94,
+          "text": "晓",
+          "probability": 0.9903
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "鸥",
+          "probability": 0.9933
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "作",
+          "probability": 0.5448
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "曲",
+          "probability": 0.8763
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": ":",
+          "probability": 0.9993
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "王",
+          "probability": 0.9586
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "晓",
+          "probability": 0.9904
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "鸥",
+          "probability": 0.9928
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "作",
+          "probability": 0.5058
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "曲",
+          "probability": 0.8895
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": ":",
+          "probability": 0.9994
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "王",
+          "probability": 0.9602
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "晓",
+          "probability": 0.9918
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "鸥",
+          "probability": 0.9927
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "作",
+          "probability": 0.6282
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "曲",
+          "probability": 0.8926
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": ":",
+          "probability": 0.9994
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "王",
+          "probability": 0.9637
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "晓",
+          "probability": 0.9917
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "鸥",
+          "probability": 0.9935
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "作",
+          "probability": 0.5632
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "曲",
+          "probability": 0.8905
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "王",
+          "probability": 0.9683
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "晓",
+          "probability": 0.9927
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "鸥",
+          "probability": 0.9937
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "作",
+          "probability": 0.6603
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "曲",
+          "probability": 0.9653
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "王",
+          "probability": 0.974
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "晓",
+          "probability": 0.9929
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "鸥",
+          "probability": 0.9935
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "作",
+          "probability": 0.641
+        },
+        {
+          "time": 10.64,
+          "end": 10.94,
+          "text": "曲",
+          "probability": 0.9522
+        },
+        {
+          "time": 10.66,
+          "end": 10.96,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 10.66,
+          "end": 10.96,
+          "text": "王",
+          "probability": 0.9768
+        },
+        {
+          "time": 10.66,
+          "end": 10.96,
+          "text": "晓",
+          "probability": 0.9929
+        },
+        {
+          "time": 10.66,
+          "end": 10.96,
+          "text": "鸥",
+          "probability": 0.9934
+        },
+        {
+          "time": 10.66,
+          "end": 10.96,
+          "text": "作",
+          "probability": 0.6157
+        },
+        {
+          "time": 10.66,
+          "end": 10.96,
+          "text": "曲",
+          "probability": 0.9722
+        },
+        {
+          "time": 10.68,
+          "end": 10.98,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 10.68,
+          "end": 10.98,
+          "text": "王",
+          "probability": 0.9794
+        },
+        {
+          "time": 10.68,
+          "end": 10.98,
+          "text": "晓",
+          "probability": 0.9929
+        },
+        {
+          "time": 10.68,
+          "end": 11.0,
+          "text": "鸥",
+          "probability": 0.9938
+        },
+        {
+          "time": 11.4,
+          "end": 11.7,
+          "text": "作",
+          "probability": 0.5906
+        },
+        {
+          "time": 11.4,
+          "end": 11.7,
+          "text": "曲",
+          "probability": 0.9689
+        },
+        {
+          "time": 11.4,
+          "end": 11.7,
+          "text": ":",
+          "probability": 0.9995
+        },
+        {
+          "time": 12.0,
+          "end": 12.3,
+          "text": "王",
+          "probability": 0.9794
+        },
+        {
+          "time": 12.06,
+          "end": 12.36,
+          "text": "晓",
+          "probability": 0.9926
+        },
+        {
+          "time": 12.06,
+          "end": 12.36,
+          "text": "鸥",
+          "probability": 0.9946
+        },
+        {
+          "time": 12.36,
+          "end": 12.66,
+          "text": "作",
+          "probability": 0.6176
+        }
+      ]
+    },
+    {
+      "time": 12.36,
+      "end": 12.84,
+      "text": "曲:",
+      "words": [
+        {
+          "time": 12.36,
+          "end": 12.66,
+          "text": "曲",
+          "probability": 0.9844
+        },
+        {
+          "time": 12.54,
+          "end": 12.84,
+          "text": ":",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 14.78,
+      "end": 15.24,
+      "text": "王晓鸥作曲:",
+      "words": [
+        {
+          "time": 14.78,
+          "end": 15.08,
+          "text": "王",
+          "probability": 0.9802
+        },
+        {
+          "time": 14.78,
+          "end": 15.08,
+          "text": "晓",
+          "probability": 0.9914
+        },
+        {
+          "time": 14.78,
+          "end": 15.08,
+          "text": "鸥",
+          "probability": 0.9944
+        },
+        {
+          "time": 14.78,
+          "end": 15.08,
+          "text": "作",
+          "probability": 0.5619
+        },
+        {
+          "time": 14.78,
+          "end": 15.08,
+          "text": "曲",
+          "probability": 0.9849
+        },
+        {
+          "time": 14.94,
+          "end": 15.24,
+          "text": ":",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 16.66,
+      "end": 16.98,
+      "text": "王晓鸥作曲",
+      "words": [
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "王",
+          "probability": 0.9817
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "晓",
+          "probability": 0.9917
+        },
+        {
+          "time": 16.66,
+          "end": 16.96,
+          "text": "鸥",
+          "probability": 0.9945
+        },
+        {
+          "time": 16.68,
+          "end": 16.98,
+          "text": "作",
+          "probability": 0.4706
+        },
+        {
+          "time": 16.68,
+          "end": 16.98,
+          "text": "曲",
+          "probability": 0.9855
+        }
+      ]
+    },
+    {
+      "time": 18.2,
+      "end": 24.28,
+      "text": ":王晓鸥如果你想知道爱在哪里爱就",
+      "words": [
+        {
+          "time": 18.2,
+          "end": 18.5,
+          "text": ":",
+          "probability": 0.9996
+        },
+        {
+          "time": 18.2,
+          "end": 18.5,
+          "text": "王",
+          "probability": 0.9822
+        },
+        {
+          "time": 18.2,
+          "end": 18.5,
+          "text": "晓",
+          "probability": 0.9921
+        },
+        {
+          "time": 18.2,
+          "end": 18.5,
+          "text": "鸥",
+          "probability": 0.9947
+        },
+        {
+          "time": 18.22,
+          "end": 18.52,
+          "text": "如果",
+          "probability": 0.5338
+        },
+        {
+          "time": 19.46,
+          "end": 19.76,
+          "text": "你想",
+          "probability": 0.9908
+        },
+        {
+          "time": 19.84,
+          "end": 20.14,
+          "text": "知道",
+          "probability": 0.9994
+        },
+        {
+          "time": 20.96,
+          "end": 21.26,
+          "text": "爱",
+          "probability": 0.6751
+        },
+        {
+          "time": 21.38,
+          "end": 21.68,
+          "text": "在",
+          "probability": 0.9956
+        },
+        {
+          "time": 21.9,
+          "end": 22.2,
+          "text": "哪",
+          "probability": 0.8516
+        },
+        {
+          "time": 22.4,
+          "end": 22.7,
+          "text": "里",
+          "probability": 0.9842
+        },
+        {
+          "time": 23.38,
+          "end": 23.68,
+          "text": "爱",
+          "probability": 0.9325
+        },
+        {
+          "time": 24.08,
+          "end": 24.38,
+          "text": "就",
+          "probability": 0.931
+        }
+      ]
+    },
+    {
+      "time": 24.28,
+      "end": 26.06,
+      "text": "在你我的周围",
+      "words": [
+        {
+          "time": 24.28,
+          "end": 24.58,
+          "text": "在",
+          "probability": 0.9983
+        },
+        {
+          "time": 24.46,
+          "end": 24.76,
+          "text": "你",
+          "probability": 0.9787
+        },
+        {
+          "time": 24.86,
+          "end": 25.16,
+          "text": "我的",
+          "probability": 0.9422
+        },
+        {
+          "time": 25.28,
+          "end": 25.58,
+          "text": "周",
+          "probability": 0.995
+        },
+        {
+          "time": 25.66,
+          "end": 26.06,
+          "text": "围",
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "time": 30.28,
+      "end": 31.74,
+      "text": "爱在哪里",
+      "words": [
+        {
+          "time": 30.28,
+          "end": 30.58,
+          "text": "爱",
+          "probability": 0.8811
+        },
+        {
+          "time": 30.7,
+          "end": 31.0,
+          "text": "在",
+          "probability": 0.9941
+        },
+        {
+          "time": 31.44,
+          "end": 31.74,
+          "text": "哪里",
+          "probability": 0.5651
+        }
+      ]
+    },
+    {
+      "time": 33.14,
+      "end": 34.94,
+      "text": "爱就在每个笑脸",
+      "words": [
+        {
+          "time": 33.14,
+          "end": 33.44,
+          "text": "爱",
+          "probability": 0.9973
+        },
+        {
+          "time": 33.28,
+          "end": 33.58,
+          "text": "就",
+          "probability": 0.8015
+        },
+        {
+          "time": 33.46,
+          "end": 33.76,
+          "text": "在",
+          "probability": 0.9991
+        },
+        {
+          "time": 33.76,
+          "end": 34.06,
+          "text": "每",
+          "probability": 0.9888
+        },
+        {
+          "time": 34.04,
+          "end": 34.34,
+          "text": "个",
+          "probability": 0.9747
+        },
+        {
+          "time": 34.34,
+          "end": 34.64,
+          "text": "笑",
+          "probability": 0.779
+        },
+        {
+          "time": 34.56,
+          "end": 34.94,
+          "text": "脸",
+          "probability": 0.9858
+        }
+      ]
+    },
+    {
+      "time": 36.16,
+      "end": 42.38,
+      "text": "上爱在哪里爱在哪里爱",
+      "words": [
+        {
+          "time": 36.16,
+          "end": 36.46,
+          "text": "上",
+          "probability": 0.9983
+        },
+        {
+          "time": 37.22,
+          "end": 37.52,
+          "text": "爱",
+          "probability": 0.9934
+        },
+        {
+          "time": 37.68,
+          "end": 37.98,
+          "text": "在",
+          "probability": 0.999
+        },
+        {
+          "time": 38.44,
+          "end": 38.74,
+          "text": "哪里",
+          "probability": 0.9901
+        },
+        {
+          "time": 39.52,
+          "end": 39.82,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 39.78,
+          "end": 40.08,
+          "text": "在",
+          "probability": 0.9985
+        },
+        {
+          "time": 40.7,
+          "end": 41.0,
+          "text": "哪里",
+          "probability": 0.9975
+        },
+        {
+          "time": 42.08,
+          "end": 42.38,
+          "text": "爱",
+          "probability": 0.9808
+        }
+      ]
+    },
+    {
+      "time": 42.58,
+      "end": 44.54,
+      "text": "爱爱神地爱自你",
+      "words": [
+        {
+          "time": 42.58,
+          "end": 42.88,
+          "text": "爱",
+          "probability": 0.0706
+        },
+        {
+          "time": 42.7,
+          "end": 43.0,
+          "text": "爱",
+          "probability": 0.1925
+        },
+        {
+          "time": 42.9,
+          "end": 43.2,
+          "text": "神",
+          "probability": 0.3208
+        },
+        {
+          "time": 43.12,
+          "end": 43.42,
+          "text": "地",
+          "probability": 0.1601
+        },
+        {
+          "time": 43.62,
+          "end": 43.92,
+          "text": "爱",
+          "probability": 0.9973
+        },
+        {
+          "time": 43.88,
+          "end": 44.18,
+          "text": "自",
+          "probability": 0.3084
+        },
+        {
+          "time": 44.24,
+          "end": 44.54,
+          "text": "你",
+          "probability": 0.2535
+        }
+      ]
+    },
+    {
+      "time": 46.42,
+      "end": 51.98,
+      "text": "爱从何来爱从何来爱爱",
+      "words": [
+        {
+          "time": 46.42,
+          "end": 46.72,
+          "text": "爱",
+          "probability": 0.9916
+        },
+        {
+          "time": 46.84,
+          "end": 47.14,
+          "text": "从",
+          "probability": 0.4983
+        },
+        {
+          "time": 47.26,
+          "end": 47.56,
+          "text": "何",
+          "probability": 0.2184
+        },
+        {
+          "time": 47.84,
+          "end": 48.14,
+          "text": "来",
+          "probability": 0.9745
+        },
+        {
+          "time": 48.76,
+          "end": 49.06,
+          "text": "爱",
+          "probability": 0.9982
+        },
+        {
+          "time": 49.06,
+          "end": 49.36,
+          "text": "从",
+          "probability": 0.9903
+        },
+        {
+          "time": 49.6,
+          "end": 49.9,
+          "text": "何",
+          "probability": 0.9903
+        },
+        {
+          "time": 50.22,
+          "end": 50.52,
+          "text": "来",
+          "probability": 0.9931
+        },
+        {
+          "time": 51.44,
+          "end": 51.74,
+          "text": "爱",
+          "probability": 0.993
+        },
+        {
+          "time": 51.84,
+          "end": 52.14,
+          "text": "爱",
+          "probability": 0.1831
+        }
+      ]
+    },
+    {
+      "time": 51.98,
+      "end": 53.8,
+      "text": "从从舌而来",
+      "words": [
+        {
+          "time": 51.98,
+          "end": 52.28,
+          "text": "从",
+          "probability": 0.2515
+        },
+        {
+          "time": 52.58,
+          "end": 52.88,
+          "text": "从",
+          "probability": 0.0551
+        },
+        {
+          "time": 52.8,
+          "end": 53.14,
+          "text": "舌",
+          "probability": 0.0448
+        },
+        {
+          "time": 53.14,
+          "end": 53.44,
+          "text": "而",
+          "probability": 0.3656
+        },
+        {
+          "time": 53.5,
+          "end": 53.8,
+          "text": "来",
+          "probability": 0.5971
+        }
+      ]
+    },
+    {
+      "time": 62.34,
+      "end": 68.06,
+      "text": "如果你想知道爱在哪里爱就",
+      "words": [
+        {
+          "time": 62.34,
+          "end": 62.64,
+          "text": "如果",
+          "probability": 0.501
+        },
+        {
+          "time": 63.34,
+          "end": 63.64,
+          "text": "你想",
+          "probability": 0.9719
+        },
+        {
+          "time": 63.78,
+          "end": 64.08,
+          "text": "知道",
+          "probability": 0.9981
+        },
+        {
+          "time": 64.86,
+          "end": 65.16,
+          "text": "爱",
+          "probability": 0.2864
+        },
+        {
+          "time": 65.24,
+          "end": 65.54,
+          "text": "在",
+          "probability": 0.996
+        },
+        {
+          "time": 65.72,
+          "end": 66.02,
+          "text": "哪",
+          "probability": 0.8506
+        },
+        {
+          "time": 66.3,
+          "end": 66.6,
+          "text": "里",
+          "probability": 0.9914
+        },
+        {
+          "time": 67.34,
+          "end": 67.64,
+          "text": "爱",
+          "probability": 0.9972
+        },
+        {
+          "time": 67.9,
+          "end": 68.2,
+          "text": "就",
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "time": 68.06,
+      "end": 70.0,
+      "text": "在成长生命中",
+      "words": [
+        {
+          "time": 68.06,
+          "end": 68.36,
+          "text": "在",
+          "probability": 0.9998
+        },
+        {
+          "time": 68.32,
+          "end": 68.62,
+          "text": "成",
+          "probability": 0.9719
+        },
+        {
+          "time": 68.62,
+          "end": 68.92,
+          "text": "长",
+          "probability": 0.9968
+        },
+        {
+          "time": 68.84,
+          "end": 69.14,
+          "text": "生",
+          "probability": 0.9979
+        },
+        {
+          "time": 69.22,
+          "end": 69.52,
+          "text": "命",
+          "probability": 0.9997
+        },
+        {
+          "time": 69.7,
+          "end": 70.0,
+          "text": "中",
+          "probability": 0.9994
+        }
+      ]
+    },
+    {
+      "time": 71.5,
+      "end": 77.36,
+      "text": "如果你想知道爱在哪里爱就",
+      "words": [
+        {
+          "time": 71.5,
+          "end": 71.8,
+          "text": "如果",
+          "probability": 0.9711
+        },
+        {
+          "time": 72.52,
+          "end": 72.82,
+          "text": "你想",
+          "probability": 0.9964
+        },
+        {
+          "time": 73.08,
+          "end": 73.38,
+          "text": "知道",
+          "probability": 0.9992
+        },
+        {
+          "time": 74.12,
+          "end": 74.42,
+          "text": "爱",
+          "probability": 0.9772
+        },
+        {
+          "time": 74.52,
+          "end": 74.82,
+          "text": "在",
+          "probability": 0.9994
+        },
+        {
+          "time": 75.0,
+          "end": 75.3,
+          "text": "哪",
+          "probability": 0.9586
+        },
+        {
+          "time": 75.6,
+          "end": 75.9,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 76.56,
+          "end": 76.86,
+          "text": "爱",
+          "probability": 0.9988
+        },
+        {
+          "time": 77.16,
+          "end": 77.46,
+          "text": "就",
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "time": 77.36,
+      "end": 79.16,
+      "text": "在父母的心里",
+      "words": [
+        {
+          "time": 77.36,
+          "end": 77.66,
+          "text": "在",
+          "probability": 0.9997
+        },
+        {
+          "time": 77.52,
+          "end": 77.82,
+          "text": "父",
+          "probability": 0.922
+        },
+        {
+          "time": 77.84,
+          "end": 78.14,
+          "text": "母",
+          "probability": 0.9992
+        },
+        {
+          "time": 78.06,
+          "end": 78.36,
+          "text": "的",
+          "probability": 0.4005
+        },
+        {
+          "time": 78.32,
+          "end": 78.62,
+          "text": "心",
+          "probability": 0.9332
+        },
+        {
+          "time": 78.86,
+          "end": 79.16,
+          "text": "里",
+          "probability": 0.9793
+        }
+      ]
+    },
+    {
+      "time": 81.06,
+      "end": 86.6,
+      "text": "爱在哪里爱在哪里爱就",
+      "words": [
+        {
+          "time": 81.06,
+          "end": 81.36,
+          "text": "爱",
+          "probability": 0.9809
+        },
+        {
+          "time": 81.46,
+          "end": 81.76,
+          "text": "在",
+          "probability": 0.9721
+        },
+        {
+          "time": 81.94,
+          "end": 82.24,
+          "text": "哪",
+          "probability": 0.9645
+        },
+        {
+          "time": 82.5,
+          "end": 82.8,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 83.32,
+          "end": 83.62,
+          "text": "爱",
+          "probability": 0.9978
+        },
+        {
+          "time": 83.68,
+          "end": 83.98,
+          "text": "在",
+          "probability": 0.9937
+        },
+        {
+          "time": 84.22,
+          "end": 84.52,
+          "text": "哪",
+          "probability": 0.9977
+        },
+        {
+          "time": 84.78,
+          "end": 85.08,
+          "text": "里",
+          "probability": 0.9998
+        },
+        {
+          "time": 85.74,
+          "end": 86.04,
+          "text": "爱",
+          "probability": 0.8936
+        },
+        {
+          "time": 86.44,
+          "end": 86.74,
+          "text": "就",
+          "probability": 0.9883
+        }
+      ]
+    },
+    {
+      "time": 86.6,
+      "end": 88.34,
+      "text": "在身体爱自你",
+      "words": [
+        {
+          "time": 86.6,
+          "end": 86.9,
+          "text": "在",
+          "probability": 0.9997
+        },
+        {
+          "time": 86.84,
+          "end": 87.14,
+          "text": "身",
+          "probability": 0.9493
+        },
+        {
+          "time": 87.12,
+          "end": 87.42,
+          "text": "体",
+          "probability": 0.9592
+        },
+        {
+          "time": 87.4,
+          "end": 87.7,
+          "text": "爱",
+          "probability": 0.9289
+        },
+        {
+          "time": 87.72,
+          "end": 88.02,
+          "text": "自",
+          "probability": 0.5481
+        },
+        {
+          "time": 88.04,
+          "end": 88.34,
+          "text": "你",
+          "probability": 0.3722
+        }
+      ]
+    },
+    {
+      "time": 90.28,
+      "end": 96.04,
+      "text": "爱从何来爱从何来爱从",
+      "words": [
+        {
+          "time": 90.28,
+          "end": 90.58,
+          "text": "爱",
+          "probability": 0.8864
+        },
+        {
+          "time": 90.76,
+          "end": 91.06,
+          "text": "从",
+          "probability": 0.9738
+        },
+        {
+          "time": 91.14,
+          "end": 91.44,
+          "text": "何",
+          "probability": 0.5394
+        },
+        {
+          "time": 91.76,
+          "end": 92.06,
+          "text": "来",
+          "probability": 0.995
+        },
+        {
+          "time": 92.6,
+          "end": 92.9,
+          "text": "爱",
+          "probability": 0.9982
+        },
+        {
+          "time": 92.96,
+          "end": 93.26,
+          "text": "从",
+          "probability": 0.9924
+        },
+        {
+          "time": 93.44,
+          "end": 93.74,
+          "text": "何",
+          "probability": 0.9957
+        },
+        {
+          "time": 94.12,
+          "end": 94.42,
+          "text": "来",
+          "probability": 0.9993
+        },
+        {
+          "time": 95.44,
+          "end": 95.74,
+          "text": "爱",
+          "probability": 0.9958
+        },
+        {
+          "time": 95.74,
+          "end": 96.04,
+          "text": "从",
+          "probability": 0.1644
+        }
+      ]
+    },
+    {
+      "time": 96.4,
+      "end": 97.58,
+      "text": "何来爱从何来",
+      "words": [
+        {
+          "time": 96.4,
+          "end": 96.7,
+          "text": "何",
+          "probability": 0.6106
+        },
+        {
+          "time": 96.68,
+          "end": 96.98,
+          "text": "来",
+          "probability": 0.963
+        },
+        {
+          "time": 96.68,
+          "end": 96.98,
+          "text": "爱",
+          "probability": 0.9892
+        },
+        {
+          "time": 96.68,
+          "end": 96.98,
+          "text": "从",
+          "probability": 0.4678
+        },
+        {
+          "time": 96.68,
+          "end": 96.98,
+          "text": "何",
+          "probability": 0.6093
+        },
+        {
+          "time": 97.28,
+          "end": 97.58,
+          "text": "来",
+          "probability": 0.8983
+        }
+      ]
+    },
+    {
+      "time": 99.46,
+      "end": 105.26,
+      "text": "爱在哪里爱在哪里爱在",
+      "words": [
+        {
+          "time": 99.46,
+          "end": 99.76,
+          "text": "爱",
+          "probability": 0.9957
+        },
+        {
+          "time": 99.96,
+          "end": 100.26,
+          "text": "在",
+          "probability": 0.9932
+        },
+        {
+          "time": 100.38,
+          "end": 100.68,
+          "text": "哪",
+          "probability": 0.9652
+        },
+        {
+          "time": 100.98,
+          "end": 101.28,
+          "text": "里",
+          "probability": 0.9997
+        },
+        {
+          "time": 101.82,
+          "end": 102.12,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 102.24,
+          "end": 102.54,
+          "text": "在",
+          "probability": 0.9968
+        },
+        {
+          "time": 102.72,
+          "end": 103.02,
+          "text": "哪",
+          "probability": 0.9963
+        },
+        {
+          "time": 103.32,
+          "end": 103.62,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 104.58,
+          "end": 104.88,
+          "text": "爱",
+          "probability": 0.9961
+        },
+        {
+          "time": 104.96,
+          "end": 105.26,
+          "text": "在",
+          "probability": 0.1602
+        }
+      ]
+    },
+    {
+      "time": 105.32,
+      "end": 106.8,
+      "text": "哪里爱自你",
+      "words": [
+        {
+          "time": 105.32,
+          "end": 105.62,
+          "text": "哪",
+          "probability": 0.3614
+        },
+        {
+          "time": 105.48,
+          "end": 105.78,
+          "text": "里",
+          "probability": 0.9997
+        },
+        {
+          "time": 105.9,
+          "end": 106.2,
+          "text": "爱",
+          "probability": 0.9952
+        },
+        {
+          "time": 106.12,
+          "end": 106.42,
+          "text": "自",
+          "probability": 0.1793
+        },
+        {
+          "time": 106.5,
+          "end": 106.8,
+          "text": "你",
+          "probability": 0.7541
+        }
+      ]
+    },
+    {
+      "time": 108.72,
+      "end": 114.2,
+      "text": "爱从何来爱从何来爱从何来爱从",
+      "words": [
+        {
+          "time": 108.72,
+          "end": 109.02,
+          "text": "爱",
+          "probability": 0.9202
+        },
+        {
+          "time": 109.14,
+          "end": 109.44,
+          "text": "从",
+          "probability": 0.9987
+        },
+        {
+          "time": 109.58,
+          "end": 109.88,
+          "text": "何",
+          "probability": 0.9988
+        },
+        {
+          "time": 110.18,
+          "end": 110.48,
+          "text": "来",
+          "probability": 0.9998
+        },
+        {
+          "time": 111.08,
+          "end": 111.38,
+          "text": "爱",
+          "probability": 0.9996
+        },
+        {
+          "time": 111.5,
+          "end": 111.8,
+          "text": "从",
+          "probability": 0.9985
+        },
+        {
+          "time": 111.9,
+          "end": 112.2,
+          "text": "何",
+          "probability": 0.9979
+        },
+        {
+          "time": 112.5,
+          "end": 112.8,
+          "text": "来",
+          "probability": 0.9997
+        },
+        {
+          "time": 112.58,
+          "end": 112.88,
+          "text": "爱",
+          "probability": 0.9994
+        },
+        {
+          "time": 112.58,
+          "end": 112.88,
+          "text": "从",
+          "probability": 0.9953
+        },
+        {
+          "time": 112.58,
+          "end": 112.88,
+          "text": "何",
+          "probability": 0.9951
+        },
+        {
+          "time": 112.58,
+          "end": 112.88,
+          "text": "来",
+          "probability": 0.9982
+        },
+        {
+          "time": 113.72,
+          "end": 114.02,
+          "text": "爱",
+          "probability": 0.9993
+        },
+        {
+          "time": 114.2,
+          "end": 114.5,
+          "text": "从",
+          "probability": 0.9949
+        }
+      ]
+    },
+    {
+      "time": 114.2,
+      "end": 115.72,
+      "text": "何来爱从何来爱从何来",
+      "words": [
+        {
+          "time": 114.2,
+          "end": 114.5,
+          "text": "何",
+          "probability": 0.9909
+        },
+        {
+          "time": 114.2,
+          "end": 114.5,
+          "text": "来",
+          "probability": 0.9728
+        },
+        {
+          "time": 114.2,
+          "end": 114.5,
+          "text": "爱",
+          "probability": 0.999
+        },
+        {
+          "time": 114.28,
+          "end": 114.58,
+          "text": "从",
+          "probability": 0.9948
+        },
+        {
+          "time": 114.58,
+          "end": 114.88,
+          "text": "何",
+          "probability": 0.9923
+        },
+        {
+          "time": 114.58,
+          "end": 114.88,
+          "text": "来",
+          "probability": 0.9707
+        },
+        {
+          "time": 114.58,
+          "end": 114.88,
+          "text": "爱",
+          "probability": 0.9981
+        },
+        {
+          "time": 114.58,
+          "end": 114.88,
+          "text": "从",
+          "probability": 0.9931
+        },
+        {
+          "time": 114.84,
+          "end": 115.14,
+          "text": "何",
+          "probability": 0.9943
+        },
+        {
+          "time": 115.42,
+          "end": 115.72,
+          "text": "来",
+          "probability": 0.9838
+        }
+      ]
+    },
+    {
+      "time": 117.96,
+      "end": 123.74,
+      "text": "爱在哪里爱在哪里爱在",
+      "words": [
+        {
+          "time": 117.96,
+          "end": 118.26,
+          "text": "爱",
+          "probability": 0.8714
+        },
+        {
+          "time": 118.42,
+          "end": 118.72,
+          "text": "在",
+          "probability": 0.948
+        },
+        {
+          "time": 118.84,
+          "end": 119.14,
+          "text": "哪",
+          "probability": 0.9499
+        },
+        {
+          "time": 119.5,
+          "end": 119.8,
+          "text": "里",
+          "probability": 0.999
+        },
+        {
+          "time": 120.32,
+          "end": 120.62,
+          "text": "爱",
+          "probability": 0.9984
+        },
+        {
+          "time": 120.62,
+          "end": 120.92,
+          "text": "在",
+          "probability": 0.9975
+        },
+        {
+          "time": 121.12,
+          "end": 121.42,
+          "text": "哪",
+          "probability": 0.9981
+        },
+        {
+          "time": 121.88,
+          "end": 122.18,
+          "text": "里",
+          "probability": 0.9999
+        },
+        {
+          "time": 122.92,
+          "end": 123.22,
+          "text": "爱",
+          "probability": 0.9934
+        },
+        {
+          "time": 123.5,
+          "end": 123.8,
+          "text": "在",
+          "probability": 0.2715
+        }
+      ]
+    },
+    {
+      "time": 123.74,
+      "end": 125.5,
+      "text": "身体爱自你",
+      "words": [
+        {
+          "time": 123.74,
+          "end": 124.04,
+          "text": "身",
+          "probability": 0.2914
+        },
+        {
+          "time": 124.08,
+          "end": 124.38,
+          "text": "体",
+          "probability": 0.8937
+        },
+        {
+          "time": 124.4,
+          "end": 124.7,
+          "text": "爱",
+          "probability": 0.5276
+        },
+        {
+          "time": 124.68,
+          "end": 124.98,
+          "text": "自",
+          "probability": 0.7876
+        },
+        {
+          "time": 125.2,
+          "end": 125.5,
+          "text": "你",
+          "probability": 0.3021
+        }
+      ]
+    },
+    {
+      "time": 127.28,
+      "end": 133.04,
+      "text": "爱从何来爱从何来爱开始",
+      "words": [
+        {
+          "time": 127.28,
+          "end": 127.58,
+          "text": "爱",
+          "probability": 0.9971
+        },
+        {
+          "time": 127.68,
+          "end": 127.98,
+          "text": "从",
+          "probability": 0.4637
+        },
+        {
+          "time": 128.1,
+          "end": 128.4,
+          "text": "何",
+          "probability": 0.1117
+        },
+        {
+          "time": 128.72,
+          "end": 129.02,
+          "text": "来",
+          "probability": 0.983
+        },
+        {
+          "time": 129.52,
+          "end": 129.82,
+          "text": "爱",
+          "probability": 0.9996
+        },
+        {
+          "time": 129.9,
+          "end": 130.2,
+          "text": "从",
+          "probability": 0.9917
+        },
+        {
+          "time": 130.42,
+          "end": 130.72,
+          "text": "何",
+          "probability": 0.972
+        },
+        {
+          "time": 131.14,
+          "end": 131.44,
+          "text": "来",
+          "probability": 0.9988
+        },
+        {
+          "time": 132.22,
+          "end": 132.52,
+          "text": "爱",
+          "probability": 0.9964
+        },
+        {
+          "time": 132.74,
+          "end": 133.04,
+          "text": "开始",
+          "probability": 0.2075
+        }
+      ]
+    },
+    {
+      "time": 133.16,
+      "end": 134.76,
+      "text": "从身而来",
+      "words": [
+        {
+          "time": 133.16,
+          "end": 133.46,
+          "text": "从",
+          "probability": 0.9667
+        },
+        {
+          "time": 133.6,
+          "end": 133.9,
+          "text": "身",
+          "probability": 0.0785
+        },
+        {
+          "time": 133.86,
+          "end": 134.16,
+          "text": "而",
+          "probability": 0.8083
+        },
+        {
+          "time": 134.46,
+          "end": 134.76,
+          "text": "来",
+          "probability": 0.9968
+        }
+      ]
+    },
+    {
+      "time": 156.56,
+      "end": 156.86,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "优",
+          "probability": 0.1815
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "优",
+          "probability": 0.9975
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "独",
+          "probability": 0.9951
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "播",
+          "probability": 0.9971
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "剧",
+          "probability": 0.9973
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "场",
+          "probability": 0.9978
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "——",
+          "probability": 0.998
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "Yo",
+          "probability": 0.9967
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "Yo",
+          "probability": 0.9979
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": " Television",
+          "probability": 0.9956
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": " Series",
+          "probability": 0.9983
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": " Exc",
+          "probability": 0.9969
+        },
+        {
+          "time": 156.56,
+          "end": 156.86,
+          "text": "lusive",
+          "probability": 0.9976
+        }
+      ]
+    }
+  ]
+}

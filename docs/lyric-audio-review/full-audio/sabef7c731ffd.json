@@ -1,0 +1,867 @@
+{
+  "id": "sabef7c731ffd",
+  "file": "124-.mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "aa40143e15593b0f97fece4ce12952989295c21bacf1868ec44e6cdd19855a51",
+  "fullDuration": 187.232571,
+  "lines": [
+    {
+      "time": 3.22,
+      "end": 7.16,
+      "text": "祝我敬拜祢",
+      "words": [
+        {
+          "time": 3.22,
+          "end": 3.86,
+          "text": "祝",
+          "probability": 0.2117
+        },
+        {
+          "time": 4.52,
+          "end": 4.82,
+          "text": "我",
+          "probability": 0.9607
+        },
+        {
+          "time": 4.82,
+          "end": 5.36,
+          "text": "敬",
+          "probability": 0.3413
+        },
+        {
+          "time": 5.66,
+          "end": 5.96,
+          "text": "拜",
+          "probability": 0.9764
+        },
+        {
+          "time": 6.22,
+          "end": 7.16,
+          "text": "祢",
+          "probability": 0.5839
+        }
+      ]
+    },
+    {
+      "time": 34.06,
+      "end": 35.78,
+      "text": "祝我尽",
+      "words": [
+        {
+          "time": 34.06,
+          "end": 34.74,
+          "text": "祝",
+          "probability": 0.285
+        },
+        {
+          "time": 35.02,
+          "end": 35.32,
+          "text": "我",
+          "probability": 0.8878
+        },
+        {
+          "time": 35.3,
+          "end": 35.78,
+          "text": "尽",
+          "probability": 0.0695
+        }
+      ]
+    },
+    {
+      "time": 46.14,
+      "end": 46.44,
+      "text": "快",
+      "words": [
+        {
+          "time": 46.14,
+          "end": 46.44,
+          "text": "快",
+          "probability": 0.9434
+        }
+      ]
+    },
+    {
+      "time": 57.0,
+      "end": 57.3,
+      "text": "地",
+      "words": [
+        {
+          "time": 57.0,
+          "end": 57.3,
+          "text": "地",
+          "probability": 0.3014
+        }
+      ]
+    },
+    {
+      "time": 64.0,
+      "end": 69.8,
+      "text": "天君向你起行,终天使为",
+      "words": [
+        {
+          "time": 64.0,
+          "end": 64.3,
+          "text": "天",
+          "probability": 0.1327
+        },
+        {
+          "time": 64.64,
+          "end": 64.94,
+          "text": "君",
+          "probability": 0.3528
+        },
+        {
+          "time": 65.06,
+          "end": 65.36,
+          "text": "向",
+          "probability": 0.411
+        },
+        {
+          "time": 65.5,
+          "end": 65.8,
+          "text": "你",
+          "probability": 0.5568
+        },
+        {
+          "time": 65.84,
+          "end": 66.14,
+          "text": "起",
+          "probability": 0.2423
+        },
+        {
+          "time": 66.36,
+          "end": 66.66,
+          "text": "行",
+          "probability": 0.3727
+        },
+        {
+          "time": 67.2,
+          "end": 67.5,
+          "text": ",",
+          "probability": 0.3575
+        },
+        {
+          "time": 67.92,
+          "end": 68.28,
+          "text": "终",
+          "probability": 0.2202
+        },
+        {
+          "time": 68.28,
+          "end": 68.58,
+          "text": "天",
+          "probability": 0.6678
+        },
+        {
+          "time": 68.76,
+          "end": 69.06,
+          "text": "使",
+          "probability": 0.5645
+        },
+        {
+          "time": 69.5,
+          "end": 69.8,
+          "text": "为",
+          "probability": 0.5824
+        }
+      ]
+    },
+    {
+      "time": 70.0,
+      "end": 75.76,
+      "text": "让你坐前。祝我双手起",
+      "words": [
+        {
+          "time": 70.0,
+          "end": 70.3,
+          "text": "让",
+          "probability": 0.4522
+        },
+        {
+          "time": 70.68,
+          "end": 70.98,
+          "text": "你",
+          "probability": 0.6844
+        },
+        {
+          "time": 70.98,
+          "end": 71.28,
+          "text": "坐",
+          "probability": 0.294
+        },
+        {
+          "time": 71.74,
+          "end": 72.04,
+          "text": "前",
+          "probability": 0.214
+        },
+        {
+          "time": 72.94,
+          "end": 73.24,
+          "text": "。",
+          "probability": 0.6785
+        },
+        {
+          "time": 73.44,
+          "end": 74.02,
+          "text": "祝",
+          "probability": 0.8709
+        },
+        {
+          "time": 74.28,
+          "end": 74.58,
+          "text": "我",
+          "probability": 0.9979
+        },
+        {
+          "time": 74.56,
+          "end": 74.98,
+          "text": "双",
+          "probability": 0.9938
+        },
+        {
+          "time": 75.12,
+          "end": 75.42,
+          "text": "手",
+          "probability": 0.9972
+        },
+        {
+          "time": 75.46,
+          "end": 75.76,
+          "text": "起",
+          "probability": 0.4852
+        }
+      ]
+    },
+    {
+      "time": 76.16,
+      "end": 81.22,
+      "text": "行,起行你吧,从前进来你",
+      "words": [
+        {
+          "time": 76.16,
+          "end": 76.46,
+          "text": "行",
+          "probability": 0.6803
+        },
+        {
+          "time": 77.38,
+          "end": 77.68,
+          "text": ",",
+          "probability": 0.9994
+        },
+        {
+          "time": 77.58,
+          "end": 77.88,
+          "text": "起",
+          "probability": 0.2093
+        },
+        {
+          "time": 77.96,
+          "end": 78.26,
+          "text": "行",
+          "probability": 0.8808
+        },
+        {
+          "time": 78.28,
+          "end": 78.58,
+          "text": "你",
+          "probability": 0.4513
+        },
+        {
+          "time": 78.72,
+          "end": 79.02,
+          "text": "吧",
+          "probability": 0.2709
+        },
+        {
+          "time": 78.9,
+          "end": 79.2,
+          "text": ",",
+          "probability": 0.9304
+        },
+        {
+          "time": 79.14,
+          "end": 79.44,
+          "text": "从",
+          "probability": 0.506
+        },
+        {
+          "time": 79.5,
+          "end": 79.8,
+          "text": "前",
+          "probability": 0.9774
+        },
+        {
+          "time": 79.94,
+          "end": 80.24,
+          "text": "进",
+          "probability": 0.6405
+        },
+        {
+          "time": 80.38,
+          "end": 80.68,
+          "text": "来",
+          "probability": 0.2338
+        },
+        {
+          "time": 80.92,
+          "end": 81.22,
+          "text": "你",
+          "probability": 0.5079
+        }
+      ]
+    },
+    {
+      "time": 82.62,
+      "end": 88.42,
+      "text": "。终天使为让你起行,双眼是",
+      "words": [
+        {
+          "time": 82.62,
+          "end": 82.92,
+          "text": "。",
+          "probability": 0.9674
+        },
+        {
+          "time": 83.2,
+          "end": 83.64,
+          "text": "终",
+          "probability": 0.4615
+        },
+        {
+          "time": 83.92,
+          "end": 84.22,
+          "text": "天",
+          "probability": 0.986
+        },
+        {
+          "time": 84.3,
+          "end": 84.6,
+          "text": "使",
+          "probability": 0.9926
+        },
+        {
+          "time": 84.72,
+          "end": 85.02,
+          "text": "为",
+          "probability": 0.9932
+        },
+        {
+          "time": 84.96,
+          "end": 85.26,
+          "text": "让",
+          "probability": 0.9911
+        },
+        {
+          "time": 84.96,
+          "end": 85.26,
+          "text": "你",
+          "probability": 0.9811
+        },
+        {
+          "time": 85.14,
+          "end": 85.44,
+          "text": "起",
+          "probability": 0.4063
+        },
+        {
+          "time": 85.72,
+          "end": 86.02,
+          "text": "行",
+          "probability": 0.967
+        },
+        {
+          "time": 86.8,
+          "end": 87.1,
+          "text": ",",
+          "probability": 0.9984
+        },
+        {
+          "time": 87.2,
+          "end": 87.58,
+          "text": "双",
+          "probability": 0.0709
+        },
+        {
+          "time": 87.54,
+          "end": 87.84,
+          "text": "眼",
+          "probability": 0.5972
+        },
+        {
+          "time": 88.12,
+          "end": 88.42,
+          "text": "是",
+          "probability": 0.639
+        }
+      ]
+    },
+    {
+      "time": 88.74,
+      "end": 94.64,
+      "text": "维尔的胶线祝我双手",
+      "words": [
+        {
+          "time": 88.74,
+          "end": 89.1,
+          "text": "维",
+          "probability": 0.1635
+        },
+        {
+          "time": 88.98,
+          "end": 89.54,
+          "text": "尔",
+          "probability": 0.3577
+        },
+        {
+          "time": 89.98,
+          "end": 90.28,
+          "text": "的",
+          "probability": 0.9216
+        },
+        {
+          "time": 90.24,
+          "end": 90.64,
+          "text": "胶",
+          "probability": 0.145
+        },
+        {
+          "time": 91.24,
+          "end": 91.54,
+          "text": "线",
+          "probability": 0.4083
+        },
+        {
+          "time": 92.7,
+          "end": 93.18,
+          "text": "祝",
+          "probability": 0.9067
+        },
+        {
+          "time": 93.64,
+          "end": 93.94,
+          "text": "我",
+          "probability": 0.9959
+        },
+        {
+          "time": 93.82,
+          "end": 94.24,
+          "text": "双",
+          "probability": 0.9749
+        },
+        {
+          "time": 94.34,
+          "end": 94.64,
+          "text": "手",
+          "probability": 0.936
+        }
+      ]
+    },
+    {
+      "time": 94.7,
+      "end": 95.5,
+      "text": "清醒",
+      "words": [
+        {
+          "time": 94.7,
+          "end": 95.0,
+          "text": "清",
+          "probability": 0.0625
+        },
+        {
+          "time": 95.2,
+          "end": 95.5,
+          "text": "醒",
+          "probability": 0.9027
+        }
+      ]
+    },
+    {
+      "time": 96.78,
+      "end": 100.5,
+      "text": "清醒你到做前进爱你",
+      "words": [
+        {
+          "time": 96.78,
+          "end": 97.08,
+          "text": "清",
+          "probability": 0.6966
+        },
+        {
+          "time": 97.12,
+          "end": 97.42,
+          "text": "醒",
+          "probability": 0.9012
+        },
+        {
+          "time": 97.46,
+          "end": 97.76,
+          "text": "你",
+          "probability": 0.4205
+        },
+        {
+          "time": 97.94,
+          "end": 98.24,
+          "text": "到",
+          "probability": 0.4044
+        },
+        {
+          "time": 98.38,
+          "end": 98.68,
+          "text": "做",
+          "probability": 0.1566
+        },
+        {
+          "time": 98.64,
+          "end": 98.94,
+          "text": "前",
+          "probability": 0.6832
+        },
+        {
+          "time": 99.04,
+          "end": 99.34,
+          "text": "进",
+          "probability": 0.9321
+        },
+        {
+          "time": 99.56,
+          "end": 99.86,
+          "text": "爱",
+          "probability": 0.1419
+        },
+        {
+          "time": 100.2,
+          "end": 100.5,
+          "text": "你",
+          "probability": 0.6027
+        }
+      ]
+    },
+    {
+      "time": 102.3,
+      "end": 105.28,
+      "text": "祝我双手清醒",
+      "words": [
+        {
+          "time": 102.3,
+          "end": 102.8,
+          "text": "祝",
+          "probability": 0.9871
+        },
+        {
+          "time": 103.3,
+          "end": 103.6,
+          "text": "我",
+          "probability": 0.9997
+        },
+        {
+          "time": 103.54,
+          "end": 103.94,
+          "text": "双",
+          "probability": 0.9998
+        },
+        {
+          "time": 104.06,
+          "end": 104.36,
+          "text": "手",
+          "probability": 0.998
+        },
+        {
+          "time": 104.46,
+          "end": 104.76,
+          "text": "清",
+          "probability": 0.8061
+        },
+        {
+          "time": 104.98,
+          "end": 105.28,
+          "text": "醒",
+          "probability": 0.9982
+        }
+      ]
+    },
+    {
+      "time": 106.66,
+      "end": 110.8,
+      "text": "清醒你到做前进爱你",
+      "words": [
+        {
+          "time": 106.66,
+          "end": 106.96,
+          "text": "清",
+          "probability": 0.9146
+        },
+        {
+          "time": 107.0,
+          "end": 107.3,
+          "text": "醒",
+          "probability": 0.9988
+        },
+        {
+          "time": 107.4,
+          "end": 107.7,
+          "text": "你",
+          "probability": 0.9912
+        },
+        {
+          "time": 107.94,
+          "end": 108.24,
+          "text": "到",
+          "probability": 0.9982
+        },
+        {
+          "time": 108.4,
+          "end": 108.7,
+          "text": "做",
+          "probability": 0.9653
+        },
+        {
+          "time": 108.82,
+          "end": 109.12,
+          "text": "前",
+          "probability": 0.9997
+        },
+        {
+          "time": 109.24,
+          "end": 109.54,
+          "text": "进",
+          "probability": 0.9986
+        },
+        {
+          "time": 109.94,
+          "end": 110.24,
+          "text": "爱",
+          "probability": 0.9987
+        },
+        {
+          "time": 110.5,
+          "end": 110.8,
+          "text": "你",
+          "probability": 0.9969
+        }
+      ]
+    },
+    {
+      "time": 117.02,
+      "end": 121.74,
+      "text": "祝我双手拒心",
+      "words": [
+        {
+          "time": 117.02,
+          "end": 117.56,
+          "text": "祝",
+          "probability": 0.4716
+        },
+        {
+          "time": 118.26,
+          "end": 118.56,
+          "text": "我",
+          "probability": 0.9691
+        },
+        {
+          "time": 118.64,
+          "end": 119.12,
+          "text": "双",
+          "probability": 0.9405
+        },
+        {
+          "time": 119.48,
+          "end": 119.78,
+          "text": "手",
+          "probability": 0.9959
+        },
+        {
+          "time": 119.88,
+          "end": 120.3,
+          "text": "拒",
+          "probability": 0.2075
+        },
+        {
+          "time": 121.44,
+          "end": 121.74,
+          "text": "心",
+          "probability": 0.4984
+        }
+      ]
+    },
+    {
+      "time": 123.08,
+      "end": 128.1,
+      "text": "拒心一般做千金百里",
+      "words": [
+        {
+          "time": 123.08,
+          "end": 123.5,
+          "text": "拒",
+          "probability": 0.7384
+        },
+        {
+          "time": 123.74,
+          "end": 124.04,
+          "text": "心",
+          "probability": 0.987
+        },
+        {
+          "time": 124.16,
+          "end": 124.46,
+          "text": "一",
+          "probability": 0.5781
+        },
+        {
+          "time": 124.7,
+          "end": 125.0,
+          "text": "般",
+          "probability": 0.7356
+        },
+        {
+          "time": 125.38,
+          "end": 125.68,
+          "text": "做",
+          "probability": 0.8539
+        },
+        {
+          "time": 125.82,
+          "end": 126.12,
+          "text": "千",
+          "probability": 0.8185
+        },
+        {
+          "time": 126.52,
+          "end": 126.82,
+          "text": "金",
+          "probability": 0.4132
+        },
+        {
+          "time": 127.32,
+          "end": 127.62,
+          "text": "百",
+          "probability": 0.8871
+        },
+        {
+          "time": 127.8,
+          "end": 128.1,
+          "text": "里",
+          "probability": 0.4982
+        }
+      ]
+    },
+    {
+      "time": 139.3,
+      "end": 140.48,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 139.3,
+          "end": 139.6,
+          "text": "Z",
+          "probability": 0.1928
+        },
+        {
+          "time": 139.32,
+          "end": 139.62,
+          "text": "ither",
+          "probability": 0.9884
+        },
+        {
+          "time": 139.34,
+          "end": 139.64,
+          "text": " Har",
+          "probability": 0.9982
+        },
+        {
+          "time": 140.18,
+          "end": 140.48,
+          "text": "p",
+          "probability": 0.9975
+        }
+      ]
+    },
+    {
+      "time": 181.22,
+      "end": 182.1,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 181.22,
+          "end": 181.62,
+          "text": "优",
+          "probability": 0.3805
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "优",
+          "probability": 0.9986
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "独",
+          "probability": 0.9952
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "播",
+          "probability": 0.9965
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "剧",
+          "probability": 0.9967
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "场",
+          "probability": 0.9984
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "——",
+          "probability": 0.9979
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "Yo",
+          "probability": 0.9952
+        },
+        {
+          "time": 181.32,
+          "end": 181.62,
+          "text": "Yo",
+          "probability": 0.9956
+        },
+        {
+          "time": 181.34,
+          "end": 181.64,
+          "text": " Television",
+          "probability": 0.9958
+        },
+        {
+          "time": 181.34,
+          "end": 181.64,
+          "text": " Series",
+          "probability": 0.9977
+        },
+        {
+          "time": 181.34,
+          "end": 181.64,
+          "text": " Exc",
+          "probability": 0.9968
+        },
+        {
+          "time": 181.8,
+          "end": 182.1,
+          "text": "lusive",
+          "probability": 0.9972
+        }
+      ]
+    }
+  ]
+}

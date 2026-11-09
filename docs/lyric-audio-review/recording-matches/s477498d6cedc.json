@@ -1,0 +1,48 @@
+{
+  "id": "s477498d6cedc",
+  "file": "285爱使我们相聚在一起.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "4353",
+      "offset": -13.164,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.620467,
+      "windows": [
+        {
+          "localStart": 25.067,
+          "sourceStart": 13.882,
+          "offset": -11.1855,
+          "coefficient": 0.042956
+        },
+        {
+          "localStart": 40.107,
+          "sourceStart": 26.942,
+          "offset": -13.1655,
+          "coefficient": 0.050264
+        },
+        {
+          "localStart": 55.148,
+          "sourceStart": 43.949,
+          "offset": -11.199,
+          "coefficient": 0.035157
+        },
+        {
+          "localStart": 70.188,
+          "sourceStart": 57.027,
+          "offset": -13.1605,
+          "coefficient": 0.041364
+        },
+        {
+          "localStart": 85.228,
+          "sourceStart": 71.18,
+          "offset": -14.048,
+          "coefficient": 0.034893
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

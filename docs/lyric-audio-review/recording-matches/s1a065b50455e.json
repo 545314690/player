@@ -1,0 +1,42 @@
+{
+  "id": "s1a065b50455e",
+  "file": "153.愿你荣耀过度降临.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "39297",
+      "offset": 86.195,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.535419,
+      "windows": [
+        {
+          "localStart": 21.113,
+          "sourceStart": 106.583,
+          "offset": 85.47,
+          "coefficient": 0.209279
+        },
+        {
+          "localStart": 52.783,
+          "sourceStart": 138.164,
+          "offset": 85.381,
+          "coefficient": 0.108564
+        },
+        {
+          "localStart": 84.453,
+          "sourceStart": 172.584,
+          "offset": 88.1315,
+          "coefficient": 0.080664
+        },
+        {
+          "localStart": 116.123,
+          "sourceStart": 202.197,
+          "offset": 86.0745,
+          "coefficient": 0.154574
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}

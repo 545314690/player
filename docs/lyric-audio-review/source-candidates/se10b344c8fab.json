@@ -1,0 +1,37 @@
+{
+  "id": "se10b344c8fab",
+  "file": "245天地的颂赞.mp3",
+  "query": "天地的颂赞",
+  "metadata": {
+    "id": "se10b344c8fab",
+    "file": "245天地的颂赞.mp3",
+    "title": "143天地的颂赞",
+    "artist": "网络歌手",
+    "album": ""
+  },
+  "candidates": [
+    {
+      "id": "20322",
+      "title": "天地的颂赞",
+      "artist": "天韵合唱团",
+      "album": "祢是我一切",
+      "rank": 4
+    },
+    {
+      "id": "5543",
+      "title": "天地的颂赞",
+      "artist": "客西马尼",
+      "album": "感恩",
+      "rank": 4,
+      "error": "curl: (28) SSL connection timeout\n"
+    },
+    {
+      "id": "1612",
+      "title": "天地的颂赞",
+      "artist": "天韵合唱团",
+      "album": "不为明天忧虑",
+      "rank": 4
+    }
+  ],
+  "totalCandidates": 3
+}

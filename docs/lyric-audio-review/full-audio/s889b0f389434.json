@@ -1,0 +1,2005 @@
+{
+  "id": "s889b0f389434",
+  "file": "296我知谁掌管明天(原本).mp3",
+  "language": "zh",
+  "model": "OpenAI original large-v3-turbo SHA256 aff26ae408abcba5fbf8813c21e62b0941638c5f6eebfb145be0c9839262a19a; whisper.cpp v1.7.6 Metal; no previous-text context; DTW token alignment",
+  "recordingHash": "28ea1fbd81d2cfbc4feffd6e8120a6c1d94a985fa9122ac07d394cd75f375d12",
+  "fullDuration": 273.897875,
+  "lines": [
+    {
+      "time": 1.84,
+      "end": 2.66,
+      "text": "词:陈昌曲:陈昌曲:陈昌曲:陈昌曲:",
+      "words": [
+        {
+          "time": 1.84,
+          "end": 2.16,
+          "text": "词",
+          "probability": 0.0722
+        },
+        {
+          "time": 1.92,
+          "end": 2.22,
+          "text": ":",
+          "probability": 0.5982
+        },
+        {
+          "time": 1.94,
+          "end": 2.24,
+          "text": "陈",
+          "probability": 0.0396
+        },
+        {
+          "time": 1.96,
+          "end": 2.26,
+          "text": "昌",
+          "probability": 0.0352
+        },
+        {
+          "time": 1.96,
+          "end": 2.26,
+          "text": "曲",
+          "probability": 0.7058
+        },
+        {
+          "time": 1.96,
+          "end": 2.26,
+          "text": ":",
+          "probability": 0.9651
+        },
+        {
+          "time": 1.98,
+          "end": 2.28,
+          "text": "陈",
+          "probability": 0.3153
+        },
+        {
+          "time": 1.98,
+          "end": 2.28,
+          "text": "昌",
+          "probability": 0.9819
+        },
+        {
+          "time": 1.98,
+          "end": 2.28,
+          "text": "曲",
+          "probability": 0.6528
+        },
+        {
+          "time": 1.98,
+          "end": 2.28,
+          "text": ":",
+          "probability": 0.9896
+        },
+        {
+          "time": 2.08,
+          "end": 2.38,
+          "text": "陈",
+          "probability": 0.6039
+        },
+        {
+          "time": 2.08,
+          "end": 2.5,
+          "text": "昌",
+          "probability": 0.9956
+        },
+        {
+          "time": 2.2,
+          "end": 2.5,
+          "text": "曲",
+          "probability": 0.5814
+        },
+        {
+          "time": 2.2,
+          "end": 2.5,
+          "text": ":",
+          "probability": 0.9924
+        },
+        {
+          "time": 2.32,
+          "end": 2.62,
+          "text": "陈",
+          "probability": 0.6801
+        },
+        {
+          "time": 2.32,
+          "end": 2.64,
+          "text": "昌",
+          "probability": 0.997
+        },
+        {
+          "time": 2.36,
+          "end": 2.66,
+          "text": "曲",
+          "probability": 0.616
+        },
+        {
+          "time": 2.36,
+          "end": 2.66,
+          "text": ":",
+          "probability": 0.9962
+        }
+      ]
+    },
+    {
+      "time": 5.02,
+      "end": 6.22,
+      "text": "陈昌曲:陈昌曲:陈昌曲:",
+      "words": [
+        {
+          "time": 5.02,
+          "end": 5.32,
+          "text": "陈",
+          "probability": 0.7243
+        },
+        {
+          "time": 5.08,
+          "end": 5.52,
+          "text": "昌",
+          "probability": 0.9975
+        },
+        {
+          "time": 5.22,
+          "end": 5.52,
+          "text": "曲",
+          "probability": 0.679
+        },
+        {
+          "time": 5.22,
+          "end": 5.52,
+          "text": ":",
+          "probability": 0.9967
+        },
+        {
+          "time": 5.4,
+          "end": 5.7,
+          "text": "陈",
+          "probability": 0.7513
+        },
+        {
+          "time": 5.4,
+          "end": 5.78,
+          "text": "昌",
+          "probability": 0.9979
+        },
+        {
+          "time": 5.48,
+          "end": 5.78,
+          "text": "曲",
+          "probability": 0.6783
+        },
+        {
+          "time": 5.48,
+          "end": 5.78,
+          "text": ":",
+          "probability": 0.9977
+        },
+        {
+          "time": 5.48,
+          "end": 5.78,
+          "text": "陈",
+          "probability": 0.7837
+        },
+        {
+          "time": 5.62,
+          "end": 6.06,
+          "text": "昌",
+          "probability": 0.9983
+        },
+        {
+          "time": 5.86,
+          "end": 6.16,
+          "text": "曲",
+          "probability": 0.6769
+        },
+        {
+          "time": 5.92,
+          "end": 6.22,
+          "text": ":",
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "time": 8.42,
+      "end": 8.92,
+      "text": "陈昌曲:",
+      "words": [
+        {
+          "time": 8.42,
+          "end": 8.72,
+          "text": "陈",
+          "probability": 0.7993
+        },
+        {
+          "time": 8.46,
+          "end": 8.88,
+          "text": "昌",
+          "probability": 0.9984
+        },
+        {
+          "time": 8.6,
+          "end": 8.9,
+          "text": "曲",
+          "probability": 0.7378
+        },
+        {
+          "time": 8.62,
+          "end": 8.92,
+          "text": ":",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 11.08,
+      "end": 11.54,
+      "text": "陈昌曲:",
+      "words": [
+        {
+          "time": 11.08,
+          "end": 11.38,
+          "text": "陈",
+          "probability": 0.8094
+        },
+        {
+          "time": 11.14,
+          "end": 11.54,
+          "text": "昌",
+          "probability": 0.9985
+        },
+        {
+          "time": 11.24,
+          "end": 11.54,
+          "text": "曲",
+          "probability": 0.6479
+        },
+        {
+          "time": 11.24,
+          "end": 11.54,
+          "text": ":",
+          "probability": 0.9983
+        }
+      ]
+    },
+    {
+      "time": 12.94,
+      "end": 13.28,
+      "text": "陈昌曲",
+      "words": [
+        {
+          "time": 12.94,
+          "end": 13.24,
+          "text": "陈",
+          "probability": 0.7968
+        },
+        {
+          "time": 12.96,
+          "end": 13.26,
+          "text": "昌",
+          "probability": 0.9986
+        },
+        {
+          "time": 12.98,
+          "end": 13.28,
+          "text": "曲",
+          "probability": 0.8092
+        }
+      ]
+    },
+    {
+      "time": 15.04,
+      "end": 16.38,
+      "text": ":陈昌曲:陈昌曲:陈昌曲:陈昌曲:陈昌曲:陈昌我不知",
+      "words": [
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": ":",
+          "probability": 0.9984
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "陈",
+          "probability": 0.7895
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "昌",
+          "probability": 0.9986
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "曲",
+          "probability": 0.7817
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": ":",
+          "probability": 0.9984
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "陈",
+          "probability": 0.7875
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "昌",
+          "probability": 0.9987
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "曲",
+          "probability": 0.8415
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": ":",
+          "probability": 0.9985
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "陈",
+          "probability": 0.8069
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "昌",
+          "probability": 0.9987
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "曲",
+          "probability": 0.821
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": ":",
+          "probability": 0.9981
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "陈",
+          "probability": 0.8094
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "昌",
+          "probability": 0.9986
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "曲",
+          "probability": 0.7172
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": ":",
+          "probability": 0.9985
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "陈",
+          "probability": 0.8009
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "昌",
+          "probability": 0.9986
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "曲",
+          "probability": 0.4658
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": ":",
+          "probability": 0.9986
+        },
+        {
+          "time": 15.04,
+          "end": 15.34,
+          "text": "陈",
+          "probability": 0.7946
+        },
+        {
+          "time": 15.04,
+          "end": 15.38,
+          "text": "昌",
+          "probability": 0.9986
+        },
+        {
+          "time": 15.08,
+          "end": 15.38,
+          "text": "我不",
+          "probability": 0.3108
+        },
+        {
+          "time": 16.08,
+          "end": 16.38,
+          "text": "知",
+          "probability": 0.9958
+        }
+      ]
+    },
+    {
+      "time": 18.28,
+      "end": 20.6,
+      "text": "明天将如何",
+      "words": [
+        {
+          "time": 18.28,
+          "end": 18.58,
+          "text": "明",
+          "probability": 0.9032
+        },
+        {
+          "time": 18.76,
+          "end": 19.06,
+          "text": "天",
+          "probability": 0.9997
+        },
+        {
+          "time": 19.2,
+          "end": 19.5,
+          "text": "将",
+          "probability": 0.9423
+        },
+        {
+          "time": 20.3,
+          "end": 20.6,
+          "text": "如何",
+          "probability": 0.9965
+        }
+      ]
+    },
+    {
+      "time": 22.24,
+      "end": 23.46,
+      "text": "每一天",
+      "words": [
+        {
+          "time": 22.24,
+          "end": 22.54,
+          "text": "每",
+          "probability": 0.9855
+        },
+        {
+          "time": 22.72,
+          "end": 23.02,
+          "text": "一",
+          "probability": 0.963
+        },
+        {
+          "time": 23.16,
+          "end": 23.46,
+          "text": "天",
+          "probability": 0.9944
+        }
+      ]
+    },
+    {
+      "time": 25.04,
+      "end": 27.06,
+      "text": "只为烛火",
+      "words": [
+        {
+          "time": 25.04,
+          "end": 25.34,
+          "text": "只",
+          "probability": 0.9316
+        },
+        {
+          "time": 25.56,
+          "end": 25.86,
+          "text": "为",
+          "probability": 0.9747
+        },
+        {
+          "time": 25.94,
+          "end": 26.32,
+          "text": "烛",
+          "probability": 0.6175
+        },
+        {
+          "time": 26.76,
+          "end": 27.06,
+          "text": "火",
+          "probability": 0.9892
+        }
+      ]
+    },
+    {
+      "time": 29.42,
+      "end": 30.36,
+      "text": "我不解",
+      "words": [
+        {
+          "time": 29.42,
+          "end": 29.72,
+          "text": "我不",
+          "probability": 0.9783
+        },
+        {
+          "time": 30.06,
+          "end": 30.36,
+          "text": "解",
+          "probability": 0.3553
+        }
+      ]
+    },
+    {
+      "time": 32.0,
+      "end": 37.3,
+      "text": "明天的阳光因明天",
+      "words": [
+        {
+          "time": 32.0,
+          "end": 32.3,
+          "text": "明",
+          "probability": 0.9257
+        },
+        {
+          "time": 32.46,
+          "end": 32.76,
+          "text": "天",
+          "probability": 0.9998
+        },
+        {
+          "time": 32.94,
+          "end": 33.24,
+          "text": "的",
+          "probability": 0.9991
+        },
+        {
+          "time": 33.16,
+          "end": 33.72,
+          "text": "阳",
+          "probability": 0.5381
+        },
+        {
+          "time": 34.44,
+          "end": 34.74,
+          "text": "光",
+          "probability": 0.9997
+        },
+        {
+          "time": 35.8,
+          "end": 36.1,
+          "text": "因",
+          "probability": 0.8623
+        },
+        {
+          "time": 36.12,
+          "end": 36.42,
+          "text": "明",
+          "probability": 0.9998
+        },
+        {
+          "time": 37.0,
+          "end": 37.3,
+          "text": "天",
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "time": 38.82,
+      "end": 40.42,
+      "text": "我不清朗",
+      "words": [
+        {
+          "time": 38.82,
+          "end": 39.12,
+          "text": "我不",
+          "probability": 0.8303
+        },
+        {
+          "time": 39.42,
+          "end": 39.72,
+          "text": "清",
+          "probability": 0.5549
+        },
+        {
+          "time": 39.8,
+          "end": 40.42,
+          "text": "朗",
+          "probability": 0.5696
+        }
+      ]
+    },
+    {
+      "time": 42.86,
+      "end": 43.86,
+      "text": "我不畏",
+      "words": [
+        {
+          "time": 42.86,
+          "end": 43.16,
+          "text": "我不",
+          "probability": 0.9973
+        },
+        {
+          "time": 43.24,
+          "end": 43.86,
+          "text": "畏",
+          "probability": 0.375
+        }
+      ]
+    },
+    {
+      "time": 45.38,
+      "end": 47.82,
+      "text": "我将来犹豫",
+      "words": [
+        {
+          "time": 45.38,
+          "end": 45.68,
+          "text": "我",
+          "probability": 0.9263
+        },
+        {
+          "time": 45.82,
+          "end": 46.12,
+          "text": "将",
+          "probability": 0.9981
+        },
+        {
+          "time": 46.38,
+          "end": 46.68,
+          "text": "来",
+          "probability": 0.9129
+        },
+        {
+          "time": 46.76,
+          "end": 47.32,
+          "text": "犹",
+          "probability": 0.616
+        },
+        {
+          "time": 47.4,
+          "end": 47.82,
+          "text": "豫",
+          "probability": 0.4907
+        }
+      ]
+    },
+    {
+      "time": 49.12,
+      "end": 50.18,
+      "text": "因我支",
+      "words": [
+        {
+          "time": 49.12,
+          "end": 49.42,
+          "text": "因",
+          "probability": 0.9389
+        },
+        {
+          "time": 49.56,
+          "end": 49.86,
+          "text": "我",
+          "probability": 0.9919
+        },
+        {
+          "time": 49.88,
+          "end": 50.18,
+          "text": "支",
+          "probability": 0.3432
+        }
+      ]
+    },
+    {
+      "time": 51.92,
+      "end": 53.54,
+      "text": "出的应许",
+      "words": [
+        {
+          "time": 51.92,
+          "end": 52.22,
+          "text": "出",
+          "probability": 0.4149
+        },
+        {
+          "time": 52.38,
+          "end": 52.68,
+          "text": "的",
+          "probability": 0.999
+        },
+        {
+          "time": 52.72,
+          "end": 53.02,
+          "text": "应",
+          "probability": 0.8629
+        },
+        {
+          "time": 53.06,
+          "end": 53.54,
+          "text": "许",
+          "probability": 0.9768
+        }
+      ]
+    },
+    {
+      "time": 55.6,
+      "end": 56.56,
+      "text": "我今天",
+      "words": [
+        {
+          "time": 55.6,
+          "end": 55.9,
+          "text": "我",
+          "probability": 0.9911
+        },
+        {
+          "time": 56.26,
+          "end": 56.56,
+          "text": "今天",
+          "probability": 0.9978
+        }
+      ]
+    },
+    {
+      "time": 58.44,
+      "end": 60.84,
+      "text": "要与主同心",
+      "words": [
+        {
+          "time": 58.44,
+          "end": 58.74,
+          "text": "要",
+          "probability": 0.8174
+        },
+        {
+          "time": 58.72,
+          "end": 59.2,
+          "text": "与",
+          "probability": 0.9699
+        },
+        {
+          "time": 59.16,
+          "end": 59.46,
+          "text": "主",
+          "probability": 0.6618
+        },
+        {
+          "time": 59.88,
+          "end": 60.18,
+          "text": "同",
+          "probability": 0.7387
+        },
+        {
+          "time": 60.54,
+          "end": 60.84,
+          "text": "心",
+          "probability": 0.6468
+        }
+      ]
+    },
+    {
+      "time": 62.18,
+      "end": 63.36,
+      "text": "迎他至",
+      "words": [
+        {
+          "time": 62.18,
+          "end": 62.48,
+          "text": "迎",
+          "probability": 0.4158
+        },
+        {
+          "time": 62.52,
+          "end": 62.82,
+          "text": "他",
+          "probability": 0.3606
+        },
+        {
+          "time": 63.06,
+          "end": 63.36,
+          "text": "至",
+          "probability": 0.5101
+        }
+      ]
+    },
+    {
+      "time": 64.82,
+      "end": 66.62,
+      "text": "千面路窄",
+      "words": [
+        {
+          "time": 64.82,
+          "end": 65.12,
+          "text": "千",
+          "probability": 0.5603
+        },
+        {
+          "time": 65.3,
+          "end": 65.6,
+          "text": "面",
+          "probability": 0.835
+        },
+        {
+          "time": 65.74,
+          "end": 66.04,
+          "text": "路",
+          "probability": 0.9252
+        },
+        {
+          "time": 66.16,
+          "end": 66.62,
+          "text": "窄",
+          "probability": 0.104
+        }
+      ]
+    },
+    {
+      "time": 68.66,
+      "end": 69.64,
+      "text": "有多少",
+      "words": [
+        {
+          "time": 68.66,
+          "end": 68.96,
+          "text": "有",
+          "probability": 0.9987
+        },
+        {
+          "time": 69.34,
+          "end": 69.64,
+          "text": "多少",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 71.74,
+      "end": 73.54,
+      "text": "未来的事情",
+      "words": [
+        {
+          "time": 71.74,
+          "end": 72.04,
+          "text": "未",
+          "probability": 0.996
+        },
+        {
+          "time": 72.16,
+          "end": 72.46,
+          "text": "来",
+          "probability": 0.9995
+        },
+        {
+          "time": 72.58,
+          "end": 72.88,
+          "text": "的",
+          "probability": 0.9992
+        },
+        {
+          "time": 73.24,
+          "end": 73.54,
+          "text": "事情",
+          "probability": 0.9884
+        }
+      ]
+    },
+    {
+      "time": 75.06,
+      "end": 76.1,
+      "text": "我现在",
+      "words": [
+        {
+          "time": 75.06,
+          "end": 75.36,
+          "text": "我",
+          "probability": 0.9893
+        },
+        {
+          "time": 75.8,
+          "end": 76.1,
+          "text": "现在",
+          "probability": 0.9993
+        }
+      ]
+    },
+    {
+      "time": 78.22,
+      "end": 79.74,
+      "text": "不能识通",
+      "words": [
+        {
+          "time": 78.22,
+          "end": 78.52,
+          "text": "不能",
+          "probability": 0.9912
+        },
+        {
+          "time": 78.68,
+          "end": 79.06,
+          "text": "识",
+          "probability": 0.3828
+        },
+        {
+          "time": 79.44,
+          "end": 79.74,
+          "text": "通",
+          "probability": 0.3911
+        }
+      ]
+    },
+    {
+      "time": 81.52,
+      "end": 82.92,
+      "text": "但我知",
+      "words": [
+        {
+          "time": 81.52,
+          "end": 81.82,
+          "text": "但",
+          "probability": 0.9956
+        },
+        {
+          "time": 82.0,
+          "end": 82.3,
+          "text": "我",
+          "probability": 0.7316
+        },
+        {
+          "time": 82.62,
+          "end": 82.92,
+          "text": "知",
+          "probability": 0.9791
+        }
+      ]
+    },
+    {
+      "time": 84.44,
+      "end": 86.8,
+      "text": "谁正观明天",
+      "words": [
+        {
+          "time": 84.44,
+          "end": 84.74,
+          "text": "谁",
+          "probability": 0.8919
+        },
+        {
+          "time": 84.78,
+          "end": 85.08,
+          "text": "正",
+          "probability": 0.5361
+        },
+        {
+          "time": 85.24,
+          "end": 85.54,
+          "text": "观",
+          "probability": 0.4273
+        },
+        {
+          "time": 85.68,
+          "end": 85.98,
+          "text": "明",
+          "probability": 0.9997
+        },
+        {
+          "time": 86.5,
+          "end": 86.8,
+          "text": "天",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 88.38,
+      "end": 89.44,
+      "text": "我也知",
+      "words": [
+        {
+          "time": 88.38,
+          "end": 88.68,
+          "text": "我也",
+          "probability": 0.9987
+        },
+        {
+          "time": 89.14,
+          "end": 89.44,
+          "text": "知",
+          "probability": 0.9972
+        }
+      ]
+    },
+    {
+      "time": 91.02,
+      "end": 92.86,
+      "text": "谁牵我手",
+      "words": [
+        {
+          "time": 91.02,
+          "end": 91.32,
+          "text": "谁",
+          "probability": 0.9979
+        },
+        {
+          "time": 91.32,
+          "end": 91.76,
+          "text": "牵",
+          "probability": 0.9764
+        },
+        {
+          "time": 91.88,
+          "end": 92.18,
+          "text": "我",
+          "probability": 0.9793
+        },
+        {
+          "time": 92.56,
+          "end": 92.86,
+          "text": "手",
+          "probability": 0.8926
+        }
+      ]
+    },
+    {
+      "time": 94.92,
+      "end": 96.26,
+      "text": "每一步",
+      "words": [
+        {
+          "time": 94.92,
+          "end": 95.22,
+          "text": "每",
+          "probability": 0.9925
+        },
+        {
+          "time": 95.36,
+          "end": 95.66,
+          "text": "一",
+          "probability": 0.9999
+        },
+        {
+          "time": 95.96,
+          "end": 96.26,
+          "text": "步",
+          "probability": 0.9996
+        }
+      ]
+    },
+    {
+      "time": 97.84,
+      "end": 100.24,
+      "text": "越走越光明",
+      "words": [
+        {
+          "time": 97.84,
+          "end": 98.14,
+          "text": "越",
+          "probability": 0.8885
+        },
+        {
+          "time": 98.32,
+          "end": 98.62,
+          "text": "走",
+          "probability": 0.9996
+        },
+        {
+          "time": 98.76,
+          "end": 99.06,
+          "text": "越",
+          "probability": 1.0
+        },
+        {
+          "time": 99.38,
+          "end": 99.68,
+          "text": "光",
+          "probability": 0.9954
+        },
+        {
+          "time": 99.94,
+          "end": 100.24,
+          "text": "明",
+          "probability": 0.8912
+        }
+      ]
+    },
+    {
+      "time": 101.6,
+      "end": 106.32,
+      "text": "像盼灯黄青皆停",
+      "words": [
+        {
+          "time": 101.6,
+          "end": 101.9,
+          "text": "像",
+          "probability": 0.5991
+        },
+        {
+          "time": 101.9,
+          "end": 102.3,
+          "text": "盼",
+          "probability": 0.5526
+        },
+        {
+          "time": 102.38,
+          "end": 103.76,
+          "text": "灯",
+          "probability": 0.9416
+        },
+        {
+          "time": 104.44,
+          "end": 104.86,
+          "text": "黄",
+          "probability": 0.9092
+        },
+        {
+          "time": 104.94,
+          "end": 105.24,
+          "text": "青",
+          "probability": 0.4551
+        },
+        {
+          "time": 105.28,
+          "end": 105.58,
+          "text": "皆",
+          "probability": 0.4657
+        },
+        {
+          "time": 106.02,
+          "end": 106.32,
+          "text": "停",
+          "probability": 0.4226
+        }
+      ]
+    },
+    {
+      "time": 108.08,
+      "end": 113.34,
+      "text": "每种灯越跳越轻声",
+      "words": [
+        {
+          "time": 108.08,
+          "end": 108.38,
+          "text": "每",
+          "probability": 0.6472
+        },
+        {
+          "time": 108.5,
+          "end": 108.8,
+          "text": "种",
+          "probability": 0.7048
+        },
+        {
+          "time": 108.84,
+          "end": 110.06,
+          "text": "灯",
+          "probability": 0.5743
+        },
+        {
+          "time": 110.96,
+          "end": 111.26,
+          "text": "越",
+          "probability": 0.4844
+        },
+        {
+          "time": 111.36,
+          "end": 111.66,
+          "text": "跳",
+          "probability": 0.8136
+        },
+        {
+          "time": 111.74,
+          "end": 112.04,
+          "text": "越",
+          "probability": 0.9992
+        },
+        {
+          "time": 112.06,
+          "end": 112.76,
+          "text": "轻",
+          "probability": 0.8673
+        },
+        {
+          "time": 113.04,
+          "end": 113.34,
+          "text": "声",
+          "probability": 0.7176
+        }
+      ]
+    },
+    {
+      "time": 114.66,
+      "end": 116.12,
+      "text": "被躲雨",
+      "words": [
+        {
+          "time": 114.66,
+          "end": 114.96,
+          "text": "被",
+          "probability": 0.6986
+        },
+        {
+          "time": 115.0,
+          "end": 115.38,
+          "text": "躲",
+          "probability": 0.3503
+        },
+        {
+          "time": 115.82,
+          "end": 116.12,
+          "text": "雨",
+          "probability": 0.4409
+        }
+      ]
+    },
+    {
+      "time": 117.4,
+      "end": 119.06,
+      "text": "披上阴影",
+      "words": [
+        {
+          "time": 117.4,
+          "end": 117.78,
+          "text": "披",
+          "probability": 0.9012
+        },
+        {
+          "time": 117.96,
+          "end": 118.26,
+          "text": "上",
+          "probability": 0.8977
+        },
+        {
+          "time": 118.36,
+          "end": 118.72,
+          "text": "阴",
+          "probability": 0.4228
+        },
+        {
+          "time": 118.76,
+          "end": 119.06,
+          "text": "影",
+          "probability": 0.8023
+        }
+      ]
+    },
+    {
+      "time": 121.3,
+      "end": 128.02,
+      "text": "在哪里阳光长不照不",
+      "words": [
+        {
+          "time": 121.3,
+          "end": 121.6,
+          "text": "在",
+          "probability": 0.9948
+        },
+        {
+          "time": 121.68,
+          "end": 121.98,
+          "text": "哪",
+          "probability": 0.7407
+        },
+        {
+          "time": 122.98,
+          "end": 123.28,
+          "text": "里",
+          "probability": 0.9994
+        },
+        {
+          "time": 123.98,
+          "end": 124.38,
+          "text": "阳",
+          "probability": 0.9717
+        },
+        {
+          "time": 124.52,
+          "end": 124.82,
+          "text": "光",
+          "probability": 0.9995
+        },
+        {
+          "time": 125.0,
+          "end": 125.3,
+          "text": "长",
+          "probability": 0.8217
+        },
+        {
+          "time": 125.64,
+          "end": 125.94,
+          "text": "不",
+          "probability": 0.1817
+        },
+        {
+          "time": 126.26,
+          "end": 126.56,
+          "text": "照",
+          "probability": 0.8121
+        },
+        {
+          "time": 127.72,
+          "end": 128.02,
+          "text": "不",
+          "probability": 0.9351
+        }
+      ]
+    },
+    {
+      "time": 128.14,
+      "end": 129.28,
+      "text": "再有",
+      "words": [
+        {
+          "time": 128.14,
+          "end": 128.44,
+          "text": "再",
+          "probability": 0.9944
+        },
+        {
+          "time": 128.98,
+          "end": 129.28,
+          "text": "有",
+          "probability": 0.9364
+        }
+      ]
+    },
+    {
+      "time": 130.58,
+      "end": 132.36,
+      "text": "泪流满面",
+      "words": [
+        {
+          "time": 130.58,
+          "end": 130.98,
+          "text": "泪",
+          "probability": 0.9412
+        },
+        {
+          "time": 131.16,
+          "end": 131.46,
+          "text": "流",
+          "probability": 0.9971
+        },
+        {
+          "time": 131.48,
+          "end": 131.9,
+          "text": "满",
+          "probability": 0.7882
+        },
+        {
+          "time": 132.06,
+          "end": 132.36,
+          "text": "面",
+          "probability": 0.914
+        }
+      ]
+    },
+    {
+      "time": 134.4,
+      "end": 135.64,
+      "text": "在每一",
+      "words": [
+        {
+          "time": 134.4,
+          "end": 134.7,
+          "text": "在",
+          "probability": 0.9884
+        },
+        {
+          "time": 134.8,
+          "end": 135.1,
+          "text": "每",
+          "probability": 0.727
+        },
+        {
+          "time": 135.34,
+          "end": 135.64,
+          "text": "一",
+          "probability": 0.9838
+        }
+      ]
+    },
+    {
+      "time": 137.08,
+      "end": 142.18,
+      "text": "彩虹的尽头重山里",
+      "words": [
+        {
+          "time": 137.08,
+          "end": 137.52,
+          "text": "彩",
+          "probability": 0.9107
+        },
+        {
+          "time": 137.44,
+          "end": 137.86,
+          "text": "虹",
+          "probability": 0.9994
+        },
+        {
+          "time": 138.26,
+          "end": 138.56,
+          "text": "的",
+          "probability": 0.9471
+        },
+        {
+          "time": 138.5,
+          "end": 138.92,
+          "text": "尽",
+          "probability": 0.8415
+        },
+        {
+          "time": 139.42,
+          "end": 139.72,
+          "text": "头",
+          "probability": 0.9975
+        },
+        {
+          "time": 140.82,
+          "end": 141.12,
+          "text": "重",
+          "probability": 0.1671
+        },
+        {
+          "time": 141.28,
+          "end": 141.58,
+          "text": "山",
+          "probability": 0.9155
+        },
+        {
+          "time": 141.88,
+          "end": 142.18,
+          "text": "里",
+          "probability": 0.932
+        }
+      ]
+    },
+    {
+      "time": 143.78,
+      "end": 145.6,
+      "text": "一天相连",
+      "words": [
+        {
+          "time": 143.78,
+          "end": 144.08,
+          "text": "一",
+          "probability": 0.9278
+        },
+        {
+          "time": 144.24,
+          "end": 144.54,
+          "text": "天",
+          "probability": 0.9937
+        },
+        {
+          "time": 144.68,
+          "end": 144.98,
+          "text": "相",
+          "probability": 0.8859
+        },
+        {
+          "time": 145.14,
+          "end": 145.6,
+          "text": "连",
+          "probability": 0.2836
+        }
+      ]
+    },
+    {
+      "time": 147.52,
+      "end": 148.6,
+      "text": "有多少",
+      "words": [
+        {
+          "time": 147.52,
+          "end": 147.82,
+          "text": "有",
+          "probability": 0.9984
+        },
+        {
+          "time": 148.3,
+          "end": 148.6,
+          "text": "多少",
+          "probability": 0.9999
+        }
+      ]
+    },
+    {
+      "time": 150.66,
+      "end": 152.66,
+      "text": "未来的雪景",
+      "words": [
+        {
+          "time": 150.66,
+          "end": 150.96,
+          "text": "未",
+          "probability": 0.9891
+        },
+        {
+          "time": 151.14,
+          "end": 151.44,
+          "text": "来",
+          "probability": 0.9998
+        },
+        {
+          "time": 151.54,
+          "end": 151.84,
+          "text": "的",
+          "probability": 0.9992
+        },
+        {
+          "time": 151.9,
+          "end": 152.2,
+          "text": "雪",
+          "probability": 0.4057
+        },
+        {
+          "time": 152.36,
+          "end": 152.66,
+          "text": "景",
+          "probability": 0.2184
+        }
+      ]
+    },
+    {
+      "time": 153.92,
+      "end": 155.06,
+      "text": "我现在",
+      "words": [
+        {
+          "time": 153.92,
+          "end": 154.22,
+          "text": "我",
+          "probability": 0.9907
+        },
+        {
+          "time": 154.76,
+          "end": 155.06,
+          "text": "现在",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 157.14,
+      "end": 158.54,
+      "text": "不能试头",
+      "words": [
+        {
+          "time": 157.14,
+          "end": 157.44,
+          "text": "不能",
+          "probability": 0.9973
+        },
+        {
+          "time": 157.6,
+          "end": 158.0,
+          "text": "试",
+          "probability": 0.4797
+        },
+        {
+          "time": 158.24,
+          "end": 158.54,
+          "text": "头",
+          "probability": 0.6902
+        }
+      ]
+    },
+    {
+      "time": 160.5,
+      "end": 161.82,
+      "text": "但我知",
+      "words": [
+        {
+          "time": 160.5,
+          "end": 160.8,
+          "text": "但",
+          "probability": 0.9919
+        },
+        {
+          "time": 160.88,
+          "end": 161.18,
+          "text": "我",
+          "probability": 0.7424
+        },
+        {
+          "time": 161.52,
+          "end": 161.82,
+          "text": "知",
+          "probability": 0.9857
+        }
+      ]
+    },
+    {
+      "time": 163.34,
+      "end": 165.76,
+      "text": "谁掌握明天",
+      "words": [
+        {
+          "time": 163.34,
+          "end": 163.64,
+          "text": "谁",
+          "probability": 0.856
+        },
+        {
+          "time": 163.6,
+          "end": 164.06,
+          "text": "掌",
+          "probability": 0.9245
+        },
+        {
+          "time": 164.1,
+          "end": 164.48,
+          "text": "握",
+          "probability": 0.2538
+        },
+        {
+          "time": 164.52,
+          "end": 164.82,
+          "text": "明",
+          "probability": 0.9996
+        },
+        {
+          "time": 165.46,
+          "end": 165.76,
+          "text": "天",
+          "probability": 0.9997
+        }
+      ]
+    },
+    {
+      "time": 167.32,
+      "end": 168.36,
+      "text": "我也知",
+      "words": [
+        {
+          "time": 167.32,
+          "end": 167.62,
+          "text": "我也",
+          "probability": 0.993
+        },
+        {
+          "time": 168.06,
+          "end": 168.36,
+          "text": "知",
+          "probability": 0.9964
+        }
+      ]
+    },
+    {
+      "time": 169.96,
+      "end": 172.08,
+      "text": "谁牵我手",
+      "words": [
+        {
+          "time": 169.96,
+          "end": 170.26,
+          "text": "谁",
+          "probability": 0.9975
+        },
+        {
+          "time": 170.22,
+          "end": 170.66,
+          "text": "牵",
+          "probability": 0.9969
+        },
+        {
+          "time": 170.84,
+          "end": 171.14,
+          "text": "我",
+          "probability": 0.9849
+        },
+        {
+          "time": 171.78,
+          "end": 172.08,
+          "text": "手",
+          "probability": 0.9436
+        }
+      ]
+    },
+    {
+      "time": 197.84,
+      "end": 198.2,
+      "text": "Zither Harp",
+      "words": [
+        {
+          "time": 197.84,
+          "end": 198.14,
+          "text": "Z",
+          "probability": 0.4163
+        },
+        {
+          "time": 197.86,
+          "end": 198.16,
+          "text": "ither",
+          "probability": 0.9965
+        },
+        {
+          "time": 197.88,
+          "end": 198.18,
+          "text": " Har",
+          "probability": 0.9985
+        },
+        {
+          "time": 197.9,
+          "end": 198.2,
+          "text": "p",
+          "probability": 0.9992
+        }
+      ]
+    },
+    {
+      "time": 220.04,
+      "end": 221.06,
+      "text": "我也知",
+      "words": [
+        {
+          "time": 220.04,
+          "end": 220.34,
+          "text": "我也",
+          "probability": 0.9828
+        },
+        {
+          "time": 220.76,
+          "end": 221.06,
+          "text": "知",
+          "probability": 0.965
+        }
+      ]
+    },
+    {
+      "time": 222.58,
+      "end": 224.58,
+      "text": "谁牵我手",
+      "words": [
+        {
+          "time": 222.58,
+          "end": 222.88,
+          "text": "谁",
+          "probability": 0.7691
+        },
+        {
+          "time": 222.86,
+          "end": 223.32,
+          "text": "牵",
+          "probability": 0.987
+        },
+        {
+          "time": 223.58,
+          "end": 223.88,
+          "text": "我",
+          "probability": 0.9946
+        },
+        {
+          "time": 224.28,
+          "end": 224.58,
+          "text": "手",
+          "probability": 0.8083
+        }
+      ]
+    },
+    {
+      "time": 226.36,
+      "end": 227.9,
+      "text": "我甚至",
+      "words": [
+        {
+          "time": 226.36,
+          "end": 226.66,
+          "text": "我",
+          "probability": 0.9667
+        },
+        {
+          "time": 226.84,
+          "end": 227.14,
+          "text": "甚",
+          "probability": 0.7241
+        },
+        {
+          "time": 227.6,
+          "end": 227.9,
+          "text": "至",
+          "probability": 0.7291
+        }
+      ]
+    },
+    {
+      "time": 229.46,
+      "end": 231.76,
+      "text": "谁掌管明天",
+      "words": [
+        {
+          "time": 229.46,
+          "end": 229.76,
+          "text": "谁",
+          "probability": 0.9865
+        },
+        {
+          "time": 229.64,
+          "end": 230.12,
+          "text": "掌",
+          "probability": 0.972
+        },
+        {
+          "time": 230.2,
+          "end": 230.5,
+          "text": "管",
+          "probability": 0.8878
+        },
+        {
+          "time": 230.62,
+          "end": 230.92,
+          "text": "明",
+          "probability": 0.9995
+        },
+        {
+          "time": 231.46,
+          "end": 231.76,
+          "text": "天",
+          "probability": 0.9995
+        }
+      ]
+    },
+    {
+      "time": 233.66,
+      "end": 234.98,
+      "text": "我也知",
+      "words": [
+        {
+          "time": 233.66,
+          "end": 233.96,
+          "text": "我也",
+          "probability": 0.987
+        },
+        {
+          "time": 234.68,
+          "end": 234.98,
+          "text": "知",
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "time": 238.34,
+      "end": 240.88,
+      "text": "谁牵我",
+      "words": [
+        {
+          "time": 238.34,
+          "end": 238.64,
+          "text": "谁",
+          "probability": 0.9658
+        },
+        {
+          "time": 239.24,
+          "end": 239.9,
+          "text": "牵",
+          "probability": 1.0
+        },
+        {
+          "time": 240.58,
+          "end": 240.88,
+          "text": "我",
+          "probability": 0.9998
+        }
+      ]
+    },
+    {
+      "time": 242.48,
+      "end": 242.78,
+      "text": "手",
+      "words": [
+        {
+          "time": 242.48,
+          "end": 242.78,
+          "text": "手",
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "time": 269.24,
+      "end": 269.54,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "words": [
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "优",
+          "probability": 0.2144
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "优",
+          "probability": 0.9969
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "独",
+          "probability": 0.9953
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "播",
+          "probability": 0.996
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "剧",
+          "probability": 0.9963
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "场",
+          "probability": 0.9978
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "——",
+          "probability": 0.9982
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "Yo",
+          "probability": 0.9973
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "Yo",
+          "probability": 0.998
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": " Television",
+          "probability": 0.9946
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": " Series",
+          "probability": 0.997
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": " Exc",
+          "probability": 0.9968
+        },
+        {
+          "time": 269.24,
+          "end": 269.54,
+          "text": "lusive",
+          "probability": 0.9979
+        }
+      ]
+    }
+  ]
+}

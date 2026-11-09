@@ -1,0 +1,60 @@
+{
+  "id": "sc43f33d35490",
+  "file": "243你们要先求他的国.mp3",
+  "algorithm": 2,
+  "match": null,
+  "attempts": [
+    {
+      "source": "18784",
+      "offset": -5.2685,
+      "scale": 1.0,
+      "residual": 999,
+      "coverage": 0.844521,
+      "windows": [
+        {
+          "localStart": 8.409,
+          "sourceStart": 3.167,
+          "offset": -5.243,
+          "coefficient": 0.048515
+        },
+        {
+          "localStart": 21.024,
+          "sourceStart": 15.91,
+          "offset": -5.114,
+          "coefficient": 0.096746
+        },
+        {
+          "localStart": 33.638,
+          "sourceStart": 27.783,
+          "offset": -5.855,
+          "coefficient": 0.034523
+        },
+        {
+          "localStart": 46.252,
+          "sourceStart": 39.958,
+          "offset": -6.295,
+          "coefficient": 0.029279
+        },
+        {
+          "localStart": 58.867,
+          "sourceStart": 53.587,
+          "offset": -5.2805,
+          "coefficient": 0.042787
+        },
+        {
+          "localStart": 71.481,
+          "sourceStart": 64.453,
+          "offset": -7.0285,
+          "coefficient": 0.039516
+        },
+        {
+          "localStart": 84.096,
+          "sourceStart": 79.931,
+          "offset": -4.165,
+          "coefficient": 0.03726
+        }
+      ],
+      "accepted": false
+    }
+  ]
+}
