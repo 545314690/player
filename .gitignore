@@ -8,3 +8,12 @@ android/app/src/main/assets/web/
 android-build-cache/
 *.log
 output/
+
+# Preserve local IDE, OS and signing files
+.DS_Store
+.idea/
+.vscode/
+.env*
+*.local
+*.jks
+*.keystore
