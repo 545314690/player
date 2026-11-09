@@ -4,15 +4,16 @@ name: 赞美诗播放器
 description: 适中字号、清晰控件与克制色彩的本地音乐播放器
 colors:
   background: "#ffffff"
-  foreground: "#252a28"
-  primary: "#12865b"
+  foreground: "#242424"
+  primary: "#31c27c"
+  red: "#dc2b36"
   pink: "#c73770"
   white: "#252b31"
-  darkBackground: "#171b19"
-  darkPrimary: "#b7cdb5"
-  darkLyric: "#d7bc7e"
-  border: "#e9ecea"
-  muted: "#737b77"
+  darkBackground: "#090909"
+  darkPrimary: "#d6b570"
+  darkLyric: "#e2c68d"
+  border: "#e8e8e8"
+  muted: "#6d6d6d"
 typography:
   sans:
     fontFamily: "-apple-system, BlinkMacSystemFont, PingFang SC, Microsoft YaHei, sans-serif"
@@ -41,13 +42,13 @@ components:
 ## Overview
 
 面向现有中文赞美诗曲库的个人聆听工具，zh-CN 产品界面。支持手机 PWA、桌面浏览器和安卓 APK，无账号与服务器个人数据。
-用户确认绿色、粉色、白色三种设计加最初黑色款，默认黑色。不要大字、整屏染色、拟物磁带、纸质书或过度个性的造型。
+用户确认默认曜夜黑金，并选用鲜活绿、经典红两种音乐播放器配色；保留玫粉、纯白，共五种皮肤。不要大字、整屏染色、拟物磁带、纸质书或过度个性的造型。
 界面上的明确表达是：完整歌词与播放控制优先，其他功能放入菜单。
-本文件镜像运行时的规范；`src/style.css` 为唯一 CSS token 所有者，根节点 data-theme 选择主题，所有组件共享变量。App 的主题选项来自同一份固定四主题目录。不得引入独立屏幕颜色表。
+本文件镜像运行时的规范；`src/style.css` 为唯一 CSS token 所有者，根节点 data-theme 选择主题，所有组件共享变量。App与存储校验共用src/lib/themes.js五主题目录。不得引入独立屏幕颜色表。
 
 ## Colors
 
-浅色共用白底、深灰正文；绿色与粉色只用于播放按钮、已播放进度、当前歌词、选中状态。黑色共用深色面板、柔绿控件、金色当前句。不会给封面染色。
+浅色共用白底、中性深灰正文；绿、红、粉色只用于播放按钮、已播放进度、当前歌词、选中状态。鲜活绿按钮配深色图标，绿歌词用深绿确保可读；红按钮白图标。黑色采用无色相纯黑和炭灰层次，所有主控件与高亮为香槟金，无青绿UI点缀；应用内标志使用同形黑金SVG，系统应用图标保留品牌配色。不会给封面染色。
 语义错误用 danger，与主题强调区分。焦点始终可见，不只用颜色区分歌曲选中状态。
 
 ## Typography

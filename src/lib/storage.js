@@ -1,5 +1,6 @@
+import {themes as themeCatalog} from './themes.js'
 export const STORAGE_KEY = 'praise-player-v1'
-const themes = ['black','green','pink','white']
+const themes = themeCatalog.map(x=>x.id)
 export const defaults = () => ({version:1,settings:{theme:'black',fontSize:17,volume:0.8,repeat:'list',shuffle:false},favorites:[],playlists:[],recent:[],corrections:{},offsets:{},offsetVersions:{},playback:{trackId:null,position:0,queue:[]}})
 const uniqueIds = value => Array.isArray(value) ? [...new Set(value.filter(x=>typeof x==='string'))].slice(0,2000) : []
 export function validateState(input) {
