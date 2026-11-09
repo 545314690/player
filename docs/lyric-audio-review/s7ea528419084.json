@@ -1,0 +1,478 @@
+{
+  "id": "s7ea528419084",
+  "file": "025-.mp3",
+  "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU",
+  "seconds": 25.8,
+  "lines": [
+    {
+      "time": 28.58,
+      "end": 29.98,
+      "text": "优"
+    },
+    {
+      "time": 58.58,
+      "end": 59.98,
+      "text": "优"
+    },
+    {
+      "time": 88.58,
+      "end": 89.98,
+      "text": "优"
+    },
+    {
+      "time": 108.36,
+      "end": 109.76,
+      "text": "优"
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 28.580000000000002,
+      "end": 29.98,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "tokens": [
+        50365,
+        7384,
+        246,
+        7384,
+        246,
+        18637,
+        105,
+        49993,
+        5935,
+        100,
+        50255,
+        35702,
+        27728,
+        27728,
+        37329,
+        13934,
+        9368,
+        7233,
+        51864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15261825323104858,
+      "compression_ratio": 0.875,
+      "no_speech_prob": 2.792460152001297e-10,
+      "words": [
+        {
+          "word": "优",
+          "start": 28.580000000000002,
+          "end": 29.98,
+          "probability": 0.506884191185236
+        },
+        {
+          "word": "优",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9886492788791656
+        },
+        {
+          "word": "独",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9952900111675262
+        },
+        {
+          "word": "播",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.983668863773346
+        },
+        {
+          "word": "剧",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9936016499996185
+        },
+        {
+          "word": "场",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9924762845039368
+        },
+        {
+          "word": "——",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9930278658866882
+        },
+        {
+          "word": "Yo",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9909351468086243
+        },
+        {
+          "word": "Yo",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9935217499732971
+        },
+        {
+          "word": " Television",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9903662204742432
+        },
+        {
+          "word": " Series",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.988373339176178
+        },
+        {
+          "word": " Exc",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.987245500087738
+        },
+        {
+          "word": "lusive",
+          "start": 29.98,
+          "end": 29.98,
+          "probability": 0.9874377846717834
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 58.58,
+      "end": 59.98,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "tokens": [
+        50365,
+        7384,
+        246,
+        7384,
+        246,
+        18637,
+        105,
+        49993,
+        5935,
+        100,
+        50255,
+        35702,
+        27728,
+        27728,
+        37329,
+        13934,
+        9368,
+        7233,
+        51864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.17555549144744872,
+      "compression_ratio": 0.875,
+      "no_speech_prob": 2.5922566870839603e-10,
+      "words": [
+        {
+          "word": "优",
+          "start": 58.58,
+          "end": 59.98,
+          "probability": 0.45715068466961384
+        },
+        {
+          "word": "优",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9664779603481293
+        },
+        {
+          "word": "独",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9949692189693451
+        },
+        {
+          "word": "播",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9726918339729309
+        },
+        {
+          "word": "剧",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9901310503482819
+        },
+        {
+          "word": "场",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9917398691177368
+        },
+        {
+          "word": "——",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9919726848602295
+        },
+        {
+          "word": "Yo",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.992961585521698
+        },
+        {
+          "word": "Yo",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9946776628494263
+        },
+        {
+          "word": " Television",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9900071620941162
+        },
+        {
+          "word": " Series",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9854483008384705
+        },
+        {
+          "word": " Exc",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9864268898963928
+        },
+        {
+          "word": "lusive",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.987239420413971
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6000,
+      "start": 88.58,
+      "end": 89.98,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "tokens": [
+        50365,
+        7384,
+        246,
+        7384,
+        246,
+        18637,
+        105,
+        49993,
+        5935,
+        100,
+        50255,
+        35702,
+        27728,
+        27728,
+        37329,
+        13934,
+        9368,
+        7233,
+        51864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.15986727476119994,
+      "compression_ratio": 0.875,
+      "no_speech_prob": 2.794202091926934e-10,
+      "words": [
+        {
+          "word": "优",
+          "start": 88.58,
+          "end": 89.98,
+          "probability": 0.4618982560932636
+        },
+        {
+          "word": "优",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9709645807743073
+        },
+        {
+          "word": "独",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9953252375125885
+        },
+        {
+          "word": "播",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9767724871635437
+        },
+        {
+          "word": "剧",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.990736335515976
+        },
+        {
+          "word": "场",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9921777844429016
+        },
+        {
+          "word": "——",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9920876622200012
+        },
+        {
+          "word": "Yo",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9925932288169861
+        },
+        {
+          "word": "Yo",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9945588707923889
+        },
+        {
+          "word": " Television",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9908517003059387
+        },
+        {
+          "word": " Series",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.985236406326294
+        },
+        {
+          "word": " Exc",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9866847395896912
+        },
+        {
+          "word": "lusive",
+          "start": 89.98,
+          "end": 89.98,
+          "probability": 0.9878130555152893
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 9000,
+      "start": 108.36,
+      "end": 109.76,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "tokens": [
+        50365,
+        7384,
+        246,
+        7384,
+        246,
+        18637,
+        105,
+        49993,
+        5935,
+        100,
+        50255,
+        35702,
+        27728,
+        27728,
+        37329,
+        13934,
+        9368,
+        7233,
+        51864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11895530223846436,
+      "compression_ratio": 0.875,
+      "no_speech_prob": 2.1454747700655474e-10,
+      "words": [
+        {
+          "word": "优",
+          "start": 108.36,
+          "end": 109.76,
+          "probability": 0.5347011759877205
+        },
+        {
+          "word": "优",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9881484806537628
+        },
+        {
+          "word": "独",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9958220422267914
+        },
+        {
+          "word": "播",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9846935272216797
+        },
+        {
+          "word": "剧",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9933684766292572
+        },
+        {
+          "word": "场",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9914484620094299
+        },
+        {
+          "word": "——",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9943706393241882
+        },
+        {
+          "word": "Yo",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9935630559921265
+        },
+        {
+          "word": "Yo",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.994848906993866
+        },
+        {
+          "word": " Television",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9907824397087097
+        },
+        {
+          "word": " Series",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9882293939590454
+        },
+        {
+          "word": " Exc",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9903295040130615
+        },
+        {
+          "word": "lusive",
+          "start": 109.76,
+          "end": 109.76,
+          "probability": 0.9900317192077637
+        }
+      ]
+    }
+  ]
+}

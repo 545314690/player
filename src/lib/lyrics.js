@@ -17,7 +17,7 @@ export function parseLrc(raw = '') {
 export function activeLine(lines, time, offset = 0) {
   let lo = 0, hi = lines.length - 1, result = -1
   while (lo <= hi) { const mid = (lo + hi) >> 1; if (lines[mid].time <= time - offset) {result = mid; lo = mid + 1} else hi = mid - 1 }
-  return result
+  return result>=0 && Number.isFinite(lines[result].end) && time-offset>=lines[result].end ? -1 : result
 }
 export function serializeLrc(lines) {
   return lines.map(({time,text}) => {
@@ -26,3 +26,9 @@ export function serializeLrc(lines) {
   }).join('\n')
 }
 export function formatTime(value = 0) { const s = Math.floor(Number.isFinite(value) ? Math.max(0,value) : 0); return `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}` }
+
+export function resolveLyricLines(doc={},correction){
+  if(correction!==undefined)return parseLrc(correction)
+  if(Array.isArray(doc.syncSegments))return doc.syncSegments.filter(x=>x.text&&Number.isFinite(x.time)&&(!Number.isFinite(x.end)||x.end>x.time)).map(({time,end,text})=>({time,end,text})).sort((a,b)=>a.time-b.time)
+  return parseLrc(doc.lrc||'')
+}

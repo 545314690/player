@@ -100,6 +100,7 @@ export function createPlayer(onState, onTrack, onError) {
     next(){if(isNative())native().next();else step()},
     previous(){if(state.time>3){api.seek(0);return}if(isNative())native().previous();else step(-1)},
     volume(value){if(isNative())native().setVolume(value);else audio.volume=value},
+    lyrics(lines,offset=0,revision='',custom=false){if(isNative())native().setLyrics(state.trackId,JSON.stringify(lines),offset,revision,custom);else if(navigator.mediaSession?.metadata){const line=lines.findLast(x=>x.time<=state.time-offset&&(!Number.isFinite(x.end)||state.time-offset<x.end));navigator.mediaSession.metadata.artist=line?.text||queue[index]?.artist||'赞美诗集'}},
     mode(r,s){const changed=shuffle!==s;repeat=r;shuffle=s;if(isNative())native().setMode(r,s);else{if(changed)rebuildOrder();emit(orderState())}},
     sleep(minutes){clearTimeout(sleepTimer);const sleepUntil=minutes>0?Date.now()+minutes*60000:0;emit({sleepUntil});if(isNative())native().setSleep(minutes);else if(minutes>0)sleepTimer=setTimeout(()=>{api.pause();emit({sleepUntil:0})},minutes*60000)},
     replaceQueue(tracks,pinId=null){const id=state.trackId;queue=tracks;index=Math.max(0,queue.findIndex(t=>t.id===id));rebuildOrder(pinId);if(isNative())native().updateQueue(nativeTracks(tracks),index,pinId||'');else emit(orderState())},

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict'
 import {createPlayer} from '../src/lib/player.js'
 const settle=()=>new Promise(resolve=>setImmediate(resolve))
 function setup(mode){
- const descriptors=Object.fromEntries(['window','navigator','Audio'].map(k=>[k,Object.getOwnPropertyDescriptor(globalThis,k)]))
+ const descriptors=Object.fromEntries(['window','navigator','Audio','MediaMetadata','document'].map(k=>[k,Object.getOwnPropertyDescriptor(globalThis,k)]))
  let instance
  class FakeAudio extends EventTarget {
   constructor(){super();instance=this;this.currentTime=0;this.duration=240;this.error=null;this.attempts=[];this.src=''}
@@ -14,7 +14,8 @@ function setup(mode){
   play(){if(!this.error)queueMicrotask(()=>this.dispatchEvent(new Event('playing')));return Promise.resolve()}
   pause(){this.dispatchEvent(new Event('pause'))}
  }
- Object.defineProperty(globalThis,'window',{configurable:true,value:{}});Object.defineProperty(globalThis,'navigator',{configurable:true,value:{}});Object.defineProperty(globalThis,'Audio',{configurable:true,value:FakeAudio})
+ Object.defineProperty(globalThis,'window',{configurable:true,value:{}});Object.defineProperty(globalThis,'navigator',{configurable:true,value:mode.mediaSession?{mediaSession:mode.mediaSession}:{}});Object.defineProperty(globalThis,'Audio',{configurable:true,value:FakeAudio})
+ Object.defineProperty(globalThis,'MediaMetadata',{configurable:true,value:class{constructor(fields){Object.assign(this,fields)}}});Object.defineProperty(globalThis,'document',{configurable:true,value:{baseURI:'https://test.local/player/'}})
  return {get audio(){return instance},restore(){for(const[k,d]of Object.entries(descriptors)){if(d)Object.defineProperty(globalThis,k,d);else delete globalThis[k]}}}
 }
 const track={id:'s123456789abc',file:'测试歌曲.mp3',title:'测试歌曲',artist:'赞美诗集',cover:'artwork/meadow.png',src:'https://zm.ysaw.top/songs/assets/media/测试歌曲.mp3'}
@@ -38,4 +39,9 @@ test('Playback engine cycles all tracks, repeats one only on end, and manual ski
  engine.previous();await settle();assert.equal(engine.state.trackId,order[2]);engine.next();await settle();assert.equal(engine.state.trackId,order[3]);engine.next();await settle();assert.equal(engine.state.trackId,order[0]);
  engine.replaceQueue(tracks,'track3');assert.equal(engine.state.nextTrackId,'track3');engine.next();await settle();assert.equal(engine.state.trackId,'track3');
  }finally{engine?.destroy();env.restore()}
+})
+
+test('Web lock-screen metadata follows timed lyrics after seek and clears during gaps',async()=>{
+ const mediaSession={metadata:null,setActionHandler(){},setPositionState(){}},env=setup({allowPrimary:true,mediaSession});let engine
+ try{engine=createPlayer(()=>{},()=>{},()=>{});engine.load([track],track.id,0,false);await settle();const lines=[{time:10,end:15,text:'第一句'},{time:20,end:25,text:'第二句'}];engine.seek(12);engine.lyrics(lines);assert.equal(mediaSession.metadata.artist,'第一句');engine.seek(17);engine.lyrics(lines);assert.equal(mediaSession.metadata.artist,track.artist);engine.seek(22);engine.lyrics(lines);assert.equal(mediaSession.metadata.artist,'第二句')}finally{engine?.destroy();env.restore()}
 })

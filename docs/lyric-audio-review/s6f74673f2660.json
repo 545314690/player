@@ -1,0 +1,2546 @@
+{
+  "id": "s6f74673f2660",
+  "file": "034.我们高举双手赞美主.mp3",
+  "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU",
+  "seconds": 47.2,
+  "lines": [
+    {
+      "time": 0.0,
+      "end": 4.4,
+      "text": "Z Harp"
+    },
+    {
+      "time": 32.32,
+      "end": 35.36,
+      "text": "我们高级双手来赞美主"
+    },
+    {
+      "time": 35.36,
+      "end": 39.04,
+      "text": "我们太多仰望来赞美主"
+    },
+    {
+      "time": 39.04,
+      "end": 41.46,
+      "text": "宝贝造的万物"
+    },
+    {
+      "time": 41.46,
+      "end": 45.08,
+      "text": "都要来赞美主"
+    },
+    {
+      "time": 46.02,
+      "end": 48.84,
+      "text": "万望既往耶稣"
+    },
+    {
+      "time": 48.84,
+      "end": 52.14,
+      "text": "万主之主耶稣"
+    },
+    {
+      "time": 53.16,
+      "end": 57.02,
+      "text": "是我心生命赞美主"
+    },
+    {
+      "time": 60.0,
+      "end": 62.92,
+      "text": "Hallelujah, let's be true"
+    },
+    {
+      "time": 62.92,
+      "end": 66.68,
+      "text": "Hallelujah, let's be true"
+    },
+    {
+      "time": 66.68,
+      "end": 69.14,
+      "text": "此我心生命"
+    },
+    {
+      "time": 69.14,
+      "end": 70.94,
+      "text": "赞美主"
+    },
+    {
+      "time": 70.94,
+      "end": 76.98,
+      "text": "Hallelujah, let's be true"
+    },
+    {
+      "time": 76.98,
+      "end": 79.46,
+      "text": "Hallelujah, let's be"
+    },
+    {
+      "time": 79.46,
+      "end": 80.58,
+      "text": "be true"
+    },
+    {
+      "time": 80.58,
+      "end": 84.94,
+      "text": "Hallelujah, be true"
+    },
+    {
+      "time": 87.16,
+      "end": 90.26,
+      "text": "我们高举双手来赞美主"
+    },
+    {
+      "time": 90.26,
+      "end": 93.88,
+      "text": "我们抬头仰望来赞美主"
+    },
+    {
+      "time": 93.88,
+      "end": 96.48,
+      "text": "安倍造的乱雾"
+    },
+    {
+      "time": 96.48,
+      "end": 100.04,
+      "text": "都要来赞美主"
+    },
+    {
+      "time": 100.04,
+      "end": 103.58,
+      "text": "万万希望耶稣"
+    },
+    {
+      "time": 103.58,
+      "end": 107.22,
+      "text": "万主之主耶稣"
+    },
+    {
+      "time": 107.22,
+      "end": 111.94,
+      "text": "是我心生命赞美主"
+    },
+    {
+      "time": 114.94,
+      "end": 117.76,
+      "text": "Hallelujah, let's be true"
+    },
+    {
+      "time": 121.52,
+      "end": 125.74,
+      "text": "祝我信神的 赞美主"
+    },
+    {
+      "time": 125.74,
+      "end": 131.9,
+      "text": "Hallelujah, let's be true"
+    },
+    {
+      "time": 131.9,
+      "end": 139.94,
+      "text": "Hallelujah, let's be true"
+    },
+    {
+      "time": 141.92,
+      "end": 145.12,
+      "text": "阿雷路亚爱赞美主"
+    },
+    {
+      "time": 145.12,
+      "end": 148.62,
+      "text": "阿雷路亚爱赞美主"
+    },
+    {
+      "time": 148.62,
+      "end": 153.14,
+      "text": "使我心生命赞美主"
+    },
+    {
+      "time": 153.14,
+      "end": 154.68,
+      "text": "赞美主"
+    },
+    {
+      "time": 155.64,
+      "end": 159.12,
+      "text": "阿雷路亚爱赞美主"
+    },
+    {
+      "time": 159.12,
+      "end": 162.44,
+      "text": "阿雷路亚爱赞美主"
+    },
+    {
+      "time": 162.44,
+      "end": 166.72,
+      "text": "赞美赞万物赞美主"
+    },
+    {
+      "time": 174.4,
+      "end": 175.8,
+      "text": "优"
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Zither Harp",
+      "tokens": [
+        50365,
+        57,
+        1839,
+        3653,
+        79,
+        51864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.48520919254847933,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 3.655764926890903e-11,
+      "words": [
+        {
+          "word": "Z",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.103461854159832
+        },
+        {
+          "word": "ither",
+          "start": 0.34,
+          "end": 0.34,
+          "probability": 0.9258328676223755
+        },
+        {
+          "word": " Har",
+          "start": 0.34,
+          "end": 4.38,
+          "probability": 0.9865924715995789
+        },
+        {
+          "word": "p",
+          "start": 4.38,
+          "end": 4.4,
+          "probability": 0.9907586574554443
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 32.32,
+      "end": 35.36,
+      "text": "我们高级双手来赞美主",
+      "tokens": [
+        50365,
+        15003,
+        12979,
+        16853,
+        100,
+        2129,
+        234,
+        11389,
+        6912,
+        5266,
+        252,
+        9175,
+        13557,
+        50646
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3733119713632684,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 3.3641735230904857e-11,
+      "words": [
+        {
+          "word": "我们",
+          "start": 32.32,
+          "end": 33.08,
+          "probability": 0.476301908493042
+        },
+        {
+          "word": "高",
+          "start": 33.08,
+          "end": 33.4,
+          "probability": 0.9293209910392761
+        },
+        {
+          "word": "级",
+          "start": 33.4,
+          "end": 33.6,
+          "probability": 0.5373899638652802
+        },
+        {
+          "word": "双",
+          "start": 33.6,
+          "end": 33.82,
+          "probability": 0.9984323084354401
+        },
+        {
+          "word": "手",
+          "start": 33.82,
+          "end": 34.2,
+          "probability": 0.9478904008865356
+        },
+        {
+          "word": "来",
+          "start": 34.2,
+          "end": 34.72,
+          "probability": 0.8138726949691772
+        },
+        {
+          "word": "赞",
+          "start": 34.72,
+          "end": 34.94,
+          "probability": 0.9489536583423615
+        },
+        {
+          "word": "美",
+          "start": 34.94,
+          "end": 35.12,
+          "probability": 0.8186848759651184
+        },
+        {
+          "word": "主",
+          "start": 35.12,
+          "end": 35.36,
+          "probability": 0.4867176413536072
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 35.36,
+      "end": 39.04,
+      "text": "我们太多仰望来赞美主",
+      "tokens": [
+        50646,
+        15003,
+        9455,
+        6392,
+        1550,
+        108,
+        22694,
+        6912,
+        5266,
+        252,
+        9175,
+        13557,
+        50819
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3733119713632684,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 3.3641735230904857e-11,
+      "words": [
+        {
+          "word": "我们",
+          "start": 35.36,
+          "end": 36.62,
+          "probability": 0.9725599884986877
+        },
+        {
+          "word": "太",
+          "start": 36.62,
+          "end": 36.86,
+          "probability": 0.7000620365142822
+        },
+        {
+          "word": "多",
+          "start": 36.86,
+          "end": 37.08,
+          "probability": 0.987993597984314
+        },
+        {
+          "word": "仰",
+          "start": 37.08,
+          "end": 37.3,
+          "probability": 0.9435658156871796
+        },
+        {
+          "word": "望",
+          "start": 37.3,
+          "end": 37.6,
+          "probability": 0.9689918756484985
+        },
+        {
+          "word": "来",
+          "start": 37.6,
+          "end": 38.12,
+          "probability": 0.9988081455230713
+        },
+        {
+          "word": "赞",
+          "start": 38.12,
+          "end": 38.36,
+          "probability": 0.9996460974216461
+        },
+        {
+          "word": "美",
+          "start": 38.36,
+          "end": 38.54,
+          "probability": 0.9998624324798584
+        },
+        {
+          "word": "主",
+          "start": 38.54,
+          "end": 39.04,
+          "probability": 0.998210072517395
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 39.04,
+      "end": 41.46,
+      "text": "宝贝造的万物",
+      "tokens": [
+        50819,
+        2415,
+        251,
+        18464,
+        251,
+        37583,
+        1546,
+        23570,
+        23516,
+        50944
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3733119713632684,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 3.3641735230904857e-11,
+      "words": [
+        {
+          "word": "宝",
+          "start": 39.04,
+          "end": 39.96,
+          "probability": 0.46303214505314827
+        },
+        {
+          "word": "贝",
+          "start": 39.96,
+          "end": 40.36,
+          "probability": 0.9791372120380402
+        },
+        {
+          "word": "造",
+          "start": 40.36,
+          "end": 40.72,
+          "probability": 0.4319280683994293
+        },
+        {
+          "word": "的",
+          "start": 40.72,
+          "end": 40.92,
+          "probability": 0.9149013757705688
+        },
+        {
+          "word": "万",
+          "start": 40.92,
+          "end": 41.12,
+          "probability": 0.6572201251983643
+        },
+        {
+          "word": "物",
+          "start": 41.12,
+          "end": 41.46,
+          "probability": 0.9866393208503723
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 41.46,
+      "end": 45.08,
+      "text": "都要来赞美主",
+      "tokens": [
+        50944,
+        7182,
+        4275,
+        6912,
+        5266,
+        252,
+        9175,
+        13557,
+        51128
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3733119713632684,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 3.3641735230904857e-11,
+      "words": [
+        {
+          "word": "都",
+          "start": 41.46,
+          "end": 42.46,
+          "probability": 0.9117860198020935
+        },
+        {
+          "word": "要",
+          "start": 42.46,
+          "end": 42.88,
+          "probability": 0.9943811297416687
+        },
+        {
+          "word": "来",
+          "start": 42.88,
+          "end": 43.56,
+          "probability": 0.9982026815414429
+        },
+        {
+          "word": "赞",
+          "start": 43.56,
+          "end": 44.32,
+          "probability": 0.9995497763156891
+        },
+        {
+          "word": "美",
+          "start": 44.32,
+          "end": 44.5,
+          "probability": 0.9998350143432617
+        },
+        {
+          "word": "主",
+          "start": 44.5,
+          "end": 45.08,
+          "probability": 0.9986035227775574
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 46.02,
+      "end": 48.84,
+      "text": "万望既往耶稣",
+      "tokens": [
+        51128,
+        23570,
+        22694,
+        4479,
+        95,
+        29510,
+        22143,
+        10415,
+        96,
+        51310
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3733119713632684,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 3.3641735230904857e-11,
+      "words": [
+        {
+          "word": "万",
+          "start": 46.02,
+          "end": 46.78,
+          "probability": 0.9283994436264038
+        },
+        {
+          "word": "望",
+          "start": 46.78,
+          "end": 47.14,
+          "probability": 0.2689920663833618
+        },
+        {
+          "word": "既",
+          "start": 47.14,
+          "end": 47.36,
+          "probability": 0.40793775022029877
+        },
+        {
+          "word": "往",
+          "start": 47.36,
+          "end": 47.76,
+          "probability": 0.3807299733161926
+        },
+        {
+          "word": "耶",
+          "start": 47.76,
+          "end": 48.36,
+          "probability": 0.9947335720062256
+        },
+        {
+          "word": "稣",
+          "start": 48.36,
+          "end": 48.84,
+          "probability": 0.990657240152359
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 48.84,
+      "end": 52.14,
+      "text": "万主之主耶稣",
+      "tokens": [
+        51310,
+        23570,
+        13557,
+        9574,
+        13557,
+        22143,
+        10415,
+        96,
+        51502
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3733119713632684,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 3.3641735230904857e-11,
+      "words": [
+        {
+          "word": "万",
+          "start": 48.84,
+          "end": 50.2,
+          "probability": 0.7141801118850708
+        },
+        {
+          "word": "主",
+          "start": 50.2,
+          "end": 50.52,
+          "probability": 0.6853520274162292
+        },
+        {
+          "word": "之",
+          "start": 50.52,
+          "end": 50.8,
+          "probability": 0.8585476279258728
+        },
+        {
+          "word": "主",
+          "start": 50.8,
+          "end": 51.14,
+          "probability": 0.9681063890457153
+        },
+        {
+          "word": "耶",
+          "start": 51.14,
+          "end": 51.8,
+          "probability": 0.997050404548645
+        },
+        {
+          "word": "稣",
+          "start": 51.8,
+          "end": 52.14,
+          "probability": 0.9929316937923431
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 53.160000000000004,
+      "end": 57.02,
+      "text": "是我心生命赞美主",
+      "tokens": [
+        51502,
+        42614,
+        7945,
+        8244,
+        25236,
+        5266,
+        252,
+        9175,
+        13557,
+        51724
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.3733119713632684,
+      "compression_ratio": 1.2093023255813953,
+      "no_speech_prob": 3.3641735230904857e-11,
+      "words": [
+        {
+          "word": "是我",
+          "start": 53.160000000000004,
+          "end": 53.92,
+          "probability": 0.6320559978485107
+        },
+        {
+          "word": "心",
+          "start": 53.92,
+          "end": 54.46,
+          "probability": 0.6686807870864868
+        },
+        {
+          "word": "生",
+          "start": 54.46,
+          "end": 54.92,
+          "probability": 0.8068751692771912
+        },
+        {
+          "word": "命",
+          "start": 54.92,
+          "end": 55.48,
+          "probability": 0.9771444201469421
+        },
+        {
+          "word": "赞",
+          "start": 55.48,
+          "end": 56.24,
+          "probability": 0.999557763338089
+        },
+        {
+          "word": "美",
+          "start": 56.24,
+          "end": 56.64,
+          "probability": 0.9999191761016846
+        },
+        {
+          "word": "主",
+          "start": 56.64,
+          "end": 57.02,
+          "probability": 0.9979745745658875
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 60.0,
+      "end": 62.92,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        50365,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        50519
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "H",
+          "start": 60.0,
+          "end": 60.44,
+          "probability": 0.10603933781385422
+        },
+        {
+          "word": "all",
+          "start": 60.44,
+          "end": 60.66,
+          "probability": 0.9943311214447021
+        },
+        {
+          "word": "elujah,",
+          "start": 60.66,
+          "end": 61.38,
+          "probability": 0.900854766368866
+        },
+        {
+          "word": " let",
+          "start": 62.02,
+          "end": 62.1,
+          "probability": 0.12898267805576324
+        },
+        {
+          "word": "'s",
+          "start": 62.1,
+          "end": 62.32,
+          "probability": 0.4564080238342285
+        },
+        {
+          "word": " be",
+          "start": 62.32,
+          "end": 62.5,
+          "probability": 0.10479635000228882
+        },
+        {
+          "word": " true",
+          "start": 62.5,
+          "end": 62.92,
+          "probability": 0.38433635234832764
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6000,
+      "start": 62.92,
+      "end": 66.68,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        50519,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        50698
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "H",
+          "start": 62.92,
+          "end": 63.86,
+          "probability": 0.6907376646995544
+        },
+        {
+          "word": "all",
+          "start": 63.86,
+          "end": 64.1,
+          "probability": 0.992664635181427
+        },
+        {
+          "word": "elujah,",
+          "start": 64.1,
+          "end": 64.52,
+          "probability": 0.9965850114822388
+        },
+        {
+          "word": " let",
+          "start": 65.36,
+          "end": 65.52,
+          "probability": 0.9934641718864441
+        },
+        {
+          "word": "'s",
+          "start": 65.52,
+          "end": 65.7,
+          "probability": 0.9995265007019043
+        },
+        {
+          "word": " be",
+          "start": 65.7,
+          "end": 65.92,
+          "probability": 0.9711211919784546
+        },
+        {
+          "word": " true",
+          "start": 65.92,
+          "end": 66.68,
+          "probability": 0.9954487681388855
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 6000,
+      "start": 66.68,
+      "end": 69.14,
+      "text": "此我心生命",
+      "tokens": [
+        50698,
+        17947,
+        1654,
+        7945,
+        8244,
+        25236,
+        50824
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "此",
+          "start": 66.68,
+          "end": 67.24,
+          "probability": 0.08484341204166412
+        },
+        {
+          "word": "我",
+          "start": 67.24,
+          "end": 67.76,
+          "probability": 0.9219300150871277
+        },
+        {
+          "word": "心",
+          "start": 67.76,
+          "end": 68.16,
+          "probability": 0.3633548617362976
+        },
+        {
+          "word": "生",
+          "start": 68.16,
+          "end": 68.58,
+          "probability": 0.6993494629859924
+        },
+        {
+          "word": "命",
+          "start": 68.58,
+          "end": 69.14,
+          "probability": 0.9511544704437256
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 6000,
+      "start": 69.14,
+      "end": 70.94,
+      "text": "赞美主",
+      "tokens": [
+        50824,
+        5266,
+        252,
+        9175,
+        13557,
+        50914
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "赞",
+          "start": 69.14,
+          "end": 69.98,
+          "probability": 0.4937351755797863
+        },
+        {
+          "word": "美",
+          "start": 69.98,
+          "end": 70.36,
+          "probability": 0.7797547578811646
+        },
+        {
+          "word": "主",
+          "start": 70.36,
+          "end": 70.94,
+          "probability": 0.9523561000823975
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 6000,
+      "start": 70.94,
+      "end": 76.98,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        50914,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        51209
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "H",
+          "start": 70.94,
+          "end": 72.02,
+          "probability": 0.9937160611152649
+        },
+        {
+          "word": "all",
+          "start": 72.02,
+          "end": 74.4,
+          "probability": 0.9987597465515137
+        },
+        {
+          "word": "elujah,",
+          "start": 74.4,
+          "end": 74.8,
+          "probability": 0.9954545497894287
+        },
+        {
+          "word": " let",
+          "start": 75.68,
+          "end": 75.84,
+          "probability": 0.9971038699150085
+        },
+        {
+          "word": "'s",
+          "start": 75.84,
+          "end": 76.0,
+          "probability": 0.9996825456619263
+        },
+        {
+          "word": " be",
+          "start": 76.0,
+          "end": 76.22,
+          "probability": 0.9951745867729187
+        },
+        {
+          "word": " true",
+          "start": 76.22,
+          "end": 76.98,
+          "probability": 0.9920132756233215
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 6000,
+      "start": 76.98,
+      "end": 79.46,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        51209,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        51386
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "H",
+          "start": 76.98,
+          "end": 77.6,
+          "probability": 0.949009895324707
+        },
+        {
+          "word": "all",
+          "start": 77.6,
+          "end": 77.86,
+          "probability": 0.9991693496704102
+        },
+        {
+          "word": "elujah,",
+          "start": 77.86,
+          "end": 78.26,
+          "probability": 0.9972455501556396
+        },
+        {
+          "word": " let",
+          "start": 79.18,
+          "end": 79.26,
+          "probability": 0.998046875
+        },
+        {
+          "word": "'s",
+          "start": 79.26,
+          "end": 79.44,
+          "probability": 0.999579131603241
+        },
+        {
+          "word": " be",
+          "start": 79.44,
+          "end": 79.46,
+          "probability": 0.9961175918579102
+        },
+        {
+          "word": " true",
+          "start": 79.46,
+          "end": 79.46,
+          "probability": 0.9857665300369263
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 6000,
+      "start": 79.46,
+      "end": 80.58,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        51386,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        51509
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "H",
+          "start": 79.46,
+          "end": 79.46,
+          "probability": 0.39102086424827576
+        },
+        {
+          "word": "all",
+          "start": 79.46,
+          "end": 79.46,
+          "probability": 0.9940608143806458
+        },
+        {
+          "word": "elujah,",
+          "start": 79.46,
+          "end": 79.46,
+          "probability": 0.9945529103279114
+        },
+        {
+          "word": " let",
+          "start": 79.46,
+          "end": 79.46,
+          "probability": 0.9984520673751831
+        },
+        {
+          "word": "'s",
+          "start": 79.46,
+          "end": 79.46,
+          "probability": 0.9995673298835754
+        },
+        {
+          "word": " be",
+          "start": 79.46,
+          "end": 79.66,
+          "probability": 0.9961665272712708
+        },
+        {
+          "word": " true",
+          "start": 79.66,
+          "end": 80.58,
+          "probability": 0.9779835343360901
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 6000,
+      "start": 80.58,
+      "end": 84.94,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        51509,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        51612
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5709534200032552,
+      "compression_ratio": 2.5970149253731343,
+      "no_speech_prob": 6.844680378037538e-11,
+      "words": [
+        {
+          "word": "H",
+          "start": 80.58,
+          "end": 81.0,
+          "probability": 0.2898625135421753
+        },
+        {
+          "word": "all",
+          "start": 81.0,
+          "end": 81.1,
+          "probability": 0.9877080917358398
+        },
+        {
+          "word": "elujah,",
+          "start": 81.1,
+          "end": 81.48,
+          "probability": 0.9888852834701538
+        },
+        {
+          "word": " let",
+          "start": 81.82,
+          "end": 81.82,
+          "probability": 0.9982878565788269
+        },
+        {
+          "word": "'s",
+          "start": 81.82,
+          "end": 81.82,
+          "probability": 0.9995808005332947
+        },
+        {
+          "word": " be",
+          "start": 81.82,
+          "end": 82.34,
+          "probability": 0.9956907629966736
+        },
+        {
+          "word": " true",
+          "start": 82.34,
+          "end": 84.94,
+          "probability": 0.9632858037948608
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8494,
+      "start": 87.16,
+      "end": 90.26,
+      "text": "我们高举双手来赞美主",
+      "tokens": [
+        50365,
+        15003,
+        12979,
+        940,
+        122,
+        2129,
+        234,
+        11389,
+        6912,
+        5266,
+        252,
+        9175,
+        13557,
+        50642
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45978469848632814,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 3.368779213919204e-11,
+      "words": [
+        {
+          "word": "我们",
+          "start": 87.16,
+          "end": 88.02,
+          "probability": 0.6223375797271729
+        },
+        {
+          "word": "高",
+          "start": 88.02,
+          "end": 88.3,
+          "probability": 0.9550089836120605
+        },
+        {
+          "word": "举",
+          "start": 88.3,
+          "end": 88.5,
+          "probability": 0.825790524482727
+        },
+        {
+          "word": "双",
+          "start": 88.5,
+          "end": 88.72,
+          "probability": 0.9870839416980743
+        },
+        {
+          "word": "手",
+          "start": 88.72,
+          "end": 89.08,
+          "probability": 0.9871811270713806
+        },
+        {
+          "word": "来",
+          "start": 89.08,
+          "end": 89.58,
+          "probability": 0.7584428787231445
+        },
+        {
+          "word": "赞",
+          "start": 89.58,
+          "end": 89.82,
+          "probability": 0.9714981019496918
+        },
+        {
+          "word": "美",
+          "start": 89.82,
+          "end": 89.98,
+          "probability": 0.9307974576950073
+        },
+        {
+          "word": "主",
+          "start": 89.98,
+          "end": 90.26,
+          "probability": 0.5007395148277283
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8494,
+      "start": 90.26,
+      "end": 93.88,
+      "text": "我们抬头仰望来赞美主",
+      "tokens": [
+        50642,
+        15003,
+        7235,
+        105,
+        39862,
+        1550,
+        108,
+        22694,
+        6912,
+        5266,
+        252,
+        9175,
+        13557,
+        50828
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45978469848632814,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 3.368779213919204e-11,
+      "words": [
+        {
+          "word": "我们",
+          "start": 90.26,
+          "end": 91.48,
+          "probability": 0.9705033898353577
+        },
+        {
+          "word": "抬",
+          "start": 91.48,
+          "end": 91.72,
+          "probability": 0.9986194372177124
+        },
+        {
+          "word": "头",
+          "start": 91.72,
+          "end": 91.92,
+          "probability": 0.992213785648346
+        },
+        {
+          "word": "仰",
+          "start": 91.92,
+          "end": 92.12,
+          "probability": 0.9679581820964813
+        },
+        {
+          "word": "望",
+          "start": 92.12,
+          "end": 92.44,
+          "probability": 0.958462655544281
+        },
+        {
+          "word": "来",
+          "start": 92.44,
+          "end": 92.98,
+          "probability": 0.9964436888694763
+        },
+        {
+          "word": "赞",
+          "start": 92.98,
+          "end": 93.2,
+          "probability": 0.9995206594467163
+        },
+        {
+          "word": "美",
+          "start": 93.2,
+          "end": 93.38,
+          "probability": 0.9998576641082764
+        },
+        {
+          "word": "主",
+          "start": 93.38,
+          "end": 93.88,
+          "probability": 0.995849609375
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8494,
+      "start": 93.88,
+      "end": 96.48,
+      "text": "安倍造的乱雾",
+      "tokens": [
+        50828,
+        16206,
+        35477,
+        37583,
+        1546,
+        2930,
+        109,
+        6306,
+        122,
+        50944
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45978469848632814,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 3.368779213919204e-11,
+      "words": [
+        {
+          "word": "安",
+          "start": 93.88,
+          "end": 94.74,
+          "probability": 0.10460097342729568
+        },
+        {
+          "word": "倍",
+          "start": 94.74,
+          "end": 95.18,
+          "probability": 0.47854146361351013
+        },
+        {
+          "word": "造",
+          "start": 95.18,
+          "end": 95.56,
+          "probability": 0.46266525983810425
+        },
+        {
+          "word": "的",
+          "start": 95.56,
+          "end": 95.76,
+          "probability": 0.8084043264389038
+        },
+        {
+          "word": "乱",
+          "start": 95.76,
+          "end": 96.0,
+          "probability": 0.6551312804222107
+        },
+        {
+          "word": "雾",
+          "start": 96.0,
+          "end": 96.48,
+          "probability": 0.7435819506645203
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8494,
+      "start": 96.48,
+      "end": 100.04,
+      "text": "都要来赞美主",
+      "tokens": [
+        50944,
+        7182,
+        4275,
+        6912,
+        5266,
+        252,
+        9175,
+        13557,
+        51118
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45978469848632814,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 3.368779213919204e-11,
+      "words": [
+        {
+          "word": "都",
+          "start": 96.48,
+          "end": 97.32,
+          "probability": 0.8216475248336792
+        },
+        {
+          "word": "要",
+          "start": 97.32,
+          "end": 97.76,
+          "probability": 0.9649665951728821
+        },
+        {
+          "word": "来",
+          "start": 97.76,
+          "end": 98.36,
+          "probability": 0.9777365326881409
+        },
+        {
+          "word": "赞",
+          "start": 98.36,
+          "end": 99.14,
+          "probability": 0.9995757341384888
+        },
+        {
+          "word": "美",
+          "start": 99.14,
+          "end": 99.34,
+          "probability": 0.9998438358306885
+        },
+        {
+          "word": "主",
+          "start": 99.34,
+          "end": 100.04,
+          "probability": 0.997708797454834
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8494,
+      "start": 100.04,
+      "end": 103.58,
+      "text": "万万希望耶稣",
+      "tokens": [
+        51118,
+        23570,
+        23570,
+        29955,
+        22143,
+        10415,
+        96,
+        51310
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45978469848632814,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 3.368779213919204e-11,
+      "words": [
+        {
+          "word": "万",
+          "start": 100.04,
+          "end": 101.62,
+          "probability": 0.25907689332962036
+        },
+        {
+          "word": "万",
+          "start": 101.62,
+          "end": 101.94,
+          "probability": 0.847751259803772
+        },
+        {
+          "word": "希望",
+          "start": 101.94,
+          "end": 102.46,
+          "probability": 0.3517480194568634
+        },
+        {
+          "word": "耶",
+          "start": 102.46,
+          "end": 103.24,
+          "probability": 0.9078578352928162
+        },
+        {
+          "word": "稣",
+          "start": 103.24,
+          "end": 103.58,
+          "probability": 0.9783987700939178
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8494,
+      "start": 103.58,
+      "end": 107.22,
+      "text": "万主之主耶稣",
+      "tokens": [
+        51310,
+        23570,
+        13557,
+        9574,
+        13557,
+        22143,
+        10415,
+        96,
+        51496
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45978469848632814,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 3.368779213919204e-11,
+      "words": [
+        {
+          "word": "万",
+          "start": 103.58,
+          "end": 105.1,
+          "probability": 0.1344269961118698
+        },
+        {
+          "word": "主",
+          "start": 105.1,
+          "end": 105.42,
+          "probability": 0.215311661362648
+        },
+        {
+          "word": "之",
+          "start": 105.42,
+          "end": 105.68,
+          "probability": 0.07480280101299286
+        },
+        {
+          "word": "主",
+          "start": 105.68,
+          "end": 106.04,
+          "probability": 0.8114078640937805
+        },
+        {
+          "word": "耶",
+          "start": 106.04,
+          "end": 106.7,
+          "probability": 0.9974932670593262
+        },
+        {
+          "word": "稣",
+          "start": 106.7,
+          "end": 107.22,
+          "probability": 0.9920900762081146
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8494,
+      "start": 107.22,
+      "end": 111.94,
+      "text": "是我心生命赞美主",
+      "tokens": [
+        51496,
+        42614,
+        7945,
+        8244,
+        25236,
+        5266,
+        252,
+        9175,
+        13557,
+        51731
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.45978469848632814,
+      "compression_ratio": 1.21875,
+      "no_speech_prob": 3.368779213919204e-11,
+      "words": [
+        {
+          "word": "是我",
+          "start": 107.22,
+          "end": 108.84,
+          "probability": 0.5860044360160828
+        },
+        {
+          "word": "心",
+          "start": 108.84,
+          "end": 109.32,
+          "probability": 0.5644189119338989
+        },
+        {
+          "word": "生",
+          "start": 109.32,
+          "end": 109.76,
+          "probability": 0.9456020593643188
+        },
+        {
+          "word": "命",
+          "start": 109.76,
+          "end": 110.38,
+          "probability": 0.9879373908042908
+        },
+        {
+          "word": "赞",
+          "start": 110.38,
+          "end": 111.14,
+          "probability": 0.9996440708637238
+        },
+        {
+          "word": "美",
+          "start": 111.14,
+          "end": 111.52,
+          "probability": 0.9998971223831177
+        },
+        {
+          "word": "主",
+          "start": 111.52,
+          "end": 111.94,
+          "probability": 0.996894359588623
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 11494,
+      "start": 114.94,
+      "end": 117.76,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        50365,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6452332814534505,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 1.5213738602248839e-10,
+      "words": [
+        {
+          "word": "H",
+          "start": 114.94,
+          "end": 115.32,
+          "probability": 0.14749695360660553
+        },
+        {
+          "word": "all",
+          "start": 115.32,
+          "end": 115.6,
+          "probability": 0.9948234558105469
+        },
+        {
+          "word": "elujah,",
+          "start": 115.6,
+          "end": 116.42,
+          "probability": 0.8850141763687134
+        },
+        {
+          "word": " let",
+          "start": 116.9,
+          "end": 117.0,
+          "probability": 0.15385644137859344
+        },
+        {
+          "word": "'s",
+          "start": 117.0,
+          "end": 117.2,
+          "probability": 0.35991960763931274
+        },
+        {
+          "word": " be",
+          "start": 117.2,
+          "end": 117.42,
+          "probability": 0.13559238612651825
+        },
+        {
+          "word": " true",
+          "start": 117.42,
+          "end": 117.76,
+          "probability": 0.3350510597229004
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11494,
+      "start": 121.52,
+      "end": 125.74,
+      "text": "祝我信神的 赞美主",
+      "tokens": [
+        50715,
+        12695,
+        251,
+        1654,
+        17665,
+        20432,
+        1546,
+        220,
+        5266,
+        252,
+        9175,
+        13557,
+        51015
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6452332814534505,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 1.5213738602248839e-10,
+      "words": [
+        {
+          "word": "祝",
+          "start": 121.52,
+          "end": 122.28,
+          "probability": 0.14454698759072926
+        },
+        {
+          "word": "我",
+          "start": 122.28,
+          "end": 122.66,
+          "probability": 0.9833424091339111
+        },
+        {
+          "word": "信",
+          "start": 122.66,
+          "end": 123.04,
+          "probability": 0.19848477840423584
+        },
+        {
+          "word": "神",
+          "start": 123.04,
+          "end": 123.52,
+          "probability": 0.2675347924232483
+        },
+        {
+          "word": "的",
+          "start": 123.52,
+          "end": 124.04,
+          "probability": 0.2188407927751541
+        },
+        {
+          "word": " 赞",
+          "start": 124.28,
+          "end": 124.86,
+          "probability": 0.6441584825515747
+        },
+        {
+          "word": "美",
+          "start": 124.86,
+          "end": 125.24,
+          "probability": 0.8606892824172974
+        },
+        {
+          "word": "主",
+          "start": 125.24,
+          "end": 125.74,
+          "probability": 0.9424806833267212
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 11494,
+      "start": 125.74,
+      "end": 131.9,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        51015,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        51365
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6452332814534505,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 1.5213738602248839e-10,
+      "words": [
+        {
+          "word": "H",
+          "start": 125.74,
+          "end": 126.64,
+          "probability": 0.8302218317985535
+        },
+        {
+          "word": "all",
+          "start": 126.64,
+          "end": 129.28,
+          "probability": 0.9981979727745056
+        },
+        {
+          "word": "elujah,",
+          "start": 129.28,
+          "end": 129.7,
+          "probability": 0.993837296962738
+        },
+        {
+          "word": " let",
+          "start": 130.48,
+          "end": 130.7,
+          "probability": 0.9913544058799744
+        },
+        {
+          "word": "'s",
+          "start": 130.7,
+          "end": 130.86,
+          "probability": 0.9990624785423279
+        },
+        {
+          "word": " be",
+          "start": 130.86,
+          "end": 131.08,
+          "probability": 0.9815652966499329
+        },
+        {
+          "word": " true",
+          "start": 131.08,
+          "end": 131.9,
+          "probability": 0.9938182234764099
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 11494,
+      "start": 131.9,
+      "end": 139.94,
+      "text": "Hallelujah, let's be true",
+      "tokens": [
+        51365,
+        39,
+        336,
+        26138,
+        11,
+        718,
+        311,
+        312,
+        2074,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6452332814534505,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 1.5213738602248839e-10,
+      "words": [
+        {
+          "word": "H",
+          "start": 131.9,
+          "end": 132.44,
+          "probability": 0.5119310617446899
+        },
+        {
+          "word": "all",
+          "start": 132.44,
+          "end": 132.72,
+          "probability": 0.9985062479972839
+        },
+        {
+          "word": "elujah,",
+          "start": 132.72,
+          "end": 133.12,
+          "probability": 0.9970861077308655
+        },
+        {
+          "word": " let",
+          "start": 133.94,
+          "end": 134.1,
+          "probability": 0.9973952770233154
+        },
+        {
+          "word": "'s",
+          "start": 134.1,
+          "end": 134.3,
+          "probability": 0.99932861328125
+        },
+        {
+          "word": " be",
+          "start": 134.3,
+          "end": 134.52,
+          "probability": 0.9904306530952454
+        },
+        {
+          "word": " true",
+          "start": 134.52,
+          "end": 139.94,
+          "probability": 0.9904199242591858
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 13994,
+      "start": 141.92,
+      "end": 145.12,
+      "text": "阿雷路亚爱赞美主",
+      "tokens": [
+        50365,
+        13594,
+        6306,
+        115,
+        24658,
+        1369,
+        248,
+        27324,
+        5266,
+        252,
+        9175,
+        13557,
+        50630
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4055696050804782,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 6.37376540435497e-11,
+      "words": [
+        {
+          "word": "阿",
+          "start": 141.92,
+          "end": 142.76,
+          "probability": 0.15937407314777374
+        },
+        {
+          "word": "雷",
+          "start": 142.76,
+          "end": 143.22,
+          "probability": 0.5988186746835709
+        },
+        {
+          "word": "路",
+          "start": 143.22,
+          "end": 143.62,
+          "probability": 0.30163872241973877
+        },
+        {
+          "word": "亚",
+          "start": 143.62,
+          "end": 144.06,
+          "probability": 0.8088893592357635
+        },
+        {
+          "word": "爱",
+          "start": 144.06,
+          "end": 144.44,
+          "probability": 0.30106496810913086
+        },
+        {
+          "word": "赞",
+          "start": 144.44,
+          "end": 144.64,
+          "probability": 0.7973600029945374
+        },
+        {
+          "word": "美",
+          "start": 144.64,
+          "end": 144.82,
+          "probability": 0.9265628457069397
+        },
+        {
+          "word": "主",
+          "start": 144.82,
+          "end": 145.12,
+          "probability": 0.769037127494812
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 13994,
+      "start": 145.12,
+      "end": 148.62,
+      "text": "阿雷路亚爱赞美主",
+      "tokens": [
+        50630,
+        13594,
+        6306,
+        115,
+        24658,
+        1369,
+        248,
+        27324,
+        5266,
+        252,
+        9175,
+        13557,
+        50812
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4055696050804782,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 6.37376540435497e-11,
+      "words": [
+        {
+          "word": "阿",
+          "start": 145.12,
+          "end": 146.18,
+          "probability": 0.27175167202949524
+        },
+        {
+          "word": "雷",
+          "start": 146.18,
+          "end": 146.66,
+          "probability": 0.9987590312957764
+        },
+        {
+          "word": "路",
+          "start": 146.66,
+          "end": 147.04,
+          "probability": 0.9985952973365784
+        },
+        {
+          "word": "亚",
+          "start": 147.04,
+          "end": 147.46,
+          "probability": 0.999862551689148
+        },
+        {
+          "word": "爱",
+          "start": 147.46,
+          "end": 147.82,
+          "probability": 0.9992221593856812
+        },
+        {
+          "word": "赞",
+          "start": 147.82,
+          "end": 148.04,
+          "probability": 0.9996929466724396
+        },
+        {
+          "word": "美",
+          "start": 148.04,
+          "end": 148.2,
+          "probability": 0.9999208450317383
+        },
+        {
+          "word": "主",
+          "start": 148.2,
+          "end": 148.62,
+          "probability": 0.9971278309822083
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 13994,
+      "start": 148.62,
+      "end": 153.14,
+      "text": "使我心生命赞美主",
+      "tokens": [
+        50812,
+        22982,
+        1654,
+        7945,
+        8244,
+        25236,
+        5266,
+        252,
+        9175,
+        13557,
+        51031
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4055696050804782,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 6.37376540435497e-11,
+      "words": [
+        {
+          "word": "使",
+          "start": 148.62,
+          "end": 149.58,
+          "probability": 0.1690722554922104
+        },
+        {
+          "word": "我",
+          "start": 149.58,
+          "end": 150.06,
+          "probability": 0.9949690699577332
+        },
+        {
+          "word": "心",
+          "start": 150.06,
+          "end": 150.46,
+          "probability": 0.31002840399742126
+        },
+        {
+          "word": "生",
+          "start": 150.46,
+          "end": 150.9,
+          "probability": 0.4357447624206543
+        },
+        {
+          "word": "命",
+          "start": 150.9,
+          "end": 151.38,
+          "probability": 0.35563793778419495
+        },
+        {
+          "word": "赞",
+          "start": 151.38,
+          "end": 152.24,
+          "probability": 0.9970006346702576
+        },
+        {
+          "word": "美",
+          "start": 152.24,
+          "end": 152.64,
+          "probability": 0.9996730089187622
+        },
+        {
+          "word": "主",
+          "start": 152.64,
+          "end": 153.14,
+          "probability": 0.9947383999824524
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 13994,
+      "start": 153.14,
+      "end": 154.68,
+      "text": "赞美主",
+      "tokens": [
+        51031,
+        5266,
+        252,
+        9175,
+        13557,
+        51112
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4055696050804782,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 6.37376540435497e-11,
+      "words": [
+        {
+          "word": "赞",
+          "start": 153.14,
+          "end": 154.06,
+          "probability": 0.5895522981882095
+        },
+        {
+          "word": "美",
+          "start": 154.06,
+          "end": 154.28,
+          "probability": 0.9998154044151306
+        },
+        {
+          "word": "主",
+          "start": 154.28,
+          "end": 154.68,
+          "probability": 0.998448371887207
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 13994,
+      "start": 155.64,
+      "end": 159.12,
+      "text": "阿雷路亚爱赞美主",
+      "tokens": [
+        51112,
+        13594,
+        6306,
+        115,
+        24658,
+        1369,
+        248,
+        27324,
+        5266,
+        252,
+        9175,
+        13557,
+        51325
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4055696050804782,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 6.37376540435497e-11,
+      "words": [
+        {
+          "word": "阿",
+          "start": 155.64,
+          "end": 156.48,
+          "probability": 0.983511209487915
+        },
+        {
+          "word": "雷",
+          "start": 156.48,
+          "end": 156.98,
+          "probability": 0.9987083673477173
+        },
+        {
+          "word": "路",
+          "start": 156.98,
+          "end": 157.34,
+          "probability": 0.9983041286468506
+        },
+        {
+          "word": "亚",
+          "start": 157.34,
+          "end": 157.82,
+          "probability": 0.9998621344566345
+        },
+        {
+          "word": "爱",
+          "start": 157.82,
+          "end": 158.14,
+          "probability": 0.9989870190620422
+        },
+        {
+          "word": "赞",
+          "start": 158.14,
+          "end": 158.38,
+          "probability": 0.9997403621673584
+        },
+        {
+          "word": "美",
+          "start": 158.38,
+          "end": 158.54,
+          "probability": 0.9999390840530396
+        },
+        {
+          "word": "主",
+          "start": 158.54,
+          "end": 159.12,
+          "probability": 0.9990008473396301
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 13994,
+      "start": 159.12,
+      "end": 162.44,
+      "text": "阿雷路亚爱赞美主",
+      "tokens": [
+        51325,
+        13594,
+        6306,
+        115,
+        24658,
+        1369,
+        248,
+        27324,
+        5266,
+        252,
+        9175,
+        13557,
+        51501
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4055696050804782,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 6.37376540435497e-11,
+      "words": [
+        {
+          "word": "阿",
+          "start": 159.12,
+          "end": 159.88,
+          "probability": 0.6915939450263977
+        },
+        {
+          "word": "雷",
+          "start": 159.88,
+          "end": 160.38,
+          "probability": 0.9974708259105682
+        },
+        {
+          "word": "路",
+          "start": 160.38,
+          "end": 160.74,
+          "probability": 0.9940000772476196
+        },
+        {
+          "word": "亚",
+          "start": 160.74,
+          "end": 161.2,
+          "probability": 0.9997545778751373
+        },
+        {
+          "word": "爱",
+          "start": 161.2,
+          "end": 161.56,
+          "probability": 0.9989653825759888
+        },
+        {
+          "word": "赞",
+          "start": 161.56,
+          "end": 161.8,
+          "probability": 0.9997875094413757
+        },
+        {
+          "word": "美",
+          "start": 161.8,
+          "end": 161.94,
+          "probability": 0.9999150037765503
+        },
+        {
+          "word": "主",
+          "start": 161.94,
+          "end": 162.44,
+          "probability": 0.9987555742263794
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 13994,
+      "start": 162.44,
+      "end": 166.72,
+      "text": "赞美赞万物赞美主",
+      "tokens": [
+        51501,
+        5266,
+        252,
+        9175,
+        5266,
+        252,
+        23570,
+        23516,
+        5266,
+        252,
+        9175,
+        13557,
+        51713
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.4055696050804782,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 6.37376540435497e-11,
+      "words": [
+        {
+          "word": "赞",
+          "start": 162.44,
+          "end": 163.36,
+          "probability": 0.6004624292254448
+        },
+        {
+          "word": "美",
+          "start": 163.36,
+          "end": 163.74,
+          "probability": 0.9844868779182434
+        },
+        {
+          "word": "赞",
+          "start": 163.74,
+          "end": 164.22,
+          "probability": 0.5172527302056551
+        },
+        {
+          "word": "万",
+          "start": 164.22,
+          "end": 164.58,
+          "probability": 0.07699889689683914
+        },
+        {
+          "word": "物",
+          "start": 164.58,
+          "end": 165.02,
+          "probability": 0.6491032242774963
+        },
+        {
+          "word": "赞",
+          "start": 165.02,
+          "end": 165.94,
+          "probability": 0.9983275532722473
+        },
+        {
+          "word": "美",
+          "start": 165.94,
+          "end": 166.34,
+          "probability": 0.9995172023773193
+        },
+        {
+          "word": "主",
+          "start": 166.34,
+          "end": 166.72,
+          "probability": 0.9941132664680481
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 16994,
+      "start": 174.4,
+      "end": 175.8,
+      "text": "优优独播剧场——YoYo Television Series Exclusive",
+      "tokens": [
+        50365,
+        7384,
+        246,
+        7384,
+        246,
+        18637,
+        105,
+        49993,
+        5935,
+        100,
+        50255,
+        35702,
+        27728,
+        27728,
+        37329,
+        13934,
+        9368,
+        7233,
+        51864
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2532485485076904,
+      "compression_ratio": 0.875,
+      "no_speech_prob": 1.5348736170928134e-10,
+      "words": [
+        {
+          "word": "优",
+          "start": 174.4,
+          "end": 175.8,
+          "probability": 0.4763802234083414
+        },
+        {
+          "word": "优",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9860495924949646
+        },
+        {
+          "word": "独",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9938490390777588
+        },
+        {
+          "word": "播",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9859187602996826
+        },
+        {
+          "word": "剧",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9910928308963776
+        },
+        {
+          "word": "场",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9829067587852478
+        },
+        {
+          "word": "——",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9931244254112244
+        },
+        {
+          "word": "Yo",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9913944602012634
+        },
+        {
+          "word": "Yo",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.99406898021698
+        },
+        {
+          "word": " Television",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9842098951339722
+        },
+        {
+          "word": " Series",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.9812069535255432
+        },
+        {
+          "word": " Exc",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.987669050693512
+        },
+        {
+          "word": "lusive",
+          "start": 175.8,
+          "end": 175.8,
+          "probability": 0.989500105381012
+        }
+      ]
+    }
+  ]
+}

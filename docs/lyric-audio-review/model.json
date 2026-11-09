@@ -1,0 +1,6 @@
+{
+  "repository": "https://huggingface.co/mlx-community/whisper-large-v3-turbo-4bit",
+  "weightsSHA256": "e2d6146b49644c13ed7467060d3c43c402bbdfca1f01f1c21f6fbeda23b6567e",
+  "execution": "OpenAI Whisper on CPU; dequantized checkpoint; word timestamps; zh; temperature 0",
+  "publicationPolicy": "Only corresponding songbook excerpts are published; raw recognition stays in review records."
+}

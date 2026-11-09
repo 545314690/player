@@ -2,7 +2,7 @@
 import {ref,computed,watch,nextTick,onMounted,onBeforeUnmount} from 'vue'
 import {activeLine} from '../lib/lyrics.js'
 import Icon from './Icon.vue'
-const props=defineProps({lines:Array,time:Number,offset:Number,fontSize:Number,trackId:String})
+const props=defineProps({lines:Array,time:Number,offset:Number,fontSize:Number,trackId:String,gapLabel:{type:String,default:'这段歌词仍待校对'}})
 const emit=defineEmits(['seek','edit','calibrate','font'])
 const viewport=ref(),follow=ref(true),index=computed(()=>activeLine(props.lines,props.time,props.offset)),lineEls=new Map()
 let observer
@@ -19,11 +19,12 @@ onBeforeUnmount(()=>observer?.disconnect())
 </script>
 <template>
   <div class="lyrics-component">
-    <div ref="viewport" class="lyrics-scroll" :style="{'--lyric-size':fontSize+'px'}" tabindex="0" aria-label="同步歌词，点击一句可跳转播放" @wheel.passive="follow=false" @touchstart.passive="follow=false" @keydown="['ArrowDown','ArrowUp','PageDown','PageUp','Home','End'].includes($event.key)&&(follow=false)">
+    <p v-if="lines.length&&index<0&&time>lines[0].time" class="lyric-view-note" role="status">{{gapLabel}}</p>
+    <div ref="viewport" class="lyrics-scroll" :style="{'--lyric-size':fontSize+'px'}" tabindex="0" aria-label="歌词，点击一句可跳转播放" @wheel.passive="follow=false" @touchstart.passive="follow=false" @keydown="['ArrowDown','ArrowUp','PageDown','PageUp','Home','End'].includes($event.key)&&(follow=false)">
       <div v-if="lines.length" class="lyrics-lines">
         <button v-for="(line,i) in lines" :key="trackId+'-'+i" :ref="el=>el?lineEls.set(i,el):lineEls.delete(i)" class="lyric-line" :class="{current:i===index}" :aria-current="i===index?'true':undefined" :aria-label="line.text+'，跳转到 '+Math.floor(line.time)+' 秒'" @click="emit('seek',line.time+(offset||0));resume()">{{line.text}}</button>
       </div>
-      <div v-else class="empty compact"><Icon name="FileMusic" :size="30"/><p>这首歌还没有同步歌词</p><small>可查看完整文本，或自行添加时间轴。</small></div>
+      <div v-else class="empty compact"><Icon name="FileMusic" :size="30"/><p>这份录音的歌词仍待校对</p><small>校对完成后会更新到这里。</small></div>
     </div>
     <button v-if="!follow" class="follow-button" @click="resume"><Icon name="LocateFixed" :size="15"/>回到当前句</button>
     <div class="lyric-tools"><button @click="emit('font')"><Icon name="Type" :size="16"/>字号</button><button @click="emit('calibrate')"><Icon name="SlidersHorizontal" :size="16"/>校准</button><button @click="emit('edit')"><Icon name="PencilLine" :size="16"/>纠错</button></div>

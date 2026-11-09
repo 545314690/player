@@ -1,6 +1,6 @@
 export const STORAGE_KEY = 'praise-player-v1'
 const themes = ['black','green','pink','white']
-export const defaults = () => ({version:1,settings:{theme:'black',fontSize:17,volume:0.8,repeat:'list',shuffle:false},favorites:[],playlists:[],recent:[],corrections:{},offsets:{},playback:{trackId:null,position:0,queue:[]}})
+export const defaults = () => ({version:1,settings:{theme:'black',fontSize:17,volume:0.8,repeat:'list',shuffle:false},favorites:[],playlists:[],recent:[],corrections:{},offsets:{},offsetVersions:{},playback:{trackId:null,position:0,queue:[]}})
 const uniqueIds = value => Array.isArray(value) ? [...new Set(value.filter(x=>typeof x==='string'))].slice(0,2000) : []
 export function validateState(input) {
   if (!input || typeof input!=='object' || input.version!==1) throw new Error('备份格式不正确，请选择本应用导出的 JSON 文件。')
@@ -10,6 +10,7 @@ export function validateState(input) {
   d.playlists=(Array.isArray(input.playlists)?input.playlists:[]).filter(p=>p&&typeof p.id==='string'&&typeof p.name==='string').slice(0,200).map(p=>({id:p.id,name:p.name.slice(0,60),tracks:uniqueIds(p.tracks)}))
   d.corrections=Object.fromEntries(Object.entries(input.corrections||{}).filter(([k,v])=>/^s[a-f0-9]{12}$/.test(k)&&typeof v==='string'&&v.length<100000))
   d.offsets=Object.fromEntries(Object.entries(input.offsets||{}).filter(([k,v])=>/^s[a-f0-9]{12}$/.test(k)&&Number.isFinite(v)&&Math.abs(v)<=60))
+  d.offsetVersions=Object.fromEntries(Object.entries(input.offsetVersions||{}).filter(([k,v])=>/^s[a-f0-9]{12}$/.test(k)&&typeof v==='string'&&v.length<80))
   if (input.playback) d.playback={trackId:typeof input.playback.trackId==='string'?input.playback.trackId:null,position:Math.max(0,Number(input.playback.position)||0),queue:uniqueIds(input.playback.queue)}
   return d
 }

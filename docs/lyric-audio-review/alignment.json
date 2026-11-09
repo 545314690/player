@@ -1,0 +1,3140 @@
+{
+  "songs": [
+    {
+      "id": "s1b1f26ffe5be",
+      "file": "001_.mp3",
+      "matched": 18,
+      "total": 48,
+      "coverage": 0.375,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s15eb46a624a5",
+      "file": "001爱.mp3",
+      "matched": 20,
+      "total": 29,
+      "coverage": 0.6896551724137931,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s42fcf5420dce",
+      "file": "002爱 我愿意.mp3",
+      "matched": 28,
+      "total": 40,
+      "coverage": 0.7,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1abce121997a",
+      "file": "003爱 喜乐 生命.mp3",
+      "matched": 32,
+      "total": 38,
+      "coverage": 0.8421052631578947,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s99d10b25c4ce",
+      "file": "004阿爸父.mp3",
+      "matched": 13,
+      "total": 22,
+      "coverage": 0.5909090909090909,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0f75ca8abe56",
+      "file": "005宝贵十架.mp3",
+      "matched": 16,
+      "total": 24,
+      "coverage": 0.6666666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5ee01e3832a5",
+      "file": "005宝贵十架韩文.mp3",
+      "matched": 0,
+      "total": 34,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sd25962837717",
+      "file": "007别怕路艰难.mp3",
+      "matched": 22,
+      "total": 24,
+      "coverage": 0.9166666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6270136633aa",
+      "file": "007别怕路艰难发哥.mp3",
+      "matched": 16,
+      "total": 18,
+      "coverage": 0.8888888888888888,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s00a0343a9dc1",
+      "file": "008不是没有家.mp3",
+      "matched": 26,
+      "total": 33,
+      "coverage": 0.7878787878787878,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sde06d9b27483",
+      "file": "009不知道前方的路还有多远.mp3",
+      "matched": 12,
+      "total": 13,
+      "coverage": 0.9230769230769231,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0c1b48bd3547",
+      "file": "009不知道前方的路还有多远版本二.mp3",
+      "matched": 12,
+      "total": 21,
+      "coverage": 0.5714285714285714,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s02e639265971",
+      "file": "010唱哈利路亚.mp3",
+      "matched": 23,
+      "total": 23,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s023844d09cba",
+      "file": "011唱一首天上的歌.mp3",
+      "matched": 38,
+      "total": 40,
+      "coverage": 1,
+      "issue": null,
+      "source": {
+        "url": "https://music.163.com/song?id=27906952",
+        "basis": "original recording ID embedded in audio metadata; matching duration"
+      }
+    },
+    {
+      "id": "s34b484853579",
+      "file": "011唱一首天上的歌合唱.mp3",
+      "matched": 14,
+      "total": 18,
+      "coverage": 0.7777777777777778,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sce3ced01df3d",
+      "file": "012差遣之歌_女声.mp3",
+      "matched": 22,
+      "total": 52,
+      "coverage": 0.4230769230769231,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7e1f64467b1e",
+      "file": "012差遣之歌男声.mp3",
+      "matched": 24,
+      "total": 39,
+      "coverage": 0.6153846153846154,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s69e262b453cc",
+      "file": "013彩虹下的约定1.mp3",
+      "matched": 36,
+      "total": 40,
+      "coverage": 0.9,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4a14abd25f8b",
+      "file": "013彩虹下的约定2.mp3",
+      "matched": 26,
+      "total": 30,
+      "coverage": 0.8666666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s30b8674016c2",
+      "file": "014把冷漠变成爱.mp3",
+      "matched": 31,
+      "total": 60,
+      "coverage": 0.5166666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s66ccfdb6acfe",
+      "file": "015-.mp3",
+      "matched": 4,
+      "total": 21,
+      "coverage": 0.19047619047619047,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0d6f9594acb5",
+      "file": "015从太阳出来之地_和声.mp3",
+      "matched": 4,
+      "total": 21,
+      "coverage": 0.19047619047619047,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0071a2517641",
+      "file": "016-.mp3",
+      "matched": 31,
+      "total": 37,
+      "coverage": 0.8378378378378378,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3604162c25bb",
+      "file": "016.mp3",
+      "matched": 0,
+      "total": 19,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s5899aaa29a87",
+      "file": "017-.mp3",
+      "matched": 40,
+      "total": 55,
+      "coverage": 0.7272727272727273,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s064cdcbd47dd",
+      "file": "017常常喜乐.mp3",
+      "matched": 41,
+      "total": 54,
+      "coverage": 0.7592592592592593,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "scdc306c9e83c",
+      "file": "019-.mp3",
+      "matched": 22,
+      "total": 40,
+      "coverage": 0.55,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc714717f1f5b",
+      "file": "019-赐我自由.mp3",
+      "matched": 20,
+      "total": 24,
+      "coverage": 0.8333333333333334,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5e492b765ad2",
+      "file": "020-.mp3",
+      "matched": 10,
+      "total": 17,
+      "coverage": 0.5882352941176471,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3083ae4139f2",
+      "file": "020-曾有一双手.mp3",
+      "matched": 34,
+      "total": 39,
+      "coverage": 0.8717948717948718,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb13089b92111",
+      "file": "021.当圣灵在我的心.mp3",
+      "matched": 6,
+      "total": 24,
+      "coverage": 0.25,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s38e7d608d1e5",
+      "file": "022当以感谢进入他的门_合唱.mp3",
+      "matched": 14,
+      "total": 33,
+      "coverage": 0.42424242424242425,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2e47ba959a4c",
+      "file": "023向耶和华歌唱_合唱_卡农.mp3",
+      "matched": 13,
+      "total": 63,
+      "coverage": 0.20634920634920634,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se01d0f3529a1",
+      "file": "024得胜得胜_童声.mp3",
+      "matched": 6,
+      "total": 17,
+      "coverage": 0.35294117647058826,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7ea528419084",
+      "file": "025-.mp3",
+      "matched": 0,
+      "total": 1,
+      "coverage": 1,
+      "issue": null,
+      "source": {
+        "url": "https://www.izanmei.com/album/walking-with-him.html",
+        "basis": "embedded artist, album and original recording ID; published instrumental album"
+      }
+    },
+    {
+      "id": "s24385f219db5",
+      "file": "026丰盛的人生_女声.mp3",
+      "matched": 21,
+      "total": 23,
+      "coverage": 0.9130434782608695,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6a5a9d44663b",
+      "file": "028复兴2000.mp3",
+      "matched": 3,
+      "total": 41,
+      "coverage": 0.07317073170731707,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb790939cb162",
+      "file": "029-.mp3",
+      "matched": 4,
+      "total": 24,
+      "coverage": 0.16666666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sf243901bf3fa",
+      "file": "030-.mp3",
+      "matched": 18,
+      "total": 20,
+      "coverage": 0.9,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s120b7f752cae",
+      "file": "030感恩的泪_女声.mp3",
+      "matched": 27,
+      "total": 29,
+      "coverage": 0.9310344827586207,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9b4c5012b56f",
+      "file": "031光明之子.mp3",
+      "matched": 16,
+      "total": 27,
+      "coverage": 0.5925925925925926,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s89010e64b166",
+      "file": "032_.mp3",
+      "matched": 16,
+      "total": 16,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sbc116d74ee93",
+      "file": "033给我一颗中国心_庄严_颂诗.mp3",
+      "matched": 23,
+      "total": 45,
+      "coverage": 0.5111111111111111,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1d6d355a62be",
+      "file": "035活石.mp3",
+      "matched": 0,
+      "total": 38,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s763ead6ea968",
+      "file": "036.和散那.mp3",
+      "matched": 2,
+      "total": 43,
+      "coverage": 0.046511627906976744,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s8f131ce9689d",
+      "file": "038-.mp3",
+      "matched": 0,
+      "total": 39,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s05fdff93f5e3",
+      "file": "038和过去不一样.mp3",
+      "matched": 30,
+      "total": 38,
+      "coverage": 0.7894736842105263,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd00c5a757d6f",
+      "file": "039.哈利路！主我神作王了.mp3",
+      "matched": 26,
+      "total": 26,
+      "coverage": 1,
+      "issue": null,
+      "source": {
+        "url": "https://www.izanmei.cc/song/1298.html",
+        "basis": "matching recording confirmed by four waveform windows",
+        "offset": 0
+      }
+    },
+    {
+      "id": "sfb66ee2d9662",
+      "file": "040.经过主宝血.mp3",
+      "matched": 0,
+      "total": 33,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s68f7b372ff96",
+      "file": "041.就在那加利利海边.mp3",
+      "matched": 1,
+      "total": 31,
+      "coverage": 0.03225806451612903,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "sd1e048e84292",
+      "file": "042十字架_女声_美声.mp3",
+      "matched": 0,
+      "total": 14,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sbfb0fe5d4a62",
+      "file": "043.欢乐颂.mp3",
+      "matched": 0,
+      "total": 21,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s749a035d75ab",
+      "file": "044空谷的回音_女声.mp3",
+      "matched": 0,
+      "total": 14,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s3efab2751e15",
+      "file": "045来庆贺.mp3",
+      "matched": 6,
+      "total": 56,
+      "coverage": 0.10714285714285714,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s36f68a7c1c63",
+      "file": "046每当我想起你.mp3",
+      "matched": 18,
+      "total": 44,
+      "coverage": 0.4090909090909091,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3d103adeb8a3",
+      "file": "047.每一天所度过的每一刻.mp3",
+      "matched": 6,
+      "total": 24,
+      "coverage": 0.25,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se5e001ec7f04",
+      "file": "048你是荣耀的君王.mp3",
+      "matched": 6,
+      "total": 48,
+      "coverage": 0.125,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s77dfee9e7ef7",
+      "file": "049-.mp3",
+      "matched": 7,
+      "total": 24,
+      "coverage": 0.2916666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se488c9b652d7",
+      "file": "049你们要赞美耶和华.mp3",
+      "matched": 7,
+      "total": 24,
+      "coverage": 0.2916666666666667,
+      "issue": null,
+      "source": {
+        "id": "s77dfee9e7ef7",
+        "basis": "identical decoded full PCM SHA256"
+      }
+    },
+    {
+      "id": "s7d549dc98ab9",
+      "file": "049你们要赞美耶和华_欢快.mp3",
+      "matched": 45,
+      "total": 50,
+      "coverage": 1,
+      "issue": null,
+      "source": {
+        "url": "https://www.zanmei.ai/song/17413.html",
+        "basis": "matching recording confirmed by four waveform windows",
+        "offset": 34.1755
+      }
+    },
+    {
+      "id": "sc60a491408a9",
+      "file": "050.磐石磐石耶稣基督.mp3",
+      "matched": 20,
+      "total": 26,
+      "coverage": 0.7692307692307693,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sdf45af204b50",
+      "file": "051全然向你.mp3",
+      "matched": 37,
+      "total": 51,
+      "coverage": 0.7254901960784313,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s648cd96fc740",
+      "file": "052全新的你.mp3",
+      "matched": 44,
+      "total": 49,
+      "coverage": 0.8979591836734694,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s52625fc7d4d9",
+      "file": "053轻轻听.mp3",
+      "matched": 12,
+      "total": 14,
+      "coverage": 0.8571428571428571,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc813fd11ce9a",
+      "file": "054.倾听我的心.mp3",
+      "matched": 31,
+      "total": 34,
+      "coverage": 0.9117647058823529,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0348d62bf14a",
+      "file": "055-奇.mp3",
+      "matched": 5,
+      "total": 28,
+      "coverage": 0.17857142857142858,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s954e08f013ee",
+      "file": "055-流行唱法.mp3",
+      "matched": 12,
+      "total": 24,
+      "coverage": 0.5,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2815da5999a2",
+      "file": "055-英.mp3",
+      "matched": 19,
+      "total": 19,
+      "coverage": 1,
+      "issue": null,
+      "source": {
+        "url": "https://music.163.com/song?id=5253320",
+        "basis": "original recording ID embedded in audio metadata; matching duration"
+      }
+    },
+    {
+      "id": "s3b2534b47871",
+      "file": "055奇异恩典_女声.mp3",
+      "matched": 10,
+      "total": 24,
+      "coverage": 0.4166666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sdc980f555c6c",
+      "file": "056-起.mp3",
+      "matched": 13,
+      "total": 30,
+      "coverage": 0.43333333333333335,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s459cd78755f0",
+      "file": "056起来吧_女声_美声.mp3",
+      "matched": 13,
+      "total": 30,
+      "coverage": 0.43333333333333335,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd7fad048532a",
+      "file": "057人的生命只有一次.mp3",
+      "matched": 18,
+      "total": 28,
+      "coverage": 0.6428571428571429,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s98ad9b483e5c",
+      "file": "058让赞美飞扬.mp3",
+      "matched": 33,
+      "total": 50,
+      "coverage": 0.66,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "scace18e3f603",
+      "file": "059如鹿渴慕溪水_合唱.mp3",
+      "matched": 3,
+      "total": 25,
+      "coverage": 0.12,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s55d7b7dfb2d7",
+      "file": "060-男声.mp3",
+      "matched": 14,
+      "total": 24,
+      "coverage": 0.5833333333333334,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s448c5b794590",
+      "file": "060荣耀归主名_女声.mp3",
+      "matched": 17,
+      "total": 29,
+      "coverage": 0.5862068965517241,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3315991dbcdf",
+      "file": "061认识你真好.mp3",
+      "matched": 29,
+      "total": 34,
+      "coverage": 0.8529411764705882,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s963d71577d12",
+      "file": "062使命.mp3",
+      "matched": 0,
+      "total": 39,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s4384b0ca5854",
+      "file": "063神的应许歌.mp3",
+      "matched": 9,
+      "total": 28,
+      "coverage": 0.32142857142857145,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s896c6440befa",
+      "file": "064生命的执着.mp3",
+      "matched": 52,
+      "total": 59,
+      "coverage": 0.8813559322033898,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6e8c2d5a68d5",
+      "file": "065十字架的爱_女声.mp3",
+      "matched": 21,
+      "total": 27,
+      "coverage": 0.7777777777777778,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd167c197efdd",
+      "file": "066-神.mp3",
+      "matched": 30,
+      "total": 44,
+      "coverage": 0.6818181818181818,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1a89ef31713b",
+      "file": "066神真是我力量.mp3",
+      "matched": 27,
+      "total": 36,
+      "coverage": 0.75,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sba0a97a65932",
+      "file": "067神啊！我要赞美你.mp3",
+      "matched": 3,
+      "total": 15,
+      "coverage": 0.2,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s79e285b5ec56",
+      "file": "068田地里的庄稼.mp3",
+      "matched": 16,
+      "total": 28,
+      "coverage": 0.5714285714285714,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "saf5e2dc373a2",
+      "file": "069-.mp3",
+      "matched": 24,
+      "total": 53,
+      "coverage": 0.4528301886792453,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc930445e63e1",
+      "file": "069弹琴歌唱赞美你.mp3",
+      "matched": 24,
+      "total": 53,
+      "coverage": 0.4528301886792453,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3797982e376d",
+      "file": "070-天.mp3",
+      "matched": 32,
+      "total": 45,
+      "coverage": 0.7111111111111111,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sf7b7d98efa7c",
+      "file": "070天堂在我心.mp3",
+      "matched": 32,
+      "total": 37,
+      "coverage": 0.8648648648648649,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s53e70817e46a",
+      "file": "071同路人.mp3",
+      "matched": 28,
+      "total": 32,
+      "coverage": 0.875,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5b73ece2b320",
+      "file": "073-我.mp3",
+      "matched": 0,
+      "total": 1,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s1797bbf5b67e",
+      "file": "073我的神我敬拜你.mp3",
+      "matched": 24,
+      "total": 31,
+      "coverage": 0.7741935483870968,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8f660b7bf956",
+      "file": "074我的救赎者活着.mp3",
+      "matched": 4,
+      "total": 17,
+      "coverage": 0.23529411764705882,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4fc2a753a661",
+      "file": "075.我的心啊我的灵啊.mp3",
+      "matched": 4,
+      "total": 16,
+      "coverage": 0.25,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2f5833008e46",
+      "file": "077.我们又在一起.mp3",
+      "matched": 7,
+      "total": 8,
+      "coverage": 0.875,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s05fe4d639ab9",
+      "file": "078-.mp3",
+      "matched": 25,
+      "total": 69,
+      "coverage": 0.36231884057971014,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd66d25d01a11",
+      "file": "078我以祷告来到你跟前.mp3",
+      "matched": 9,
+      "total": 42,
+      "coverage": 0.21428571428571427,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s107bd0991571",
+      "file": "079我有平安如江河_二个.mp3",
+      "matched": 19,
+      "total": 24,
+      "coverage": 0.7916666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8e8f283ec028",
+      "file": "080我对祢的爱永不变.mp3",
+      "matched": 12,
+      "total": 24,
+      "coverage": 0.5,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s08fe6a8df6ff",
+      "file": "081我要弹琴歌唱赞美你.mp3",
+      "matched": 20,
+      "total": 37,
+      "coverage": 0.5405405405405406,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s17a9d5717631",
+      "file": "082-.mp3",
+      "matched": 33,
+      "total": 38,
+      "coverage": 0.868421052631579,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd8cf681dbe60",
+      "file": "083-.mp3",
+      "matched": 16,
+      "total": 29,
+      "coverage": 0.5517241379310345,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sa2a87a42958b",
+      "file": "085.我相信.mp3",
+      "matched": 31,
+      "total": 50,
+      "coverage": 0.62,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "sc5bb35927e0f",
+      "file": "086.为爱而生.mp3",
+      "matched": 20,
+      "total": 36,
+      "coverage": 0.5555555555555556,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s733982c28335",
+      "file": "087.mp3",
+      "matched": 28,
+      "total": 39,
+      "coverage": 0.717948717948718,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "secb686854b0d",
+      "file": "088-唯.mp3",
+      "matched": 6,
+      "total": 29,
+      "coverage": 0.20689655172413793,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sbfa86eb6dd46",
+      "file": "091-.mp3",
+      "matched": 20,
+      "total": 56,
+      "coverage": 0.35714285714285715,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s6f997370ba8e",
+      "file": "092-.mp3",
+      "matched": 1,
+      "total": 52,
+      "coverage": 0.019230769230769232,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s06695794723e",
+      "file": "093-.mp3",
+      "matched": 17,
+      "total": 39,
+      "coverage": 0.4358974358974359,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s0f5f485ebe66",
+      "file": "093-献.mp3",
+      "matched": 18,
+      "total": 31,
+      "coverage": 0.5806451612903226,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sab60551f9985",
+      "file": "094-.mp3",
+      "matched": 3,
+      "total": 39,
+      "coverage": 0.07692307692307693,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "sa7ec7d83fb60",
+      "file": "096-.mp3",
+      "matched": 14,
+      "total": 29,
+      "coverage": 0.4827586206896552,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0640a3b91393",
+      "file": "097兴起为耶稣_合唱.mp3",
+      "matched": 0,
+      "total": 10,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sf72afae5c12e",
+      "file": "098-.mp3",
+      "matched": 42,
+      "total": 55,
+      "coverage": 0.7636363636363637,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb83f28c3d76f",
+      "file": "099.虚心的人有福了.mp3",
+      "matched": 17,
+      "total": 22,
+      "coverage": 0.7727272727272727,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8287c19209e2",
+      "file": "100.耶稣爱我万不错.mp3",
+      "matched": 10,
+      "total": 17,
+      "coverage": 0.5882352941176471,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5a2fef65044d",
+      "file": "101耶和华是爱.mp3",
+      "matched": 0,
+      "total": 40,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sc35511b3707a",
+      "file": "104-.mp3",
+      "matched": 2,
+      "total": 13,
+      "coverage": 0.15384615384615385,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8f11896ed63c",
+      "file": "105-.mp3",
+      "matched": 19,
+      "total": 26,
+      "coverage": 0.7307692307692307,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd0fd6875017b",
+      "file": "106-.mp3",
+      "matched": 3,
+      "total": 21,
+      "coverage": 0.14285714285714285,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sa0bf147b06f3",
+      "file": "107-.mp3",
+      "matched": 13,
+      "total": 28,
+      "coverage": 0.4642857142857143,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sab29b1e71ce8",
+      "file": "108耶稣!耶稣!_摇滚.mp3",
+      "matched": 16,
+      "total": 34,
+      "coverage": 0.47058823529411764,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7678fd48ac7f",
+      "file": "109-.mp3",
+      "matched": 22,
+      "total": 25,
+      "coverage": 0.88,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1472a4def5fb",
+      "file": "110-.mp3",
+      "matched": 27,
+      "total": 65,
+      "coverage": 0.4153846153846154,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3806550cb6fd",
+      "file": "111.耶稣全得胜.mp3",
+      "matched": 22,
+      "total": 32,
+      "coverage": 0.6875,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9c49ec74ef19",
+      "file": "112-.mp3",
+      "matched": 8,
+      "total": 33,
+      "coverage": 0.24242424242424243,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2157dd43d721",
+      "file": "113-.mp3",
+      "matched": 30,
+      "total": 35,
+      "coverage": 0.8571428571428571,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s52d734979588",
+      "file": "114-.mp3",
+      "matched": 35,
+      "total": 49,
+      "coverage": 0.7142857142857143,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3fcc9771b259",
+      "file": "115-.mp3",
+      "matched": 14,
+      "total": 64,
+      "coverage": 0.21875,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s68a37120b4ea",
+      "file": "116-.mp3",
+      "matched": 19,
+      "total": 42,
+      "coverage": 0.4523809523809524,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5c2af238ac1e",
+      "file": "117-应.mp3",
+      "matched": 6,
+      "total": 46,
+      "coverage": 0.13043478260869565,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3d2a72d11824",
+      "file": "118-.mp3",
+      "matched": 35,
+      "total": 41,
+      "coverage": 0.8536585365853658,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sef779222b9e3",
+      "file": "118-主.mp3",
+      "matched": 32,
+      "total": 42,
+      "coverage": 0.7619047619047619,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s338d0aa61131",
+      "file": "119-.mp3",
+      "matched": 8,
+      "total": 36,
+      "coverage": 0.2222222222222222,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7d4d444a0f9b",
+      "file": "120-.mp3",
+      "matched": 18,
+      "total": 28,
+      "coverage": 0.6428571428571429,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sec9406393f38",
+      "file": "121最知心的朋友合唱.mp3",
+      "matched": 20,
+      "total": 45,
+      "coverage": 0.4444444444444444,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5fb34316cb4a",
+      "file": "121最知心的朋友美声.mp3",
+      "matched": 30,
+      "total": 31,
+      "coverage": 0.967741935483871,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6f61e50596e9",
+      "file": "122主使软弱变刚强_通俗女.mp3",
+      "matched": 11,
+      "total": 34,
+      "coverage": 0.3235294117647059,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1c0209dfaf4e",
+      "file": "123主再来到这世界为止.mp3",
+      "matched": 7,
+      "total": 42,
+      "coverage": 0.16666666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sef60b84e9c0b",
+      "file": "123主再来到这世界为止韩文.mp3",
+      "matched": 0,
+      "total": 35,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sabef7c731ffd",
+      "file": "124-.mp3",
+      "matched": 10,
+      "total": 30,
+      "coverage": 0.3333333333333333,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd7452a01e8d5",
+      "file": "125主啊,我到你面前.mp3",
+      "matched": 18,
+      "total": 42,
+      "coverage": 0.42857142857142855,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4a53d41d14f4",
+      "file": "126-.mp3",
+      "matched": 11,
+      "total": 27,
+      "coverage": 0.4074074074074074,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sac76d04882a5",
+      "file": "127主啊我赞美你.mp3",
+      "matched": 33,
+      "total": 40,
+      "coverage": 0.825,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s17943718fc50",
+      "file": "128在主爱中.mp3",
+      "matched": 35,
+      "total": 40,
+      "coverage": 0.875,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sf1e8d3180b2d",
+      "file": "129-.mp3",
+      "matched": 31,
+      "total": 42,
+      "coverage": 0.7380952380952381,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s158d1fbdb9c6",
+      "file": "130.赞美从心而出.mp3",
+      "matched": 10,
+      "total": 23,
+      "coverage": 0.43478260869565216,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6ed108984ce2",
+      "file": "131-.mp3",
+      "matched": 24,
+      "total": 33,
+      "coverage": 0.7272727272727273,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0834970af6f7",
+      "file": "132在他没有难成的事.mp3",
+      "matched": 28,
+      "total": 47,
+      "coverage": 0.5957446808510638,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9e40bd828417",
+      "file": "133-.mp3",
+      "matched": 33,
+      "total": 47,
+      "coverage": 0.7021276595744681,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb9682b49c880",
+      "file": "135这一生最美的祝福.mp3",
+      "matched": 36,
+      "total": 40,
+      "coverage": 0.9,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se284c751b952",
+      "file": "135这一生最美的祝福合唱.mp3",
+      "matched": 19,
+      "total": 36,
+      "coverage": 0.5277777777777778,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3d91fc3abe7e",
+      "file": "136这信心啊！坚强起来.mp3",
+      "matched": 20,
+      "total": 26,
+      "coverage": 0.7692307692307693,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se71e074b8638",
+      "file": "137这里有神的同在.mp3",
+      "matched": 6,
+      "total": 15,
+      "coverage": 0.4,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s80f8e87f7c67",
+      "file": "138中国早晨五点钟_美声女.mp3",
+      "matched": 21,
+      "total": 45,
+      "coverage": 0.4666666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sf23200183fdc",
+      "file": "139-.mp3",
+      "matched": 37,
+      "total": 61,
+      "coverage": 0.6065573770491803,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc0df76f25ff3",
+      "file": "140众山怎样围绕耶路撒冷.mp3",
+      "matched": 16,
+      "total": 34,
+      "coverage": 0.47058823529411764,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "saffaf2483cb7",
+      "file": "142-.mp3",
+      "matched": 9,
+      "total": 60,
+      "coverage": 0.15,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s12f1f838ee81",
+      "file": "143神羔羊_女声.mp3",
+      "matched": 20,
+      "total": 49,
+      "coverage": 0.40816326530612246,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "saf90af735de8",
+      "file": "144 我们一起祷告吧合唱.mp3",
+      "matched": 41,
+      "total": 120,
+      "coverage": 0.3416666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s93d5d713ff2c",
+      "file": "145 主的怜悯已降临.mp3",
+      "matched": 11,
+      "total": 37,
+      "coverage": 0.2972972972972973,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb44679057957",
+      "file": "145我们一起祷告吧_合唱.mp3",
+      "matched": 0,
+      "total": 51,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sf0659581d245",
+      "file": "146-你.mp3",
+      "matched": 26,
+      "total": 30,
+      "coverage": 0.8666666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1c390634b6d1",
+      "file": "148.将这山地赏赐给我们.mp3",
+      "matched": 12,
+      "total": 47,
+      "coverage": 0.2553191489361702,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4ea284c70bc9",
+      "file": "149-.mp3",
+      "matched": 24,
+      "total": 40,
+      "coverage": 0.6,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sfc93066ae050",
+      "file": "150-.mp3",
+      "matched": 36,
+      "total": 57,
+      "coverage": 0.631578947368421,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7844d5448437",
+      "file": "151-.mp3",
+      "matched": 54,
+      "total": 60,
+      "coverage": 0.9,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s3d618938b84b",
+      "file": "152-.mp3",
+      "matched": 17,
+      "total": 52,
+      "coverage": 0.3269230769230769,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1a065b50455e",
+      "file": "153.愿你荣耀过度降临.mp3",
+      "matched": 18,
+      "total": 33,
+      "coverage": 0.5454545454545454,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4c7aba6bfd56",
+      "file": "154-.mp3",
+      "matched": 10,
+      "total": 24,
+      "coverage": 0.4166666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s85707f505a19",
+      "file": "155-.mp3",
+      "matched": 38,
+      "total": 48,
+      "coverage": 0.7916666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6e1261f8314a",
+      "file": "156.祝福中国（多语版）.mp3",
+      "matched": 8,
+      "total": 34,
+      "coverage": 0.23529411764705882,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s53f460952cfe",
+      "file": "158-.mp3",
+      "matched": 18,
+      "total": 60,
+      "coverage": 0.3,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2fb76201ed87",
+      "file": "159-.mp3",
+      "matched": 24,
+      "total": 28,
+      "coverage": 0.8571428571428571,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc3b422988ff2",
+      "file": "160你就是耶稣-feat.陈萍.mp3",
+      "matched": 35,
+      "total": 35,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5a5834adccfb",
+      "file": "160你就是耶稣.mp3",
+      "matched": 27,
+      "total": 30,
+      "coverage": 0.9,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s222b7064f3ca",
+      "file": "161.向我主唱哈利路亚.mp3",
+      "matched": 23,
+      "total": 32,
+      "coverage": 0.71875,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s49118f6b4be4",
+      "file": "162主啊，差遣我.mp3",
+      "matched": 14,
+      "total": 34,
+      "coverage": 0.4117647058823529,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sacdb8b6fd4ce",
+      "file": "163-.mp3",
+      "matched": 9,
+      "total": 39,
+      "coverage": 0.23076923076923078,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s503f7eb56933",
+      "file": "164哈利路亚赞美主.mp3",
+      "matched": 15,
+      "total": 28,
+      "coverage": 0.5357142857142857,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s552d4bb9728e",
+      "file": "165-.mp3",
+      "matched": 15,
+      "total": 25,
+      "coverage": 0.6,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s12a1b5b16bbc",
+      "file": "166耶和华喜乐灵.mp3",
+      "matched": 41,
+      "total": 63,
+      "coverage": 0.6507936507936508,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s24ce4fe67ffb",
+      "file": "167-版本二.mp3",
+      "matched": 13,
+      "total": 27,
+      "coverage": 0.48148148148148145,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8cb11d300dee",
+      "file": "168-.mp3",
+      "matched": 19,
+      "total": 43,
+      "coverage": 0.4418604651162791,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s744d429df297",
+      "file": "169-.mp3",
+      "matched": 16,
+      "total": 32,
+      "coverage": 0.5,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7148c44636a7",
+      "file": "170-.mp3",
+      "matched": 15,
+      "total": 43,
+      "coverage": 0.3488372093023256,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd74046ae2ca1",
+      "file": "171-.mp3",
+      "matched": 22,
+      "total": 36,
+      "coverage": 0.6111111111111112,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sa77705c27988",
+      "file": "172-.mp3",
+      "matched": 55,
+      "total": 90,
+      "coverage": 0.6111111111111112,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4a740104f1ed",
+      "file": "173我歌，我主_音质不佳.mp3",
+      "matched": 10,
+      "total": 35,
+      "coverage": 0.2857142857142857,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s76b5029eaf9f",
+      "file": "174-你.mp3",
+      "matched": 0,
+      "total": 25,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s12257359ec1f",
+      "file": "175-.mp3",
+      "matched": 23,
+      "total": 68,
+      "coverage": 0.3382352941176471,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "scabdf9d42f98",
+      "file": "176以便以谢的神_现场.mp3",
+      "matched": 5,
+      "total": 28,
+      "coverage": 0.17857142857142858,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5526d0f3175e",
+      "file": "177-.mp3",
+      "matched": 4,
+      "total": 73,
+      "coverage": 0.0547945205479452,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5435e12728e7",
+      "file": "178-.mp3",
+      "matched": 7,
+      "total": 52,
+      "coverage": 0.1346153846153846,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s81135bcad7de",
+      "file": "179尽心尽力赞美主_现场.mp3",
+      "matched": 13,
+      "total": 68,
+      "coverage": 0.19117647058823528,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sff3a93e6f214",
+      "file": "180-.mp3",
+      "matched": 14,
+      "total": 57,
+      "coverage": 0.24561403508771928,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb22933058eab",
+      "file": "182-.mp3",
+      "matched": 23,
+      "total": 30,
+      "coverage": 0.7666666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s44cecae1b9ab",
+      "file": "183-.mp3",
+      "matched": 23,
+      "total": 71,
+      "coverage": 0.323943661971831,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s68bce359a284",
+      "file": "184是此刻是现在_现场.mp3",
+      "matched": 11,
+      "total": 50,
+      "coverage": 0.22,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9abf99e65966",
+      "file": "185-.mp3",
+      "matched": 32,
+      "total": 51,
+      "coverage": 0.6274509803921569,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc9f7046d0a48",
+      "file": "186-.mp3",
+      "matched": 25,
+      "total": 40,
+      "coverage": 0.625,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd62344e148a4",
+      "file": "186我们是光明之子_快.mp3",
+      "matched": 25,
+      "total": 40,
+      "coverage": 0.625,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sfde7ebf1c1c0",
+      "file": "187-.mp3",
+      "matched": 15,
+      "total": 54,
+      "coverage": 0.2777777777777778,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1c3b58443973",
+      "file": "188-.mp3",
+      "matched": 20,
+      "total": 26,
+      "coverage": 0.7692307692307693,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9a7b15a1d3de",
+      "file": "189-.mp3",
+      "matched": 19,
+      "total": 38,
+      "coverage": 0.5,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2c9159b24995",
+      "file": "189主耶稣被钉在十架上_现场.mp3",
+      "matched": 19,
+      "total": 38,
+      "coverage": 0.5,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc7a9cb6c58a5",
+      "file": "191-赞美耶稣.mp3",
+      "matched": 17,
+      "total": 64,
+      "coverage": 0.265625,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd0aa52d598c7",
+      "file": "192-.mp3",
+      "matched": 3,
+      "total": 66,
+      "coverage": 0.045454545454545456,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4abb94a98411",
+      "file": "193-.mp3",
+      "matched": 40,
+      "total": 55,
+      "coverage": 0.7272727272727273,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se83e7ec011da",
+      "file": "194-求主充满我.mp3",
+      "matched": 18,
+      "total": 19,
+      "coverage": 0.9473684210526315,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9f99bb9ba9a2",
+      "file": "195.齐来赞美.mp3",
+      "matched": 35,
+      "total": 42,
+      "coverage": 0.8333333333333334,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7169fe59ae75",
+      "file": "196-.mp3",
+      "matched": 11,
+      "total": 37,
+      "coverage": 0.2972972972972973,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sa302b8683d47",
+      "file": "197有一件礼物_女声.mp3",
+      "matched": 13,
+      "total": 25,
+      "coverage": 0.52,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sa21cb994377c",
+      "file": "198-.mp3",
+      "matched": 42,
+      "total": 50,
+      "coverage": 0.84,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s826cad745564",
+      "file": "199奇妙神迹.mp3",
+      "matched": 21,
+      "total": 34,
+      "coverage": 0.6176470588235294,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6e0e0b059ed6",
+      "file": "200看见神的爱.mp3",
+      "matched": 34,
+      "total": 38,
+      "coverage": 0.8947368421052632,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s69ff3d6b111b",
+      "file": "201-这里有荣耀.mp3",
+      "matched": 5,
+      "total": 35,
+      "coverage": 0.14285714285714285,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s1db14a4e1276",
+      "file": "202.耶稣耶稣我要赞美你.mp3",
+      "matched": 6,
+      "total": 18,
+      "coverage": 0.3333333333333333,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s15da659e5246",
+      "file": "204-.mp3",
+      "matched": 4,
+      "total": 43,
+      "coverage": 0.09302325581395349,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0a7f535898e0",
+      "file": "205-.mp3",
+      "matched": 5,
+      "total": 14,
+      "coverage": 0.35714285714285715,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s918ca07e57fe",
+      "file": "205你真伟大_美声女.mp3",
+      "matched": 12,
+      "total": 35,
+      "coverage": 0.34285714285714286,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s15c67f6d0792",
+      "file": "206主耶稣我爱你.mp3",
+      "matched": 29,
+      "total": 37,
+      "coverage": 0.7837837837837838,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7e1c3cfb384b",
+      "file": "207-.mp3",
+      "matched": 8,
+      "total": 24,
+      "coverage": 0.3333333333333333,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7584e9c1bd8f",
+      "file": "208-耶和华我的磐石.mp3",
+      "matched": 24,
+      "total": 34,
+      "coverage": 0.7058823529411765,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sbf2bd141e0aa",
+      "file": "209-.mp3",
+      "matched": 26,
+      "total": 43,
+      "coverage": 0.6046511627906976,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb6f0dc61c467",
+      "file": "210-.mp3",
+      "matched": 27,
+      "total": 43,
+      "coverage": 0.627906976744186,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s28308fb68103",
+      "file": "211-.mp3",
+      "matched": 6,
+      "total": 70,
+      "coverage": 0.08571428571428572,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6efb94fc8722",
+      "file": "212.赞美耶稣歌.mp3",
+      "matched": 7,
+      "total": 24,
+      "coverage": 0.2916666666666667,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4deb5fbbc050",
+      "file": "213-.mp3",
+      "matched": 23,
+      "total": 69,
+      "coverage": 0.3333333333333333,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s553b147a7b25",
+      "file": "213Hi-Ne-Ni（我在这里）_大合唱_不佳.mp3",
+      "matched": 29,
+      "total": 95,
+      "coverage": 0.30526315789473685,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s74c91f2577e0",
+      "file": "214-.mp3",
+      "matched": 4,
+      "total": 22,
+      "coverage": 0.18181818181818182,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sac6a38cabcfd",
+      "file": "215-.mp3",
+      "matched": 35,
+      "total": 48,
+      "coverage": 0.7291666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1b91d282f3f3",
+      "file": "216亲眼看见你.mp3",
+      "matched": 22,
+      "total": 28,
+      "coverage": 0.7857142857142857,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc260a840c9ae",
+      "file": "217-.mp3",
+      "matched": 54,
+      "total": 71,
+      "coverage": 0.7605633802816901,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s656569e1d18e",
+      "file": "218-耶和华神已掌权.mp3",
+      "matched": 5,
+      "total": 16,
+      "coverage": 0.3125,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6b4944293017",
+      "file": "219神同在.mp3",
+      "matched": 53,
+      "total": 69,
+      "coverage": 0.7681159420289855,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s80294b932432",
+      "file": "220-十字架的传达者.mp3",
+      "matched": 43,
+      "total": 45,
+      "coverage": 0.9555555555555556,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se7e6693ccf9f",
+      "file": "221-.mp3",
+      "matched": 16,
+      "total": 25,
+      "coverage": 0.64,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se84338724f22",
+      "file": "222-.mp3",
+      "matched": 33,
+      "total": 49,
+      "coverage": 0.673469387755102,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sbf1c9f4f8a64",
+      "file": "223-.mp3",
+      "matched": 27,
+      "total": 103,
+      "coverage": 0.2621359223300971,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sf169faca18a6",
+      "file": "224主啊陶造我.mp3",
+      "matched": 14,
+      "total": 58,
+      "coverage": 0.2413793103448276,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s00949a7b73a8",
+      "file": "225-这世代.mp3",
+      "matched": 26,
+      "total": 47,
+      "coverage": 0.5531914893617021,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0fca29ded2ed",
+      "file": "226-.mp3",
+      "matched": 29,
+      "total": 51,
+      "coverage": 0.5686274509803921,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s28c27fd73c5a",
+      "file": "227-.mp3",
+      "matched": 24,
+      "total": 28,
+      "coverage": 0.8571428571428571,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb3d51c223b09",
+      "file": "228.我敬拜你全能真神.mp3",
+      "matched": 8,
+      "total": 17,
+      "coverage": 0.47058823529411764,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8e9b43cd1d14",
+      "file": "229-.mp3",
+      "matched": 23,
+      "total": 26,
+      "coverage": 0.8846153846153846,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8468b5a0e9db",
+      "file": "230-.mp3",
+      "matched": 38,
+      "total": 42,
+      "coverage": 0.9047619047619048,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd6bd6ead5fb2",
+      "file": "231-.mp3",
+      "matched": 12,
+      "total": 25,
+      "coverage": 0.48,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s90303a7acf26",
+      "file": "232以色列兴起.mp3",
+      "matched": 6,
+      "total": 39,
+      "coverage": 0.15384615384615385,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0cd31f32bfa9",
+      "file": "233-.mp3",
+      "matched": 44,
+      "total": 87,
+      "coverage": 0.5057471264367817,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0dba68a9c124",
+      "file": "234我要来敬拜你，主.mp3",
+      "matched": 11,
+      "total": 36,
+      "coverage": 0.3055555555555556,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0e0b487b6cfb",
+      "file": "235-.mp3",
+      "matched": 0,
+      "total": 47,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "s05c1bcd0014a",
+      "file": "236-.mp3",
+      "matched": 28,
+      "total": 40,
+      "coverage": 0.7,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se8ead3e4172d",
+      "file": "237-.mp3",
+      "matched": 6,
+      "total": 18,
+      "coverage": 0.3333333333333333,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4d228aa89c42",
+      "file": "237-愿.mp3",
+      "matched": 49,
+      "total": 70,
+      "coverage": 0.7,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s85aa27a118b4",
+      "file": "238-.mp3",
+      "matched": 23,
+      "total": 62,
+      "coverage": 0.3709677419354839,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9f3e6a2af1a6",
+      "file": "239-不要怕.mp3",
+      "matched": 27,
+      "total": 33,
+      "coverage": 0.8181818181818182,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4e344e6eca71",
+      "file": "240-.mp3",
+      "matched": 7,
+      "total": 89,
+      "coverage": 0.07865168539325842,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0d9333e9f26b",
+      "file": "241谨慎自守_男声_吉他.mp3",
+      "matched": 50,
+      "total": 82,
+      "coverage": 0.6097560975609756,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s400e382e5b88",
+      "file": "242耶和华的心.mp3",
+      "matched": 20,
+      "total": 25,
+      "coverage": 0.8,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc43f33d35490",
+      "file": "243你们要先求他的国.mp3",
+      "matched": 4,
+      "total": 10,
+      "coverage": 0.4,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6541f0e6e067",
+      "file": "244耶和华果然成就大事.mp3",
+      "matched": 18,
+      "total": 49,
+      "coverage": 0.3673469387755102,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se10b344c8fab",
+      "file": "245天地的颂赞.mp3",
+      "matched": 17,
+      "total": 31,
+      "coverage": 0.5483870967741935,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s31116185c730",
+      "file": "246-.mp3",
+      "matched": 13,
+      "total": 24,
+      "coverage": 0.5416666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s41d580f684de",
+      "file": "246-敬.mp3",
+      "matched": 6,
+      "total": 37,
+      "coverage": 0.16216216216216217,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sf67e052cd398",
+      "file": "247最美的礼物.mp3",
+      "matched": 48,
+      "total": 49,
+      "coverage": 0.9795918367346939,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4075fd46029e",
+      "file": "248-仰望神的人.mp3",
+      "matched": 22,
+      "total": 45,
+      "coverage": 0.4888888888888889,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5a735e6386cb",
+      "file": "248仰望神的人_合唱.mp3",
+      "matched": 22,
+      "total": 45,
+      "coverage": 0.4888888888888889,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s17aaeb920192",
+      "file": "249-.mp3",
+      "matched": 28,
+      "total": 72,
+      "coverage": 0.3888888888888889,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sfb49aba80d06",
+      "file": "249我的神我的父我的磐石_瑕疵.mp3",
+      "matched": 28,
+      "total": 43,
+      "coverage": 0.6511627906976745,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sa16587b0c4be",
+      "file": "250我主尊荣可畏.mp3",
+      "matched": 2,
+      "total": 26,
+      "coverage": 0.07692307692307693,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s41a7d963d64e",
+      "file": "251-.mp3",
+      "matched": 14,
+      "total": 31,
+      "coverage": 0.45161290322580644,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc44e0c3998c6",
+      "file": "251-看.mp3",
+      "matched": 17,
+      "total": 39,
+      "coverage": 0.4358974358974359,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb0f9b6288439",
+      "file": "252今生跟随主耶稣.mp3",
+      "matched": 42,
+      "total": 42,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s26e39eaa90b7",
+      "file": "253-我心切切渴慕你.mp3",
+      "matched": 30,
+      "total": 33,
+      "coverage": 0.9090909090909091,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sfec7f247474d",
+      "file": "254-一道江河.mp3",
+      "matched": 21,
+      "total": 65,
+      "coverage": 0.3230769230769231,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0441e91ec568",
+      "file": "255-弟兄和睦同居.mp3",
+      "matched": 4,
+      "total": 29,
+      "coverage": 0.13793103448275862,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sdd4d9341fe77",
+      "file": "256-愿你吸引我.mp3",
+      "matched": 4,
+      "total": 17,
+      "coverage": 0.23529411764705882,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se5f55be00f4c",
+      "file": "257-圣哉圣哉圣哉.mp3",
+      "matched": 2,
+      "total": 16,
+      "coverage": 0.125,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1f1e11dfcea2",
+      "file": "258-祢是我的一切.mp3",
+      "matched": 23,
+      "total": 24,
+      "coverage": 0.9583333333333334,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8960cb87f60c",
+      "file": "259-敬拜赞美迎来神同在.mp3",
+      "matched": 10,
+      "total": 11,
+      "coverage": 0.9090909090909091,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s913ccef151cc",
+      "file": "260-能不能(纯音乐).mp3",
+      "matched": 23,
+      "total": 27,
+      "coverage": 0.8518518518518519,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s440bc9029cd7",
+      "file": "261求你国度降临.mp3",
+      "matched": 12,
+      "total": 37,
+      "coverage": 0.32432432432432434,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1c686c082f3b",
+      "file": "262你爱永不变-巫启贤.mp3",
+      "matched": 41,
+      "total": 45,
+      "coverage": 0.9111111111111111,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sddb23612a446",
+      "file": "263-注目看耶稣.mp3",
+      "matched": 0,
+      "total": 32,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sf17ab57bbbca",
+      "file": "264-到神的祭坛.mp3",
+      "matched": 7,
+      "total": 21,
+      "coverage": 0.3333333333333333,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sbd97e21743b2",
+      "file": "265-只愿得着你.mp3",
+      "matched": 18,
+      "total": 33,
+      "coverage": 0.5454545454545454,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s80595a7057c1",
+      "file": "266谁能使我与神的爱隔绝.mp3",
+      "matched": 29,
+      "total": 44,
+      "coverage": 0.6590909090909091,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s400c355dd03f",
+      "file": "267我属主.mp3",
+      "matched": 8,
+      "total": 8,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s31a1898267cf",
+      "file": "268耶稣是主.mp3",
+      "matched": 1,
+      "total": 20,
+      "coverage": 0.05,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s26db91583333",
+      "file": "269领我到你宝血里面.mp3",
+      "matched": 37,
+      "total": 42,
+      "coverage": 0.8809523809523809,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sdffc1bab4914",
+      "file": "270耶稣基督是主.mp3",
+      "matched": 21,
+      "total": 37,
+      "coverage": 0.5675675675675675,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2fddc9f7d1e0",
+      "file": "271展开属天的翅膀.mp3",
+      "matched": 49,
+      "total": 57,
+      "coverage": 0.8596491228070176,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s33be03db0bfb",
+      "file": "273一粒麦子.mp3",
+      "matched": 35,
+      "total": 67,
+      "coverage": 0.5223880597014925,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s205ef6cec8f0",
+      "file": "275恩典的记号.mp3",
+      "matched": 40,
+      "total": 43,
+      "coverage": 0.9302325581395349,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sf4355a4804b1",
+      "file": "276哈利路亚(你真奇妙).mp3",
+      "matched": 21,
+      "total": 26,
+      "coverage": 0.8076923076923077,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se1bb28a30c18",
+      "file": "277标竿人生路.mp3",
+      "matched": 29,
+      "total": 32,
+      "coverage": 0.90625,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s35031c681ffc",
+      "file": "278你的恩典.mp3",
+      "matched": 22,
+      "total": 35,
+      "coverage": 0.6285714285714286,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6e9e55b10e6a",
+      "file": "278祢的恩典.mp3",
+      "matched": 22,
+      "total": 35,
+      "coverage": 0.6285714285714286,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9df5bcb1da48",
+      "file": "279我愿为你去.mp3",
+      "matched": 34,
+      "total": 48,
+      "coverage": 0.7083333333333334,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6bb3fd6944de",
+      "file": "280主，我邀请你.mp3",
+      "matched": 28,
+      "total": 28,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sb826f339f00a",
+      "file": "281你们要赞美耶和华.mp3",
+      "matched": 45,
+      "total": 50,
+      "coverage": 1,
+      "issue": null,
+      "source": {
+        "url": "https://www.zanmei.ai/song/17413.html",
+        "basis": "matching recording confirmed by four waveform windows",
+        "offset": 34.1755
+      }
+    },
+    {
+      "id": "s87126d15ed47",
+      "file": "282凡事都有神的美意.mp3",
+      "matched": 32,
+      "total": 34,
+      "coverage": 0.9411764705882353,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5f377b578981",
+      "file": "283.Jesus.mp3",
+      "matched": 35,
+      "total": 46,
+      "coverage": 0.7608695652173914,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s477498d6cedc",
+      "file": "285爱使我们相聚在一起.mp3",
+      "matched": 16,
+      "total": 24,
+      "coverage": 0.6666666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s8f8b314abf38",
+      "file": "286安静.mp3",
+      "matched": 25,
+      "total": 40,
+      "coverage": 0.625,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "seb92a4d14aa6",
+      "file": "287恳求主使用我们.mp3",
+      "matched": 34,
+      "total": 38,
+      "coverage": 0.8947368421052632,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s0df6b229028b",
+      "file": "288盟约.mp3",
+      "matched": 32,
+      "total": 40,
+      "coverage": 0.8,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s25e169eecd51",
+      "file": "289陪我走过春夏秋冬.mp3",
+      "matched": 32,
+      "total": 38,
+      "coverage": 0.8421052631578947,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc27d9a3dedf4",
+      "file": "290牵我的手.mp3",
+      "matched": 22,
+      "total": 34,
+      "coverage": 0.6470588235294118,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sdc76c0df7508",
+      "file": "291新生王歌.mp3",
+      "matched": 0,
+      "total": 29,
+      "coverage": 0,
+      "issue": "当前录音暂无可靠同步歌词",
+      "source": null
+    },
+    {
+      "id": "sbdfe73d05f38",
+      "file": "292普世欢腾歌.mp3",
+      "matched": 8,
+      "total": 21,
+      "coverage": 0.38095238095238093,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s80c35aa2bd1a",
+      "file": "293荣耀歌.mp3",
+      "matched": 8,
+      "total": 24,
+      "coverage": 0.3333333333333333,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "se76f1a122712",
+      "file": "294摩西的歌.mp3",
+      "matched": 20,
+      "total": 28,
+      "coverage": 0.7142857142857143,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s013560414df4",
+      "file": "295因祂活着(3段).mp3",
+      "matched": 22,
+      "total": 52,
+      "coverage": 0.4230769230769231,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "scf413f550eba",
+      "file": "295因祂活着.mp3",
+      "matched": 13,
+      "total": 37,
+      "coverage": 0.35135135135135137,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s889b0f389434",
+      "file": "296我知谁掌管明天(原本).mp3",
+      "matched": 12,
+      "total": 47,
+      "coverage": 0.2553191489361702,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "sd9ccb628da5e",
+      "file": "296我知谁掌管明天.mp3",
+      "matched": 21,
+      "total": 54,
+      "coverage": 0.3888888888888889,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "sf4014f9c30f2",
+      "file": "297我愿触动你心弦.mp3",
+      "matched": 36,
+      "total": 59,
+      "coverage": 0.6101694915254238,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s47c7f1a51e88",
+      "file": "298抬起我的头.mp3",
+      "matched": 32,
+      "total": 46,
+      "coverage": 0.6956521739130435,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sa0ad5066aadb",
+      "file": "299我不为自己活.mp3",
+      "matched": 32,
+      "total": 41,
+      "coverage": 0.7804878048780488,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s1658c1411c78",
+      "file": "300高山低谷都赞美.mp3",
+      "matched": 40,
+      "total": 40,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s93469f8c31c2",
+      "file": "301.神是看顾我的神.mp3",
+      "matched": 4,
+      "total": 4,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s5347f4dd9b8a",
+      "file": "302你爱我到底.mp3",
+      "matched": 33,
+      "total": 33,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4f021b151c57",
+      "file": "303恩典.mp3",
+      "matched": 32,
+      "total": 38,
+      "coverage": 0.8421052631578947,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sd1da330cfc36",
+      "file": "304他又真又活.mp3",
+      "matched": 18,
+      "total": 27,
+      "coverage": 0.6666666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4adc47cdcdbd",
+      "file": "304祂又真又活.mp3",
+      "matched": 18,
+      "total": 27,
+      "coverage": 0.6666666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sdacfe224fbd9",
+      "file": "305每一次我赞美主.mp3",
+      "matched": 31,
+      "total": 44,
+      "coverage": 0.7045454545454546,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s7b4020dfef36",
+      "file": "306更深经历你.mp3",
+      "matched": 32,
+      "total": 39,
+      "coverage": 0.8205128205128205,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s03f79f64b7f9",
+      "file": "307我主何等伟大.mp3",
+      "matched": 28,
+      "total": 42,
+      "coverage": 0.6666666666666666,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4215e6ecc0c5",
+      "file": "308从亘古到永远.mp3",
+      "matched": 24,
+      "total": 34,
+      "coverage": 0.7058823529411765,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "sc05928414185",
+      "file": "309天父美善力量.mp3",
+      "matched": 25,
+      "total": 52,
+      "coverage": 0.4807692307692308,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s00888a36d6da",
+      "file": "310主你本为大.mp3",
+      "matched": 9,
+      "total": 39,
+      "coverage": 0.23076923076923078,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "scfcad3e12a3a",
+      "file": "311复兴从我开始.mp3",
+      "matched": 29,
+      "total": 41,
+      "coverage": 0.7073170731707317,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s44c89da4e353",
+      "file": "312恳求圣灵降临.mp3",
+      "matched": 44,
+      "total": 50,
+      "coverage": 0.88,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s9a31a8845c5f",
+      "file": "313大海中的船.mp3",
+      "matched": 40,
+      "total": 40,
+      "coverage": 1,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s2d102a958bb2",
+      "file": "314耶和华以勒我的主.mp3",
+      "matched": 30,
+      "total": 37,
+      "coverage": 0.8108108108108109,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s4651bf5ab0f6",
+      "file": "315主说你能.mp3",
+      "matched": 21,
+      "total": 28,
+      "coverage": 0.75,
+      "issue": null,
+      "source": null
+    },
+    {
+      "id": "s6f74673f2660",
+      "file": "034.我们高举双手赞美主.mp3",
+      "matched": 12,
+      "total": 35,
+      "coverage": 0.34285714285714286,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    },
+    {
+      "id": "s3a44741c473e",
+      "file": "90无声的赞美_女声.mp3",
+      "matched": 12,
+      "total": 61,
+      "coverage": 0.19672131147540983,
+      "issue": null,
+      "source": {
+        "refinement": "local audio recognition with word boundaries",
+        "model": "whisper-large-v3-turbo MLX q4 weights dequantized to CPU"
+      }
+    }
+  ],
+  "policy": "文字来自该录音对应歌本；不可靠片段保留缺口；不把近似对齐当作人工听校。"
+}

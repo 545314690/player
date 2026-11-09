@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
   @JavascriptInterface public void next(){send(intent("next"),true);}
   @JavascriptInterface public void previous(){send(intent("previous"),true);}
   @JavascriptInterface public void seek(double seconds){send(intent("seek").putExtra("position",seconds),false);}
+  @JavascriptInterface public void setLyrics(String id,String lines,double offset,String revision,boolean custom){send(intent("lyrics").putExtra("id",id).putExtra("lines",lines).putExtra("offset",offset).putExtra("revision",revision).putExtra("custom",custom),false);}
   @JavascriptInterface public void setVolume(double volume){send(intent("volume").putExtra("value",volume),false);}
   @JavascriptInterface public void setMode(String repeat,boolean shuffle){send(intent("mode").putExtra("repeat",repeat).putExtra("shuffle",shuffle),false);}
   @JavascriptInterface public void setSleep(double minutes){send(intent("sleep").putExtra("minutes",minutes),false);}

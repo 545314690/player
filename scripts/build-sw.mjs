@@ -31,6 +31,9 @@ self.addEventListener('fetch',e=>{
    })());return;
  }
  if(u.origin!==self.location.origin)return;
+ if(u.pathname.includes('/library/')&&u.pathname.endsWith('.json')){
+  e.respondWith((async()=>{const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),5000);try{const response=await fetch(e.request,{cache:'no-cache',signal:controller.signal});if(!response.ok)throw Error('Lyric update unavailable');try{const c=await caches.open(SHELL);await c.put(e.request,response.clone())}catch{}return response}catch(error){try{const c=await caches.open(SHELL),hit=await c.match(e.request,{ignoreSearch:true});if(hit)return hit}catch{}throw error}finally{clearTimeout(timer)}})());return;
+ }
  if(e.request.mode==='navigate'){
   e.respondWith(fetch(e.request).catch(()=>caches.open(SHELL).then(c=>c.match('./index.html'))));return;
  }
