@@ -2,7 +2,7 @@
 import {ref,computed,watch,nextTick,onMounted,onBeforeUnmount} from 'vue'
 import {activeLine} from '../lib/lyrics.js'
 import Icon from './Icon.vue'
-const props=defineProps({lines:Array,time:Number,offset:Number,fontSize:Number,trackId:String,gapLabel:{type:String,default:'这段歌词仍待校对'}})
+const props=defineProps({lines:Array,time:Number,offset:Number,fontSize:Number,trackId:String,gapLabel:{type:String,default:'这段歌词仍待校对'},language:{type:String,default:'zh'},languageLabel:{type:String,default:'中文'},languageOptions:{type:Array,default:()=>[]}})
 const emit=defineEmits(['seek','edit','calibrate','font'])
 const viewport=ref(),follow=ref(true),index=computed(()=>activeLine(props.lines,props.time,props.offset)),lineEls=new Map()
 let observer
@@ -27,6 +27,6 @@ onBeforeUnmount(()=>observer?.disconnect())
       <div v-else class="empty compact"><Icon name="FileMusic" :size="30"/><p>这份录音的歌词仍待校对</p><small>校对完成后会更新到这里。</small></div>
     </div>
     <button v-if="!follow" class="follow-button" @click="resume"><Icon name="LocateFixed" :size="15"/>回到当前句</button>
-    <div class="lyric-tools"><button @click="emit('font')"><Icon name="Type" :size="16"/>字号</button><button @click="emit('calibrate')"><Icon name="SlidersHorizontal" :size="16"/>校准</button><button @click="emit('edit')"><Icon name="PencilLine" :size="16"/>纠错</button></div>
+    <div class="lyric-tools"><div v-if="languageOptions.length>1" class="lyric-language" role="group" aria-label="歌词语言"><button v-for="option in languageOptions" :key="option.id" :class="{selected:option.id===language}" :aria-pressed="option.id===language" @click="$emit('language',option.id)">{{option.label}}</button></div><button @click="emit('font')"><Icon name="Type" :size="16"/>字号</button><button @click="emit('calibrate')"><Icon name="SlidersHorizontal" :size="16"/>校准</button><button @click="emit('edit')"><Icon name="PencilLine" :size="16"/>纠错</button></div>
   </div>
 </template>

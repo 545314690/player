@@ -1,5 +1,6 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
+import fs from 'node:fs'
 import {alignSongbookWords} from '../scripts/lib/align-songbook-words.mjs'
 const phrase=(text,time)=>[...text].map((text,i)=>({text,time:time+i*.45,end:time+i*.45+.3,probability:1}))
 const review=words=>({lines:words.map(w=>({text:w.text,time:w.time,end:w.end,words:[w]}))})
@@ -47,4 +48,9 @@ test('Duplicate empty timestamps cannot generate zero-length scrolling cues',asy
  const {fromPublishedLrc}=await import('../scripts/lib/published-lyrics.mjs')
  const d=fromPublishedLrc('[00:00.40]\n[00:00.40]\n[00:10]歌声',30)
  assert.ok(d.syncSegments.every(x=>x.end>x.time))
+})
+test('Korean lyric track keeps an independent language timeline',()=>{
+ const d=JSON.parse(fs.readFileSync('static/library/s5ee01e3832a5.json'))
+ assert.deepEqual(d.lyricLanguages,['zh','ko']);assert.equal(d.syncSegmentsKo.length,d.syncSegments.length)
+ assert.deepEqual(d.syncSegmentsKo.map(x=>[x.time,x.end]),d.syncSegments.map(x=>[x.time,x.end]))
 })

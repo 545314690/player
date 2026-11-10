@@ -11,7 +11,8 @@
     "android:sync": "node scripts/sync-android.mjs",
     "android:build": "npm run build && npm run android:sync && bash scripts/build-android.sh",
     "prepare:pages": "node scripts/prepare-pages.mjs",
-    "icons": "node scripts/generate-icons.mjs"
+    "icons": "node scripts/generate-icons.mjs",
+    "prepare:korean": "node scripts/prepare-korean-lyrics.mjs"
   },
   "dependencies": {
     "lucide-vue-next": "^0.468.0",
