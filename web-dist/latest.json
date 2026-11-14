@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "versionCode": 11,
-  "apkUrl": "https://zm.ysaw.top/player/downloads/praise-player-1.0.10.apk",
-  "bytes": 2294873,
-  "sha256": "1316e04e9c4da3ceaa75673408d407b20d59d2f6e968cccaf1bb901b16d7bbcb",
-  "notes": "修复多首歌曲的漏词与错字，保留原有歌词时间点。"
+  "version": "1.0.11",
+  "versionCode": 12,
+  "apkUrl": "https://zm.ysaw.top/player/downloads/praise-player-1.0.11.apk",
+  "bytes": 2308275,
+  "sha256": "94643ce7f7dfc9f3f5e9577cb63840c098d86be38b6765ab76ed54057b146824",
+  "notes": "曲库下滑自动加载，桌面歌词居中沉浸显示。\n安卓新增启动检查更新、应用内下载和系统安装确认。"
 }
